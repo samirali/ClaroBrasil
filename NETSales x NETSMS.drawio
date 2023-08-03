@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-03T19:31:55.307Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="DbxHHRq4Rahk6coKnhcL" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-03T20:12:44.916Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="nrl4hzscpqV6T4NPaoGI" version="21.6.6" type="github">
   <diagram name="Canais de venda" id="g_4XjmsVVV43hASZV-fC">
     <mxGraphModel dx="1050" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,40 +28,49 @@
         <mxCell id="BqCGBXQfrdc7MRANB-_5-9" value="Loja Própria" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="570" y="60" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BqCGBXQfrdc7MRANB-_5-11" value="Lojas próprias em Shopping, etc" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="567.5" y="150" width="95" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="BqCGBXQfrdc7MRANB-_5-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BqCGBXQfrdc7MRANB-_5-11" target="BqCGBXQfrdc7MRANB-_5-9">
+        <mxCell id="BqCGBXQfrdc7MRANB-_5-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BqCGBXQfrdc7MRANB-_5-24" target="BqCGBXQfrdc7MRANB-_5-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="270" y="210" as="sourcePoint" />
+            <mxPoint x="615" y="150" as="sourcePoint" />
             <mxPoint x="320" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BqCGBXQfrdc7MRANB-_5-14" value="Lojas de Agentes Autorizados em Shopping, ATP - Atendimento Pessoal, Quiosques" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="467.5" y="160" width="95" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="BqCGBXQfrdc7MRANB-_5-15" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BqCGBXQfrdc7MRANB-_5-14" target="BqCGBXQfrdc7MRANB-_5-8">
+        <mxCell id="BqCGBXQfrdc7MRANB-_5-15" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BqCGBXQfrdc7MRANB-_5-20" target="BqCGBXQfrdc7MRANB-_5-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="510" y="160" as="sourcePoint" />
+            <mxPoint x="515" y="160" as="sourcePoint" />
             <mxPoint x="632" y="133" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BqCGBXQfrdc7MRANB-_5-16" value="Call Center parceiro." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="367.5" y="160" width="95" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="BqCGBXQfrdc7MRANB-_5-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BqCGBXQfrdc7MRANB-_5-16" target="BqCGBXQfrdc7MRANB-_5-7">
+        <mxCell id="BqCGBXQfrdc7MRANB-_5-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BqCGBXQfrdc7MRANB-_5-22" target="BqCGBXQfrdc7MRANB-_5-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="525" y="170" as="sourcePoint" />
+            <mxPoint x="415" y="160" as="sourcePoint" />
             <mxPoint x="525" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BqCGBXQfrdc7MRANB-_5-18" value="Call Center parceiro." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="137.5" y="150" width="95" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="BqCGBXQfrdc7MRANB-_5-19" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BqCGBXQfrdc7MRANB-_5-18" target="BqCGBXQfrdc7MRANB-_5-4">
+        <mxCell id="BqCGBXQfrdc7MRANB-_5-19" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BqCGBXQfrdc7MRANB-_5-21" target="BqCGBXQfrdc7MRANB-_5-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="295" y="190" as="sourcePoint" />
+            <mxPoint x="185" y="150" as="sourcePoint" />
             <mxPoint x="185" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BqCGBXQfrdc7MRANB-_5-20" value="&lt;ul&gt;&lt;li&gt;AA Brans Shop&lt;/li&gt;&lt;li&gt;Ativo Aquisição&lt;/li&gt;&lt;li&gt;Ativo Rentabilização&lt;/li&gt;&lt;li&gt;Claro Empresas&lt;/li&gt;&lt;li&gt;Distribuidor&lt;/li&gt;&lt;li&gt;Recarga&lt;/li&gt;&lt;li&gt;Pesquisa&lt;/li&gt;&lt;li&gt;Outros&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="448.75" y="190" width="132.5" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="BqCGBXQfrdc7MRANB-_5-21" value="&lt;ul&gt;&lt;li&gt;Controle Remoto&lt;/li&gt;&lt;li&gt;URA&lt;/li&gt;&lt;li&gt;Internet&lt;/li&gt;&lt;li&gt;Call Center?&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="118.75" y="160" width="132.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BqCGBXQfrdc7MRANB-_5-22" value="&lt;ul&gt;&lt;li&gt;Porta Porta Indireto&lt;/li&gt;&lt;li&gt;PME&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="348.75" y="160" width="132.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BqCGBXQfrdc7MRANB-_5-23" value="&lt;ul&gt;&lt;li&gt;Inside Sales&lt;/li&gt;&lt;li&gt;Corporate&lt;/li&gt;&lt;li&gt;Top PME&lt;/li&gt;&lt;li&gt;Porta Porta AA&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="248.75" y="180" width="132.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BqCGBXQfrdc7MRANB-_5-24" value="&lt;ul&gt;&lt;li&gt;Lojas Próprias&lt;/li&gt;&lt;li&gt;ISP?&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="548.75" y="145" width="132.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BqCGBXQfrdc7MRANB-_5-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BqCGBXQfrdc7MRANB-_5-23" target="BqCGBXQfrdc7MRANB-_5-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="195" y="160" as="sourcePoint" />
+            <mxPoint x="195" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
