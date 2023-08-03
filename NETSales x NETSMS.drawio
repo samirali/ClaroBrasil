@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2023-08-03T18:44:53.374Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="21.6.6" etag="BnkCdLvykf0c5G3V6Pni" type="github">
-  <diagram name="Página-1" id="g_4XjmsVVV43hASZV-fC">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2023-08-03T19:08:26.853Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="SfkI6Qc9HbN6mkosIo7O" version="21.6.6" type="github">
+  <diagram name="Canais de venda" id="g_4XjmsVVV43hASZV-fC">
+    <mxGraphModel dx="1050" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BqCGBXQfrdc7MRANB-_5-2" value="Canais não presenciais" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="30" y="30" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BqCGBXQfrdc7MRANB-_5-3" value="Tele Vendas Autorizado" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="60" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BqCGBXQfrdc7MRANB-_5-4" value="Tele Vendas Receptivo" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="140" y="60" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BqCGBXQfrdc7MRANB-_5-5" value="Canais presenciais" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;horizontal=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="260" y="30" width="410" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BqCGBXQfrdc7MRANB-_5-6" value="PaP Premium" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="270" y="60" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BqCGBXQfrdc7MRANB-_5-7" value="Tele Vendas Receptivo" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="370" y="60" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BqCGBXQfrdc7MRANB-_5-8" value="Agente Autorizado" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="470" y="60" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BqCGBXQfrdc7MRANB-_5-9" value="Loja Própria" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="570" y="60" width="90" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
