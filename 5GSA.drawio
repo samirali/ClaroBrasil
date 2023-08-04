@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-02T19:44:41.878Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="iDHB1pX_t7RSkKwbq4wr" version="21.6.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-08-04T18:08:24.067Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ZK7oO-k13s6ucwzX2022" version="21.6.6" type="github" pages="2">
   <diagram name="Prospect NETSales" id="nftzNEsQ4DKYTYbzkJBY">
-    <mxGraphModel dx="1290" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -194,8 +194,8 @@
             <mxGeometry x="430" y="190" width="60" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="BzSE3qXNDW1A7PbjzAHN-44" value="&lt;h1&gt;Desenvolvimento&lt;/h1&gt;&lt;p&gt;- Regra pra identificar marcação de 5G SA no produto SVA (elegibilidade).&lt;/p&gt;&lt;p&gt;- Pop-up com mensagem de orientação ao vendedor&lt;/p&gt;&lt;p&gt;- Possibilidade de seleção e chip 4G/5G na jornada (impacto na API Prospect Solar)&lt;/p&gt;&lt;p&gt;- Jornada Prospect deve fornecer mesmo tipo de chip para titular e dependente&lt;/p&gt;&lt;p&gt;- Informar a tecnologia selecionada para ativação simplificada&lt;/p&gt;&lt;p&gt;- Canais remotos criar ordem venda/doação de simcard 5G para Netsms&lt;/p&gt;&lt;p&gt;- Dependentes: oferta 5G SA adicionada no nível contrato.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="10" y="270" width="410" height="260" as="geometry" />
+        <mxCell id="BzSE3qXNDW1A7PbjzAHN-44" value="&lt;h1&gt;Desenvolvimento&lt;/h1&gt;&lt;p&gt;- Nova regra pra identificar marcação de 5G SA no produto (elegibilidade).&lt;/p&gt;&lt;p&gt;- Novo Pop-up com mensagem de orientação ao vendedor&lt;/p&gt;&lt;p&gt;- Novo campo de seleção de chip 4G/5G na jornada para produtos com marcação (híbrido). Impacto na API Prospect Solar.&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Novo campo na interface com ativação simplificada - Informar a tecnologia selecionada.&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Alterar interface SOA ao carregar dados da móvel para início da jornada residencial.&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Jornada Prospect deve fornecer mesmo tipo de chip para titular e dependente&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="10" y="270" width="410" height="270" as="geometry" />
         </mxCell>
         <UserObject label="Vendedor seleciona Chip" placeholders="1" name="Variable" id="BzSE3qXNDW1A7PbjzAHN-45">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
@@ -206,7 +206,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bxYEZb4xgfX0n4JsM8yp" name="Venda Base NETSales">
-    <mxGraphModel dx="1290" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -242,8 +242,8 @@
             <mxPoint x="100" y="68" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xgCM8T2wfnTooxRTCJ_P-9" value="&lt;h1&gt;Regra elegibilidade&lt;/h1&gt;&lt;p&gt;- Plano Portfólio Elegível 5G SA&amp;nbsp; (mandatório)&lt;/p&gt;&lt;p&gt;- Plano SVA elegível (Ex.: Cloud Gaming) ou&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Aparelho 5G&lt;/span&gt;&lt;/p&gt;&lt;div&gt;- Verificação do aparelho do assinante (nova api)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="10" y="169" width="300" height="141" as="geometry" />
+        <mxCell id="xgCM8T2wfnTooxRTCJ_P-9" value="&lt;h1&gt;Regra elegibilidade&lt;/h1&gt;&lt;p&gt;- Plano Portfólio Elegível 5G SA&amp;nbsp; (mandatório)&lt;/p&gt;&lt;p&gt;- Plano SVA elegível (Ex.: Cloud Gaming) ou&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Aparelho 5G&lt;/span&gt;&lt;/p&gt;&lt;div&gt;- Verificação tecnologia do&amp;nbsp; aparelho do assinante (nova api)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="10" y="176" width="340" height="131" as="geometry" />
         </mxCell>
         <mxCell id="xgCM8T2wfnTooxRTCJ_P-10" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="xgCM8T2wfnTooxRTCJ_P-4" target="xgCM8T2wfnTooxRTCJ_P-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -360,9 +360,6 @@
             <mxGeometry x="430" y="190" width="60" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="xgCM8T2wfnTooxRTCJ_P-37" value="&lt;h1&gt;Desenvolvimento&lt;/h1&gt;&lt;p&gt;- Regra pra identificar marcação de 5G SA no produto SVA (elegibilidade).&lt;/p&gt;&lt;p&gt;- Pop-up com mensagem de orientação ao vendedor&lt;/p&gt;&lt;p&gt;- Possibilidade de seleção e chip 4G/5G na jornada para cada linha do contrato&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Informar a tecnologia selecionada para ativação simplificada&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;- Criar ordem venda/doação de simcard 5G para Netsms&lt;/p&gt;&lt;p&gt;- Dependentes: oferta 5G SA adicionada no nível contrato.&lt;/p&gt;&lt;p&gt;- Acessar novo serviço pra retornar informação de aparelho do assinante. Essa informação será usada como elegibilidades na jornada.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="10" y="300" width="560" height="265" as="geometry" />
-        </mxCell>
         <UserObject label="Vendedor seleciona Chip" placeholders="1" name="Variable" id="xgCM8T2wfnTooxRTCJ_P-38">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
             <mxGeometry x="415" y="130" width="150" height="20" as="geometry" />
@@ -380,10 +377,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2lr42DyKQ2SKbpXxPftm-1" value="Info aparelho assinante" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2lr42DyKQ2SKbpXxPftm-1" value="Info aparelho assinante" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="105" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2lr42DyKQ2SKbpXxPftm-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.96;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2lr42DyKQ2SKbpXxPftm-1" target="xgCM8T2wfnTooxRTCJ_P-4">
+        <mxCell id="2lr42DyKQ2SKbpXxPftm-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.96;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="2lr42DyKQ2SKbpXxPftm-1" target="xgCM8T2wfnTooxRTCJ_P-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="310" as="sourcePoint" />
             <mxPoint x="440" y="260" as="targetPoint" />
@@ -391,6 +388,9 @@
               <mxPoint x="250" y="160" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lSW8Ol8LpE-LNySNOqAo-1" value="&lt;h1&gt;Desenvolvimento&lt;/h1&gt;&lt;p&gt;- Nova regra pra identificar marcação de 5G SA no produto (elegibilidade).&lt;/p&gt;&lt;p&gt;- Novo Pop-up com mensagem de orientação ao vendedor&lt;/p&gt;&lt;p&gt;- Novo campo de seleção de chip 4G/5G na jornada para produtos com marcação (híbrido).&amp;nbsp;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Novo campo na interface com ativação simplificada - Informar a tecnologia selecionada.&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Alterar interface SOA ao carregar dados da móvel para início da jornada residencial.&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Novo serviço com informação da tecnologia (4G, 5Gd) deverá ser consumido na jornada de venda base pra ser considerado na regra e elegibilidade.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="300" width="560" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
