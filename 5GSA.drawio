@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-14T14:47:53.722Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="veMmZi8ChamazYDJ6fO3" version="21.6.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-08-14T14:57:38.520Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ittFvfhHqGmaI4UqvVJ5" version="21.6.7" type="github" pages="4">
   <diagram name="Prospect NETSales" id="nftzNEsQ4DKYTYbzkJBY">
     <mxGraphModel dx="1050" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -222,15 +222,6 @@
             <mxPoint x="440" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FH9wV_RX_I6s4br5vFfo-9" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="FH9wV_RX_I6s4br5vFfo-1" source="FH9wV_RX_I6s4br5vFfo-2" target="FH9wV_RX_I6s4br5vFfo-25">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="60" y="68" as="sourcePoint" />
-            <mxPoint x="210" y="57.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="620" y="180" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="FH9wV_RX_I6s4br5vFfo-10" value="&lt;h1&gt;Regra elegibilidade&lt;/h1&gt;&lt;p&gt;- Plano Portfólio Elegível 5G SA&amp;nbsp; (mandatório)&lt;/p&gt;&lt;p&gt;- Plano SVA elegível (Ex.: Cloud Gaming) ou&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Aparelho 5G&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="FH9wV_RX_I6s4br5vFfo-1">
           <mxGeometry x="10" y="140" width="330" height="120" as="geometry" />
         </mxCell>
@@ -285,6 +276,69 @@
         </mxCell>
         <mxCell id="FH9wV_RX_I6s4br5vFfo-45" value="&lt;h1&gt;Desenvolvimento&lt;/h1&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Nova regra pra identificar marcação de 5G SA no produto SVA (elegibilidade).&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Novo Pop-up com mensagem de orientação ao vendedor&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Novo campo de seleção de chip 4G/5G na jornada para planos móveis (híbrido). Impacto na API Prospect Solar.&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Novo campo na interface com ativação simplificada - Informar a tecnologia selecionada.&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Avaliar alteração na interface SOA ao carregar dados da móvel para início da jornada residencial.&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Jornada Prospect deve fornecer mesmo tipo de chip para titular e dependente&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="FH9wV_RX_I6s4br5vFfo-1">
           <mxGeometry x="10" y="240" width="470" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="ULpSn1PpE3lTyrpgoKO7-1" value="OM Solar" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="FH9wV_RX_I6s4br5vFfo-1">
+          <mxGeometry x="220" y="17.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ULpSn1PpE3lTyrpgoKO7-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FH9wV_RX_I6s4br5vFfo-1" source="ULpSn1PpE3lTyrpgoKO7-2" target="ULpSn1PpE3lTyrpgoKO7-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ULpSn1PpE3lTyrpgoKO7-2" value="API Proposals" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="FH9wV_RX_I6s4br5vFfo-1">
+          <mxGeometry x="334" y="17.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ULpSn1PpE3lTyrpgoKO7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="FH9wV_RX_I6s4br5vFfo-1" source="ULpSn1PpE3lTyrpgoKO7-3" target="ULpSn1PpE3lTyrpgoKO7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ULpSn1PpE3lTyrpgoKO7-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="FH9wV_RX_I6s4br5vFfo-1">
+          <mxGeometry x="560" y="42.5" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ULpSn1PpE3lTyrpgoKO7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="FH9wV_RX_I6s4br5vFfo-1" source="ULpSn1PpE3lTyrpgoKO7-5" target="FH9wV_RX_I6s4br5vFfo-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ULpSn1PpE3lTyrpgoKO7-5" value="Criação Prospect no NETSales" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="FH9wV_RX_I6s4br5vFfo-1">
+          <mxGeometry x="580" y="180" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ULpSn1PpE3lTyrpgoKO7-8" value="Validação Dados Proposta (com informação&amp;nbsp; 4G/5G)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="FH9wV_RX_I6s4br5vFfo-1">
+          <mxGeometry x="442.5" y="13.75" width="87.5" height="87.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ULpSn1PpE3lTyrpgoKO7-12" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="FH9wV_RX_I6s4br5vFfo-1" source="ULpSn1PpE3lTyrpgoKO7-8" target="ULpSn1PpE3lTyrpgoKO7-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="310" as="sourcePoint" />
+            <mxPoint x="580" y="90" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="S" placeholders="1" name="Variable" id="ULpSn1PpE3lTyrpgoKO7-13">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="FH9wV_RX_I6s4br5vFfo-1">
+            <mxGeometry x="620" y="60" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="N" placeholders="1" name="Variable" id="ULpSn1PpE3lTyrpgoKO7-14">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="FH9wV_RX_I6s4br5vFfo-1">
+            <mxGeometry x="560" y="90" width="20" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="ULpSn1PpE3lTyrpgoKO7-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="FH9wV_RX_I6s4br5vFfo-1" source="ULpSn1PpE3lTyrpgoKO7-3" target="ULpSn1PpE3lTyrpgoKO7-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="68" as="sourcePoint" />
+            <mxPoint x="630" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="150" />
+              <mxPoint x="374" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULpSn1PpE3lTyrpgoKO7-17" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="FH9wV_RX_I6s4br5vFfo-1" source="ULpSn1PpE3lTyrpgoKO7-1" target="ULpSn1PpE3lTyrpgoKO7-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="140" as="sourcePoint" />
+            <mxPoint x="330" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ULpSn1PpE3lTyrpgoKO7-18" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="FH9wV_RX_I6s4br5vFfo-1" source="FH9wV_RX_I6s4br5vFfo-2" target="ULpSn1PpE3lTyrpgoKO7-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="110" as="sourcePoint" />
+            <mxPoint x="214" y="110" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
