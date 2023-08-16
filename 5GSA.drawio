@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-14T18:52:18.941Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="t-Tel-H-s_9Lo9eFKII2" version="21.6.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-08-16T13:35:54.651Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="GMmdeR3z1LpeIbhX-tiy" version="21.6.8" type="github" pages="4">
   <diagram name="Prospect NETSales" id="nftzNEsQ4DKYTYbzkJBY">
     <mxGraphModel dx="1050" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -210,50 +210,50 @@
       <root>
         <mxCell id="FH9wV_RX_I6s4br5vFfo-0" />
         <mxCell id="FH9wV_RX_I6s4br5vFfo-1" parent="FH9wV_RX_I6s4br5vFfo-0" />
-        <mxCell id="FH9wV_RX_I6s4br5vFfo-2" value="Venda Prospect Solar - Combo Multi" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="FH9wV_RX_I6s4br5vFfo-1">
+        <mxCell id="FH9wV_RX_I6s4br5vFfo-2" value="Venda Prospect Solar - Combo Multi" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="FH9wV_RX_I6s4br5vFfo-1" vertex="1">
           <mxGeometry x="100" y="17.5" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FH9wV_RX_I6s4br5vFfo-7" value="Cliente Presencial&lt;br&gt;/Televendas" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="FH9wV_RX_I6s4br5vFfo-1">
+        <mxCell id="FH9wV_RX_I6s4br5vFfo-7" value="Cliente Presencial&lt;br&gt;/Televendas" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="FH9wV_RX_I6s4br5vFfo-1" vertex="1">
           <mxGeometry x="34" y="25" width="30" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="FH9wV_RX_I6s4br5vFfo-8" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="FH9wV_RX_I6s4br5vFfo-1" source="FH9wV_RX_I6s4br5vFfo-7" target="FH9wV_RX_I6s4br5vFfo-2">
+        <mxCell id="FH9wV_RX_I6s4br5vFfo-8" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="FH9wV_RX_I6s4br5vFfo-1" source="FH9wV_RX_I6s4br5vFfo-7" target="FH9wV_RX_I6s4br5vFfo-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="310" as="sourcePoint" />
             <mxPoint x="440" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FH9wV_RX_I6s4br5vFfo-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FH9wV_RX_I6s4br5vFfo-1" source="FH9wV_RX_I6s4br5vFfo-25" target="FH9wV_RX_I6s4br5vFfo-27">
+        <mxCell id="FH9wV_RX_I6s4br5vFfo-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="FH9wV_RX_I6s4br5vFfo-1" source="FH9wV_RX_I6s4br5vFfo-25" target="FH9wV_RX_I6s4br5vFfo-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FH9wV_RX_I6s4br5vFfo-25" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="FH9wV_RX_I6s4br5vFfo-1">
+        <mxCell id="FH9wV_RX_I6s4br5vFfo-25" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="FH9wV_RX_I6s4br5vFfo-1" vertex="1">
           <mxGeometry x="600" y="304" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FH9wV_RX_I6s4br5vFfo-27" value="Abertura de OS (logística)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="FH9wV_RX_I6s4br5vFfo-1">
+        <mxCell id="FH9wV_RX_I6s4br5vFfo-27" value="Abertura de OS (logística)" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="FH9wV_RX_I6s4br5vFfo-1" vertex="1">
           <mxGeometry x="710" y="279" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FH9wV_RX_I6s4br5vFfo-28" value="Entrega chip presencial" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="FH9wV_RX_I6s4br5vFfo-1">
+        <mxCell id="FH9wV_RX_I6s4br5vFfo-28" value="Entrega chip presencial" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="FH9wV_RX_I6s4br5vFfo-1" vertex="1">
           <mxGeometry x="450" y="279" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FH9wV_RX_I6s4br5vFfo-29" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="FH9wV_RX_I6s4br5vFfo-1" source="FH9wV_RX_I6s4br5vFfo-25" target="FH9wV_RX_I6s4br5vFfo-28">
+        <mxCell id="FH9wV_RX_I6s4br5vFfo-29" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="FH9wV_RX_I6s4br5vFfo-1" source="FH9wV_RX_I6s4br5vFfo-25" target="FH9wV_RX_I6s4br5vFfo-28" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="112" as="sourcePoint" />
             <mxPoint x="610" y="112" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <UserObject label="Presencial" placeholders="1" name="Variable" id="FH9wV_RX_I6s4br5vFfo-30">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="FH9wV_RX_I6s4br5vFfo-1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="FH9wV_RX_I6s4br5vFfo-1" vertex="1">
             <mxGeometry x="540" y="294" width="60" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Remoto" placeholders="1" name="Variable" id="FH9wV_RX_I6s4br5vFfo-31">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="FH9wV_RX_I6s4br5vFfo-1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="FH9wV_RX_I6s4br5vFfo-1" vertex="1">
             <mxGeometry x="640" y="294" width="60" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="FH9wV_RX_I6s4br5vFfo-32" value="&lt;p style=&quot;line-height: normal; margin: 0pt 0in; text-indent: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;Ativa plano com oferta serviço 5G + chip 5G&lt;/p&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="FH9wV_RX_I6s4br5vFfo-1">
+        <mxCell id="FH9wV_RX_I6s4br5vFfo-32" value="&lt;p style=&quot;line-height: normal; margin: 0pt 0in; text-indent: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;Ativa plano com oferta serviço 5G + chip 5G&lt;/p&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="FH9wV_RX_I6s4br5vFfo-1" vertex="1">
           <mxGeometry x="580" y="370" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FH9wV_RX_I6s4br5vFfo-33" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="FH9wV_RX_I6s4br5vFfo-1" source="FH9wV_RX_I6s4br5vFfo-28" target="FH9wV_RX_I6s4br5vFfo-32">
+        <mxCell id="FH9wV_RX_I6s4br5vFfo-33" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="FH9wV_RX_I6s4br5vFfo-1" source="FH9wV_RX_I6s4br5vFfo-28" target="FH9wV_RX_I6s4br5vFfo-32" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="112" as="sourcePoint" />
             <mxPoint x="460" y="112" as="targetPoint" />
@@ -262,7 +262,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FH9wV_RX_I6s4br5vFfo-34" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="FH9wV_RX_I6s4br5vFfo-1" source="FH9wV_RX_I6s4br5vFfo-27" target="FH9wV_RX_I6s4br5vFfo-32">
+        <mxCell id="FH9wV_RX_I6s4br5vFfo-34" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="FH9wV_RX_I6s4br5vFfo-1" source="FH9wV_RX_I6s4br5vFfo-27" target="FH9wV_RX_I6s4br5vFfo-32" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="369" as="sourcePoint" />
             <mxPoint x="590" y="464" as="targetPoint" />
@@ -271,34 +271,34 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FH9wV_RX_I6s4br5vFfo-45" value="&lt;h1&gt;Desenvolvimento&lt;/h1&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Novo campo de seleção de chip 4G/5G no swagger da API.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Nova regra de validação de chip no microsserviço&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Nova regra de registro do tipo de chip na base do NETSales&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="FH9wV_RX_I6s4br5vFfo-1">
+        <mxCell id="FH9wV_RX_I6s4br5vFfo-45" value="&lt;h1&gt;Desenvolvimento&lt;/h1&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Novo campo de seleção de chip 4G/5G no swagger da API.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Nova regra de validação de chip no microsserviço&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Nova regra de registro do tipo de chip na base do NETSales&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="FH9wV_RX_I6s4br5vFfo-1" vertex="1">
           <mxGeometry x="10" y="160" width="420" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="ULpSn1PpE3lTyrpgoKO7-1" value="OM Solar" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="FH9wV_RX_I6s4br5vFfo-1">
+        <mxCell id="ULpSn1PpE3lTyrpgoKO7-1" value="OM Solar" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="FH9wV_RX_I6s4br5vFfo-1" vertex="1">
           <mxGeometry x="220" y="17.5" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ULpSn1PpE3lTyrpgoKO7-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="FH9wV_RX_I6s4br5vFfo-1" source="ULpSn1PpE3lTyrpgoKO7-2" target="ULpSn1PpE3lTyrpgoKO7-8">
+        <mxCell id="ULpSn1PpE3lTyrpgoKO7-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="FH9wV_RX_I6s4br5vFfo-1" source="ULpSn1PpE3lTyrpgoKO7-2" target="ULpSn1PpE3lTyrpgoKO7-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ULpSn1PpE3lTyrpgoKO7-2" value="API Proposals" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="FH9wV_RX_I6s4br5vFfo-1">
+        <mxCell id="ULpSn1PpE3lTyrpgoKO7-2" value="API Proposals" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="FH9wV_RX_I6s4br5vFfo-1" vertex="1">
           <mxGeometry x="334" y="17.5" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ULpSn1PpE3lTyrpgoKO7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="FH9wV_RX_I6s4br5vFfo-1" source="ULpSn1PpE3lTyrpgoKO7-3" target="ULpSn1PpE3lTyrpgoKO7-5">
+        <mxCell id="ULpSn1PpE3lTyrpgoKO7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="FH9wV_RX_I6s4br5vFfo-1" source="ULpSn1PpE3lTyrpgoKO7-3" target="ULpSn1PpE3lTyrpgoKO7-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ULpSn1PpE3lTyrpgoKO7-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="FH9wV_RX_I6s4br5vFfo-1">
+        <mxCell id="ULpSn1PpE3lTyrpgoKO7-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" parent="FH9wV_RX_I6s4br5vFfo-1" vertex="1">
           <mxGeometry x="560" y="42.5" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ULpSn1PpE3lTyrpgoKO7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="FH9wV_RX_I6s4br5vFfo-1" source="ULpSn1PpE3lTyrpgoKO7-5" target="FH9wV_RX_I6s4br5vFfo-25">
+        <mxCell id="ULpSn1PpE3lTyrpgoKO7-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="FH9wV_RX_I6s4br5vFfo-1" source="ULpSn1PpE3lTyrpgoKO7-5" target="FH9wV_RX_I6s4br5vFfo-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ULpSn1PpE3lTyrpgoKO7-5" value="Criação Prospect no NETSales" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="FH9wV_RX_I6s4br5vFfo-1">
+        <mxCell id="ULpSn1PpE3lTyrpgoKO7-5" value="Criação Prospect no NETSales" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="FH9wV_RX_I6s4br5vFfo-1" vertex="1">
           <mxGeometry x="580" y="180" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ULpSn1PpE3lTyrpgoKO7-8" value="Validação Dados Proposta (com informação&amp;nbsp; 4G/5G)" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="FH9wV_RX_I6s4br5vFfo-1">
+        <mxCell id="ULpSn1PpE3lTyrpgoKO7-8" value="Validação Dados Proposta (com informação&amp;nbsp; 4G/5G)" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="FH9wV_RX_I6s4br5vFfo-1" vertex="1">
           <mxGeometry x="442.5" y="13.75" width="87.5" height="87.5" as="geometry" />
         </mxCell>
-        <mxCell id="ULpSn1PpE3lTyrpgoKO7-12" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="FH9wV_RX_I6s4br5vFfo-1" source="ULpSn1PpE3lTyrpgoKO7-8" target="ULpSn1PpE3lTyrpgoKO7-3">
+        <mxCell id="ULpSn1PpE3lTyrpgoKO7-12" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="FH9wV_RX_I6s4br5vFfo-1" source="ULpSn1PpE3lTyrpgoKO7-8" target="ULpSn1PpE3lTyrpgoKO7-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="310" as="sourcePoint" />
             <mxPoint x="580" y="90" as="targetPoint" />
@@ -306,16 +306,16 @@
           </mxGeometry>
         </mxCell>
         <UserObject label="S" placeholders="1" name="Variable" id="ULpSn1PpE3lTyrpgoKO7-13">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="FH9wV_RX_I6s4br5vFfo-1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="FH9wV_RX_I6s4br5vFfo-1" vertex="1">
             <mxGeometry x="620" y="60" width="20" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="N" placeholders="1" name="Variable" id="ULpSn1PpE3lTyrpgoKO7-14">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="FH9wV_RX_I6s4br5vFfo-1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="FH9wV_RX_I6s4br5vFfo-1" vertex="1">
             <mxGeometry x="560" y="90" width="20" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="ULpSn1PpE3lTyrpgoKO7-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="FH9wV_RX_I6s4br5vFfo-1" source="ULpSn1PpE3lTyrpgoKO7-3" target="ULpSn1PpE3lTyrpgoKO7-2">
+        <mxCell id="ULpSn1PpE3lTyrpgoKO7-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="FH9wV_RX_I6s4br5vFfo-1" source="ULpSn1PpE3lTyrpgoKO7-3" target="ULpSn1PpE3lTyrpgoKO7-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="610" y="68" as="sourcePoint" />
             <mxPoint x="630" y="190" as="targetPoint" />
@@ -325,13 +325,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ULpSn1PpE3lTyrpgoKO7-17" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="FH9wV_RX_I6s4br5vFfo-1" source="ULpSn1PpE3lTyrpgoKO7-1" target="ULpSn1PpE3lTyrpgoKO7-2">
+        <mxCell id="ULpSn1PpE3lTyrpgoKO7-17" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="FH9wV_RX_I6s4br5vFfo-1" source="ULpSn1PpE3lTyrpgoKO7-1" target="ULpSn1PpE3lTyrpgoKO7-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280" y="140" as="sourcePoint" />
             <mxPoint x="330" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ULpSn1PpE3lTyrpgoKO7-18" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="FH9wV_RX_I6s4br5vFfo-1" source="FH9wV_RX_I6s4br5vFfo-2" target="ULpSn1PpE3lTyrpgoKO7-1">
+        <mxCell id="ULpSn1PpE3lTyrpgoKO7-18" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="FH9wV_RX_I6s4br5vFfo-1" source="FH9wV_RX_I6s4br5vFfo-2" target="ULpSn1PpE3lTyrpgoKO7-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="110" as="sourcePoint" />
             <mxPoint x="214" y="110" as="targetPoint" />
@@ -535,132 +535,132 @@
       <root>
         <mxCell id="N78D-rpcMXFEJK9GZuOB-0" />
         <mxCell id="N78D-rpcMXFEJK9GZuOB-1" parent="N78D-rpcMXFEJK9GZuOB-0" />
-        <mxCell id="N78D-rpcMXFEJK9GZuOB-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="N78D-rpcMXFEJK9GZuOB-1" source="N78D-rpcMXFEJK9GZuOB-4" target="N78D-rpcMXFEJK9GZuOB-36">
+        <mxCell id="N78D-rpcMXFEJK9GZuOB-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="N78D-rpcMXFEJK9GZuOB-1" source="N78D-rpcMXFEJK9GZuOB-4" target="N78D-rpcMXFEJK9GZuOB-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N78D-rpcMXFEJK9GZuOB-4" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="N78D-rpcMXFEJK9GZuOB-1">
+        <mxCell id="N78D-rpcMXFEJK9GZuOB-4" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="N78D-rpcMXFEJK9GZuOB-1" vertex="1">
           <mxGeometry x="340" y="42.5" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N78D-rpcMXFEJK9GZuOB-5" value="Verificação elegibilidade 5G SA" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="N78D-rpcMXFEJK9GZuOB-1">
+        <mxCell id="N78D-rpcMXFEJK9GZuOB-5" value="Verificação elegibilidade 5G SA" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="N78D-rpcMXFEJK9GZuOB-1" vertex="1">
           <mxGeometry x="210" y="17.5" width="80" height="80" as="geometry" />
         </mxCell>
         <UserObject label="Sim" placeholders="1" name="Variable" id="N78D-rpcMXFEJK9GZuOB-6">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="N78D-rpcMXFEJK9GZuOB-1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="N78D-rpcMXFEJK9GZuOB-1" vertex="1">
             <mxGeometry x="380" y="30" width="40" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="N78D-rpcMXFEJK9GZuOB-7" value="Vendedor Conexão" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="N78D-rpcMXFEJK9GZuOB-1">
+        <mxCell id="N78D-rpcMXFEJK9GZuOB-7" value="Vendedor Conexão" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="N78D-rpcMXFEJK9GZuOB-1" vertex="1">
           <mxGeometry x="140" y="25" width="30" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="N78D-rpcMXFEJK9GZuOB-8" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="N78D-rpcMXFEJK9GZuOB-1" source="N78D-rpcMXFEJK9GZuOB-7" target="N78D-rpcMXFEJK9GZuOB-5">
+        <mxCell id="N78D-rpcMXFEJK9GZuOB-8" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="N78D-rpcMXFEJK9GZuOB-1" source="N78D-rpcMXFEJK9GZuOB-7" target="N78D-rpcMXFEJK9GZuOB-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="310" as="sourcePoint" />
             <mxPoint x="100" y="57.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N78D-rpcMXFEJK9GZuOB-10" value="&lt;h1&gt;Regra elegibilidade&lt;/h1&gt;&lt;p&gt;- Plano Portfólio Elegível 5G SA&amp;nbsp; (mandatório)&lt;/p&gt;&lt;p&gt;- Plano SVA elegível (Ex.: Cloud Gaming) ou&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Aparelho 5G&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="N78D-rpcMXFEJK9GZuOB-1">
+        <mxCell id="N78D-rpcMXFEJK9GZuOB-10" value="&lt;h1&gt;Regra elegibilidade&lt;/h1&gt;&lt;p&gt;- Plano Portfólio Elegível 5G SA&amp;nbsp; (mandatório)&lt;/p&gt;&lt;p&gt;- Plano SVA elegível (Ex.: Cloud Gaming) ou&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Aparelho 5G&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="N78D-rpcMXFEJK9GZuOB-1" vertex="1">
           <mxGeometry x="10" y="140" width="300" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="N78D-rpcMXFEJK9GZuOB-11" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="N78D-rpcMXFEJK9GZuOB-1" source="N78D-rpcMXFEJK9GZuOB-5" target="N78D-rpcMXFEJK9GZuOB-4">
+        <mxCell id="N78D-rpcMXFEJK9GZuOB-11" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" parent="N78D-rpcMXFEJK9GZuOB-1" source="N78D-rpcMXFEJK9GZuOB-5" target="N78D-rpcMXFEJK9GZuOB-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="68" as="sourcePoint" />
             <mxPoint x="220" y="68" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N78D-rpcMXFEJK9GZuOB-12" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="N78D-rpcMXFEJK9GZuOB-1" source="N78D-rpcMXFEJK9GZuOB-4" target="N78D-rpcMXFEJK9GZuOB-13">
+        <mxCell id="N78D-rpcMXFEJK9GZuOB-12" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="N78D-rpcMXFEJK9GZuOB-1" source="N78D-rpcMXFEJK9GZuOB-4" target="N78D-rpcMXFEJK9GZuOB-13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="78" as="sourcePoint" />
             <mxPoint x="440" y="58" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N78D-rpcMXFEJK9GZuOB-13" value="Pop-up em tela orientando vendedor a vender 5G SA" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="N78D-rpcMXFEJK9GZuOB-1">
+        <mxCell id="N78D-rpcMXFEJK9GZuOB-13" value="Pop-up em tela orientando vendedor a vender 5G SA" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="N78D-rpcMXFEJK9GZuOB-1" vertex="1">
           <mxGeometry x="450" y="17.5" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="N78D-rpcMXFEJK9GZuOB-14" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="N78D-rpcMXFEJK9GZuOB-1">
+        <mxCell id="N78D-rpcMXFEJK9GZuOB-14" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" parent="N78D-rpcMXFEJK9GZuOB-1" vertex="1">
           <mxGeometry x="600" y="42.5" width="40" height="30" as="geometry" />
         </mxCell>
         <UserObject label="Vendedor seleciona Chip" placeholders="1" name="Variable" id="N78D-rpcMXFEJK9GZuOB-15">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="N78D-rpcMXFEJK9GZuOB-1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="N78D-rpcMXFEJK9GZuOB-1" vertex="1">
             <mxGeometry x="545" y="17.5" width="150" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="N78D-rpcMXFEJK9GZuOB-16" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="N78D-rpcMXFEJK9GZuOB-1">
+        <mxCell id="N78D-rpcMXFEJK9GZuOB-16" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="N78D-rpcMXFEJK9GZuOB-1" vertex="1">
           <mxGeometry x="730" y="42.5" width="30" height="30" as="geometry" />
         </mxCell>
         <UserObject label="As-Is" placeholders="1" name="Variable" id="N78D-rpcMXFEJK9GZuOB-17">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="N78D-rpcMXFEJK9GZuOB-1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="N78D-rpcMXFEJK9GZuOB-1" vertex="1">
             <mxGeometry x="727.5" y="17.5" width="35" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="4G" placeholders="1" name="Variable" id="N78D-rpcMXFEJK9GZuOB-18">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="N78D-rpcMXFEJK9GZuOB-1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="N78D-rpcMXFEJK9GZuOB-1" vertex="1">
             <mxGeometry x="670" y="60" width="40" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="N78D-rpcMXFEJK9GZuOB-19" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="N78D-rpcMXFEJK9GZuOB-1" source="N78D-rpcMXFEJK9GZuOB-13" target="N78D-rpcMXFEJK9GZuOB-14">
+        <mxCell id="N78D-rpcMXFEJK9GZuOB-19" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="N78D-rpcMXFEJK9GZuOB-1" source="N78D-rpcMXFEJK9GZuOB-13" target="N78D-rpcMXFEJK9GZuOB-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="68" as="sourcePoint" />
             <mxPoint x="460" y="68" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N78D-rpcMXFEJK9GZuOB-20" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="N78D-rpcMXFEJK9GZuOB-1" source="N78D-rpcMXFEJK9GZuOB-14" target="N78D-rpcMXFEJK9GZuOB-16">
+        <mxCell id="N78D-rpcMXFEJK9GZuOB-20" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="N78D-rpcMXFEJK9GZuOB-1" source="N78D-rpcMXFEJK9GZuOB-14" target="N78D-rpcMXFEJK9GZuOB-16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="68" as="sourcePoint" />
             <mxPoint x="610" y="68" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N78D-rpcMXFEJK9GZuOB-21" value="Titular e todos dependentes recebem chip 5G" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="N78D-rpcMXFEJK9GZuOB-1">
+        <mxCell id="N78D-rpcMXFEJK9GZuOB-21" value="Titular e todos dependentes recebem chip 5G" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="N78D-rpcMXFEJK9GZuOB-1" vertex="1">
           <mxGeometry x="580" y="130" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="N78D-rpcMXFEJK9GZuOB-22" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="N78D-rpcMXFEJK9GZuOB-1" source="N78D-rpcMXFEJK9GZuOB-14" target="N78D-rpcMXFEJK9GZuOB-21">
+        <mxCell id="N78D-rpcMXFEJK9GZuOB-22" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="N78D-rpcMXFEJK9GZuOB-1" source="N78D-rpcMXFEJK9GZuOB-14" target="N78D-rpcMXFEJK9GZuOB-21" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="68" as="sourcePoint" />
             <mxPoint x="610" y="68" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <UserObject label="5G" placeholders="1" name="Variable" id="N78D-rpcMXFEJK9GZuOB-23">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="N78D-rpcMXFEJK9GZuOB-1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="N78D-rpcMXFEJK9GZuOB-1" vertex="1">
             <mxGeometry x="580" y="90" width="40" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="N78D-rpcMXFEJK9GZuOB-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="N78D-rpcMXFEJK9GZuOB-1" source="N78D-rpcMXFEJK9GZuOB-25" target="N78D-rpcMXFEJK9GZuOB-27">
+        <mxCell id="N78D-rpcMXFEJK9GZuOB-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="N78D-rpcMXFEJK9GZuOB-1" source="N78D-rpcMXFEJK9GZuOB-25" target="N78D-rpcMXFEJK9GZuOB-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N78D-rpcMXFEJK9GZuOB-25" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="N78D-rpcMXFEJK9GZuOB-1">
+        <mxCell id="N78D-rpcMXFEJK9GZuOB-25" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="N78D-rpcMXFEJK9GZuOB-1" vertex="1">
           <mxGeometry x="600" y="304" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N78D-rpcMXFEJK9GZuOB-26" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="N78D-rpcMXFEJK9GZuOB-1" source="N78D-rpcMXFEJK9GZuOB-21" target="N78D-rpcMXFEJK9GZuOB-25">
+        <mxCell id="N78D-rpcMXFEJK9GZuOB-26" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="N78D-rpcMXFEJK9GZuOB-1" source="N78D-rpcMXFEJK9GZuOB-21" target="N78D-rpcMXFEJK9GZuOB-25" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="68" as="sourcePoint" />
             <mxPoint x="610" y="68" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N78D-rpcMXFEJK9GZuOB-27" value="Abertura de OS (logística)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="N78D-rpcMXFEJK9GZuOB-1">
+        <mxCell id="N78D-rpcMXFEJK9GZuOB-27" value="Abertura de OS (logística)" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="N78D-rpcMXFEJK9GZuOB-1" vertex="1">
           <mxGeometry x="710" y="279" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="N78D-rpcMXFEJK9GZuOB-28" value="Entrega chip presencial" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="N78D-rpcMXFEJK9GZuOB-1">
+        <mxCell id="N78D-rpcMXFEJK9GZuOB-28" value="Entrega chip presencial" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="N78D-rpcMXFEJK9GZuOB-1" vertex="1">
           <mxGeometry x="450" y="279" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="N78D-rpcMXFEJK9GZuOB-29" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="N78D-rpcMXFEJK9GZuOB-1" source="N78D-rpcMXFEJK9GZuOB-25" target="N78D-rpcMXFEJK9GZuOB-28">
+        <mxCell id="N78D-rpcMXFEJK9GZuOB-29" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="N78D-rpcMXFEJK9GZuOB-1" source="N78D-rpcMXFEJK9GZuOB-25" target="N78D-rpcMXFEJK9GZuOB-28" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="112" as="sourcePoint" />
             <mxPoint x="610" y="112" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <UserObject label="Presencial" placeholders="1" name="Variable" id="N78D-rpcMXFEJK9GZuOB-30">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="N78D-rpcMXFEJK9GZuOB-1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="N78D-rpcMXFEJK9GZuOB-1" vertex="1">
             <mxGeometry x="540" y="294" width="60" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Remoto" placeholders="1" name="Variable" id="N78D-rpcMXFEJK9GZuOB-31">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="N78D-rpcMXFEJK9GZuOB-1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="N78D-rpcMXFEJK9GZuOB-1" vertex="1">
             <mxGeometry x="640" y="294" width="60" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="N78D-rpcMXFEJK9GZuOB-32" value="&lt;p style=&quot;line-height: normal; margin: 0pt 0in; text-indent: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;Ativa plano com oferta serviço 5G + chip 5G&lt;/p&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="N78D-rpcMXFEJK9GZuOB-1">
+        <mxCell id="N78D-rpcMXFEJK9GZuOB-32" value="&lt;p style=&quot;line-height: normal; margin: 0pt 0in; text-indent: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;Ativa plano com oferta serviço 5G + chip 5G&lt;/p&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="N78D-rpcMXFEJK9GZuOB-1" vertex="1">
           <mxGeometry x="580" y="370" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="N78D-rpcMXFEJK9GZuOB-33" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="N78D-rpcMXFEJK9GZuOB-1" source="N78D-rpcMXFEJK9GZuOB-28" target="N78D-rpcMXFEJK9GZuOB-32">
+        <mxCell id="N78D-rpcMXFEJK9GZuOB-33" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="N78D-rpcMXFEJK9GZuOB-1" source="N78D-rpcMXFEJK9GZuOB-28" target="N78D-rpcMXFEJK9GZuOB-32" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="112" as="sourcePoint" />
             <mxPoint x="460" y="112" as="targetPoint" />
@@ -669,7 +669,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="N78D-rpcMXFEJK9GZuOB-34" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="N78D-rpcMXFEJK9GZuOB-1" source="N78D-rpcMXFEJK9GZuOB-27" target="N78D-rpcMXFEJK9GZuOB-32">
+        <mxCell id="N78D-rpcMXFEJK9GZuOB-34" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="N78D-rpcMXFEJK9GZuOB-1" source="N78D-rpcMXFEJK9GZuOB-27" target="N78D-rpcMXFEJK9GZuOB-32" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="369" as="sourcePoint" />
             <mxPoint x="590" y="464" as="targetPoint" />
@@ -678,62 +678,62 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="N78D-rpcMXFEJK9GZuOB-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="N78D-rpcMXFEJK9GZuOB-1" source="N78D-rpcMXFEJK9GZuOB-36" target="N78D-rpcMXFEJK9GZuOB-40">
+        <mxCell id="N78D-rpcMXFEJK9GZuOB-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="N78D-rpcMXFEJK9GZuOB-1" source="N78D-rpcMXFEJK9GZuOB-36" target="N78D-rpcMXFEJK9GZuOB-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N78D-rpcMXFEJK9GZuOB-36" value="Cliente não elegível solicita chip 5G SA" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="N78D-rpcMXFEJK9GZuOB-1">
+        <mxCell id="N78D-rpcMXFEJK9GZuOB-36" value="Cliente não elegível solicita chip 5G SA" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="N78D-rpcMXFEJK9GZuOB-1" vertex="1">
           <mxGeometry x="320" y="130" width="80" height="80" as="geometry" />
         </mxCell>
         <UserObject label="Não" placeholders="1" name="Variable" id="N78D-rpcMXFEJK9GZuOB-37">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="N78D-rpcMXFEJK9GZuOB-1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="N78D-rpcMXFEJK9GZuOB-1" vertex="1">
             <mxGeometry x="360" y="80" width="40" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="N78D-rpcMXFEJK9GZuOB-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="N78D-rpcMXFEJK9GZuOB-1" source="N78D-rpcMXFEJK9GZuOB-40" target="N78D-rpcMXFEJK9GZuOB-21">
+        <mxCell id="N78D-rpcMXFEJK9GZuOB-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="N78D-rpcMXFEJK9GZuOB-1" source="N78D-rpcMXFEJK9GZuOB-40" target="N78D-rpcMXFEJK9GZuOB-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N78D-rpcMXFEJK9GZuOB-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="N78D-rpcMXFEJK9GZuOB-1" source="N78D-rpcMXFEJK9GZuOB-40" target="N78D-rpcMXFEJK9GZuOB-42">
+        <mxCell id="N78D-rpcMXFEJK9GZuOB-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="N78D-rpcMXFEJK9GZuOB-1" source="N78D-rpcMXFEJK9GZuOB-40" target="N78D-rpcMXFEJK9GZuOB-42" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="N78D-rpcMXFEJK9GZuOB-40" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="N78D-rpcMXFEJK9GZuOB-1">
+        <mxCell id="N78D-rpcMXFEJK9GZuOB-40" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" parent="N78D-rpcMXFEJK9GZuOB-1" vertex="1">
           <mxGeometry x="470" y="155" width="40" height="30" as="geometry" />
         </mxCell>
         <UserObject label="Sim (5G)" placeholders="1" name="Variable" id="N78D-rpcMXFEJK9GZuOB-41">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="N78D-rpcMXFEJK9GZuOB-1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="N78D-rpcMXFEJK9GZuOB-1" vertex="1">
             <mxGeometry x="510" y="150" width="50" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="N78D-rpcMXFEJK9GZuOB-42" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="N78D-rpcMXFEJK9GZuOB-1">
+        <mxCell id="N78D-rpcMXFEJK9GZuOB-42" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="N78D-rpcMXFEJK9GZuOB-1" vertex="1">
           <mxGeometry x="475" y="220" width="30" height="30" as="geometry" />
         </mxCell>
         <UserObject label="As-Is" placeholders="1" name="Variable" id="N78D-rpcMXFEJK9GZuOB-43">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="N78D-rpcMXFEJK9GZuOB-1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="N78D-rpcMXFEJK9GZuOB-1" vertex="1">
             <mxGeometry x="472.5" y="250" width="35" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Não (4G)" placeholders="1" name="Variable" id="N78D-rpcMXFEJK9GZuOB-44">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="N78D-rpcMXFEJK9GZuOB-1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="N78D-rpcMXFEJK9GZuOB-1" vertex="1">
             <mxGeometry x="430" y="190" width="60" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="N78D-rpcMXFEJK9GZuOB-45" value="&lt;h1&gt;Desenvolvimento&lt;/h1&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Nova regra pra identificar marcação de 5G SA no produto SVA (elegibilidade).&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Novo Pop-up com mensagem de orientação ao vendedor&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Novo campo de seleção de chip 4G/5G na jornada para planos móveis (híbrido). Impacto na API Prospect Solar.&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Novo campo na interface com ativação simplificada - Informar a tecnologia selecionada.&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Avaliar alteração na interface SOA ao carregar dados da móvel para início da jornada residencial.&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Jornada Prospect deve fornecer mesmo tipo de chip para titular e dependente&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="N78D-rpcMXFEJK9GZuOB-1">
+        <mxCell id="N78D-rpcMXFEJK9GZuOB-45" value="&lt;h1&gt;Desenvolvimento&lt;/h1&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Nova regra pra identificar marcação de 5G SA no produto SVA (elegibilidade).&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Novo Pop-up com mensagem de orientação ao vendedor&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Novo campo de seleção de chip 4G/5G na jornada para planos móveis (híbrido). Impacto na API Prospect Solar.&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Novo campo na interface com ativação simplificada - Informar a tecnologia selecionada.&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Avaliar alteração na interface SOA ao carregar dados da móvel para início da jornada residencial.&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Jornada Prospect deve fornecer mesmo tipo de chip para titular e dependente&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="N78D-rpcMXFEJK9GZuOB-1" vertex="1">
           <mxGeometry x="10" y="255" width="470" height="270" as="geometry" />
         </mxCell>
         <UserObject label="Vendedor seleciona Chip" placeholders="1" name="Variable" id="N78D-rpcMXFEJK9GZuOB-46">
-          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" vertex="1" parent="N78D-rpcMXFEJK9GZuOB-1">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="N78D-rpcMXFEJK9GZuOB-1" vertex="1">
             <mxGeometry x="415" y="130" width="150" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="eOfEtlfq4ZEvSqhxYttN-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="N78D-rpcMXFEJK9GZuOB-1" source="eOfEtlfq4ZEvSqhxYttN-1" target="N78D-rpcMXFEJK9GZuOB-7">
+        <mxCell id="eOfEtlfq4ZEvSqhxYttN-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="N78D-rpcMXFEJK9GZuOB-1" source="eOfEtlfq4ZEvSqhxYttN-1" target="N78D-rpcMXFEJK9GZuOB-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eOfEtlfq4ZEvSqhxYttN-1" value="Venda prospect Combo Multi Robô Conexão" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="N78D-rpcMXFEJK9GZuOB-1">
+        <mxCell id="eOfEtlfq4ZEvSqhxYttN-1" value="Venda prospect Combo Multi Robô Conexão" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="N78D-rpcMXFEJK9GZuOB-1" vertex="1">
           <mxGeometry x="20" y="17.5" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="eOfEtlfq4ZEvSqhxYttN-5" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="N78D-rpcMXFEJK9GZuOB-1">
+        <mxCell id="eOfEtlfq4ZEvSqhxYttN-5" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="N78D-rpcMXFEJK9GZuOB-1" vertex="1">
           <mxGeometry x="380" y="140" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eOfEtlfq4ZEvSqhxYttN-6" value="NETSales" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="N78D-rpcMXFEJK9GZuOB-1">
+        <mxCell id="eOfEtlfq4ZEvSqhxYttN-6" value="NETSales" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="N78D-rpcMXFEJK9GZuOB-1" vertex="1">
           <mxGeometry x="220" y="90" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
