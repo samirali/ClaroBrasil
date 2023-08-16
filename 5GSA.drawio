@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-08-16T13:35:54.651Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="GMmdeR3z1LpeIbhX-tiy" version="21.6.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-08-16T19:08:04.733Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="JhqI-2vRPXvOzo5AI06j" version="21.6.8" type="github" pages="4">
   <diagram name="Prospect NETSales" id="nftzNEsQ4DKYTYbzkJBY">
     <mxGraphModel dx="1050" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BzSE3qXNDW1A7PbjzAHN-1" value="Venda Prospect NETSales - Combo Multi" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="BzSE3qXNDW1A7PbjzAHN-1" value="Venda Prospect COLETIVOS/ NETSales - Combo Multi" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="100" y="17.5" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BzSE3qXNDW1A7PbjzAHN-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BzSE3qXNDW1A7PbjzAHN-3" target="BzSE3qXNDW1A7PbjzAHN-35" edge="1">
@@ -345,7 +345,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xgCM8T2wfnTooxRTCJ_P-1" value="Venda Base NETSales - Combo Multi - Compra de aparelho 5G" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="xgCM8T2wfnTooxRTCJ_P-1" value="Venda Base COLETIVOS/ NETSales - Combo Multi - Compra de aparelho 5G" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="90" y="17.5" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xgCM8T2wfnTooxRTCJ_P-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xgCM8T2wfnTooxRTCJ_P-3" target="xgCM8T2wfnTooxRTCJ_P-28" edge="1">
