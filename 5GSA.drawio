@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-17T18:35:25.419Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="qHJMQeoJDPcpQcZxrcpu" version="21.6.8" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-08-17T18:36:42.179Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="GLLxnk8NDfGYyUIDw89t" version="21.6.8" type="github" pages="6">
   <diagram name="Sistemas Alto Nível" id="c8laOl57KDvpZLAOo3bX">
     <mxGraphModel dx="1050" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -433,9 +433,6 @@
         <mxCell id="ONY0kNhQTpjNJVPnFu8S-1" parent="ONY0kNhQTpjNJVPnFu8S-0" />
         <mxCell id="ONY0kNhQTpjNJVPnFu8S-2" value="Venda Base Digital - Combo Multi" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="ONY0kNhQTpjNJVPnFu8S-1">
           <mxGeometry x="100" y="17.5" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="o2q2AmEJ9I1Mabf5yov7-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ONY0kNhQTpjNJVPnFu8S-1" source="ONY0kNhQTpjNJVPnFu8S-3" target="ONY0kNhQTpjNJVPnFu8S-15">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ONY0kNhQTpjNJVPnFu8S-3" value="Cliente Presencial&lt;br&gt;/Televendas" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="ONY0kNhQTpjNJVPnFu8S-1">
           <mxGeometry x="34" y="25" width="30" height="65" as="geometry" />
