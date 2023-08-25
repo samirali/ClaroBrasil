@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-25T14:59:49.707Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="UR271WxhNQPL1aMzBkxw" version="21.6.8" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-08-25T15:05:50.543Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="S072GQi8vqdqM3DBi_p1" version="21.6.8" type="github" pages="6">
   <diagram name="Sistemas Alto Nível" id="c8laOl57KDvpZLAOo3bX">
     <mxGraphModel dx="1050" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -959,7 +959,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="N78D-rpcMXFEJK9GZuOB-45" value="&lt;h1&gt;Desenvolvimento&lt;/h1&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Nova regra pra identificar marcação de 5G SA no produto SVA (elegibilidade).&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Novo Pop-up com mensagem de orientação ao vendedor&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Novo campo de seleção de chip 4G/5G na jornada para planos móveis (híbrido). Impacto na API Prospect Solar.&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Novo campo na interface com ativação simplificada - Informar a tecnologia selecionada&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;(Robô e backend somente, sem alteração no NETSales/NETSMS): Global Hitss.&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Avaliar alteração na interface SOA ao carregar dados da móvel para início da jornada residencial.&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Jornada Prospect deve fornecer mesmo tipo de chip para titular e dependente&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="N78D-rpcMXFEJK9GZuOB-1" vertex="1">
-          <mxGeometry x="10" y="255" width="470" height="270" as="geometry" />
+          <mxGeometry x="6" y="243" width="470" height="285" as="geometry" />
         </mxCell>
         <UserObject label="Vendedor seleciona Chip" placeholders="1" name="Variable" id="N78D-rpcMXFEJK9GZuOB-46">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="N78D-rpcMXFEJK9GZuOB-1" vertex="1">
