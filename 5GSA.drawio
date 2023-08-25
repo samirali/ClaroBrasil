@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-25T15:06:10.378Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="f5qqJhIKz_PRGpdVenPz" version="21.6.8" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-08-25T15:09:35.477Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="YRyRIAau4nDsIVOPcsRN" version="21.6.8" type="github" pages="6">
   <diagram name="Sistemas Alto Nível" id="c8laOl57KDvpZLAOo3bX">
     <mxGraphModel dx="1050" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,7 +61,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="M16S2Pb91_vcim21Qb1e-2" value="Robô/Backend (Innolevels)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="HdD_rNmY9ElQzWqeGUqa-1">
+        <mxCell id="M16S2Pb91_vcim21Qb1e-2" value="Robô/Backend (Global Hitss / Innolevels)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="HdD_rNmY9ElQzWqeGUqa-1">
           <mxGeometry x="200" y="220" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="M16S2Pb91_vcim21Qb1e-3" value="Ativação Simplificada" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="HdD_rNmY9ElQzWqeGUqa-1">
