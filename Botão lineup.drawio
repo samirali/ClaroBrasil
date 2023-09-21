@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-21T20:32:09.106Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="MlPDnCn8bEWroD4lB09U" version="21.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-21T20:39:51.677Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="3ralzGw2oN5sHHq04k8D" version="21.8.0" type="github">
   <diagram name="Macro" id="-5gBe7mBYyI3mbEeI3KI">
     <mxGraphModel dx="1050" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,15 +13,15 @@
         <mxCell id="RFvKmot2yjP2-cgtx0kC-1" value="Tela Pontos do contrato" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RFvKmot2yjP2-cgtx0kC-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RFvKmot2yjP2-cgtx0kC-2" target="RFvKmot2yjP2-cgtx0kC-18">
+        <mxCell id="RFvKmot2yjP2-cgtx0kC-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="RFvKmot2yjP2-cgtx0kC-2" target="RFvKmot2yjP2-cgtx0kC-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="474" y="130" />
+              <mxPoint x="460" y="130" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="RFvKmot2yjP2-cgtx0kC-2" value="API (APIGEE)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RFvKmot2yjP2-cgtx0kC-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RFvKmot2yjP2-cgtx0kC-4" target="RFvKmot2yjP2-cgtx0kC-7">
           <mxGeometry relative="1" as="geometry" />
@@ -46,6 +46,9 @@
         </mxCell>
         <mxCell id="RFvKmot2yjP2-cgtx0kC-18" value="Tela retorno Lineup/Feauture" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="220" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RFvKmot2yjP2-cgtx0kC-27" value="&lt;h1&gt;Escopo&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Incluir 2 novos botões em tela NETSMS&lt;/li&gt;&lt;li&gt;Desenvolver nova tela para exibir retorno da API (não utilizar pop-up)&lt;/li&gt;&lt;li&gt;NETSMS deverá fazer a chamada para uma API no APIGEE&lt;/li&gt;&lt;li&gt;Ambos os botões farão a chamada para uma mesma API, cada botão terá um parâmetro diferente que será identificado no request&lt;/li&gt;&lt;li&gt;Chamada &quot;Lineup&quot; retornará uma lista de canais agrupados por pacote&lt;/li&gt;&lt;li&gt;Chamada &quot;Features&quot; retornará uma lista de features do decoder&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="10" width="310" height="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
