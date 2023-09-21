@@ -1,9 +1,45 @@
-<mxfile host="app.diagrams.net" modified="2023-09-21T14:26:50.567Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="olKTBkNHcFUbAPzQx8z8" version="21.8.0" type="github">
-  <diagram name="Página-1" id="-5gBe7mBYyI3mbEeI3KI">
+<mxfile host="app.diagrams.net" modified="2023-09-21T20:27:33.933Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Rzlbg098Mn5AAlm_rlhj" version="21.8.0" type="github">
+  <diagram name="Macro" id="-5gBe7mBYyI3mbEeI3KI">
     <mxGraphModel dx="1050" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RFvKmot2yjP2-cgtx0kC-15" value="&lt;b&gt;NETSMS&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="80" y="30" width="430" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="RFvKmot2yjP2-cgtx0kC-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RFvKmot2yjP2-cgtx0kC-1" target="RFvKmot2yjP2-cgtx0kC-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RFvKmot2yjP2-cgtx0kC-1" value="Tela Pontos do contrato" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RFvKmot2yjP2-cgtx0kC-2" value="API (APIGEE)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RFvKmot2yjP2-cgtx0kC-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RFvKmot2yjP2-cgtx0kC-4" target="RFvKmot2yjP2-cgtx0kC-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RFvKmot2yjP2-cgtx0kC-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RFvKmot2yjP2-cgtx0kC-4" target="RFvKmot2yjP2-cgtx0kC-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RFvKmot2yjP2-cgtx0kC-4" value="Tela Produtos por ponto" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RFvKmot2yjP2-cgtx0kC-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RFvKmot2yjP2-cgtx0kC-7" target="RFvKmot2yjP2-cgtx0kC-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RFvKmot2yjP2-cgtx0kC-7" value="Lineup (novo botão)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RFvKmot2yjP2-cgtx0kC-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RFvKmot2yjP2-cgtx0kC-9" target="RFvKmot2yjP2-cgtx0kC-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RFvKmot2yjP2-cgtx0kC-9" value="Feature (novo botão)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RFvKmot2yjP2-cgtx0kC-18" value="Tela retorno Lineup/Feauture" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
