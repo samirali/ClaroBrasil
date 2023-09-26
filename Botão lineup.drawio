@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-25T14:27:51.147Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Cy4876AnPPdDPHByqIiH" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-26T19:47:15.498Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="1XJ-_gS90wmaLkEdNSDC" version="21.8.2" type="github">
   <diagram name="Macro" id="-5gBe7mBYyI3mbEeI3KI">
-    <mxGraphModel dx="882" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,10 +41,10 @@
         <mxCell id="RFvKmot2yjP2-cgtx0kC-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="RFvKmot2yjP2-cgtx0kC-9" target="RFvKmot2yjP2-cgtx0kC-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RFvKmot2yjP2-cgtx0kC-9" value="Feature (novo botão)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="RFvKmot2yjP2-cgtx0kC-9" value="Features (novo botão)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="220" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RFvKmot2yjP2-cgtx0kC-18" value="Tela retorno Lineup/Feauture" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="RFvKmot2yjP2-cgtx0kC-18" value="Tela retorno Lineup/Features" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="220" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RFvKmot2yjP2-cgtx0kC-27" value="&lt;h1&gt;Escopo&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Incluir 2 novos botões em tela NETSMS&lt;/li&gt;&lt;li&gt;Desenvolver nova tela para exibir retorno da API (não utilizar pop-up)&lt;/li&gt;&lt;li&gt;NETSMS deverá fazer a chamada para uma API no APIGEE&lt;/li&gt;&lt;li&gt;Ambos os botões farão a chamada para uma mesma API, cada botão terá um parâmetro diferente que será identificado no request&lt;/li&gt;&lt;li&gt;Chamada &quot;Lineup&quot; retornará uma lista de canais agrupados por pacote&lt;/li&gt;&lt;li&gt;Chamada &quot;Features&quot; retornará uma lista de features do decoder&lt;/li&gt;&lt;li&gt;Na chamada da API deve ser levada em consideração as opções recomendadas pela arquitetura e segurança da Claro (material anexo)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
