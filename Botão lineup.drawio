@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2023-09-26T19:47:15.498Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="1XJ-_gS90wmaLkEdNSDC" version="21.8.2" type="github">
-  <diagram name="Macro" id="-5gBe7mBYyI3mbEeI3KI">
+<mxfile host="app.diagrams.net" modified="2023-09-28T18:17:05.994Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="f29HwUsxnI3fSvGQL31t" version="22.0.0" type="github" pages="2">
+  <diagram name="Lineup NETSMS" id="-5gBe7mBYyI3mbEeI3KI">
     <mxGraphModel dx="1050" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -13,15 +13,14 @@
         <mxCell id="RFvKmot2yjP2-cgtx0kC-1" value="Tela Pontos do contrato" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RFvKmot2yjP2-cgtx0kC-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="RFvKmot2yjP2-cgtx0kC-2" target="RFvKmot2yjP2-cgtx0kC-18" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="460" y="130" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="KuERG7tfqBQwJq6xoTOc-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="RFvKmot2yjP2-cgtx0kC-2" target="KuERG7tfqBQwJq6xoTOc-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RFvKmot2yjP2-cgtx0kC-2" value="API (APIGEE)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="160" width="120" height="60" as="geometry" />
+        <mxCell id="KuERG7tfqBQwJq6xoTOc-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RFvKmot2yjP2-cgtx0kC-2" target="RFvKmot2yjP2-cgtx0kC-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RFvKmot2yjP2-cgtx0kC-2" value="APIGEE&lt;br&gt;Proxy Apigee: residential-lineups-v1" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RFvKmot2yjP2-cgtx0kC-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RFvKmot2yjP2-cgtx0kC-4" target="RFvKmot2yjP2-cgtx0kC-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -47,7 +46,64 @@
         <mxCell id="RFvKmot2yjP2-cgtx0kC-18" value="Tela retorno Lineup/Features" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="220" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RFvKmot2yjP2-cgtx0kC-27" value="&lt;h1&gt;Escopo&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Incluir 2 novos botões em tela NETSMS&lt;/li&gt;&lt;li&gt;Desenvolver nova tela para exibir retorno da API (não utilizar pop-up)&lt;/li&gt;&lt;li&gt;NETSMS deverá fazer a chamada para uma API no APIGEE&lt;/li&gt;&lt;li&gt;Ambos os botões farão a chamada para uma mesma API, cada botão terá um parâmetro diferente que será identificado no request&lt;/li&gt;&lt;li&gt;Chamada &quot;Lineup&quot; retornará uma lista de canais agrupados por pacote&lt;/li&gt;&lt;li&gt;Chamada &quot;Features&quot; retornará uma lista de features do decoder&lt;/li&gt;&lt;li&gt;Na chamada da API deve ser levada em consideração as opções recomendadas pela arquitetura e segurança da Claro (material anexo)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="RFvKmot2yjP2-cgtx0kC-27" value="&lt;h1 style=&quot;text-align: center;&quot;&gt;Escopo&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Incluir 2 novos botões em tela NETSMS&lt;/li&gt;&lt;li&gt;Desenvolver nova tela para exibir retorno da API (não utilizar pop-up)&lt;/li&gt;&lt;li&gt;NETSMS deverá fazer a chamada para uma API no APIGEE&lt;/li&gt;&lt;li&gt;Ambos os botões farão a chamada para uma mesma API, cada botão terá um parâmetro diferente que será identificado no request&lt;/li&gt;&lt;li&gt;Chamada &quot;Lineup&quot; retornará uma lista de canais agrupados por pacote&lt;/li&gt;&lt;li&gt;Chamada &quot;Features&quot; retornará uma lista de features do decoder&lt;/li&gt;&lt;li&gt;Na chamada da API deve ser levada em consideração as opções recomendadas pela arquitetura e segurança da Claro (material anexo)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="440" y="170" width="380" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="KuERG7tfqBQwJq6xoTOc-2" value="STW" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="600" y="90" width="130" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Lineup SOLAR" id="lGyP24AQZTf0XDki9jBO">
+    <mxGraphModel dx="1050" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="8E0X53z53ibhwYF6jymO-0" />
+        <mxCell id="8E0X53z53ibhwYF6jymO-1" parent="8E0X53z53ibhwYF6jymO-0" />
+        <mxCell id="8E0X53z53ibhwYF6jymO-2" value="&lt;b&gt;SOLAR&lt;/b&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;verticalAlign=top;" vertex="1" parent="8E0X53z53ibhwYF6jymO-1">
+          <mxGeometry x="10" y="10" width="380" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="8E0X53z53ibhwYF6jymO-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8E0X53z53ibhwYF6jymO-1" source="8E0X53z53ibhwYF6jymO-4" target="8E0X53z53ibhwYF6jymO-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8E0X53z53ibhwYF6jymO-4" value="Tela Pontos do contrato" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8E0X53z53ibhwYF6jymO-1">
+          <mxGeometry x="20" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8E0X53z53ibhwYF6jymO-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="8E0X53z53ibhwYF6jymO-1" source="8E0X53z53ibhwYF6jymO-6" target="8E0X53z53ibhwYF6jymO-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8E0X53z53ibhwYF6jymO-6" value="API (APIGEE)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8E0X53z53ibhwYF6jymO-1">
+          <mxGeometry x="400" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8E0X53z53ibhwYF6jymO-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="8E0X53z53ibhwYF6jymO-1" source="8E0X53z53ibhwYF6jymO-9" target="8E0X53z53ibhwYF6jymO-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8E0X53z53ibhwYF6jymO-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="8E0X53z53ibhwYF6jymO-1" source="8E0X53z53ibhwYF6jymO-9" target="8E0X53z53ibhwYF6jymO-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8E0X53z53ibhwYF6jymO-9" value="Tela Produtos por ponto" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="8E0X53z53ibhwYF6jymO-1">
+          <mxGeometry x="20" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8E0X53z53ibhwYF6jymO-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="8E0X53z53ibhwYF6jymO-1" source="8E0X53z53ibhwYF6jymO-11" target="8E0X53z53ibhwYF6jymO-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8E0X53z53ibhwYF6jymO-11" value="Lineup (novo botão)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="8E0X53z53ibhwYF6jymO-1">
+          <mxGeometry x="220" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8E0X53z53ibhwYF6jymO-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="8E0X53z53ibhwYF6jymO-1" source="8E0X53z53ibhwYF6jymO-13" target="8E0X53z53ibhwYF6jymO-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8E0X53z53ibhwYF6jymO-13" value="Features (novo botão)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="8E0X53z53ibhwYF6jymO-1">
+          <mxGeometry x="220" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8E0X53z53ibhwYF6jymO-14" value="Tela retorno Lineup/Features" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="8E0X53z53ibhwYF6jymO-1">
+          <mxGeometry x="220" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8E0X53z53ibhwYF6jymO-15" value="&lt;h1&gt;Escopo&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Incluir 2 novos botões em tela NETSMS&lt;/li&gt;&lt;li&gt;Desenvolver nova tela para exibir retorno da API (não utilizar pop-up)&lt;/li&gt;&lt;li&gt;NETSMS deverá fazer a chamada para uma API no APIGEE&lt;/li&gt;&lt;li&gt;Ambos os botões farão a chamada para uma mesma API, cada botão terá um parâmetro diferente que será identificado no request&lt;/li&gt;&lt;li&gt;Chamada &quot;Lineup&quot; retornará uma lista de canais agrupados por pacote&lt;/li&gt;&lt;li&gt;Chamada &quot;Features&quot; retornará uma lista de features do decoder&lt;/li&gt;&lt;li&gt;Na chamada da API deve ser levada em consideração as opções recomendadas pela arquitetura e segurança da Claro (material anexo)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="8E0X53z53ibhwYF6jymO-1">
           <mxGeometry x="500" y="10" width="310" height="310" as="geometry" />
         </mxCell>
       </root>
