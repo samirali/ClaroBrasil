@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-30T16:15:47.245Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="re49z453s28oBnfq1gIJ" version="22.0.8" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-10-30T16:24:32.571Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="JvNsWrluXe7RAVToRTuK" version="22.0.8" type="github" pages="6">
   <diagram name="Sistemas Alto Nível" id="c8laOl57KDvpZLAOo3bX">
     <mxGraphModel dx="1050" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -120,7 +120,7 @@
         <mxCell id="BzSE3qXNDW1A7PbjzAHN-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="340" y="42.5" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BzSE3qXNDW1A7PbjzAHN-4" value="Verificação elegibilidade 5G SA" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="BzSE3qXNDW1A7PbjzAHN-4" value="Possui produto com marcação de tecnologia 5GSA?" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="210" y="17.5" width="80" height="80" as="geometry" />
         </mxCell>
         <UserObject label="Sim" placeholders="1" name="Variable" id="BzSE3qXNDW1A7PbjzAHN-5">
@@ -143,23 +143,17 @@
             <mxPoint x="100" y="68" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BzSE3qXNDW1A7PbjzAHN-9" value="&lt;h1&gt;Regra elegibilidade&lt;/h1&gt;&lt;p&gt;- Plano Portfólio Elegível 5G SA&amp;nbsp; (mandatório)&lt;/p&gt;&lt;p&gt;- Plano SVA elegível (Ex.: Cloud Gaming) ou&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Aparelho 5G&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="10" y="140" width="330" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="BzSE3qXNDW1A7PbjzAHN-10" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="BzSE3qXNDW1A7PbjzAHN-4" target="BzSE3qXNDW1A7PbjzAHN-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="68" as="sourcePoint" />
             <mxPoint x="220" y="68" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BzSE3qXNDW1A7PbjzAHN-11" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BzSE3qXNDW1A7PbjzAHN-3" target="BzSE3qXNDW1A7PbjzAHN-12" edge="1">
+        <mxCell id="BzSE3qXNDW1A7PbjzAHN-11" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="BzSE3qXNDW1A7PbjzAHN-3" target="BzSE3qXNDW1A7PbjzAHN-13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="78" as="sourcePoint" />
-            <mxPoint x="440" y="58" as="targetPoint" />
+            <mxPoint x="450" y="57.5" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="BzSE3qXNDW1A7PbjzAHN-12" value="Pop-up em tela orientando vendedor a vender 5G SA" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="450" y="17.5" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BzSE3qXNDW1A7PbjzAHN-13" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="600" y="42.5" width="40" height="30" as="geometry" />
@@ -182,19 +176,13 @@
             <mxGeometry x="670" y="60" width="40" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="BzSE3qXNDW1A7PbjzAHN-18" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="BzSE3qXNDW1A7PbjzAHN-12" target="BzSE3qXNDW1A7PbjzAHN-13" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="68" as="sourcePoint" />
-            <mxPoint x="460" y="68" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BzSE3qXNDW1A7PbjzAHN-19" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="BzSE3qXNDW1A7PbjzAHN-13" target="BzSE3qXNDW1A7PbjzAHN-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540" y="68" as="sourcePoint" />
             <mxPoint x="610" y="68" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BzSE3qXNDW1A7PbjzAHN-20" value="Titular e todos dependentes recebem chip 5G" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="BzSE3qXNDW1A7PbjzAHN-20" value="Titular e todos dependentes recebem chip 5GSA" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="580" y="130" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BzSE3qXNDW1A7PbjzAHN-21" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="BzSE3qXNDW1A7PbjzAHN-13" target="BzSE3qXNDW1A7PbjzAHN-20" edge="1">
@@ -203,7 +191,7 @@
             <mxPoint x="610" y="68" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <UserObject label="5G" placeholders="1" name="Variable" id="BzSE3qXNDW1A7PbjzAHN-22">
+        <UserObject label="5GSA" placeholders="1" name="Variable" id="BzSE3qXNDW1A7PbjzAHN-22">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
             <mxGeometry x="580" y="90" width="40" height="20" as="geometry" />
           </mxCell>
@@ -242,7 +230,7 @@
             <mxGeometry x="640" y="294" width="60" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="BzSE3qXNDW1A7PbjzAHN-31" value="&lt;p style=&quot;line-height: normal; margin: 0pt 0in; text-indent: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;Ativa plano com oferta serviço 5G + chip 5G&lt;/p&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="BzSE3qXNDW1A7PbjzAHN-31" value="&lt;p style=&quot;line-height: normal; margin: 0pt 0in; text-indent: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;Ativa plano com oferta serviço 5GSA + chip 5GSA&lt;/p&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="580" y="370" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BzSE3qXNDW1A7PbjzAHN-32" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BzSE3qXNDW1A7PbjzAHN-27" target="BzSE3qXNDW1A7PbjzAHN-31" edge="1">
@@ -266,7 +254,7 @@
         <mxCell id="BzSE3qXNDW1A7PbjzAHN-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BzSE3qXNDW1A7PbjzAHN-35" target="BzSE3qXNDW1A7PbjzAHN-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BzSE3qXNDW1A7PbjzAHN-35" value="Cliente não elegível solicita chip 5G SA" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="BzSE3qXNDW1A7PbjzAHN-35" value="Cliente não elegível solicita chip 5GSA" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="320" y="130" width="80" height="80" as="geometry" />
         </mxCell>
         <UserObject label="Não" placeholders="1" name="Variable" id="BzSE3qXNDW1A7PbjzAHN-36">
@@ -283,9 +271,9 @@
         <mxCell id="BzSE3qXNDW1A7PbjzAHN-39" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="470" y="155" width="40" height="30" as="geometry" />
         </mxCell>
-        <UserObject label="Sim (5G)" placeholders="1" name="Variable" id="BzSE3qXNDW1A7PbjzAHN-40">
+        <UserObject label="Sim (5GSA)" placeholders="1" name="Variable" id="BzSE3qXNDW1A7PbjzAHN-40">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
-            <mxGeometry x="510" y="150" width="50" height="20" as="geometry" />
+            <mxGeometry x="507" y="150" width="70" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="BzSE3qXNDW1A7PbjzAHN-41" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
@@ -301,8 +289,8 @@
             <mxGeometry x="430" y="190" width="60" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="BzSE3qXNDW1A7PbjzAHN-44" value="&lt;h1&gt;Desenvolvimento&lt;/h1&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Nova regra pra identificar marcação de 5G SA no produto SVA (elegibilidade).&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Novo Pop-up com mensagem de orientação ao vendedor&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Novo campo de seleção de chip 4G/5G na jornada para planos móveis (híbrido). Impacto na API Prospect Solar.&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Novo campo na interface com ativação simplificada - Informar a tecnologia selecionada&lt;b&gt; (Robô e backend somente, sem alteração no NETSales/NETSMS): Global Hitss.&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Avaliar alteração na interface SOA ao carregar dados da móvel para início da jornada residencial.&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Jornada Prospect deve fornecer mesmo tipo de chip para titular e dependente&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="10" y="240" width="470" height="270" as="geometry" />
+        <mxCell id="BzSE3qXNDW1A7PbjzAHN-44" value="&lt;h1&gt;Desenvolvimento&lt;/h1&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Nova regra pra identificar marcação de 5GSA no produto móvel.&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Novo campo de seleção de tecnologia 4G/5GSA na jornada para planos móveis (híbrido). Impacto na API Prospect Solar.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Novo campo na interface com ativação simplificada - Informar a tecnologia selecionada&lt;b&gt; (Robô e backend somente, sem alteração no NETSales/NETSMS): Global Hitss.&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Avaliar alteração na interface SOA ao carregar dados da móvel para início da jornada residencial.&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Jornada Prospect deve fornecer mesmo tipo de chip para titular e dependente(s).&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="10" y="171" width="430" height="270" as="geometry" />
         </mxCell>
         <UserObject label="Vendedor seleciona Chip" placeholders="1" name="Variable" id="BzSE3qXNDW1A7PbjzAHN-45">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
