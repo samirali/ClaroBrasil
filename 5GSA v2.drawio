@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-30T16:32:16.612Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="1u6SYZvFgRLvztylMooS" version="22.0.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-10-30T16:35:15.176Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="4yHoHQaqh9bx9uFNuqJK" version="22.0.8" type="github" pages="5">
   <diagram name="Sistemas Alto Nível" id="c8laOl57KDvpZLAOo3bX">
     <mxGraphModel dx="1050" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="ht8XV2pE33Yyfoe8M8yu-8" value="SOLAR VENDA PROSPECT" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="HdD_rNmY9ElQzWqeGUqa-1" vertex="1">
           <mxGeometry x="559" y="90" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ht8XV2pE33Yyfoe8M8yu-10" value="API PROPOSALS (DIGITAL)" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="HdD_rNmY9ElQzWqeGUqa-1" vertex="1">
+        <mxCell id="ht8XV2pE33Yyfoe8M8yu-10" value="API PROPOSALS (DIGITAL)" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="HdD_rNmY9ElQzWqeGUqa-1" vertex="1">
           <mxGeometry x="439" y="350" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ht8XV2pE33Yyfoe8M8yu-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="HdD_rNmY9ElQzWqeGUqa-1" source="ht8XV2pE33Yyfoe8M8yu-11" target="ht8XV2pE33Yyfoe8M8yu-10" edge="1">
