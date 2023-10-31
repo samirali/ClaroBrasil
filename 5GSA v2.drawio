@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-30T17:12:16.966Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="28Fn62pfhZ33RNXPytlw" version="22.0.8" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-10-31T20:53:07.153Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="2EfxNWvrBBMggrxaA5ZE" version="22.0.8" type="github" pages="5">
   <diagram name="Sistemas Alto Nível" id="c8laOl57KDvpZLAOo3bX">
     <mxGraphModel dx="1050" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -65,12 +65,12 @@
           <mxGeometry x="200" y="220" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="M16S2Pb91_vcim21Qb1e-3" value="Ativação Simplificada" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="HdD_rNmY9ElQzWqeGUqa-1" vertex="1">
-          <mxGeometry x="90" y="90" width="80" height="80" as="geometry" />
+          <mxGeometry x="70" y="300" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="M16S2Pb91_vcim21Qb1e-6" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="HdD_rNmY9ElQzWqeGUqa-1" source="M16S2Pb91_vcim21Qb1e-2" target="M16S2Pb91_vcim21Qb1e-3" edge="1">
+        <mxCell id="M16S2Pb91_vcim21Qb1e-6" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="HdD_rNmY9ElQzWqeGUqa-1" source="M16S2Pb91_vcim21Qb1e-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="310" as="sourcePoint" />
-            <mxPoint x="440" y="260" as="targetPoint" />
+            <mxPoint x="110" y="300" as="targetPoint" />
             <Array as="points">
               <mxPoint x="160" y="260" />
             </Array>
@@ -103,6 +103,55 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="54_aKg4cdUlzOyrP3HWh-0" value="MÓVEL" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="HdD_rNmY9ElQzWqeGUqa-1">
+          <mxGeometry x="70" y="70" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="54_aKg4cdUlzOyrP3HWh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="HdD_rNmY9ElQzWqeGUqa-1" source="54_aKg4cdUlzOyrP3HWh-1" target="ht8XV2pE33Yyfoe8M8yu-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="150" />
+              <mxPoint x="290" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="54_aKg4cdUlzOyrP3HWh-4" value="CONTROL-M" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="54_aKg4cdUlzOyrP3HWh-3">
+          <mxGeometry x="0.4311" y="3" relative="1" as="geometry">
+            <mxPoint y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="54_aKg4cdUlzOyrP3HWh-1" value="Interface &lt;br&gt;Móvel" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="HdD_rNmY9ElQzWqeGUqa-1">
+          <mxGeometry x="196" y="120" width="88" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="54_aKg4cdUlzOyrP3HWh-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="HdD_rNmY9ElQzWqeGUqa-1" source="54_aKg4cdUlzOyrP3HWh-0" target="54_aKg4cdUlzOyrP3HWh-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="54_aKg4cdUlzOyrP3HWh-24" value="" style="group" vertex="1" connectable="0" parent="HdD_rNmY9ElQzWqeGUqa-1">
+          <mxGeometry x="180" y="360" width="160" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="54_aKg4cdUlzOyrP3HWh-7" value="" style="group;align=left;" vertex="1" connectable="0" parent="54_aKg4cdUlzOyrP3HWh-24">
+          <mxGeometry width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="54_aKg4cdUlzOyrP3HWh-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="54_aKg4cdUlzOyrP3HWh-7">
+          <mxGeometry y="10" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="54_aKg4cdUlzOyrP3HWh-6" value="Todos fornecedores" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="54_aKg4cdUlzOyrP3HWh-7">
+          <mxGeometry x="15" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="54_aKg4cdUlzOyrP3HWh-16" value="" style="group" vertex="1" connectable="0" parent="54_aKg4cdUlzOyrP3HWh-24">
+          <mxGeometry x="30" y="30" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="54_aKg4cdUlzOyrP3HWh-17" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="54_aKg4cdUlzOyrP3HWh-16">
+          <mxGeometry x="-29" y="1" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="54_aKg4cdUlzOyrP3HWh-18" value="Hitss/Inolevels" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="54_aKg4cdUlzOyrP3HWh-24">
+          <mxGeometry x="19" y="20" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="54_aKg4cdUlzOyrP3HWh-22" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="54_aKg4cdUlzOyrP3HWh-24">
+          <mxGeometry x="1" y="52" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="54_aKg4cdUlzOyrP3HWh-23" value="DXC" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="54_aKg4cdUlzOyrP3HWh-24">
+          <mxGeometry x="19" y="42" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -111,8 +160,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BzSE3qXNDW1A7PbjzAHN-1" value="Venda Prospect COLETIVOS/ NETSales - Combo Multi" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="100" y="17.5" width="80" height="80" as="geometry" />
+        <mxCell id="BzSE3qXNDW1A7PbjzAHN-1" value="Venda Prospect COLETIVOS/ NETSales - Combo Multi" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="130" y="130" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BzSE3qXNDW1A7PbjzAHN-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="BzSE3qXNDW1A7PbjzAHN-3" target="BzSE3qXNDW1A7PbjzAHN-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -129,7 +178,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="BzSE3qXNDW1A7PbjzAHN-6" value="Cliente Presencial&lt;br&gt;/Televendas" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="34" y="25" width="30" height="65" as="geometry" />
+          <mxGeometry x="34" y="137.5" width="30" height="65" as="geometry" />
         </mxCell>
         <mxCell id="BzSE3qXNDW1A7PbjzAHN-7" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BzSE3qXNDW1A7PbjzAHN-6" target="BzSE3qXNDW1A7PbjzAHN-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -137,10 +186,13 @@
             <mxPoint x="440" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BzSE3qXNDW1A7PbjzAHN-8" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BzSE3qXNDW1A7PbjzAHN-1" target="BzSE3qXNDW1A7PbjzAHN-4" edge="1">
+        <mxCell id="BzSE3qXNDW1A7PbjzAHN-8" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BzSE3qXNDW1A7PbjzAHN-1" target="BzSE3qXNDW1A7PbjzAHN-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="60" y="68" as="sourcePoint" />
             <mxPoint x="100" y="68" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="140" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="BzSE3qXNDW1A7PbjzAHN-10" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="BzSE3qXNDW1A7PbjzAHN-4" target="BzSE3qXNDW1A7PbjzAHN-3" edge="1">
@@ -289,14 +341,20 @@
             <mxGeometry x="430" y="190" width="60" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="BzSE3qXNDW1A7PbjzAHN-44" value="&lt;h1&gt;Desenvolvimento&lt;/h1&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Nova regra pra identificar marcação de 5GSA no produto móvel.&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Novo campo de seleção de tecnologia 4G/5GSA na jornada para planos móveis (híbrido). Impacto na API Prospect Solar.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Novo campo na interface com ativação simplificada - Informar a tecnologia selecionada&lt;b&gt; (Robô e backend somente, sem alteração no NETSales/NETSMS): Global Hitss.&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Avaliar alteração na interface SOA ao carregar dados da móvel para início da jornada residencial.&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Jornada Prospect deve fornecer mesmo tipo de chip para titular e dependente(s).&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="10" y="171" width="430" height="270" as="geometry" />
+        <mxCell id="BzSE3qXNDW1A7PbjzAHN-44" value="&lt;h1&gt;Desenvolvimento&lt;/h1&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Alteração em JOB que carrega informações da móvel: premissa de novo campo nos arquivos gerados pela móvel e criação de novo campo (marcação tecnologia 5GSA) na base NETSMS;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Nova regra para exibir campo de tecnologia para planos com marcação. Esse campo será exibido na tela de agregado informativo e será obrigatório que o vendedor selecione uma opção de tecnologia (ex: 4G/5GSA);&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Ocultar campo &quot;agregados informativos&quot; no NETSales e habilitar matriz de agregado informativo x planos móveis, considerando somente 1 agregado para todos os planos (&lt;b&gt;avaliar impacto API Proposal BASE DXC&lt;/b&gt;);&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Novo campo na interface com ativação simplificada - Informar sempre a tecnologia contratada no plano (ex: 4G/5GSA):&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Robô e backend somente, sem alteração no NETSales/NETSMS &amp;gt;&amp;gt; Global Hitss.&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Avaliar e estimar possível impacto no processo de aviso de compras;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Estimar testes de faturamento&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="10" y="260" width="430" height="320" as="geometry" />
         </mxCell>
         <UserObject label="Vendedor seleciona tecnologia" placeholders="1" name="Variable" id="BzSE3qXNDW1A7PbjzAHN-45">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;overflow=hidden;" parent="1" vertex="1">
             <mxGeometry x="405" y="130" width="175" height="20" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="rwDETSkTa595uDJHdH-S-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="rwDETSkTa595uDJHdH-S-1" target="BzSE3qXNDW1A7PbjzAHN-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rwDETSkTa595uDJHdH-S-1" value="Arq Móvel" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="20" y="27.5" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -305,8 +363,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xgCM8T2wfnTooxRTCJ_P-1" value="Venda Base COLETIVOS/ NETSales - Combo Multi - Compra de aparelho 5G" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="90" y="17.5" width="80" height="80" as="geometry" />
+        <mxCell id="xgCM8T2wfnTooxRTCJ_P-1" value="Venda Base COLETIVOS/ NETSales - Combo Multi - Compra de aparelho 5G" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="120" y="130" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xgCM8T2wfnTooxRTCJ_P-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xgCM8T2wfnTooxRTCJ_P-3" target="xgCM8T2wfnTooxRTCJ_P-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -323,7 +381,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="xgCM8T2wfnTooxRTCJ_P-6" value="Cliente &lt;br&gt;Presencial" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="20" y="25" width="30" height="65" as="geometry" />
+          <mxGeometry x="20" y="137.5" width="30" height="65" as="geometry" />
         </mxCell>
         <mxCell id="xgCM8T2wfnTooxRTCJ_P-7" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xgCM8T2wfnTooxRTCJ_P-6" target="xgCM8T2wfnTooxRTCJ_P-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -331,10 +389,13 @@
             <mxPoint x="440" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xgCM8T2wfnTooxRTCJ_P-8" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="xgCM8T2wfnTooxRTCJ_P-1" target="xgCM8T2wfnTooxRTCJ_P-4" edge="1">
+        <mxCell id="xgCM8T2wfnTooxRTCJ_P-8" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="xgCM8T2wfnTooxRTCJ_P-1" target="xgCM8T2wfnTooxRTCJ_P-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="60" y="68" as="sourcePoint" />
             <mxPoint x="100" y="68" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="130" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="xgCM8T2wfnTooxRTCJ_P-10" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="xgCM8T2wfnTooxRTCJ_P-4" target="xgCM8T2wfnTooxRTCJ_P-3" edge="1">
@@ -460,8 +521,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="lSW8Ol8LpE-LNySNOqAo-1" value="&lt;h1&gt;Desenvolvimento&lt;/h1&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Nova regra pra identificar marcação de 5GSA no produto móvel.&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Novo campo de seleção de tecnologia 4G/5GSA na jornada para planos móveis (híbrido). Impacto na API Prospect Solar.&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Novo campo na interface com ativação simplificada - Informar a tecnologia selecionada&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;(Robô e backend somente, sem alteração no NETSales/NETSMS): Global Hitss.&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Avaliar alteração na interface SOA ao carregar dados da móvel para início da jornada residencial.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="10" y="168" width="460" height="240" as="geometry" />
+        <mxCell id="lSW8Ol8LpE-LNySNOqAo-1" value="&lt;h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;Desenvolvimento&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Alteração em JOB que carrega informações da móvel: premissa de novo campo nos arquivos gerados pela móvel e criação de novo campo (marcação tecnologia 5GSA) na base NETSMS;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Nova regra para exibir campo de tecnologia para planos com marcação. Esse campo será exibido na tela de agregado informativo e será obrigatório que o vendedor selecione uma opção de tecnologia (ex: 4G/5GSA);&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Ocultar campo &quot;agregados informativos&quot; no NETSales e habilitar matriz de agregado informativo x planos móveis, considerando somente 1 agregado para todos os planos (&lt;b&gt;a&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;valiar impacto API Proposal BASE DXC&lt;/b&gt;);&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Novo campo na interface com ativação simplificada - Informar sempre a tecnologia contratada no plano (ex: 4G/5GSA):&amp;nbsp;&lt;b style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;Robô e backend somente, sem alteração no NETSales/NETSMS &amp;gt;&amp;gt; Global Hitss.&lt;/b&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Avaliar e estimar possível impacto no processo de aviso de compras;&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;- Estimar testes de faturamento&lt;/p&gt;&lt;p style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/p&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="10" y="250" width="570" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="5xvRPVCRD9oMEfSXuEBJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="5xvRPVCRD9oMEfSXuEBJ-2" target="xgCM8T2wfnTooxRTCJ_P-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5xvRPVCRD9oMEfSXuEBJ-2" value="Arq Móvel" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="20" y="27.5" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
