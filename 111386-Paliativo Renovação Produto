@@ -1,9 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2024-01-11T13:36:37.636Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.17" etag="gYn5Dz0rij39V_53LLj0" type="github">
-  <diagram name="Página-1" id="9NC_XE7BJp2Cpajzk0Hw">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2024-01-11T13:45:33.995Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="V1Q6TVD0S0opHqhICE7_" version="22.1.17" type="github">
+  <diagram name="JOB Paliativo " id="9NC_XE7BJp2Cpajzk0Hw">
+    <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HlLjsGIlqe8vtFvJ3o76-14" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="224" y="162" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HlLjsGIlqe8vtFvJ3o76-10" value="SISTEMA NETSMS" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="135" y="11.5" width="400" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="HlLjsGIlqe8vtFvJ3o76-1" value="Faturamento" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="40" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HlLjsGIlqe8vtFvJ3o76-2" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="550" y="30" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HlLjsGIlqe8vtFvJ3o76-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HlLjsGIlqe8vtFvJ3o76-3" target="HlLjsGIlqe8vtFvJ3o76-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HlLjsGIlqe8vtFvJ3o76-3" value="Contrato" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="40" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HlLjsGIlqe8vtFvJ3o76-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HlLjsGIlqe8vtFvJ3o76-4" target="HlLjsGIlqe8vtFvJ3o76-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HlLjsGIlqe8vtFvJ3o76-4" value="Produto" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HlLjsGIlqe8vtFvJ3o76-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HlLjsGIlqe8vtFvJ3o76-1" target="HlLjsGIlqe8vtFvJ3o76-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HlLjsGIlqe8vtFvJ3o76-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HlLjsGIlqe8vtFvJ3o76-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="264" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HlLjsGIlqe8vtFvJ3o76-11" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Scheduler_Job_Collections.svg;" vertex="1" parent="1">
+          <mxGeometry x="230" y="170" width="68" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="HlLjsGIlqe8vtFvJ3o76-13" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1.012;exitY=0.512;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HlLjsGIlqe8vtFvJ3o76-11" target="HlLjsGIlqe8vtFvJ3o76-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="300" as="sourcePoint" />
+            <mxPoint x="440" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="450" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
