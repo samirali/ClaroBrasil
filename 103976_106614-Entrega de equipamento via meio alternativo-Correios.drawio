@@ -1,9 +1,54 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T19:29:56.535Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="KmUfi7DBJdNHLRWgoshL" version="22.1.19" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-16T19:42:55.016Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="jTAX4F16GGbYFTt18pjb" version="22.1.19" type="github">
   <diagram name="NETsales 8a base" id="4iqZcy0ypr-Ofrr7cWBn">
     <mxGraphModel dx="882" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="tc4ETKTeZo6GnV8Io1us-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tc4ETKTeZo6GnV8Io1us-1" target="tc4ETKTeZo6GnV8Io1us-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tc4ETKTeZo6GnV8Io1us-1" value="&lt;b&gt;NETSales&lt;/b&gt;&lt;br&gt;Venda Prospect&lt;br&gt;8a Base&lt;br&gt;Produto Claro Box (single)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="57.5" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tc4ETKTeZo6GnV8Io1us-5" value="Não" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tc4ETKTeZo6GnV8Io1us-2" target="tc4ETKTeZo6GnV8Io1us-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tc4ETKTeZo6GnV8Io1us-10" value="Sim" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tc4ETKTeZo6GnV8Io1us-2" target="tc4ETKTeZo6GnV8Io1us-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tc4ETKTeZo6GnV8Io1us-2" value="Cidade configurada para entrega via Correio?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="25" width="160" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="tc4ETKTeZo6GnV8Io1us-3" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="280" y="270" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tc4ETKTeZo6GnV8Io1us-4" value="Processo AS-IS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tc4ETKTeZo6GnV8Io1us-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tc4ETKTeZo6GnV8Io1us-8" target="tc4ETKTeZo6GnV8Io1us-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tc4ETKTeZo6GnV8Io1us-8" value="Permitir somente OSs configuradas para essas cidades, com &quot;entrega imediata&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="57.5" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tc4ETKTeZo6GnV8Io1us-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tc4ETKTeZo6GnV8Io1us-9" target="tc4ETKTeZo6GnV8Io1us-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tc4ETKTeZo6GnV8Io1us-9" value="Inibir tela de agendamento da OS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="57.5" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tc4ETKTeZo6GnV8Io1us-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tc4ETKTeZo6GnV8Io1us-12" target="tc4ETKTeZo6GnV8Io1us-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tc4ETKTeZo6GnV8Io1us-12" value="Informação que a entrega será feita via correios num período de &quot;x&quot; dias" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="200" width="130" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tc4ETKTeZo6GnV8Io1us-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="tc4ETKTeZo6GnV8Io1us-14" target="tc4ETKTeZo6GnV8Io1us-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tc4ETKTeZo6GnV8Io1us-14" value="Consumir uma nova API SAP para geração de Ordem de Venda" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="330" width="130" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
