@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-19T12:33:17.117Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="AhFTQ_AQD9eL7ejVU_7t" version="22.1.18" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-01-19T12:35:17.507Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="lQ78uIn4NTJYqXS1blv_" version="22.1.18" type="github" pages="3">
   <diagram name="NETsales 8a base" id="4iqZcy0ypr-Ofrr7cWBn">
     <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -253,7 +253,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="asfOfKA53KUrfIIepJ6K-23" value="TMS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="asfOfKA53KUrfIIepJ6K-1">
-          <mxGeometry x="400" y="340" width="130" height="90" as="geometry" />
+          <mxGeometry x="390" y="340" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="asfOfKA53KUrfIIepJ6K-24" value="&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Conversa com Correios para envio do Box&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Recebe código de Rastreio e envia para Cliente&lt;/li&gt;&lt;li&gt;Recebe confirmação de entrega dos Correios e faz baixa da OS no NETSMS (AS-IS)&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="asfOfKA53KUrfIIepJ6K-1">
           <mxGeometry x="360" y="440" width="310" height="60" as="geometry" />
@@ -315,8 +315,8 @@
             <mxPoint x="530" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ogM6qgWjIZY_bz6ZMJn7-21" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Após receber contrato criado, NETSales chama API SAP com as seguintes informações:&lt;/span&gt;&lt;ul&gt;&lt;li&gt;Nr de contrato,&amp;nbsp;&lt;/li&gt;&lt;li&gt;Dados assinante,&amp;nbsp;&lt;/li&gt;&lt;li&gt;Dados do produto ,&amp;nbsp;&lt;/li&gt;&lt;li&gt;OS gerado venda&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="asfOfKA53KUrfIIepJ6K-1">
-          <mxGeometry x="28" y="340" width="151" height="150" as="geometry" />
+        <mxCell id="ogM6qgWjIZY_bz6ZMJn7-21" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Após receber contrato criado, NETSales chama API SAP (assíncrona) com as seguintes informações:&lt;/span&gt;&lt;ul&gt;&lt;li&gt;Nr de contrato,&amp;nbsp;&lt;/li&gt;&lt;li&gt;Dados assinante,&amp;nbsp;&lt;/li&gt;&lt;li&gt;Dados do produto ,&amp;nbsp;&lt;/li&gt;&lt;li&gt;OS gerado venda&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="asfOfKA53KUrfIIepJ6K-1">
+          <mxGeometry x="28" y="340" width="162" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ogM6qgWjIZY_bz6ZMJn7-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=none;endFill=0;dashed=1;dashPattern=1 2;" edge="1" parent="asfOfKA53KUrfIIepJ6K-1" target="ogM6qgWjIZY_bz6ZMJn7-21">
           <mxGeometry relative="1" as="geometry">
