@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-24T18:33:54.455Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="lpPwMOZZDPVyohMvkh5r" version="22.1.21" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-24T18:39:53.263Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="8I1yxdUJjS17wbmTF3_N" version="22.1.21" type="github" pages="2">
   <diagram name="JOB Paliativo " id="9NC_XE7BJp2Cpajzk0Hw">
     <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -131,7 +131,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7zcu8a6w3wpVfPfR9nfr-12" value="&lt;span style=&quot;background-color: initial;&quot;&gt;1/ Execução diária procurando produtos para renovação;&lt;br&gt;&lt;/span&gt;2/&amp;nbsp;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Calcular vencimento de vigência;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Encerrar produto vigente no contrato;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Incluir produto novamente no contrato como se fosse a inclusão via aplicação;&lt;/span&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="7zcu8a6w3wpVfPfR9nfr-1" vertex="1">
+        <mxCell id="7zcu8a6w3wpVfPfR9nfr-12" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;1/&lt;/b&gt; Execução diária procurando produtos com vencimento (12 meses) na data de execução, para renovação em contratos ativos;&lt;br&gt;&lt;/span&gt;&lt;b&gt;2/&lt;/b&gt; Produtos que possuem marcação de &quot;não renovação&quot; no contrato, o JOB somente cancelará o produto no contrato;&lt;br&gt;&lt;b&gt;3/&lt;/b&gt; Produtos que não possuem a marcação de &quot;não renovação&quot; no contrato, o JOB deverá cancelar o produto, recolocar no contrato para nova vigência e registrar ocorrência de&amp;nbsp; renovação;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="7zcu8a6w3wpVfPfR9nfr-1" vertex="1">
           <mxGeometry x="60" y="220" width="210" height="210" as="geometry" />
         </mxCell>
         <mxCell id="7zcu8a6w3wpVfPfR9nfr-13" value="" style="group" parent="7zcu8a6w3wpVfPfR9nfr-1" vertex="1" connectable="0">
@@ -150,8 +150,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7zcu8a6w3wpVfPfR9nfr-17" value="&lt;ul&gt;&lt;li&gt;Tabelas com lista de produtos e duração para renovação automática;&lt;/li&gt;&lt;li&gt;Geração de Logs&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="7zcu8a6w3wpVfPfR9nfr-1" vertex="1">
-          <mxGeometry x="500" y="260" width="210" height="90" as="geometry" />
+        <mxCell id="7zcu8a6w3wpVfPfR9nfr-17" value="&lt;ul&gt;&lt;li&gt;Tabelas com lista de produtos, duração da vigência de renovação e ocorrências que serão utilizadas na renovação automática;&lt;/li&gt;&lt;li&gt;Geração de Logs&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="7zcu8a6w3wpVfPfR9nfr-1" vertex="1">
+          <mxGeometry x="500" y="260" width="210" height="110" as="geometry" />
         </mxCell>
         <mxCell id="7zcu8a6w3wpVfPfR9nfr-18" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;dashed=1;dashPattern=1 4;" parent="7zcu8a6w3wpVfPfR9nfr-1" source="7zcu8a6w3wpVfPfR9nfr-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
