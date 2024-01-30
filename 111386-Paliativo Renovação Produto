@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-29T19:09:50.290Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="gHGJEc6P-EfHpM-hISXK" version="22.1.22" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-01-30T12:55:01.839Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="ASDrwIZDgX29XXto5EAI" version="23.0.2" type="github" pages="3">
   <diagram name="JOB Paliativo " id="9NC_XE7BJp2Cpajzk0Hw">
-    <mxGraphModel dx="882" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -166,35 +166,35 @@
     </mxGraphModel>
   </diagram>
   <diagram name="JOB Paliativo v3" id="TkIJRVC2wUR0NXOOeY6-">
-    <mxGraphModel dx="882" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="krLppEacRg1KD-BS9jLe-0" />
         <mxCell id="krLppEacRg1KD-BS9jLe-1" parent="krLppEacRg1KD-BS9jLe-0" />
-        <mxCell id="krLppEacRg1KD-BS9jLe-2" value="SISTEMA NETSMS" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="krLppEacRg1KD-BS9jLe-1">
+        <mxCell id="krLppEacRg1KD-BS9jLe-2" value="SISTEMA NETSMS" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="krLppEacRg1KD-BS9jLe-1" vertex="1">
           <mxGeometry x="135" y="11.5" width="400" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="krLppEacRg1KD-BS9jLe-3" value="Faturamento" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="krLppEacRg1KD-BS9jLe-1">
+        <mxCell id="krLppEacRg1KD-BS9jLe-3" value="Faturamento" style="rounded=1;whiteSpace=wrap;html=1;" parent="krLppEacRg1KD-BS9jLe-1" vertex="1">
           <mxGeometry x="420" y="40" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="krLppEacRg1KD-BS9jLe-4" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="krLppEacRg1KD-BS9jLe-1">
+        <mxCell id="krLppEacRg1KD-BS9jLe-4" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="krLppEacRg1KD-BS9jLe-1" vertex="1">
           <mxGeometry x="550" y="30" width="90" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="krLppEacRg1KD-BS9jLe-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="krLppEacRg1KD-BS9jLe-1" source="krLppEacRg1KD-BS9jLe-6" target="krLppEacRg1KD-BS9jLe-3">
+        <mxCell id="krLppEacRg1KD-BS9jLe-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="krLppEacRg1KD-BS9jLe-1" source="krLppEacRg1KD-BS9jLe-6" target="krLppEacRg1KD-BS9jLe-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="krLppEacRg1KD-BS9jLe-6" value="Contrato" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="krLppEacRg1KD-BS9jLe-1">
+        <mxCell id="krLppEacRg1KD-BS9jLe-6" value="Contrato" style="rounded=1;whiteSpace=wrap;html=1;" parent="krLppEacRg1KD-BS9jLe-1" vertex="1">
           <mxGeometry x="290" y="40" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="krLppEacRg1KD-BS9jLe-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="krLppEacRg1KD-BS9jLe-1" source="krLppEacRg1KD-BS9jLe-8" target="krLppEacRg1KD-BS9jLe-6">
+        <mxCell id="krLppEacRg1KD-BS9jLe-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="krLppEacRg1KD-BS9jLe-1" source="krLppEacRg1KD-BS9jLe-8" target="krLppEacRg1KD-BS9jLe-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="krLppEacRg1KD-BS9jLe-8" value="Produto" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="krLppEacRg1KD-BS9jLe-1">
+        <mxCell id="krLppEacRg1KD-BS9jLe-8" value="Produto" style="rounded=1;whiteSpace=wrap;html=1;" parent="krLppEacRg1KD-BS9jLe-1" vertex="1">
           <mxGeometry x="160" y="40" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="krLppEacRg1KD-BS9jLe-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="krLppEacRg1KD-BS9jLe-1" source="krLppEacRg1KD-BS9jLe-3" target="krLppEacRg1KD-BS9jLe-4">
+        <mxCell id="krLppEacRg1KD-BS9jLe-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="krLppEacRg1KD-BS9jLe-1" source="krLppEacRg1KD-BS9jLe-3" target="krLppEacRg1KD-BS9jLe-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="krLppEacRg1KD-BS9jLe-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="krLppEacRg1KD-BS9jLe-1" source="krLppEacRg1KD-BS9jLe-14" target="krLppEacRg1KD-BS9jLe-8">
+        <mxCell id="krLppEacRg1KD-BS9jLe-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="krLppEacRg1KD-BS9jLe-1" source="krLppEacRg1KD-BS9jLe-14" target="krLppEacRg1KD-BS9jLe-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="264" y="70" as="targetPoint" />
             <mxPoint x="310" y="140" as="sourcePoint" />
@@ -204,7 +204,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="krLppEacRg1KD-BS9jLe-11" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="krLppEacRg1KD-BS9jLe-1" source="krLppEacRg1KD-BS9jLe-14" target="krLppEacRg1KD-BS9jLe-4">
+        <mxCell id="krLppEacRg1KD-BS9jLe-11" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="krLppEacRg1KD-BS9jLe-1" source="krLppEacRg1KD-BS9jLe-14" target="krLppEacRg1KD-BS9jLe-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="202" as="sourcePoint" />
             <mxPoint x="440" y="250" as="targetPoint" />
@@ -213,29 +213,29 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="krLppEacRg1KD-BS9jLe-12" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;1/&lt;/b&gt; Execução diária, lendo tabela de controle alimentada pelo JOB1,&amp;nbsp; procurando produtos com vencimento (12 meses) na data de execução e ação necessária para cada produto;&lt;br&gt;&lt;/span&gt;&lt;b&gt;2/&lt;/b&gt; Produtos que possuem marcação de &quot;não renovação&quot; no contrato, o JOB somente cancelará o produto no contrato, criará uma ocorrência de cancelamento no contrato e excluirá a linha na tabela de controle;&lt;br&gt;&lt;b&gt;3/&lt;/b&gt; Produtos que não possuem a marcação de &quot;não renovação&quot; no contrato, o JOB deverá cancelar o produto (excluindo a linha na tabela de controle) e recolocar no contrato para nova vigência (excluindo também essa linha na tabela de controle) e registrar ocorrência de renovação no contrato;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="krLppEacRg1KD-BS9jLe-1">
-          <mxGeometry x="60" y="220" width="210" height="290" as="geometry" />
+        <mxCell id="krLppEacRg1KD-BS9jLe-12" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;1/&lt;/b&gt; Execução diária, lendo tabela de controle alimentada pelo JOB1,&amp;nbsp; procurando produtos com vencimento (12 meses) na data de execução e ação necessária para cada produto;&lt;br&gt;&lt;/span&gt;&lt;b&gt;2/&lt;/b&gt; Produtos que possuem marcação de &quot;não renovação&quot; no contrato, o JOB somente cancelará o produto no contrato, criará uma ocorrência de cancelamento no contrato e excluirá a linha na tabela de controle;&lt;br&gt;&lt;b&gt;3/&lt;/b&gt; Produtos que não possuem a marcação de &quot;não renovação&quot; no contrato, o JOB deverá cancelar o produto (excluindo a linha na tabela de controle) e recolocar no contrato para nova vigência (excluindo também essa linha na tabela de controle) e registrar ocorrência de renovação no contrato;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="krLppEacRg1KD-BS9jLe-1" vertex="1">
+          <mxGeometry y="220" width="210" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="krLppEacRg1KD-BS9jLe-13" value="" style="group" vertex="1" connectable="0" parent="krLppEacRg1KD-BS9jLe-1">
+        <mxCell id="krLppEacRg1KD-BS9jLe-13" value="" style="group" parent="krLppEacRg1KD-BS9jLe-1" vertex="1" connectable="0">
           <mxGeometry x="300" y="162" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="krLppEacRg1KD-BS9jLe-14" value="JOB 2" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;verticalAlign=top;" vertex="1" parent="krLppEacRg1KD-BS9jLe-13">
+        <mxCell id="krLppEacRg1KD-BS9jLe-14" value="JOB 2" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;verticalAlign=top;" parent="krLppEacRg1KD-BS9jLe-13" vertex="1">
           <mxGeometry y="-30" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="krLppEacRg1KD-BS9jLe-15" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Scheduler_Job_Collections.svg;" vertex="1" parent="krLppEacRg1KD-BS9jLe-13">
+        <mxCell id="krLppEacRg1KD-BS9jLe-15" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Scheduler_Job_Collections.svg;" parent="krLppEacRg1KD-BS9jLe-13" vertex="1">
           <mxGeometry x="21" y="8" width="68" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="krLppEacRg1KD-BS9jLe-16" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;dashPattern=1 4;" edge="1" parent="krLppEacRg1KD-BS9jLe-1" source="krLppEacRg1KD-BS9jLe-12">
+        <mxCell id="krLppEacRg1KD-BS9jLe-16" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;dashPattern=1 4;" parent="krLppEacRg1KD-BS9jLe-1" source="krLppEacRg1KD-BS9jLe-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="190" as="sourcePoint" />
             <mxPoint x="160" y="200" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="krLppEacRg1KD-BS9jLe-17" value="&lt;div&gt;&lt;b&gt;1/ &lt;/b&gt;Diário: atualiza tabela de controle com contratos, produtos (somente os 10 definidos para controle paliativo), data de contratação e ação (cancelamento e renovação) dos produtos com base nas marcações registradas nas ocorrências do contrato.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;Caso o JOB seja interrompido, essa tabela garante a execução contínua do processo com segurança.&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="krLppEacRg1KD-BS9jLe-1">
+        <mxCell id="krLppEacRg1KD-BS9jLe-17" value="&lt;div&gt;&lt;b&gt;1/ &lt;/b&gt;Diário: atualiza tabela de controle com contratos, produtos (somente os 10 definidos para controle paliativo), data de contratação e ação (cancelamento e renovação) dos produtos com base nas marcações registradas nas ocorrências do contrato.&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;Caso o JOB seja interrompido, essa tabela garante a execução contínua do processo com segurança.&lt;/div&gt;" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="krLppEacRg1KD-BS9jLe-1" vertex="1">
           <mxGeometry x="602" y="350" width="210" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="krLppEacRg1KD-BS9jLe-18" value="" style="endArrow=none;html=1;rounded=0;exitX=0.683;exitY=-0.009;exitDx=0;exitDy=0;dashed=1;dashPattern=1 4;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="krLppEacRg1KD-BS9jLe-1" source="krLppEacRg1KD-BS9jLe-17" target="alPtGzlW9Buq7zWRn3jx-1">
+        <mxCell id="krLppEacRg1KD-BS9jLe-18" value="" style="endArrow=none;html=1;rounded=0;exitX=0.683;exitY=-0.009;exitDx=0;exitDy=0;dashed=1;dashPattern=1 4;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" parent="krLppEacRg1KD-BS9jLe-1" source="krLppEacRg1KD-BS9jLe-17" target="alPtGzlW9Buq7zWRn3jx-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="175" y="230" as="sourcePoint" />
             <mxPoint x="600" y="170" as="targetPoint" />
@@ -244,13 +244,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="alPtGzlW9Buq7zWRn3jx-0" value="JOB 1" style="group" vertex="1" connectable="0" parent="krLppEacRg1KD-BS9jLe-1">
+        <mxCell id="alPtGzlW9Buq7zWRn3jx-0" value="JOB 1" style="group" parent="krLppEacRg1KD-BS9jLe-1" vertex="1" connectable="0">
           <mxGeometry x="690" y="210" width="110" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="alPtGzlW9Buq7zWRn3jx-1" value="JOB 1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;fontStyle=1" vertex="1" parent="alPtGzlW9Buq7zWRn3jx-0">
+        <mxCell id="alPtGzlW9Buq7zWRn3jx-1" value="JOB 1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;fontStyle=1" parent="alPtGzlW9Buq7zWRn3jx-0" vertex="1">
           <mxGeometry y="-30" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="alPtGzlW9Buq7zWRn3jx-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Scheduler_Job_Collections.svg;" vertex="1" parent="alPtGzlW9Buq7zWRn3jx-0">
+        <mxCell id="alPtGzlW9Buq7zWRn3jx-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Scheduler_Job_Collections.svg;" parent="alPtGzlW9Buq7zWRn3jx-0" vertex="1">
           <mxGeometry x="21" y="8" width="68" height="64" as="geometry" />
         </mxCell>
       </root>
