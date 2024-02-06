@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-06T17:34:51.827Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="MsyuwtA9vfrLz6GxjE_B" version="23.1.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-02-06T17:36:27.378Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="04NPDk6r0tJwpUkR_A5G" version="23.1.1" type="github" pages="5">
   <diagram name="NETsales 8a base" id="4iqZcy0ypr-Ofrr7cWBn">
     <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -430,7 +430,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uQ6RdWT5HSYz51_eVaMF-19" value="Buscar cidade / produto que é entregue por correios - sem instalação (Opção de MS ou tabela de controle)" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+        <mxCell id="uQ6RdWT5HSYz51_eVaMF-19" value="Buscar cidade / produto que é entregue por correios - sem instalação (Opção de MS &lt;b&gt;&lt;u&gt;ou &lt;/u&gt;&lt;/b&gt;tabela de controle)" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="10" y="10" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uQ6RdWT5HSYz51_eVaMF-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" parent="1" source="uQ6RdWT5HSYz51_eVaMF-17" target="uQ6RdWT5HSYz51_eVaMF-14" edge="1">
