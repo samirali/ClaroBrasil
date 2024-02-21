@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-21T14:01:43.850Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="7PNhwXB_62S8H-Uy7phf" version="23.1.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-02-21T14:12:05.550Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="o_AdfvgXgL3y24bz-SVR" version="23.1.1" type="github" pages="7">
   <diagram name="NETsales 8a base" id="4iqZcy0ypr-Ofrr7cWBn">
     <mxGraphModel dx="1114" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -602,12 +602,12 @@
     </mxGraphModel>
   </diagram>
   <diagram name="NETsales 8a base v6" id="27xy_pfF8fnPULbu83uv">
-    <mxGraphModel dx="1114" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="SLOGEgdLDkdTCwGqOjkP-0" />
         <mxCell id="SLOGEgdLDkdTCwGqOjkP-1" parent="SLOGEgdLDkdTCwGqOjkP-0" />
         <mxCell id="SLOGEgdLDkdTCwGqOjkP-7" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="SLOGEgdLDkdTCwGqOjkP-1">
-          <mxGeometry x="130" y="168" width="499" height="222" as="geometry" />
+          <mxGeometry x="190" y="168" width="499" height="222" as="geometry" />
         </mxCell>
         <mxCell id="SLOGEgdLDkdTCwGqOjkP-2" value="SAP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SLOGEgdLDkdTCwGqOjkP-1">
           <mxGeometry x="529" y="10" width="120" height="60" as="geometry" />
@@ -615,11 +615,12 @@
         <mxCell id="SLOGEgdLDkdTCwGqOjkP-3" value="TMS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="SLOGEgdLDkdTCwGqOjkP-1">
           <mxGeometry x="699" y="10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SLOGEgdLDkdTCwGqOjkP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="SLOGEgdLDkdTCwGqOjkP-1" source="SLOGEgdLDkdTCwGqOjkP-5" target="B1lXPSx_v0mM_PX9eFxr-0">
+        <mxCell id="SLOGEgdLDkdTCwGqOjkP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="SLOGEgdLDkdTCwGqOjkP-1" source="SLOGEgdLDkdTCwGqOjkP-5" target="B1lXPSx_v0mM_PX9eFxr-0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="310" y="480" as="targetPoint" />
             <Array as="points">
               <mxPoint x="200" y="55" />
+              <mxPoint x="200" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -677,7 +678,7 @@
         <mxCell id="SLOGEgdLDkdTCwGqOjkP-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;dashPattern=1 2;" edge="1" parent="SLOGEgdLDkdTCwGqOjkP-1" source="SLOGEgdLDkdTCwGqOjkP-16" target="SLOGEgdLDkdTCwGqOjkP-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SLOGEgdLDkdTCwGqOjkP-16" value="Abrir uma OS nova conforme o parametro da CIDADE" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="SLOGEgdLDkdTCwGqOjkP-1">
+        <mxCell id="SLOGEgdLDkdTCwGqOjkP-16" value="Abrir uma OS nova conforme o parâmetro da CIDADE" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="SLOGEgdLDkdTCwGqOjkP-1">
           <mxGeometry x="395" y="416" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SLOGEgdLDkdTCwGqOjkP-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;dashPattern=1 2;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="SLOGEgdLDkdTCwGqOjkP-1" source="SLOGEgdLDkdTCwGqOjkP-18">
@@ -688,8 +689,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SLOGEgdLDkdTCwGqOjkP-18" value="NETSales precisa saber&amp;nbsp; qual &lt;b&gt;TIPO DE ENTREGA &lt;/b&gt;por produto. &lt;br&gt;&lt;br&gt;Depois consulta o &quot;&lt;b&gt;endereço x tipo de entrega&lt;/b&gt;&quot;, e consegue identificar o que ofertar ao cliente.&lt;br&gt;&lt;br&gt;Com essas informações , faz a SOLIC correta para essa venda." style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="SLOGEgdLDkdTCwGqOjkP-1">
-          <mxGeometry x="10" y="10" width="180" height="150" as="geometry" />
+        <mxCell id="SLOGEgdLDkdTCwGqOjkP-18" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;NETSales identifica:&lt;/span&gt;&lt;/div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;endereço é para 8ª base&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;venda é prospect,&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;produto Claro Box&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;single&lt;/li&gt;&lt;/ul&gt;&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;Depois consulta nova tabela pra saber se correios entrega no endereço.&lt;br&gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;Com essas informações, faz a SOLIC correta para essa venda." style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="SLOGEgdLDkdTCwGqOjkP-1">
+          <mxGeometry x="5" y="10" width="180" height="200" as="geometry" />
         </mxCell>
         <mxCell id="SLOGEgdLDkdTCwGqOjkP-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="SLOGEgdLDkdTCwGqOjkP-1" source="SLOGEgdLDkdTCwGqOjkP-21" target="SLOGEgdLDkdTCwGqOjkP-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -715,7 +716,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="B1lXPSx_v0mM_PX9eFxr-0" value="CIDADE X CORREIO" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="SLOGEgdLDkdTCwGqOjkP-1">
-          <mxGeometry x="150" y="310" width="100" height="60" as="geometry">
+          <mxGeometry x="230" y="310" width="100" height="60" as="geometry">
             <mxRectangle x="253" y="200" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
