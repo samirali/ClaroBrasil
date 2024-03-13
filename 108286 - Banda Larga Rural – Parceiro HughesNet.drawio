@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T21:00:30.404Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="w19AuezJYIUyY_GfDunM" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-13T21:04:37.344Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="-a8bu7h6V11BkYaEPSap" version="23.1.6" type="github">
   <diagram name="Página-1" id="brPBzLyYafh6lxW2ac8o">
     <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="I_z2C57ImOtiOZ5cPh4z-8" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="420" y="120" width="370" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="I_z2C57ImOtiOZ5cPh4z-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="I_z2C57ImOtiOZ5cPh4z-1" target="I_z2C57ImOtiOZ5cPh4z-6">
+        <mxCell id="I_z2C57ImOtiOZ5cPh4z-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="I_z2C57ImOtiOZ5cPh4z-1" target="I_z2C57ImOtiOZ5cPh4z-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I_z2C57ImOtiOZ5cPh4z-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="I_z2C57ImOtiOZ5cPh4z-1" target="I_z2C57ImOtiOZ5cPh4z-9">
@@ -34,10 +34,14 @@
         <mxCell id="I_z2C57ImOtiOZ5cPh4z-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;dashPattern=1 2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="I_z2C57ImOtiOZ5cPh4z-17" target="I_z2C57ImOtiOZ5cPh4z-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="315" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="390" y="155" />
+              <mxPoint x="390" y="248" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="I_z2C57ImOtiOZ5cPh4z-17" value="&lt;div&gt;NETSMS&amp;nbsp; deverá criar SOLIC de Adesão Ponto Adicional da BL Rural com OS, sem agenda e sem a necessidade de equipamento.&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Ponto 1 =&amp;gt; Acesso (Fake)&lt;/li&gt;&lt;li&gt;Ponto 2 =&amp;gt; Ponto de BL sem Equipamento&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;shadow=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="90" y="220" width="280" height="110" as="geometry" />
+          <mxGeometry x="90" y="100" width="280" height="110" as="geometry" />
         </mxCell>
         <mxCell id="I_z2C57ImOtiOZ5cPh4z-19" value="OS" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="620" y="310" width="100" height="50" as="geometry" />
@@ -47,6 +51,9 @@
         </mxCell>
         <mxCell id="I_z2C57ImOtiOZ5cPh4z-22" value="Novo JOB (finaliza &lt;br&gt;OSs abertas não &lt;br&gt;finalizados pelo &lt;br&gt;parceiro)" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Scheduler_Job_Collections.svg;" vertex="1" parent="1">
           <mxGeometry x="646" y="164.82" width="48" height="45.18" as="geometry" />
+        </mxCell>
+        <mxCell id="I_z2C57ImOtiOZ5cPh4z-24" value="&lt;h1&gt;Validar:&lt;/h1&gt;&lt;p&gt;Alteração em tela no NETSales pra exibir viabilidade satélite BL Rural?&lt;/p&gt;&lt;p&gt;Avaliar Impactos API Proposals&lt;/p&gt;&lt;p&gt;Estimar suporte testes API (8ª base não foi validado no Solar Produção&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="220" width="260" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
