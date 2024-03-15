@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-15T18:21:06.527Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="z5VNXxGOnG9I_QTsB6Di" version="23.1.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-15T18:23:56.325Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="U9lgQdLx-wktTC12eGBJ" version="23.1.7" type="github" pages="3">
   <diagram name="Diagrama BSS" id="brPBzLyYafh6lxW2ac8o">
     <mxGraphModel dx="882" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -171,9 +171,6 @@
         </mxCell>
         <mxCell id="R7grY3htHVm3ZrxlKtAH-15" value="Novo JOB (finaliza &lt;br&gt;OS abertas não &lt;br&gt;finalizados pelo &lt;br&gt;parceiro)" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Scheduler_Job_Collections.svg;" vertex="1" parent="R7grY3htHVm3ZrxlKtAH-1">
           <mxGeometry x="646" y="164.82" width="48" height="45.18" as="geometry" />
-        </mxCell>
-        <mxCell id="0q1HgZSBIbOTJgC_hgl_-0" value="&lt;h1&gt;Validar:&lt;/h1&gt;&lt;p&gt;Alteração em tela no NETSales pra exibir viabilidade satélite BL Rural?&lt;/p&gt;&lt;p&gt;Avaliar Impactos API Proposals&lt;/p&gt;&lt;p&gt;Estimar suporte testes API (8ª base não foi validado no Solar Produção)&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="R7grY3htHVm3ZrxlKtAH-1">
-          <mxGeometry x="90" y="290" width="260" height="160" as="geometry" />
         </mxCell>
         <mxCell id="0q1HgZSBIbOTJgC_hgl_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="R7grY3htHVm3ZrxlKtAH-1" source="0q1HgZSBIbOTJgC_hgl_-1" target="R7grY3htHVm3ZrxlKtAH-8">
           <mxGeometry relative="1" as="geometry">
