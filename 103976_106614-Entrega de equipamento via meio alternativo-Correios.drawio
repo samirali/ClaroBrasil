@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-19T12:28:30.682Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="OocblBLEsjwUeIAGsCGB" version="24.0.6" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-19T12:30:32.320Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ONMHlFETUG_x9SJGpnKj" version="24.0.6" type="github" pages="8">
   <diagram name="NETsales 8a base" id="4iqZcy0ypr-Ofrr7cWBn">
     <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -794,7 +794,7 @@
         <mxCell id="Ca5mU-vAoyhrHF1oLMte-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;dashPattern=1 2;" edge="1" parent="Ca5mU-vAoyhrHF1oLMte-1" source="Ca5mU-vAoyhrHF1oLMte-16" target="Ca5mU-vAoyhrHF1oLMte-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ca5mU-vAoyhrHF1oLMte-16" value="Abrir uma OS nova conforme o parâmetro da CIDADE" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="Ca5mU-vAoyhrHF1oLMte-1">
+        <mxCell id="Ca5mU-vAoyhrHF1oLMte-16" value="Abrir uma OS nova conforme o parâmetro da CIDADE" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="Ca5mU-vAoyhrHF1oLMte-1">
           <mxGeometry x="395" y="416" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Ca5mU-vAoyhrHF1oLMte-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;dashPattern=1 2;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="Ca5mU-vAoyhrHF1oLMte-1" source="Ca5mU-vAoyhrHF1oLMte-18">
@@ -805,7 +805,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ca5mU-vAoyhrHF1oLMte-18" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;NETSales identifica:&lt;/span&gt;&lt;/div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;endereço é para 8ª base&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;venda é prospect,&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;produto Claro Box&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;single&lt;/li&gt;&lt;/ul&gt;&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;Depois consulta nova tabela pra saber se correios entrega no endereço.&lt;br&gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;Com essas informações, faz a SOLIC correta para essa venda." style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="Ca5mU-vAoyhrHF1oLMte-1">
+        <mxCell id="Ca5mU-vAoyhrHF1oLMte-18" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;NETSales identifica:&lt;/span&gt;&lt;/div&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;endereço é para 8ª base&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;venda é prospect,&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;produto Claro Box&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;single&lt;/li&gt;&lt;/ul&gt;&lt;span style=&quot;text-align: left; background-color: initial;&quot;&gt;Depois consulta nova tabela pra saber se correios entrega no endereço.&lt;br&gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;Com essas informações, faz a SOLIC correta para essa venda." style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="Ca5mU-vAoyhrHF1oLMte-1">
           <mxGeometry x="5" y="10" width="180" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Ca5mU-vAoyhrHF1oLMte-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Ca5mU-vAoyhrHF1oLMte-1" source="Ca5mU-vAoyhrHF1oLMte-21" target="Ca5mU-vAoyhrHF1oLMte-14">
