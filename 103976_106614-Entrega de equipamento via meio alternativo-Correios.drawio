@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-19T12:39:03.057Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="PrvgMnBpQazyrcZ7yAMn" version="24.0.6" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-19T12:41:14.069Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="XMdqS4ys9eo4fi6SPsSt" version="24.0.6" type="github" pages="8">
   <diagram name="NETsales 8a base" id="4iqZcy0ypr-Ofrr7cWBn">
     <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -731,7 +731,7 @@
         <mxCell id="Ca5mU-vAoyhrHF1oLMte-2" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="Ca5mU-vAoyhrHF1oLMte-1">
           <mxGeometry x="190" y="168" width="499" height="222" as="geometry" />
         </mxCell>
-        <mxCell id="Ca5mU-vAoyhrHF1oLMte-3" value="SAP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ca5mU-vAoyhrHF1oLMte-1">
+        <mxCell id="Ca5mU-vAoyhrHF1oLMte-3" value="SAP&amp;nbsp;&lt;div style=&quot;font-size: 10px;&quot;&gt;(&lt;span style=&quot;background-color: initial;&quot;&gt;PPM 109939 Emissão de NF comodato&amp;nbsp;&lt;/span&gt;&lt;div&gt;pra CPF)&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ca5mU-vAoyhrHF1oLMte-1">
           <mxGeometry x="529" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u2yNKoBjxBjs6UNElgUj-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Ca5mU-vAoyhrHF1oLMte-1" source="Ca5mU-vAoyhrHF1oLMte-4" target="u2yNKoBjxBjs6UNElgUj-0">
@@ -839,7 +839,7 @@
         <mxCell id="u2yNKoBjxBjs6UNElgUj-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Ca5mU-vAoyhrHF1oLMte-1" source="u2yNKoBjxBjs6UNElgUj-0" target="Ca5mU-vAoyhrHF1oLMte-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="u2yNKoBjxBjs6UNElgUj-0" value="API BAIXA DE OS &lt;font style=&quot;font-size: 11px;&quot;&gt;(&lt;span style=&quot;background-color: initial;&quot;&gt;/residential/v1/&lt;/span&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;serviceorders/&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;accomplishmen&lt;/font&gt;&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;ts)&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ca5mU-vAoyhrHF1oLMte-1">
+        <mxCell id="u2yNKoBjxBjs6UNElgUj-0" value="API BAIXA DE OS &lt;font style=&quot;font-size: 10px;&quot;&gt;(&lt;span style=&quot;background-color: initial;&quot;&gt;/residential/v1/&lt;/span&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;serviceorders/&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;accomplishmen&lt;/font&gt;&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;ts)&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ca5mU-vAoyhrHF1oLMte-1">
           <mxGeometry x="699" y="202" width="120" height="72" as="geometry" />
         </mxCell>
       </root>
