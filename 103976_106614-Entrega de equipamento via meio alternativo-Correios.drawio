@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T13:26:40.788Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="R6v2XoYrEOtFHYMzKQ8l" version="24.0.7" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-03-27T13:32:33.789Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="F7NZJbYQgyO3iowN3C81" version="24.0.7" type="github" pages="10">
   <diagram name="NETsales 8a base" id="4iqZcy0ypr-Ofrr7cWBn">
     <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1039,6 +1039,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="Lf6ckJ60ZMfERbLxy-LX-18" value="trigger" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="Lf6ckJ60ZMfERbLxy-LX-6">
+          <mxGeometry x="0.1525" y="-1" relative="1" as="geometry">
+            <mxPoint y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YmPj8IhcIeyqnObXmGBD-9" value="OS" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="YmPj8IhcIeyqnObXmGBD-1">
           <mxGeometry x="376" y="204" width="75" height="60" as="geometry">
             <mxRectangle x="510" y="200" width="60" height="30" as="alternateBounds" />
@@ -1085,14 +1090,14 @@
         <mxCell id="YmPj8IhcIeyqnObXmGBD-14" value="TRIGGER" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="YmPj8IhcIeyqnObXmGBD-1">
           <mxGeometry x="368" y="290" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YmPj8IhcIeyqnObXmGBD-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;dashPattern=1 2;" edge="1" parent="YmPj8IhcIeyqnObXmGBD-1" source="YmPj8IhcIeyqnObXmGBD-16" target="YmPj8IhcIeyqnObXmGBD-14">
+        <mxCell id="YmPj8IhcIeyqnObXmGBD-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;dashPattern=1 2;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="YmPj8IhcIeyqnObXmGBD-1" source="YmPj8IhcIeyqnObXmGBD-16" target="YmPj8IhcIeyqnObXmGBD-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YmPj8IhcIeyqnObXmGBD-16" value="Abrir uma OS nova conforme o parâmetro da CIDADE" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="YmPj8IhcIeyqnObXmGBD-1">
-          <mxGeometry x="100" y="350" width="170" height="50" as="geometry" />
+          <mxGeometry x="313" y="370" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YmPj8IhcIeyqnObXmGBD-18" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;NETSales:&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Identifica se endereço é para 8ª base,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;venda é prospect,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;produto Claro Box&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;single;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Consulta nova tabela pra saber se correios entrega no endereço;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Cria SOLIC correta para essa venda;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Cria OS nova da venda pelo correio;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;API Proposals/Confirmations:&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Alteração data agendamento (obrigatório hoje)&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="YmPj8IhcIeyqnObXmGBD-1">
-          <mxGeometry x="500" y="300" width="320" height="210" as="geometry" />
+        <mxCell id="YmPj8IhcIeyqnObXmGBD-18" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;NETSales:&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1/ Identifica se endereço é para 8ª base,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;venda é prospect,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;produto Claro Box&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;single;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2/ Consulta tabela de cidade x correios;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3/&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Cria SOLIC correta para essa venda;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4/ Cria OS nova da venda pelo correio;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="YmPj8IhcIeyqnObXmGBD-1">
+          <mxGeometry x="520" y="310" width="270" height="110" as="geometry" />
         </mxCell>
         <mxCell id="YmPj8IhcIeyqnObXmGBD-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="YmPj8IhcIeyqnObXmGBD-1" source="YmPj8IhcIeyqnObXmGBD-21" target="YmPj8IhcIeyqnObXmGBD-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1147,6 +1152,15 @@
         </mxCell>
         <mxCell id="Lf6ckJ60ZMfERbLxy-LX-10" value="OSS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="YmPj8IhcIeyqnObXmGBD-1">
           <mxGeometry x="10" y="167" width="60" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf6ckJ60ZMfERbLxy-LX-19" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;API Proposals/Confirmations:&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Alteração data agendamento (obrigatório hoje)&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="YmPj8IhcIeyqnObXmGBD-1">
+          <mxGeometry x="31" y="370" width="252" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Lf6ckJ60ZMfERbLxy-LX-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.36;entryY=1.013;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;dashPattern=1 2;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="YmPj8IhcIeyqnObXmGBD-1" source="Lf6ckJ60ZMfERbLxy-LX-19" target="YmPj8IhcIeyqnObXmGBD-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="350" as="sourcePoint" />
+            <mxPoint x="70" y="300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
