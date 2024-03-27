@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T15:17:24.849Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="7TgoFxU8mtG1PCeVItnf" version="24.2.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-03-27T15:17:39.018Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="kW-qRZyZgep9KvlqS8jy" version="24.2.0" type="github" pages="4">
   <diagram name="Diagrama BSS" id="brPBzLyYafh6lxW2ac8o">
     <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -237,7 +237,7 @@
         <mxCell id="NhdvkZw_e-cLIZV78MXg-12" value="&lt;div&gt;NETSMS&amp;nbsp; deverá criar SOLIC de Adesão Ponto Adicional da BL Rural com OS, sem agenda e sem a necessidade de equipamento.&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Ponto 1 =&amp;gt; Acesso (Fake)&lt;/li&gt;&lt;li&gt;Ponto 2 =&amp;gt; Ponto de BL sem Equipamento&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="NhdvkZw_e-cLIZV78MXg-1">
           <mxGeometry x="90" y="220" width="280" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="NhdvkZw_e-cLIZV78MXg-13" value="OS" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="NhdvkZw_e-cLIZV78MXg-1">
+        <mxCell id="NhdvkZw_e-cLIZV78MXg-13" value="OS" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="NhdvkZw_e-cLIZV78MXg-1">
           <mxGeometry x="620" y="310" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NhdvkZw_e-cLIZV78MXg-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="NhdvkZw_e-cLIZV78MXg-1" source="NhdvkZw_e-cLIZV78MXg-18" target="NhdvkZw_e-cLIZV78MXg-8">
