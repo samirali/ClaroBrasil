@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-02T20:15:21.836Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="7XUGyeusAr8V75QqNT_a" version="24.2.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-02T20:17:05.971Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Dq3ZZ1iq7TfjF7mYGmnB" version="24.2.0" type="github" pages="2">
   <diagram name="Prospect PF" id="dAGvHACqdjxYj1iJdW_O">
     <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,9 +35,6 @@
         </mxCell>
         <mxCell id="nN-nPYbY2K0z0jNPlknn-7" value="URA" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="30" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="nN-nPYbY2K0z0jNPlknn-8" value="Residencial" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="30" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nN-nPYbY2K0z0jNPlknn-10" value="NETSales" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="340" width="80" height="60" as="geometry" />
