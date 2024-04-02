@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-02T13:15:24.419Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="uycqpznajVr-grq7h_8D" version="24.2.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-02T13:17:38.528Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="rU83HqVnuxa7O_jJQDt0" version="24.2.0" type="github" pages="2">
   <diagram name="Página-1" id="dAGvHACqdjxYj1iJdW_O">
     <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -57,9 +57,6 @@
         <mxCell id="B8MrUZAMXsD1WSaeyA3v-4" value="API Gera Pedido Ativação&lt;div&gt;(Camunda &amp;gt; Mobile)&lt;/div&gt;&lt;div&gt;ESB SOA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="130" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B8MrUZAMXsD1WSaeyA3v-5" value="Reuso com Alteração" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=default;gradientColor=none;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="10" y="30" width="90" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="B8MrUZAMXsD1WSaeyA3v-6" value="Prospect PF (Móvel + Residencial)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="125" y="10" width="130" height="30" as="geometry" />
         </mxCell>
@@ -90,9 +87,6 @@
         <mxCell id="B8MrUZAMXsD1WSaeyA3v-11" value="TBD Asset Rev Móvel&lt;div&gt;(Solar &amp;gt; Mobile)&lt;/div&gt;&lt;div&gt;APIGEE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="686" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B8MrUZAMXsD1WSaeyA3v-12" value="Reuso com Alteração - Sem detalhes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#FF3333;gradientColor=none;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="10" y="70" width="90" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="B8MrUZAMXsD1WSaeyA3v-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="B8MrUZAMXsD1WSaeyA3v-13" target="B8MrUZAMXsD1WSaeyA3v-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -117,9 +111,6 @@
         <mxCell id="B8MrUZAMXsD1WSaeyA3v-19" value="API Dados de Prod e Renovação&amp;nbsp;&lt;div&gt;(DL &amp;gt; SF Mkt Cloud)&lt;/div&gt;&lt;div&gt;ETL&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="409" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="B8MrUZAMXsD1WSaeyA3v-20" value="Nova" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=9;" vertex="1" parent="1">
-          <mxGeometry x="10" y="110" width="90" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="B8MrUZAMXsD1WSaeyA3v-21" value="API Dados Adic Clien, Conta e Renov.&lt;div&gt;(DBM &amp;gt;SF Mkt Cloud)&lt;/div&gt;&lt;div&gt;ETL&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="409" y="120" width="120" height="60" as="geometry" />
         </mxCell>
@@ -137,6 +128,15 @@
         </mxCell>
         <mxCell id="B8MrUZAMXsD1WSaeyA3v-31" value="API Cancelamento Total Resid&amp;nbsp;&lt;div&gt;(Solar &amp;gt; NETSMS)&lt;/div&gt;&lt;div&gt;APIGEE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="549" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B8MrUZAMXsD1WSaeyA3v-32" value="&lt;span style=&quot;font-size: 9px;&quot;&gt;Reuso com Alteração&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="10" y="50" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B8MrUZAMXsD1WSaeyA3v-33" value="&lt;span style=&quot;font-size: 9px;&quot;&gt;Reuso com Alteração - Sem detalhes&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="10" y="90" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="B8MrUZAMXsD1WSaeyA3v-34" value="&lt;span style=&quot;font-size: 9px;&quot;&gt;Nova&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="10" y="130" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
