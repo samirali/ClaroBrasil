@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-11T15:22:02.240Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="4bX1_f9SJn_AM2Y0vRXg" version="24.2.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-04-11T17:33:02.895Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="gLe957aqehbDK_e4Qs4s" version="24.2.1" type="github" pages="3">
   <diagram name="Prospect PF" id="dAGvHACqdjxYj1iJdW_O">
     <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -131,6 +131,9 @@
         </mxCell>
         <mxCell id="oGhlAFWXqx9Sn15p-2yb-2" value="&lt;b&gt;ESB SOA&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="9" y="495" width="60" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="aCjnKgyP7--gfIcCDe5S-1" value="&lt;b style=&quot;font-size: 11px;&quot;&gt;- Catálogo (EPC-Mobile, FEEP-NETSMS - EPC-Vlocity)&lt;/b&gt;-&amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;Modelagem produtos, param ALC/OTT sem dt fim, flag renov aut.,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;regras e tables precificação do CPQ&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;- &lt;b style=&quot;font-size: 11px;&quot;&gt;Jornada Prospect (Solar, NETSales, NETSMS, At. Simpl, Mobile, Caamunda)&lt;/b&gt;: Ajuste campos interface, ajuste cálculo fatura&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;- APIGEE:&lt;/b&gt; Ajustes novos campos&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;;&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;- ESB SOA:&lt;/b&gt; ?&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;- STW/SGVAS/SPS:&lt;/b&gt; Sem impactos, somente testes&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="490" y="10" width="329" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
