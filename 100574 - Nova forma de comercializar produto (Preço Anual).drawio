@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-11T15:21:27.930Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="xMIV8n9NwV8RoQ0d1uW8" version="24.2.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-04-11T15:22:02.240Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="4bX1_f9SJn_AM2Y0vRXg" version="24.2.1" type="github" pages="3">
   <diagram name="Prospect PF" id="dAGvHACqdjxYj1iJdW_O">
     <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -129,7 +129,7 @@
         <mxCell id="M9VKxaWt1aX5sSgnmIB5-1" value="API Gera Pedido Ativação&lt;div&gt;(Ativ Sim &amp;gt; Camunda)&lt;/div&gt;&lt;div&gt;ESB SOA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="255" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oGhlAFWXqx9Sn15p-2yb-2" value="&lt;b&gt;SOA&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="oGhlAFWXqx9Sn15p-2yb-2" value="&lt;b&gt;ESB SOA&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="9" y="495" width="60" height="35" as="geometry" />
         </mxCell>
       </root>
