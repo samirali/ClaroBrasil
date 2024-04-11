@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2024-04-11T17:55:19.805Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="DcnM6BhQGWRv9sGl1duE" version="24.2.1" type="github" pages="3">
-  <diagram name="Prospect PF" id="dAGvHACqdjxYj1iJdW_O">
+<mxfile host="app.diagrams.net" modified="2024-04-11T18:02:32.018Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="AbnA7IyUmyvJSkX66UjF" version="24.2.1" type="github" pages="4">
+  <diagram name="Prospect PF - Resid e Móvel - Call Center Rec" id="dAGvHACqdjxYj1iJdW_O">
     <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -138,7 +138,146 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Venda Base PF" id="GNAAWdjujm2nOveb3ol_">
+  <diagram name="Prospect PF - Nova TV" id="CsRptXpBVeLWyJMDbz2r">
+    <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="spdNIDD_1CGRaIN9PFDq-0" />
+        <mxCell id="spdNIDD_1CGRaIN9PFDq-1" parent="spdNIDD_1CGRaIN9PFDq-0" />
+        <mxCell id="spdNIDD_1CGRaIN9PFDq-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;shadow=0;glass=0;opacity=20;strokeWidth=3;" vertex="1" parent="spdNIDD_1CGRaIN9PFDq-1">
+          <mxGeometry x="9" y="441" width="810" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="spdNIDD_1CGRaIN9PFDq-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;shadow=0;glass=0;opacity=20;strokeWidth=3;" vertex="1" parent="spdNIDD_1CGRaIN9PFDq-1">
+          <mxGeometry x="10" y="230" width="810" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="spdNIDD_1CGRaIN9PFDq-4" value="&lt;b&gt;APIGEE&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="spdNIDD_1CGRaIN9PFDq-1">
+          <mxGeometry x="10" y="282" width="60" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="spdNIDD_1CGRaIN9PFDq-5" value="&lt;div style=&quot;line-height: 0%;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="spdNIDD_1CGRaIN9PFDq-1">
+          <mxGeometry x="160" y="10" width="310" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="spdNIDD_1CGRaIN9PFDq-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="spdNIDD_1CGRaIN9PFDq-1" source="spdNIDD_1CGRaIN9PFDq-8" target="spdNIDD_1CGRaIN9PFDq-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="379" y="200" />
+              <mxPoint x="695" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="spdNIDD_1CGRaIN9PFDq-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="spdNIDD_1CGRaIN9PFDq-1" source="spdNIDD_1CGRaIN9PFDq-8" target="spdNIDD_1CGRaIN9PFDq-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="339" y="200" />
+              <mxPoint x="209" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="spdNIDD_1CGRaIN9PFDq-8" value="SOLAR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="spdNIDD_1CGRaIN9PFDq-1">
+          <mxGeometry x="319" y="130" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="spdNIDD_1CGRaIN9PFDq-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="spdNIDD_1CGRaIN9PFDq-1" source="spdNIDD_1CGRaIN9PFDq-10" target="spdNIDD_1CGRaIN9PFDq-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="spdNIDD_1CGRaIN9PFDq-10" value="PF/B2C" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="spdNIDD_1CGRaIN9PFDq-1">
+          <mxGeometry x="30" y="30" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="spdNIDD_1CGRaIN9PFDq-11" value="CANAIS DE ATENDIMENTO&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="spdNIDD_1CGRaIN9PFDq-1">
+          <mxGeometry x="205" y="5" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="spdNIDD_1CGRaIN9PFDq-12" value="URA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="spdNIDD_1CGRaIN9PFDq-1">
+          <mxGeometry x="180" y="30" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="spdNIDD_1CGRaIN9PFDq-13" value="NETSales" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="spdNIDD_1CGRaIN9PFDq-1">
+          <mxGeometry x="599" y="340" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="spdNIDD_1CGRaIN9PFDq-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="spdNIDD_1CGRaIN9PFDq-1" source="spdNIDD_1CGRaIN9PFDq-15" target="spdNIDD_1CGRaIN9PFDq-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="470" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="209" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="spdNIDD_1CGRaIN9PFDq-15" value="Ativação Simplificada" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="spdNIDD_1CGRaIN9PFDq-1">
+          <mxGeometry x="169" y="340" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="spdNIDD_1CGRaIN9PFDq-16" value="Mobile" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="spdNIDD_1CGRaIN9PFDq-1">
+          <mxGeometry x="500" y="340" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="spdNIDD_1CGRaIN9PFDq-17" value="NETSMS (Billing)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="spdNIDD_1CGRaIN9PFDq-1">
+          <mxGeometry x="712" y="340" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="spdNIDD_1CGRaIN9PFDq-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="spdNIDD_1CGRaIN9PFDq-1" source="spdNIDD_1CGRaIN9PFDq-19" target="spdNIDD_1CGRaIN9PFDq-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="100" />
+              <mxPoint x="340" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="spdNIDD_1CGRaIN9PFDq-19" value="Call Center" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="spdNIDD_1CGRaIN9PFDq-1">
+          <mxGeometry x="270" y="30" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="spdNIDD_1CGRaIN9PFDq-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="spdNIDD_1CGRaIN9PFDq-1" source="spdNIDD_1CGRaIN9PFDq-21" target="spdNIDD_1CGRaIN9PFDq-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="100" />
+              <mxPoint x="380" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="spdNIDD_1CGRaIN9PFDq-21" value="Presencial Lojas/PaP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="spdNIDD_1CGRaIN9PFDq-1">
+          <mxGeometry x="360" y="30" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="spdNIDD_1CGRaIN9PFDq-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="spdNIDD_1CGRaIN9PFDq-1" source="spdNIDD_1CGRaIN9PFDq-24" target="spdNIDD_1CGRaIN9PFDq-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="spdNIDD_1CGRaIN9PFDq-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="spdNIDD_1CGRaIN9PFDq-1" source="spdNIDD_1CGRaIN9PFDq-24" target="spdNIDD_1CGRaIN9PFDq-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="spdNIDD_1CGRaIN9PFDq-24" value="API Proposals&amp;nbsp;&lt;div&gt;(Solar &amp;gt; NETSales)&lt;/div&gt;&lt;div&gt;APIGEE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="spdNIDD_1CGRaIN9PFDq-1">
+          <mxGeometry x="635" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="spdNIDD_1CGRaIN9PFDq-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="spdNIDD_1CGRaIN9PFDq-1" source="spdNIDD_1CGRaIN9PFDq-26" target="spdNIDD_1CGRaIN9PFDq-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="spdNIDD_1CGRaIN9PFDq-26" value="API Gera Pedido Ativação&lt;div&gt;(Solar &amp;gt; Ativ Simplific)&lt;/div&gt;&lt;div&gt;APIGEE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="spdNIDD_1CGRaIN9PFDq-1">
+          <mxGeometry x="149" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="spdNIDD_1CGRaIN9PFDq-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="spdNIDD_1CGRaIN9PFDq-1" source="spdNIDD_1CGRaIN9PFDq-28" target="spdNIDD_1CGRaIN9PFDq-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="spdNIDD_1CGRaIN9PFDq-28" value="Camunda" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="spdNIDD_1CGRaIN9PFDq-1">
+          <mxGeometry x="350" y="340" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="spdNIDD_1CGRaIN9PFDq-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="spdNIDD_1CGRaIN9PFDq-1" source="spdNIDD_1CGRaIN9PFDq-30" target="spdNIDD_1CGRaIN9PFDq-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="spdNIDD_1CGRaIN9PFDq-30" value="API Gera Pedido Ativação&lt;div&gt;(Camunda &amp;gt; Mobile)&lt;/div&gt;&lt;div&gt;ESB SOA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="spdNIDD_1CGRaIN9PFDq-1">
+          <mxGeometry x="420" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="spdNIDD_1CGRaIN9PFDq-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.337;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="spdNIDD_1CGRaIN9PFDq-1" source="spdNIDD_1CGRaIN9PFDq-12" target="spdNIDD_1CGRaIN9PFDq-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="spdNIDD_1CGRaIN9PFDq-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="spdNIDD_1CGRaIN9PFDq-1" source="spdNIDD_1CGRaIN9PFDq-33" target="spdNIDD_1CGRaIN9PFDq-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="315" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="spdNIDD_1CGRaIN9PFDq-33" value="API Gera Pedido Ativação&lt;div&gt;(Ativ Sim &amp;gt; Camunda)&lt;/div&gt;&lt;div&gt;ESB SOA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="spdNIDD_1CGRaIN9PFDq-1">
+          <mxGeometry x="255" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="spdNIDD_1CGRaIN9PFDq-34" value="&lt;b&gt;ESB SOA&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="spdNIDD_1CGRaIN9PFDq-1">
+          <mxGeometry x="9" y="495" width="60" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="spdNIDD_1CGRaIN9PFDq-35" value="&lt;b style=&quot;font-size: 11px;&quot;&gt;- Catálogo (EPC-Mobile, FEEP-NETSMS - EPC-Vlocity)&lt;/b&gt;-&amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;Modelagem produtos, param ALC/OTT sem dt fim, flag renov aut.,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 11px;&quot;&gt;regras e tables precificação do CPQ&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;- &lt;b style=&quot;font-size: 11px;&quot;&gt;Jornada Prospect (&lt;/b&gt;&lt;b&gt;Solar, Int Mang, OM, Asset Rev, NETSales, NETSMS, At. Simpl, Mobile, Camunda&lt;/b&gt;&lt;b style=&quot;font-size: 11px;&quot;&gt;)&lt;/b&gt;: Ajuste campos interface, ajuste cálculo fatura&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;- APIGEE:&lt;/b&gt; Ajustes novos campos&lt;span style=&quot;background-color: initial;&quot;&gt;;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;- ESB SOA:&lt;/b&gt; ?&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;- STW/SGVAS/SPS:&lt;/b&gt; Sem impactos, somente testes&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;opacity=30;" vertex="1" parent="spdNIDD_1CGRaIN9PFDq-1">
+          <mxGeometry x="490" y="10" width="329" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Venda Base PF - Resid e Móvel - Call Center Rec" id="GNAAWdjujm2nOveb3ol_">
     <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="E7Plma1QLkk9mi1jYZiW-0" />
