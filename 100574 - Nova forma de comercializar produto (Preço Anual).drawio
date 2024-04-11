@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-11T18:31:23.444Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="xRBUrAyQdYBGPUFaJZbN" version="24.2.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-04-11T18:33:57.617Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="yapKPw34Oha4Jp7PbdAu" version="24.2.1" type="github" pages="5">
   <diagram name="Venda Prospect PF - Resid e Móvel - Call Center Rec" id="dAGvHACqdjxYj1iJdW_O">
     <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -324,6 +324,14 @@
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram id="X94UR-RiwTmwNxtAOC09" name="Processo de Renovação Aut - Res, Móv e Nova TV">
+    <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="uduGKNc6WrLPXkCrhAaN" name="Integrações">
     <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -459,14 +467,6 @@
         <mxCell id="B8MrUZAMXsD1WSaeyA3v-39" value="MÓVEL" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;direction=east;flipV=1;flipH=1;rotation=-90;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="75" y="384" width="89" height="30" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="X94UR-RiwTmwNxtAOC09" name="Processo de Renovação Aut - Res, Móv e Nova TV">
-    <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
