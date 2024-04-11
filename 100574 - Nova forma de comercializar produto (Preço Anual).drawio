@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-11T19:14:15.792Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Hfp1grIHXknXtTp-0YvD" version="24.2.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-04-11T19:20:05.714Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="tp2nFGLzbFKufbf4U8mb" version="24.2.1" type="github" pages="5">
   <diagram name="Venda Prospect PF - Resid e Móvel - Call Center Rec" id="dAGvHACqdjxYj1iJdW_O">
     <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -330,39 +330,48 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="S0Q7LPB5YN6xps0j1kv3-1" value="DBM" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="110" y="250" width="130" height="100" as="geometry" />
+          <mxGeometry x="140.5" y="529" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="xzQvoEVcTguXYHUACxFN-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FoeVHqM2EiOAaYA0kc77-1" target="xzQvoEVcTguXYHUACxFN-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FoeVHqM2EiOAaYA0kc77-1" value="NETSMS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="11" width="80" height="60" as="geometry" />
+          <mxGeometry x="110.5" y="290" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FoeVHqM2EiOAaYA0kc77-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FoeVHqM2EiOAaYA0kc77-2" target="xzQvoEVcTguXYHUACxFN-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="253" y="111" as="targetPoint" />
+            <mxPoint x="283.5" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FoeVHqM2EiOAaYA0kc77-2" value="Mobile" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="213" y="11" width="80" height="60" as="geometry" />
+          <mxGeometry x="243.5" y="290" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xvXeDx0W9kcdZhgEdoAp-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;shadow=0;glass=0;opacity=20;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="9.5" y="120" width="331" height="92" as="geometry" />
+          <mxGeometry x="40" y="399" width="331" height="92" as="geometry" />
         </mxCell>
         <mxCell id="qImUUVq0O7kydLyrt7Lv-1" value="&lt;b&gt;OGG&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="9.5" y="182" width="60" height="30" as="geometry" />
+          <mxGeometry x="40" y="461" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xzQvoEVcTguXYHUACxFN-1" value="API Dados de Prod e Renovação&amp;nbsp;&lt;div&gt;(NETSMS &amp;gt;ODSs/DL&lt;/div&gt;&lt;div&gt;OGG&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="60" y="136" width="120" height="60" as="geometry" />
+          <mxGeometry x="90.5" y="415" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xzQvoEVcTguXYHUACxFN-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xzQvoEVcTguXYHUACxFN-2" target="S0Q7LPB5YN6xps0j1kv3-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xzQvoEVcTguXYHUACxFN-2" value="API Dados de Prod e Renovação&amp;nbsp;&lt;div&gt;(Mobile&amp;gt;ODSs/DBM&lt;/div&gt;&lt;div&gt;OGG&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="193" y="136" width="120" height="60" as="geometry" />
+          <mxGeometry x="223.5" y="415" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xzQvoEVcTguXYHUACxFN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xzQvoEVcTguXYHUACxFN-1" target="S0Q7LPB5YN6xps0j1kv3-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xzQvoEVcTguXYHUACxFN-6" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="260" y="100" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xzQvoEVcTguXYHUACxFN-7" value="MOBILE" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="352" y="100" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xzQvoEVcTguXYHUACxFN-8" value="DSM" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="444" y="100" width="80" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
