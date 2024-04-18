@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2024-04-18T12:38:49.871Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="cQpGWPMrgneMWxlU3Egf" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-18T13:01:25.567Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="2eUBVHjYyXxBsg2C_eJ3" version="24.2.3" type="github">
   <diagram name="Página-1" id="MLcHtQrv6ULbj_it20Va">
     <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CVk3RO6D4FQn7KLXNqjS-1" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="160" y="240" width="130" height="80" as="geometry" />
+        <mxCell id="CVk3RO6D4FQn7KLXNqjS-1" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="160" y="240" width="310" height="200" as="geometry" />
         </mxCell>
         <mxCell id="CVk3RO6D4FQn7KLXNqjS-3" value="Registra novo atendimento" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="165" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CVk3RO6D4FQn7KLXNqjS-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CVk3RO6D4FQn7KLXNqjS-4" target="CVk3RO6D4FQn7KLXNqjS-3">
           <mxGeometry relative="1" as="geometry" />
@@ -19,14 +19,29 @@
         <mxCell id="CVk3RO6D4FQn7KLXNqjS-4" value="Atendente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="399" y="20" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CVk3RO6D4FQn7KLXNqjS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CVk3RO6D4FQn7KLXNqjS-3" target="CVk3RO6D4FQn7KLXNqjS-1">
+        <mxCell id="CVk3RO6D4FQn7KLXNqjS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CVk3RO6D4FQn7KLXNqjS-3" target="CVk3RO6D4FQn7KLXNqjS-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CVk3RO6D4FQn7KLXNqjS-8" value="Consulta histórico atendimento/ protocolos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CVk3RO6D4FQn7KLXNqjS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CVk3RO6D4FQn7KLXNqjS-8" target="CVk3RO6D4FQn7KLXNqjS-1">
+        <mxCell id="CVk3RO6D4FQn7KLXNqjS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CVk3RO6D4FQn7KLXNqjS-8" target="CVk3RO6D4FQn7KLXNqjS-21">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CVk3RO6D4FQn7KLXNqjS-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;dashPattern=1 2;" edge="1" parent="1" source="CVk3RO6D4FQn7KLXNqjS-12" target="CVk3RO6D4FQn7KLXNqjS-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CVk3RO6D4FQn7KLXNqjS-12" value="Incluir nova coluna com Síntese e Parecer da Ococrrência concatenados" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="440" y="460" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="CVk3RO6D4FQn7KLXNqjS-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="CVk3RO6D4FQn7KLXNqjS-17" target="CVk3RO6D4FQn7KLXNqjS-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CVk3RO6D4FQn7KLXNqjS-17" value="Ocorrências" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="320" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CVk3RO6D4FQn7KLXNqjS-21" value="Atendimentos" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="349" y="350" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
