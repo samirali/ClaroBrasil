@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-18T13:39:32.763Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="3OxUrOXq5c538d2sSKv4" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-18T13:48:05.295Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="T8y96wm0ELlV7AGaRhVJ" version="24.2.3" type="github">
   <diagram name="Página-1" id="MLcHtQrv6ULbj_it20Va">
     <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,17 +26,16 @@
         <mxCell id="CVk3RO6D4FQn7KLXNqjS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CVk3RO6D4FQn7KLXNqjS-3" target="CVk3RO6D4FQn7KLXNqjS-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CVk3RO6D4FQn7KLXNqjS-8" value="Consulta histórico atendimento/ protocolos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CVk3RO6D4FQn7KLXNqjS-8" value="Tela Consulta histórico atendimento/ protocolos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="460" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CVk3RO6D4FQn7KLXNqjS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CVk3RO6D4FQn7KLXNqjS-8" target="CVk3RO6D4FQn7KLXNqjS-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CVk3RO6D4FQn7KLXNqjS-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;dashPattern=1 2;" edge="1" parent="1" source="CVk3RO6D4FQn7KLXNqjS-12" target="CVk3RO6D4FQn7KLXNqjS-21">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CVk3RO6D4FQn7KLXNqjS-12" value="Incluir nova coluna com Síntese e Parecer da Ococrrência concatenados" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="610" y="370" width="150" height="50" as="geometry" />
+        <mxCell id="CVk3RO6D4FQn7KLXNqjS-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;dashPattern=1 2;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="CVk3RO6D4FQn7KLXNqjS-36" target="CVk3RO6D4FQn7KLXNqjS-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="635" y="455" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="CVk3RO6D4FQn7KLXNqjS-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="CVk3RO6D4FQn7KLXNqjS-17" target="CVk3RO6D4FQn7KLXNqjS-21">
           <mxGeometry relative="1" as="geometry" />
@@ -44,17 +43,23 @@
         <mxCell id="CVk3RO6D4FQn7KLXNqjS-17" value="Ocorrências" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="350" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CVk3RO6D4FQn7KLXNqjS-21" value="Atendimentos" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CVk3RO6D4FQn7KLXNqjS-21" value="Atendimentos" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="480" y="350" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CVk3RO6D4FQn7KLXNqjS-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="CVk3RO6D4FQn7KLXNqjS-30" target="CVk3RO6D4FQn7KLXNqjS-17">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="CVk3RO6D4FQn7KLXNqjS-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CVk3RO6D4FQn7KLXNqjS-38" target="CVk3RO6D4FQn7KLXNqjS-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="160" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="690" y="280" />
+              <mxPoint x="540" y="280" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="CVk3RO6D4FQn7KLXNqjS-30" value="Apigee API&#xa;Management" style="sketch=0;html=1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;spacingTop=-6;fontSize=11;fontStyle=1;fontColor=#999999;shape=image;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnY9Imh0dHBzOi8vdmVjdGEuaW8vbmFubyIgd2lkdGg9IjIwLjE4MDIzMTA5NDM2MDM1IiBoZWlnaHQ9IjIwLjE4MDIwODIwNjE3Njc1OCIgdmlld0JveD0iLTAuMDAwMTE1MTY1MTIzMTMzOTIwMTMgLTAuMDAwMTAzMzQ0NDkzMjU0NTUzNTMgMjAuMTgwMjMxMDk0MzYwMzUgMjAuMTgwMjA4MjA2MTc2NzU4Ij4mI3hhOwk8c3R5bGUgdHlwZT0idGV4dC9jc3MiPiYjeGE7CS5zdDB7ZmlsbDojNjY5ZGY2O2ZpbGwtcnVsZTpldmVub2RkfSYjeGE7CS5zdDF7ZmlsbC1ydWxlOmV2ZW5vZGQ7ZmlsbDojNDI4NWY0fSYjeGE7CTwvc3R5bGU+JiN4YTsJPHBhdGggY2xhc3M9InN0MCIgZD0iTTMuMjkgMTAuMDlsMS4zMi0xLjMyLTEuNzktMS43OWEyLjk0IDIuOTQgMCAwIDEgMi4wOC01IDIuOTIgMi45MiAwIDAgMSAyLjA3Ljg2bDEuOCAxLjc5IDEuMzItMS4zNEw4LjMgMS41YTQuODEgNC44MSAwIDEgMC02LjggNi44em0xMy42IDBsLTEuMzIgMS4zMiAxLjc5IDEuOGEyLjk0IDIuOTQgMCAwIDEtNC4xNiA0LjE1bC0xLjc5LTEuNzktMS4zMiAxLjMyIDEuNzkgMS43OWE0LjgxIDQuODEgMCAxIDAgNi44LTYuOHoiLz4mI3hhOwk8cGF0aCBjbGFzcz0ic3QxIiBkPSJNNi45OCAxNy4zNmEyLjk0IDIuOTQgMCAxIDEtNC4xNi00LjE2bDEuNzktMS43OSA0LjE2IDQuMTZ6bTYuMjMtMTQuNTRhMi45MyAyLjkzIDAgMCAxIDUgMi4wOCAzIDMgMCAwIDEtLjg2IDIuMDhsLTEuNzkgMS43OS00LjE1LTQuMTZ6bS0zLjEyIDEwLjQ2YTMuMiAzLjIgMCAwIDEtMy4xOS0zLjE5aDBhMy4yMSAzLjIxIDAgMCAxIDMuMTktMy4xOWgwYTMuMjEgMy4yMSAwIDAgMSAzLjE5IDMuMTloMGEzLjIgMy4yIDAgMCAxLTMuMTkgMy4xOXptNi44LTMuMTlsMS43OS0xLjc5QTQuODEgNC44MSAwIDAgMCAxNi41NzQuMTUzIDQuODEgNC44MSAwIDAgMCAxMS44OCAxLjVsLTEuNzkgMS43OS02LjggNi44LTEuNzkgMS43OWE0LjgxIDQuODEgMCAwIDAgMi4xMDYgOC4xNDdBNC44MSA0LjgxIDAgMCAwIDguMyAxOC42OGwxLjc5LTEuNzl6Ii8+JiN4YTs8L3N2Zz4=;" vertex="1" parent="1">
-          <mxGeometry x="90" y="130" width="42" height="42" as="geometry" />
+        <mxCell id="CVk3RO6D4FQn7KLXNqjS-36" value="&lt;span style=&quot;background-color: initial;&quot;&gt;- Incluir nova coluna na tabela pra registrar par de informações Síntese/ Parecer (atendendo Anatel)&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Ajustar API para consultar essa coluna nova com o par de informações Síntese/Parecer.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;* Manter mesmos status que existem hoje (Aberto/Fechado)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="610" y="310" width="200" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="CVk3RO6D4FQn7KLXNqjS-35" value="API Registra/consulta atendimentos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="81" y="90" width="60" height="30" as="geometry" />
+        <mxCell id="CVk3RO6D4FQn7KLXNqjS-38" value="API Consulta Atendimentos Residencial" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="630" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
