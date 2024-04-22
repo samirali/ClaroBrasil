@@ -1,9 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T20:31:52.979Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.2.5" etag="5yEqO8jLLNaQRzHNT4pU" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-22T20:39:12.330Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="rZdcbjOajt4Gqv_uqhUh" version="24.2.5" type="github">
   <diagram name="Página-1" id="2J26ts4s1bE-M6SoEJtU">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="SS-V3CAHCoVPXt7cMS1L-17" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="199" y="98.5" width="340" height="241.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SS-V3CAHCoVPXt7cMS1L-1" value="Protocolo SMS" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="324" y="260" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SS-V3CAHCoVPXt7cMS1L-5" value="Servidor FTP" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.ftp_server;" vertex="1" parent="1">
+          <mxGeometry x="670" y="201.5" width="71" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="SS-V3CAHCoVPXt7cMS1L-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SS-V3CAHCoVPXt7cMS1L-6" target="SS-V3CAHCoVPXt7cMS1L-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SS-V3CAHCoVPXt7cMS1L-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SS-V3CAHCoVPXt7cMS1L-6" target="SS-V3CAHCoVPXt7cMS1L-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SS-V3CAHCoVPXt7cMS1L-6" value="JOB envio SMS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SS-V3CAHCoVPXt7cMS1L-8" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Claro Broadcast&lt;/font&gt;" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.broadcast;fillColor=#FF0000;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="658.5" y="60" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="SS-V3CAHCoVPXt7cMS1L-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.994;entryY=0.444;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SS-V3CAHCoVPXt7cMS1L-5" target="SS-V3CAHCoVPXt7cMS1L-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="770" y="250" />
+              <mxPoint x="770" y="176" />
+              <mxPoint x="771" y="176" />
+              <mxPoint x="771" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SS-V3CAHCoVPXt7cMS1L-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SS-V3CAHCoVPXt7cMS1L-14" target="SS-V3CAHCoVPXt7cMS1L-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SS-V3CAHCoVPXt7cMS1L-14" value="JOB Prepara SMS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
