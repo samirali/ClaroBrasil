@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-13T17:17:30.048Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="MtbBe2auZuqBxANPpy0S" version="24.3.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-13T17:19:11.711Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="eqsZJYzvNydZtgRbf_ae" version="24.3.1" type="github" pages="2">
   <diagram name="Venda Prospect/Base" id="NPQVaTTvWhRDFUkvkyOC">
     <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -134,7 +134,7 @@
         <mxCell id="lgTOI-XekvO7YTn3rAP--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="lgTOI-XekvO7YTn3rAP--1" source="lgTOI-XekvO7YTn3rAP--8" target="lgTOI-XekvO7YTn3rAP--9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lgTOI-XekvO7YTn3rAP--8" value="Atualizar cadastro optin/optout" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="lgTOI-XekvO7YTn3rAP--1">
+        <mxCell id="lgTOI-XekvO7YTn3rAP--8" value="&lt;b&gt;Tela&amp;nbsp;&lt;/b&gt;&lt;div&gt;Atualizar cadastro optin/optout&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="lgTOI-XekvO7YTn3rAP--1">
           <mxGeometry x="230" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lgTOI-XekvO7YTn3rAP--9" value="Cadastro optin/optout" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="lgTOI-XekvO7YTn3rAP--1">
@@ -152,7 +152,12 @@
         <mxCell id="lgTOI-XekvO7YTn3rAP--20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="lgTOI-XekvO7YTn3rAP--1" source="lgTOI-XekvO7YTn3rAP--21" target="lgTOI-XekvO7YTn3rAP--9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="lgTOI-XekvO7YTn3rAP--21" value="API OPTIN/OPTOUT (Consulta e Alteração)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="lgTOI-XekvO7YTn3rAP--1">
+        <mxCell id="na580xvZ3ogEKiZ_eYki-4" value="GET / POST" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="lgTOI-XekvO7YTn3rAP--20">
+          <mxGeometry x="-0.748" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lgTOI-XekvO7YTn3rAP--21" value="&lt;b&gt;API &lt;/b&gt;OPTIN/OPTOUT (Consulta e Alteração)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="lgTOI-XekvO7YTn3rAP--1">
           <mxGeometry x="430" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lgTOI-XekvO7YTn3rAP--31" value="ATENDIMENTO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;" vertex="1" parent="lgTOI-XekvO7YTn3rAP--1">
