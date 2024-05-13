@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2024-05-13T15:23:55.934Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="JocGta4EzUa3pDs6_40O" version="24.3.1" type="github">
-  <diagram name="NETSales Venda" id="NPQVaTTvWhRDFUkvkyOC">
+<mxfile host="app.diagrams.net" modified="2024-05-13T15:27:21.389Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="UPP6U7_EmR46XmyWvkud" version="24.3.1" type="github">
+  <diagram name="Venda Prospect" id="NPQVaTTvWhRDFUkvkyOC">
     <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -21,7 +21,7 @@
         <mxCell id="WPxFGDH8g9c_htjjQB-0-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WPxFGDH8g9c_htjjQB-0-2" target="WPxFGDH8g9c_htjjQB-0-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WPxFGDH8g9c_htjjQB-0-2" value="Venda Prospect" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WPxFGDH8g9c_htjjQB-0-2" value="NETSales&amp;nbsp;&lt;div&gt;Venda Prospect&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="193" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WPxFGDH8g9c_htjjQB-0-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="WPxFGDH8g9c_htjjQB-0-3" target="WPxFGDH8g9c_htjjQB-0-4">
@@ -66,6 +66,30 @@
         </mxCell>
         <mxCell id="WPxFGDH8g9c_htjjQB-0-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WPxFGDH8g9c_htjjQB-0-13" target="WPxFGDH8g9c_htjjQB-0-6">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WPxFGDH8g9c_htjjQB-0-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="WPxFGDH8g9c_htjjQB-0-21" target="WPxFGDH8g9c_htjjQB-0-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WPxFGDH8g9c_htjjQB-0-21" value="API PROPOSAL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPxFGDH8g9c_htjjQB-0-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WPxFGDH8g9c_htjjQB-0-23" target="WPxFGDH8g9c_htjjQB-0-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WPxFGDH8g9c_htjjQB-0-23" value="API VENDA BASE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPxFGDH8g9c_htjjQB-0-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WPxFGDH8g9c_htjjQB-0-25" target="WPxFGDH8g9c_htjjQB-0-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WPxFGDH8g9c_htjjQB-0-25" value="JORNADA VENDA PROSPECT SOLAR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WPxFGDH8g9c_htjjQB-0-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WPxFGDH8g9c_htjjQB-0-27" target="WPxFGDH8g9c_htjjQB-0-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WPxFGDH8g9c_htjjQB-0-27" value="JORNADA VENDA BASE ECOMMERCE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
