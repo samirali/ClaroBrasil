@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-15T14:51:32.650Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="gnsIQcYYSLbA3yLBiSKt" version="24.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-15T14:54:22.506Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ytCaDRlEi6r3EXWEtjIG" version="24.4.0" type="github" pages="3">
   <diagram name="Venda Prospect/Base" id="NPQVaTTvWhRDFUkvkyOC">
     <mxGraphModel dx="1114" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -183,20 +183,20 @@
         <mxCell id="IXZ_DEhPPVpkcfQMqWij-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="IXZ_DEhPPVpkcfQMqWij-1" source="IXZ_DEhPPVpkcfQMqWij-23" target="IXZ_DEhPPVpkcfQMqWij-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IXZ_DEhPPVpkcfQMqWij-23" value="API VENDA BASE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="IXZ_DEhPPVpkcfQMqWij-1">
+        <mxCell id="IXZ_DEhPPVpkcfQMqWij-23" value="API VENDA BASE (atualiza optin/out)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="IXZ_DEhPPVpkcfQMqWij-1">
           <mxGeometry x="430" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IXZ_DEhPPVpkcfQMqWij-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="IXZ_DEhPPVpkcfQMqWij-1" source="IXZ_DEhPPVpkcfQMqWij-25" target="IXZ_DEhPPVpkcfQMqWij-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IXZ_DEhPPVpkcfQMqWij-25" value="JORNADA VENDA PROSPECT SOLAR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="IXZ_DEhPPVpkcfQMqWij-1">
-          <mxGeometry x="640" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="702" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IXZ_DEhPPVpkcfQMqWij-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="IXZ_DEhPPVpkcfQMqWij-1" source="IXZ_DEhPPVpkcfQMqWij-27" target="IXZ_DEhPPVpkcfQMqWij-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IXZ_DEhPPVpkcfQMqWij-27" value="JORNADA VENDA BASE ECOMMERCE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="IXZ_DEhPPVpkcfQMqWij-1">
-          <mxGeometry x="640" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="702" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IXZ_DEhPPVpkcfQMqWij-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="IXZ_DEhPPVpkcfQMqWij-1" source="IXZ_DEhPPVpkcfQMqWij-30" target="IXZ_DEhPPVpkcfQMqWij-25">
           <mxGeometry relative="1" as="geometry" />
@@ -205,10 +205,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IXZ_DEhPPVpkcfQMqWij-30" value="VENDEDOR" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="IXZ_DEhPPVpkcfQMqWij-1">
-          <mxGeometry x="685" y="185" width="30" height="60" as="geometry" />
+          <mxGeometry x="747" y="185" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IXZ_DEhPPVpkcfQMqWij-31" value="VENDA PROSPECT/VENDA BASE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;" vertex="1" parent="IXZ_DEhPPVpkcfQMqWij-1">
           <mxGeometry x="1" y="2" width="209" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6sESqE4DbHlM8E4fIhGb-0" value="ODS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;verticalAlign=top;" vertex="1" parent="IXZ_DEhPPVpkcfQMqWij-1">
+          <mxGeometry x="572" y="263" width="130" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="6sESqE4DbHlM8E4fIhGb-1" value="Atualizar mapeamento de campos novos no GG" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="IXZ_DEhPPVpkcfQMqWij-1">
+          <mxGeometry x="577" y="171" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6sESqE4DbHlM8E4fIhGb-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="IXZ_DEhPPVpkcfQMqWij-1" source="6sESqE4DbHlM8E4fIhGb-1" target="6sESqE4DbHlM8E4fIhGb-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6sESqE4DbHlM8E4fIhGb-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="IXZ_DEhPPVpkcfQMqWij-1" source="IXZ_DEhPPVpkcfQMqWij-10" target="6sESqE4DbHlM8E4fIhGb-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
