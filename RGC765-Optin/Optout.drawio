@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-15T14:47:53.055Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="yT52yDC9kHua6eY-3OE1" version="24.4.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-05-15T14:51:32.650Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="gnsIQcYYSLbA3yLBiSKt" version="24.4.0" type="github" pages="3">
   <diagram name="Venda Prospect/Base" id="NPQVaTTvWhRDFUkvkyOC">
     <mxGraphModel dx="1114" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -134,10 +134,10 @@
         <mxCell id="IXZ_DEhPPVpkcfQMqWij-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="IXZ_DEhPPVpkcfQMqWij-1" source="IXZ_DEhPPVpkcfQMqWij-8" target="IXZ_DEhPPVpkcfQMqWij-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IXZ_DEhPPVpkcfQMqWij-8" value="Novo cadastro registro optin/optout" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="IXZ_DEhPPVpkcfQMqWij-1">
+        <mxCell id="IXZ_DEhPPVpkcfQMqWij-8" value="Novo registro optin/out para email e telefone" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="IXZ_DEhPPVpkcfQMqWij-1">
           <mxGeometry x="230" y="20" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IXZ_DEhPPVpkcfQMqWij-9" value="Cadastro optin/optout" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="IXZ_DEhPPVpkcfQMqWij-1">
+        <mxCell id="IXZ_DEhPPVpkcfQMqWij-9" value="Cadastro optin/out" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="IXZ_DEhPPVpkcfQMqWij-1">
           <mxGeometry x="310" y="183" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="IXZ_DEhPPVpkcfQMqWij-10" value="Email" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="IXZ_DEhPPVpkcfQMqWij-9">
@@ -168,7 +168,7 @@
         <mxCell id="IXZ_DEhPPVpkcfQMqWij-17" value="Cliente Base" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="IXZ_DEhPPVpkcfQMqWij-1">
           <mxGeometry x="168" y="183" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IXZ_DEhPPVpkcfQMqWij-18" value="Atualiza cadastro registro optin/optout" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="IXZ_DEhPPVpkcfQMqWij-1">
+        <mxCell id="IXZ_DEhPPVpkcfQMqWij-18" value="Atualiza cadastro registro optin/out" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="IXZ_DEhPPVpkcfQMqWij-1">
           <mxGeometry x="230" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IXZ_DEhPPVpkcfQMqWij-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="IXZ_DEhPPVpkcfQMqWij-1" source="IXZ_DEhPPVpkcfQMqWij-18" target="IXZ_DEhPPVpkcfQMqWij-11">
@@ -177,7 +177,7 @@
         <mxCell id="IXZ_DEhPPVpkcfQMqWij-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="IXZ_DEhPPVpkcfQMqWij-1" source="IXZ_DEhPPVpkcfQMqWij-21" target="IXZ_DEhPPVpkcfQMqWij-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IXZ_DEhPPVpkcfQMqWij-21" value="API PROPOSAL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="IXZ_DEhPPVpkcfQMqWij-1">
+        <mxCell id="IXZ_DEhPPVpkcfQMqWij-21" value="API PROPOSAL (novas opções optin/out)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="IXZ_DEhPPVpkcfQMqWij-1">
           <mxGeometry x="430" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IXZ_DEhPPVpkcfQMqWij-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="IXZ_DEhPPVpkcfQMqWij-1" source="IXZ_DEhPPVpkcfQMqWij-23" target="IXZ_DEhPPVpkcfQMqWij-11">
