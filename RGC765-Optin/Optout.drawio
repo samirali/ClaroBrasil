@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-15T15:07:16.563Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="K10LMMrfcttHTjJdW43X" version="24.4.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-15T15:09:42.062Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="v2Mr2aXrK0nP8ccvUVeY" version="24.4.0" type="github" pages="4">
   <diagram name="Venda Prospect/Base" id="NPQVaTTvWhRDFUkvkyOC">
     <mxGraphModel dx="1114" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -348,13 +348,25 @@
         <mxCell id="1RxlCCNhN44cCi9kcG4g-16" value="ATENDIMENTO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;" vertex="1" parent="1RxlCCNhN44cCi9kcG4g-1">
           <mxGeometry x="1" y="2" width="209" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1RxlCCNhN44cCi9kcG4g-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1RxlCCNhN44cCi9kcG4g-1" source="yzojSl9R_HOD6BMoqKpQ-0" target="1RxlCCNhN44cCi9kcG4g-15">
+        <mxCell id="1RxlCCNhN44cCi9kcG4g-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1RxlCCNhN44cCi9kcG4g-1" source="yzojSl9R_HOD6BMoqKpQ-0" target="1RxlCCNhN44cCi9kcG4g-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="630" y="100" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yzojSl9R_HOD6BMoqKpQ-0" value="Minha Claro" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1RxlCCNhN44cCi9kcG4g-1">
-          <mxGeometry x="560" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FQTVXawxtBU9wDxWlnvP-0" value="ODS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;verticalAlign=top;" vertex="1" parent="1RxlCCNhN44cCi9kcG4g-1">
+          <mxGeometry x="625" y="236" width="130" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="FQTVXawxtBU9wDxWlnvP-1" value="Atualizar mapeamento de campos novos no GG" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1RxlCCNhN44cCi9kcG4g-1">
+          <mxGeometry x="630" y="133" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FQTVXawxtBU9wDxWlnvP-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1RxlCCNhN44cCi9kcG4g-1" source="1RxlCCNhN44cCi9kcG4g-11" target="FQTVXawxtBU9wDxWlnvP-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FQTVXawxtBU9wDxWlnvP-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1RxlCCNhN44cCi9kcG4g-1" source="FQTVXawxtBU9wDxWlnvP-1" target="FQTVXawxtBU9wDxWlnvP-0">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
