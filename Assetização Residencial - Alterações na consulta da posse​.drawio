@@ -1,9 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2024-06-17T20:26:13.331Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.4.0" etag="y_6z_-PYPx8rxBjqj4k7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-17T20:30:53.336Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="KN5M8Q0mtq9G4X9idMj5" version="24.4.0" type="github">
   <diagram name="Página-1" id="d8rBECP_h64GZ1vk1dMh">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="OENSiATPbZI55zizup1Y-1" value="ODS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="150" y="190" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OENSiATPbZI55zizup1Y-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OENSiATPbZI55zizup1Y-2" target="OENSiATPbZI55zizup1Y-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OENSiATPbZI55zizup1Y-2" value="MS&amp;nbsp;&lt;span dir=&quot;ltr&quot; class=&quot;ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak&quot;&gt; customer-netsms-assetssync-svc&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OENSiATPbZI55zizup1Y-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OENSiATPbZI55zizup1Y-2" target="OENSiATPbZI55zizup1Y-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OENSiATPbZI55zizup1Y-4" value="Ler novos campos:&amp;nbsp;&lt;div&gt;DESCRIÇÃO BOLETO&lt;br&gt;&lt;div&gt;&lt;div&gt;PARCEIRO​&lt;/div&gt;&lt;div&gt;CONTRATO PARCEIRO​&lt;/div&gt;&lt;div&gt;DATA INÍCIO​&lt;/div&gt;&lt;div&gt;DATA FIM​&lt;/div&gt;&lt;div&gt;STATUS​&lt;/div&gt;&lt;div&gt;VALOR​&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OENSiATPbZI55zizup1Y-3">
+          <mxGeometry x="-0.1462" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OENSiATPbZI55zizup1Y-6" value="SOLAR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
