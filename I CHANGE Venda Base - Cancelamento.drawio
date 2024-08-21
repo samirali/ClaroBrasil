@@ -1,9 +1,66 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
-  <diagram name="Página-1" id="zxbcZextxd5S9QhHj7xa">
+  <diagram name="AS IS" id="zxbcZextxd5S9QhHj7xa">
     <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KznWMVIkA24yvkX_GZdp-1" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="560" y="210" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KznWMVIkA24yvkX_GZdp-2" value="API Proposal Base (DXC)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KznWMVIkA24yvkX_GZdp-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KznWMVIkA24yvkX_GZdp-2" target="KznWMVIkA24yvkX_GZdp-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KznWMVIkA24yvkX_GZdp-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KznWMVIkA24yvkX_GZdp-4" target="KznWMVIkA24yvkX_GZdp-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KznWMVIkA24yvkX_GZdp-16" value="Mudança de pcte&lt;div&gt;Adesão&lt;/div&gt;&lt;div&gt;Aquisição&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KznWMVIkA24yvkX_GZdp-5">
+          <mxGeometry x="-0.0376" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KznWMVIkA24yvkX_GZdp-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KznWMVIkA24yvkX_GZdp-4" target="KznWMVIkA24yvkX_GZdp-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KznWMVIkA24yvkX_GZdp-17" value="Cancel. parcial/total&lt;div&gt;Adesão SVA&lt;/div&gt;&lt;div&gt;Aquisição e cancel Agreg. Infor.&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KznWMVIkA24yvkX_GZdp-7">
+          <mxGeometry x="-0.1661" y="2" relative="1" as="geometry">
+            <mxPoint x="11" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KznWMVIkA24yvkX_GZdp-4" value="NBA/NBO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KznWMVIkA24yvkX_GZdp-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KznWMVIkA24yvkX_GZdp-6" target="KznWMVIkA24yvkX_GZdp-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KznWMVIkA24yvkX_GZdp-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KznWMVIkA24yvkX_GZdp-6" target="KznWMVIkA24yvkX_GZdp-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KznWMVIkA24yvkX_GZdp-6" value="RPA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="625" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KznWMVIkA24yvkX_GZdp-8" value="NETSales" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KznWMVIkA24yvkX_GZdp-9" value="NETSMS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KznWMVIkA24yvkX_GZdp-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KznWMVIkA24yvkX_GZdp-8" target="KznWMVIkA24yvkX_GZdp-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KznWMVIkA24yvkX_GZdp-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KznWMVIkA24yvkX_GZdp-9" target="KznWMVIkA24yvkX_GZdp-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KznWMVIkA24yvkX_GZdp-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KznWMVIkA24yvkX_GZdp-14" target="KznWMVIkA24yvkX_GZdp-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KznWMVIkA24yvkX_GZdp-14" value="SOLAR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
