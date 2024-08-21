@@ -61,6 +61,9 @@
         <mxCell id="KznWMVIkA24yvkX_GZdp-14" value="SOLAR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="10" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="zw0QKUcMdJNCVJIQDaNE-1" value="&lt;b&gt;OSs que precisam de agendamento (retirada de equipamento, alteração de equipamento) executam algumas ações na abertura e outras no fechamento, ex: corte de sinal (abertura).&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=#d6b656;shadow=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="565" y="340" width="235" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -120,6 +123,9 @@
               <mxPoint x="685" y="350" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5zpUh5grArdsqf2SC-Sd-0" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="GTb4ueTgLRJUcJQU4vWC-1">
+          <mxGeometry x="40" y="370" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
