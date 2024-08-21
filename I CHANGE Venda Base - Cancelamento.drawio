@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7" pages="2">
   <diagram name="AS IS" id="zxbcZextxd5S9QhHj7xa">
     <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,16 +58,62 @@
         <mxCell id="KznWMVIkA24yvkX_GZdp-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KznWMVIkA24yvkX_GZdp-14" target="KznWMVIkA24yvkX_GZdp-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KznWMVIkA24yvkX_GZdp-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KznWMVIkA24yvkX_GZdp-14" target="KznWMVIkA24yvkX_GZdp-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="KznWMVIkA24yvkX_GZdp-14" value="SOLAR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KznWMVIkA24yvkX_GZdp-18" value="Nova API Cancelamento de pedido" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="To Be V1" id="VKi-I5eIF0n9jjiuaYWm">
+    <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="GTb4ueTgLRJUcJQU4vWC-0" />
+        <mxCell id="GTb4ueTgLRJUcJQU4vWC-1" parent="GTb4ueTgLRJUcJQU4vWC-0" />
+        <mxCell id="GTb4ueTgLRJUcJQU4vWC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="GTb4ueTgLRJUcJQU4vWC-1" source="GTb4ueTgLRJUcJQU4vWC-9" target="GTb4ueTgLRJUcJQU4vWC-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GTb4ueTgLRJUcJQU4vWC-2" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="GTb4ueTgLRJUcJQU4vWC-1">
+          <mxGeometry x="560" y="210" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GTb4ueTgLRJUcJQU4vWC-3" value="Nova API Venda Base" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="GTb4ueTgLRJUcJQU4vWC-1">
+          <mxGeometry x="280" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GTb4ueTgLRJUcJQU4vWC-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="GTb4ueTgLRJUcJQU4vWC-1" source="GTb4ueTgLRJUcJQU4vWC-3" target="GTb4ueTgLRJUcJQU4vWC-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BSCJp3dZUxECkc-pxW7m-0" value="Mudança de pcte&lt;div&gt;Adesão&lt;/div&gt;&lt;div&gt;Aquisição&lt;/div&gt;&lt;div&gt;Cancel. parcial/total&lt;div&gt;Adesão SVA&lt;/div&gt;&lt;div&gt;Aquisição e cancel Agreg. Infor.&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GTb4ueTgLRJUcJQU4vWC-4">
+          <mxGeometry x="-0.165" y="-2" relative="1" as="geometry">
+            <mxPoint x="-127" y="-122" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GTb4ueTgLRJUcJQU4vWC-9" value="NBA/NBO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GTb4ueTgLRJUcJQU4vWC-1">
+          <mxGeometry x="280" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GTb4ueTgLRJUcJQU4vWC-13" value="NETSales" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GTb4ueTgLRJUcJQU4vWC-1">
+          <mxGeometry x="560" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GTb4ueTgLRJUcJQU4vWC-14" value="NETSMS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GTb4ueTgLRJUcJQU4vWC-1">
+          <mxGeometry x="690" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GTb4ueTgLRJUcJQU4vWC-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="GTb4ueTgLRJUcJQU4vWC-1" source="GTb4ueTgLRJUcJQU4vWC-13" target="GTb4ueTgLRJUcJQU4vWC-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GTb4ueTgLRJUcJQU4vWC-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="GTb4ueTgLRJUcJQU4vWC-1" source="GTb4ueTgLRJUcJQU4vWC-14" target="GTb4ueTgLRJUcJQU4vWC-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GTb4ueTgLRJUcJQU4vWC-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GTb4ueTgLRJUcJQU4vWC-1" source="GTb4ueTgLRJUcJQU4vWC-19" target="GTb4ueTgLRJUcJQU4vWC-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GTb4ueTgLRJUcJQU4vWC-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="GTb4ueTgLRJUcJQU4vWC-1" source="GTb4ueTgLRJUcJQU4vWC-19" target="GTb4ueTgLRJUcJQU4vWC-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GTb4ueTgLRJUcJQU4vWC-19" value="SOLAR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GTb4ueTgLRJUcJQU4vWC-1">
+          <mxGeometry x="20" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GTb4ueTgLRJUcJQU4vWC-20" value="Nova API Cancelamento de pedido" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="GTb4ueTgLRJUcJQU4vWC-1">
           <mxGeometry x="20" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KznWMVIkA24yvkX_GZdp-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KznWMVIkA24yvkX_GZdp-18" target="KznWMVIkA24yvkX_GZdp-1">
+        <mxCell id="GTb4ueTgLRJUcJQU4vWC-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="GTb4ueTgLRJUcJQU4vWC-1" source="GTb4ueTgLRJUcJQU4vWC-20" target="GTb4ueTgLRJUcJQU4vWC-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="80" y="350" />
