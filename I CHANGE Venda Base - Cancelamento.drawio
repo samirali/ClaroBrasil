@@ -129,7 +129,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GTb4ueTgLRJUcJQU4vWC-20" value="Nova API Cancelamento de pedido" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="GTb4ueTgLRJUcJQU4vWC-1">
+        <mxCell id="GTb4ueTgLRJUcJQU4vWC-20" value="Nova API Cancelamento de pedido de Cancelamento" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="GTb4ueTgLRJUcJQU4vWC-1">
           <mxGeometry x="20" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f0ZCHFzW3mLmgLY2GVdL-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="GTb4ueTgLRJUcJQU4vWC-1" source="f0ZCHFzW3mLmgLY2GVdL-1" target="f0ZCHFzW3mLmgLY2GVdL-2">
@@ -228,7 +228,7 @@
             <mxPoint x="80" y="70" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MdfGjPhAFePMcJ4vIeWC-1" value="Nova API Cancelamento de pedido" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="A6Rvhkzc93idj-QCLRs0-1">
+        <mxCell id="MdfGjPhAFePMcJ4vIeWC-1" value="Nova API Cancelamento de pedido de Cancelamento" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="A6Rvhkzc93idj-QCLRs0-1">
           <mxGeometry x="20" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pbmHpe2_BF1xglMPn9Cs-0" value="Nova API Cancelamento Parcial/total contrato" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="A6Rvhkzc93idj-QCLRs0-1">
