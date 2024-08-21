@@ -61,7 +61,7 @@
         <mxCell id="KznWMVIkA24yvkX_GZdp-14" value="SOLAR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zw0QKUcMdJNCVJIQDaNE-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="_ykcq2OKT_yTGyspFFQ9-1" target="zw0QKUcMdJNCVJIQDaNE-3">
+        <mxCell id="zw0QKUcMdJNCVJIQDaNE-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="SR0Eljeet-89_VeQJ0IK-1" target="zw0QKUcMdJNCVJIQDaNE-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="685" y="370" as="sourcePoint" />
           </mxGeometry>
@@ -69,7 +69,7 @@
         <mxCell id="zw0QKUcMdJNCVJIQDaNE-3" value="Pckg" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="575" y="270" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_ykcq2OKT_yTGyspFFQ9-1" value="&lt;div&gt;&lt;b&gt;Agenda parametrizada para cada OS.&lt;/b&gt;&lt;/div&gt;&lt;b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;OSs que precisam de agendamento (retirada de equipamento, alteração de equipamento) executam algumas ações na abertura e outras no fechamento, ex: corte de sinal (abertura).&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=#d6b656;shadow=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;" vertex="1" parent="1">
+        <mxCell id="SR0Eljeet-89_VeQJ0IK-1" value="&lt;div&gt;&lt;b&gt;Agenda parametrizada para cada OS.&lt;/b&gt;&lt;/div&gt;&lt;b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;OSs que precisam de agendamento (retirada de equipamento, alteração de equipamento) executam algumas ações na abertura e outras no fechamento, ex: corte de sinal (abertura) e altera status para desconectado&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=#d6b656;shadow=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="567.5" y="370" width="235" height="120" as="geometry" />
         </mxCell>
       </root>
@@ -132,13 +132,10 @@
         <mxCell id="GTb4ueTgLRJUcJQU4vWC-20" value="Nova API Cancelamento de pedido" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="GTb4ueTgLRJUcJQU4vWC-1">
           <mxGeometry x="20" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5zpUh5grArdsqf2SC-Sd-0" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="GTb4ueTgLRJUcJQU4vWC-1">
-          <mxGeometry x="40" y="370" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="f0ZCHFzW3mLmgLY2GVdL-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="GTb4ueTgLRJUcJQU4vWC-1" source="f0ZCHFzW3mLmgLY2GVdL-1" target="f0ZCHFzW3mLmgLY2GVdL-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f0ZCHFzW3mLmgLY2GVdL-1" value="&lt;div&gt;&lt;b&gt;Agenda parametrizada para cada OS.&lt;/b&gt;&lt;/div&gt;&lt;b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;OSs que precisam de agendamento (retirada de equipamento, alteração de equipamento) executam algumas ações na abertura e outras no fechamento, ex: corte de sinal (abertura).&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=#d6b656;shadow=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;" vertex="1" parent="GTb4ueTgLRJUcJQU4vWC-1">
+        <mxCell id="f0ZCHFzW3mLmgLY2GVdL-1" value="&lt;div&gt;&lt;b&gt;Agenda parametrizada para cada OS.&lt;/b&gt;&lt;/div&gt;&lt;b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;OSs que precisam de agendamento (retirada de equipamento, alteração de equipamento) executam algumas ações na abertura e outras no fechamento, ex: corte de sinal (abertura) e altera status para desconectado&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=#d6b656;shadow=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;" vertex="1" parent="GTb4ueTgLRJUcJQU4vWC-1">
           <mxGeometry x="567.5" y="370" width="235" height="120" as="geometry" />
         </mxCell>
         <mxCell id="f0ZCHFzW3mLmgLY2GVdL-2" value="Pckg" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="GTb4ueTgLRJUcJQU4vWC-1">
@@ -244,13 +241,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="u8R3m8kKTggYp4JnI6MO-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="A6Rvhkzc93idj-QCLRs0-1" source="1yNIoPvlLGDtRuBJnJgL-0">
+        <mxCell id="u8R3m8kKTggYp4JnI6MO-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="A6Rvhkzc93idj-QCLRs0-1" source="MJ8xe-s-0FfQuR1Jw1G1-0">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="620" y="310" as="targetPoint" />
             <mxPoint x="685" y="370" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1yNIoPvlLGDtRuBJnJgL-0" value="&lt;div&gt;&lt;b&gt;Agenda parametrizada para cada OS.&lt;/b&gt;&lt;/div&gt;&lt;b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;OSs que precisam de agendamento (retirada de equipamento, alteração de equipamento) executam algumas ações na abertura e outras no fechamento, ex: corte de sinal (abertura).&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=#d6b656;shadow=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;" vertex="1" parent="A6Rvhkzc93idj-QCLRs0-1">
+        <mxCell id="MJ8xe-s-0FfQuR1Jw1G1-0" value="&lt;div&gt;&lt;b&gt;Agenda parametrizada para cada OS.&lt;/b&gt;&lt;/div&gt;&lt;b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;OSs que precisam de agendamento (retirada de equipamento, alteração de equipamento) executam algumas ações na abertura e outras no fechamento, ex: corte de sinal (abertura) e altera status para desconectado&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=#d6b656;shadow=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;" vertex="1" parent="A6Rvhkzc93idj-QCLRs0-1">
           <mxGeometry x="567.5" y="370" width="235" height="120" as="geometry" />
         </mxCell>
       </root>
