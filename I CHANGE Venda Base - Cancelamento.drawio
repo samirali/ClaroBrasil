@@ -58,8 +58,22 @@
         <mxCell id="KznWMVIkA24yvkX_GZdp-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KznWMVIkA24yvkX_GZdp-14" target="KznWMVIkA24yvkX_GZdp-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="KznWMVIkA24yvkX_GZdp-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KznWMVIkA24yvkX_GZdp-14" target="KznWMVIkA24yvkX_GZdp-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KznWMVIkA24yvkX_GZdp-14" value="SOLAR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KznWMVIkA24yvkX_GZdp-18" value="Nova API Cancelamento de pedido" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="20" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KznWMVIkA24yvkX_GZdp-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KznWMVIkA24yvkX_GZdp-18" target="KznWMVIkA24yvkX_GZdp-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="350" />
+              <mxPoint x="685" y="350" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
