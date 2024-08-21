@@ -8,9 +8,9 @@
           <mxGeometry x="560" y="210" width="250" height="120" as="geometry" />
         </mxCell>
         <mxCell id="KznWMVIkA24yvkX_GZdp-2" value="API Proposal Base (DXC)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KznWMVIkA24yvkX_GZdp-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KznWMVIkA24yvkX_GZdp-2" target="KznWMVIkA24yvkX_GZdp-1">
+        <mxCell id="KznWMVIkA24yvkX_GZdp-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KznWMVIkA24yvkX_GZdp-2" target="zw0QKUcMdJNCVJIQDaNE-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KznWMVIkA24yvkX_GZdp-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KznWMVIkA24yvkX_GZdp-4" target="KznWMVIkA24yvkX_GZdp-2">
@@ -68,7 +68,7 @@
           <mxGeometry x="567.5" y="370" width="235" height="90" as="geometry" />
         </mxCell>
         <mxCell id="zw0QKUcMdJNCVJIQDaNE-3" value="Pckg" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="280" width="90" height="40" as="geometry" />
+          <mxGeometry x="575" y="270" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -81,13 +81,13 @@
         <mxCell id="GTb4ueTgLRJUcJQU4vWC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="GTb4ueTgLRJUcJQU4vWC-1" source="GTb4ueTgLRJUcJQU4vWC-9" target="GTb4ueTgLRJUcJQU4vWC-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GTb4ueTgLRJUcJQU4vWC-2" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="GTb4ueTgLRJUcJQU4vWC-1">
+        <mxCell id="GTb4ueTgLRJUcJQU4vWC-2" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;verticalAlign=top;" vertex="1" parent="GTb4ueTgLRJUcJQU4vWC-1">
           <mxGeometry x="560" y="210" width="250" height="120" as="geometry" />
         </mxCell>
         <mxCell id="GTb4ueTgLRJUcJQU4vWC-3" value="Nova API Venda Base" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="GTb4ueTgLRJUcJQU4vWC-1">
-          <mxGeometry x="280" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GTb4ueTgLRJUcJQU4vWC-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="GTb4ueTgLRJUcJQU4vWC-1" source="GTb4ueTgLRJUcJQU4vWC-3" target="GTb4ueTgLRJUcJQU4vWC-2">
+        <mxCell id="GTb4ueTgLRJUcJQU4vWC-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GTb4ueTgLRJUcJQU4vWC-1" source="GTb4ueTgLRJUcJQU4vWC-3" target="f0ZCHFzW3mLmgLY2GVdL-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BSCJp3dZUxECkc-pxW7m-0" value="Mudança de pcte&lt;div&gt;Adesão&lt;/div&gt;&lt;div&gt;Aquisição&lt;/div&gt;&lt;div&gt;Cancel. parcial/total&lt;div&gt;Adesão SVA&lt;/div&gt;&lt;div&gt;Aquisição e cancel Agreg. Infor.&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GTb4ueTgLRJUcJQU4vWC-4">
@@ -119,19 +119,28 @@
         <mxCell id="GTb4ueTgLRJUcJQU4vWC-19" value="SOLAR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GTb4ueTgLRJUcJQU4vWC-1">
           <mxGeometry x="20" y="10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GTb4ueTgLRJUcJQU4vWC-20" value="Nova API Cancelamento de pedido" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="GTb4ueTgLRJUcJQU4vWC-1">
-          <mxGeometry x="20" y="240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="GTb4ueTgLRJUcJQU4vWC-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="GTb4ueTgLRJUcJQU4vWC-1" source="GTb4ueTgLRJUcJQU4vWC-20" target="GTb4ueTgLRJUcJQU4vWC-2">
+        <mxCell id="f0ZCHFzW3mLmgLY2GVdL-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="GTb4ueTgLRJUcJQU4vWC-1" source="GTb4ueTgLRJUcJQU4vWC-20" target="f0ZCHFzW3mLmgLY2GVdL-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="80" y="350" />
-              <mxPoint x="685" y="350" />
+              <mxPoint x="80" y="340" />
+              <mxPoint x="598" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="GTb4ueTgLRJUcJQU4vWC-20" value="Nova API Cancelamento de pedido" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="GTb4ueTgLRJUcJQU4vWC-1">
+          <mxGeometry x="20" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="5zpUh5grArdsqf2SC-Sd-0" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="GTb4ueTgLRJUcJQU4vWC-1">
           <mxGeometry x="40" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f0ZCHFzW3mLmgLY2GVdL-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="GTb4ueTgLRJUcJQU4vWC-1" source="f0ZCHFzW3mLmgLY2GVdL-1" target="f0ZCHFzW3mLmgLY2GVdL-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f0ZCHFzW3mLmgLY2GVdL-1" value="&lt;b&gt;OSs que precisam de agendamento (retirada de equipamento, alteração de equipamento) executam algumas ações na abertura e outras no fechamento, ex: corte de sinal (abertura).&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=#d6b656;shadow=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;" vertex="1" parent="GTb4ueTgLRJUcJQU4vWC-1">
+          <mxGeometry x="567.5" y="370" width="235" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="f0ZCHFzW3mLmgLY2GVdL-2" value="Pckg" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="GTb4ueTgLRJUcJQU4vWC-1">
+          <mxGeometry x="575" y="270" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -141,7 +150,7 @@
       <root>
         <mxCell id="A6Rvhkzc93idj-QCLRs0-0" />
         <mxCell id="A6Rvhkzc93idj-QCLRs0-1" parent="A6Rvhkzc93idj-QCLRs0-0" />
-        <mxCell id="A6Rvhkzc93idj-QCLRs0-2" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="A6Rvhkzc93idj-QCLRs0-1">
+        <mxCell id="A6Rvhkzc93idj-QCLRs0-2" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;verticalAlign=top;" vertex="1" parent="A6Rvhkzc93idj-QCLRs0-1">
           <mxGeometry x="560" y="210" width="250" height="120" as="geometry" />
         </mxCell>
         <mxCell id="A6Rvhkzc93idj-QCLRs0-3" value="API Proposal Base (DXC)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="A6Rvhkzc93idj-QCLRs0-1">
@@ -214,21 +223,32 @@
         <mxCell id="MdfGjPhAFePMcJ4vIeWC-1" value="Nova API Cancelamento de pedido" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="A6Rvhkzc93idj-QCLRs0-1">
           <mxGeometry x="20" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MdfGjPhAFePMcJ4vIeWC-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.45;exitY=0.993;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="A6Rvhkzc93idj-QCLRs0-1" source="MdfGjPhAFePMcJ4vIeWC-1" target="A6Rvhkzc93idj-QCLRs0-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="685" y="330" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="80" y="300" />
-              <mxPoint x="80" y="350" />
-              <mxPoint x="685" y="350" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="pbmHpe2_BF1xglMPn9Cs-0" value="Nova API Cancelamento Parcial/total contrato" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="A6Rvhkzc93idj-QCLRs0-1">
           <mxGeometry x="400" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pbmHpe2_BF1xglMPn9Cs-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=37.5;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="A6Rvhkzc93idj-QCLRs0-1" source="pbmHpe2_BF1xglMPn9Cs-0" target="A6Rvhkzc93idj-QCLRs0-2">
+        <mxCell id="pbmHpe2_BF1xglMPn9Cs-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="A6Rvhkzc93idj-QCLRs0-1" source="pbmHpe2_BF1xglMPn9Cs-0" target="vyYjp4FDoqbmmqX-Gc-a-0">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vyYjp4FDoqbmmqX-Gc-a-0" value="Pckg" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="A6Rvhkzc93idj-QCLRs0-1">
+          <mxGeometry x="575" y="270" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dT3wAG7UT7Ft9LYGdAy6-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="A6Rvhkzc93idj-QCLRs0-1" source="MdfGjPhAFePMcJ4vIeWC-1" target="vyYjp4FDoqbmmqX-Gc-a-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="300" as="sourcePoint" />
+            <mxPoint x="598" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="340" />
+              <mxPoint x="598" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u8R3m8kKTggYp4JnI6MO-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="A6Rvhkzc93idj-QCLRs0-1" source="u8R3m8kKTggYp4JnI6MO-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u8R3m8kKTggYp4JnI6MO-1" value="&lt;b&gt;OSs que precisam de agendamento (retirada de equipamento, alteração de equipamento) executam algumas ações na abertura e outras no fechamento, ex: corte de sinal (abertura).&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=#d6b656;shadow=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;" vertex="1" parent="A6Rvhkzc93idj-QCLRs0-1">
+          <mxGeometry x="567.5" y="370" width="235" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
