@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" modified="2024-08-22T19:54:11.175Z" version="24.4.15" etag="cr0KwPvKssh_jaMxqPfB" type="github" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" modified="2024-08-22T19:56:32.987Z" version="24.4.15" etag="Zm-p76yiG9Fm1ESHr_LK" type="github" pages="4">
   <diagram name="AS IS" id="zxbcZextxd5S9QhHj7xa">
     <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -256,27 +256,22 @@
       <root>
         <mxCell id="du88pHmV5LmBET6fcFIA-0" />
         <mxCell id="du88pHmV5LmBET6fcFIA-1" parent="du88pHmV5LmBET6fcFIA-0" />
-        <mxCell id="du88pHmV5LmBET6fcFIA-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="du88pHmV5LmBET6fcFIA-1" source="du88pHmV5LmBET6fcFIA-8" target="du88pHmV5LmBET6fcFIA-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="du88pHmV5LmBET6fcFIA-3" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;verticalAlign=top;" vertex="1" parent="du88pHmV5LmBET6fcFIA-1">
           <mxGeometry x="560" y="210" width="250" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="du88pHmV5LmBET6fcFIA-4" value="Nova API Venda Base" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="du88pHmV5LmBET6fcFIA-1">
-          <mxGeometry x="280" y="260" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="du88pHmV5LmBET6fcFIA-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="du88pHmV5LmBET6fcFIA-1" source="du88pHmV5LmBET6fcFIA-4" target="du88pHmV5LmBET6fcFIA-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="du88pHmV5LmBET6fcFIA-6" value="Mudança de pcte&lt;div&gt;Adesão&lt;/div&gt;&lt;div&gt;Aquisição&lt;/div&gt;&lt;div&gt;Cancel. parcial/total&lt;div&gt;Adesão SVA&lt;/div&gt;&lt;div&gt;Aquisição e cancel Agreg. Infor.&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="du88pHmV5LmBET6fcFIA-5">
-          <mxGeometry x="-0.165" y="-2" relative="1" as="geometry">
-            <mxPoint x="-127" y="-122" as="offset" />
+        <mxCell id="du88pHmV5LmBET6fcFIA-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="du88pHmV5LmBET6fcFIA-1" source="wipnE3SKL_kUJDDcfXnB-0" target="du88pHmV5LmBET6fcFIA-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="290" as="sourcePoint" />
+            <mxPoint x="575" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="du88pHmV5LmBET6fcFIA-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="du88pHmV5LmBET6fcFIA-1" source="du88pHmV5LmBET6fcFIA-8" target="du88pHmV5LmBET6fcFIA-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NL0Fb4JJM10P7voMwzlV-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="du88pHmV5LmBET6fcFIA-1" source="du88pHmV5LmBET6fcFIA-8" target="NL0Fb4JJM10P7voMwzlV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wipnE3SKL_kUJDDcfXnB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="du88pHmV5LmBET6fcFIA-1" source="du88pHmV5LmBET6fcFIA-8" target="wipnE3SKL_kUJDDcfXnB-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="du88pHmV5LmBET6fcFIA-8" value="Solar(NBA/NBO)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="du88pHmV5LmBET6fcFIA-1">
@@ -294,34 +289,17 @@
         <mxCell id="du88pHmV5LmBET6fcFIA-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="du88pHmV5LmBET6fcFIA-1" source="du88pHmV5LmBET6fcFIA-10" target="du88pHmV5LmBET6fcFIA-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="du88pHmV5LmBET6fcFIA-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="du88pHmV5LmBET6fcFIA-1" source="du88pHmV5LmBET6fcFIA-14" target="du88pHmV5LmBET6fcFIA-17">
+        <mxCell id="du88pHmV5LmBET6fcFIA-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="du88pHmV5LmBET6fcFIA-1" source="du88pHmV5LmBET6fcFIA-14" target="du88pHmV5LmBET6fcFIA-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="80" y="340" />
-              <mxPoint x="598" y="340" />
+              <mxPoint x="685" y="340" />
             </Array>
+            <mxPoint x="597.5" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="du88pHmV5LmBET6fcFIA-14" value="Nova API Cancelamento de pedido de Cancelamento" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="du88pHmV5LmBET6fcFIA-1">
           <mxGeometry x="20" y="240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="du88pHmV5LmBET6fcFIA-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="du88pHmV5LmBET6fcFIA-1" source="du88pHmV5LmBET6fcFIA-16" target="du88pHmV5LmBET6fcFIA-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="du88pHmV5LmBET6fcFIA-16" value="&lt;div&gt;&lt;b&gt;Agenda parametrizada para cada OS.&lt;/b&gt;&lt;/div&gt;&lt;b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;OSs que precisam de agendamento (retirada de equipamento, alteração de equipamento) executam algumas ações na abertura e outras no fechamento, ex: corte de sinal (abertura) e altera status para desconectado&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=#d6b656;shadow=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;" vertex="1" parent="du88pHmV5LmBET6fcFIA-1">
-          <mxGeometry x="567.5" y="370" width="235" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="du88pHmV5LmBET6fcFIA-17" value="Pckg" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="du88pHmV5LmBET6fcFIA-1">
-          <mxGeometry x="575" y="270" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="du88pHmV5LmBET6fcFIA-18" value="&lt;div&gt;&lt;b&gt;Novo atributo &quot;Data Futura&quot; para que execução do cancelamento. O faturamento deve suspender a cobrança dos itens cancelados até a execução do cancelamento na &quot;data futura&quot;.&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;strokeColor=#d6b656;shadow=0;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;" vertex="1" parent="du88pHmV5LmBET6fcFIA-1">
-          <mxGeometry x="254" y="370" width="235" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="du88pHmV5LmBET6fcFIA-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="du88pHmV5LmBET6fcFIA-1" source="du88pHmV5LmBET6fcFIA-18" target="du88pHmV5LmBET6fcFIA-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="220" as="targetPoint" />
-            <mxPoint x="695" y="380" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="NL0Fb4JJM10P7voMwzlV-0" value="Cancel. parcial/total&lt;div&gt;Adesão SVA&lt;/div&gt;&lt;div&gt;Aquisição e cancel Agreg. Infor.&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="du88pHmV5LmBET6fcFIA-1">
           <mxGeometry x="505" y="40" as="geometry" />
@@ -334,6 +312,12 @@
         </mxCell>
         <mxCell id="NL0Fb4JJM10P7voMwzlV-1" value="RPA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="du88pHmV5LmBET6fcFIA-1">
           <mxGeometry x="625" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wipnE3SKL_kUJDDcfXnB-0" value="API Proposal Base (DXC)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="du88pHmV5LmBET6fcFIA-1">
+          <mxGeometry x="280" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wipnE3SKL_kUJDDcfXnB-1" value="Mudança de pcte&lt;div&gt;Adesão&lt;/div&gt;&lt;div&gt;Aquisição&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="du88pHmV5LmBET6fcFIA-1">
+          <mxGeometry x="341" y="161" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
