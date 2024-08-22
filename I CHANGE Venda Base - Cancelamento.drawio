@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" modified="2024-08-22T19:47:07.024Z" version="24.4.15" etag="lziyJyZ9Mlt9SY8-wgpg" type="github" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" modified="2024-08-22T19:54:11.175Z" version="24.4.15" etag="cr0KwPvKssh_jaMxqPfB" type="github" pages="4">
   <diagram name="AS IS" id="zxbcZextxd5S9QhHj7xa">
     <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -276,6 +276,9 @@
         <mxCell id="du88pHmV5LmBET6fcFIA-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="du88pHmV5LmBET6fcFIA-1" source="du88pHmV5LmBET6fcFIA-8" target="du88pHmV5LmBET6fcFIA-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="NL0Fb4JJM10P7voMwzlV-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="du88pHmV5LmBET6fcFIA-1" source="du88pHmV5LmBET6fcFIA-8" target="NL0Fb4JJM10P7voMwzlV-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="du88pHmV5LmBET6fcFIA-8" value="Solar(NBA/NBO)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="du88pHmV5LmBET6fcFIA-1">
           <mxGeometry x="280" y="10" width="120" height="60" as="geometry" />
         </mxCell>
@@ -319,6 +322,18 @@
             <mxPoint x="430" y="220" as="targetPoint" />
             <mxPoint x="695" y="380" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="NL0Fb4JJM10P7voMwzlV-0" value="Cancel. parcial/total&lt;div&gt;Adesão SVA&lt;/div&gt;&lt;div&gt;Aquisição e cancel Agreg. Infor.&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="du88pHmV5LmBET6fcFIA-1">
+          <mxGeometry x="505" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NL0Fb4JJM10P7voMwzlV-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="du88pHmV5LmBET6fcFIA-1" source="NL0Fb4JJM10P7voMwzlV-1" target="du88pHmV5LmBET6fcFIA-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NL0Fb4JJM10P7voMwzlV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="du88pHmV5LmBET6fcFIA-1" source="NL0Fb4JJM10P7voMwzlV-1" target="du88pHmV5LmBET6fcFIA-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NL0Fb4JJM10P7voMwzlV-1" value="RPA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="du88pHmV5LmBET6fcFIA-1">
+          <mxGeometry x="625" y="10" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
