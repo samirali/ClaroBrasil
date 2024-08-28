@@ -95,10 +95,10 @@
             <mxPoint x="270" y="281" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eKdBXMKmCcuGmzLQZuIi-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="eKdBXMKmCcuGmzLQZuIi-1" source="eKdBXMKmCcuGmzLQZuIi-17" target="eKdBXMKmCcuGmzLQZuIi-15">
+        <mxCell id="eKdBXMKmCcuGmzLQZuIi-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="eKdBXMKmCcuGmzLQZuIi-1" source="eKdBXMKmCcuGmzLQZuIi-17">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="555" y="138" as="sourcePoint" />
-            <mxPoint x="555" y="90" as="targetPoint" />
+            <mxPoint x="555" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eKdBXMKmCcuGmzLQZuIi-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="eKdBXMKmCcuGmzLQZuIi-1" source="eKdBXMKmCcuGmzLQZuIi-17" target="eKdBXMKmCcuGmzLQZuIi-6">
@@ -118,17 +118,16 @@
         <mxCell id="eKdBXMKmCcuGmzLQZuIi-13" value="Usuário" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="eKdBXMKmCcuGmzLQZuIi-1">
           <mxGeometry x="715" y="145" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eKdBXMKmCcuGmzLQZuIi-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="eKdBXMKmCcuGmzLQZuIi-1" source="eKdBXMKmCcuGmzLQZuIi-15" target="eKdBXMKmCcuGmzLQZuIi-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="eKdBXMKmCcuGmzLQZuIi-15" value="APIs" style="html=1;whiteSpace=wrap;strokeColor=#FFD966;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;sketch=0;shape=mxgraph.sitemap.services;strokeWidth=2;" vertex="1" parent="eKdBXMKmCcuGmzLQZuIi-1">
-          <mxGeometry x="495" y="40" width="120" height="70" as="geometry" />
+        <mxCell id="eKdBXMKmCcuGmzLQZuIi-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="eKdBXMKmCcuGmzLQZuIi-1" target="eKdBXMKmCcuGmzLQZuIi-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="615" y="75" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="eKdBXMKmCcuGmzLQZuIi-16" value="Ativação Simplificada" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="eKdBXMKmCcuGmzLQZuIi-1">
           <mxGeometry x="670" y="45" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eKdBXMKmCcuGmzLQZuIi-17" value="Robô Combo Multi" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/phosphor-duotone-vol-3/256/robot-duotone-128.png;imageBackground=#FFFFCC;" vertex="1" parent="eKdBXMKmCcuGmzLQZuIi-1">
-          <mxGeometry x="521" y="130" width="68" height="68" as="geometry" />
+          <mxGeometry x="521" y="140" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="eKdBXMKmCcuGmzLQZuIi-18" value="Console de Carga" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/arrows-set-12/512/refresh-128.png;imageBackground=#FFFFCC;" vertex="1" parent="eKdBXMKmCcuGmzLQZuIi-1">
           <mxGeometry x="350" y="252" width="58" height="58" as="geometry" />
@@ -206,10 +205,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="5KdYsm9sbdoqidNBDGNR-25" value="API Emissor Etiquetas" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/API_Proxy.svg;" vertex="1" parent="eKdBXMKmCcuGmzLQZuIi-1">
+        <mxCell id="5KdYsm9sbdoqidNBDGNR-25" value="API Emissor Etiquetas" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/API_Proxy.svg;imageBackground=none;fillStyle=hatch;" vertex="1" parent="eKdBXMKmCcuGmzLQZuIi-1">
           <mxGeometry x="346" y="50" width="68" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="5KdYsm9sbdoqidNBDGNR-26" value="API GED" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/API_Proxy.svg;" vertex="1" parent="eKdBXMKmCcuGmzLQZuIi-1">
+        <mxCell id="5KdYsm9sbdoqidNBDGNR-26" value="API GED" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/API_Proxy.svg;imageBackground=default;" vertex="1" parent="eKdBXMKmCcuGmzLQZuIi-1">
           <mxGeometry x="346" y="141" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="5KdYsm9sbdoqidNBDGNR-27" value="API Proposal" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/API_Proxy.svg;" vertex="1" parent="eKdBXMKmCcuGmzLQZuIi-1">
@@ -217,6 +216,9 @@
         </mxCell>
         <mxCell id="5KdYsm9sbdoqidNBDGNR-29" value="API Assetização" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/API_Proxy.svg;" vertex="1" parent="eKdBXMKmCcuGmzLQZuIi-1">
           <mxGeometry x="540" y="367" width="68" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="5KdYsm9sbdoqidNBDGNR-32" value="API Ativação Simplificada" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/API_Proxy.svg;" vertex="1" parent="eKdBXMKmCcuGmzLQZuIi-1">
+          <mxGeometry x="521" y="45" width="68" height="68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
