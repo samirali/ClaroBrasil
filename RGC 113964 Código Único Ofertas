@@ -220,6 +220,12 @@
         <mxCell id="5KdYsm9sbdoqidNBDGNR-32" value="API Ativação Simplificada" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/API_Proxy.svg;" vertex="1" parent="eKdBXMKmCcuGmzLQZuIi-1">
           <mxGeometry x="521" y="45" width="68" height="68" as="geometry" />
         </mxCell>
+        <mxCell id="5KdYsm9sbdoqidNBDGNR-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="eKdBXMKmCcuGmzLQZuIi-1" source="5KdYsm9sbdoqidNBDGNR-33" target="eKdBXMKmCcuGmzLQZuIi-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5KdYsm9sbdoqidNBDGNR-33" value="Conexão" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="eKdBXMKmCcuGmzLQZuIi-1">
+          <mxGeometry x="221" y="15" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
