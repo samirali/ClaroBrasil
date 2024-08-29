@@ -118,11 +118,6 @@
         <mxCell id="eKdBXMKmCcuGmzLQZuIi-13" value="Usuário" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="eKdBXMKmCcuGmzLQZuIi-1" vertex="1">
           <mxGeometry x="715" y="145" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eKdBXMKmCcuGmzLQZuIi-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="eKdBXMKmCcuGmzLQZuIi-1" target="eKdBXMKmCcuGmzLQZuIi-16" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="615" y="75" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="eKdBXMKmCcuGmzLQZuIi-16" value="Ativação Simplificada" style="rounded=1;whiteSpace=wrap;html=1;" parent="eKdBXMKmCcuGmzLQZuIi-1" vertex="1">
           <mxGeometry x="670" y="45" width="120" height="60" as="geometry" />
         </mxCell>
@@ -157,11 +152,6 @@
             <mxPoint x="320" y="205" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5KdYsm9sbdoqidNBDGNR-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.024;entryY=0.612;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" parent="eKdBXMKmCcuGmzLQZuIi-1" source="eKdBXMKmCcuGmzLQZuIi-4" target="5KdYsm9sbdoqidNBDGNR-25" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="319" y="105" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="5KdYsm9sbdoqidNBDGNR-11" value="- Tabela identificando C. Único das ofertas;&lt;div&gt;- Armazenamento do C. Único na proposta/contrato;&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;horizontal=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="eKdBXMKmCcuGmzLQZuIi-1" vertex="1">
           <mxGeometry x="10" y="251" width="117" height="99" as="geometry" />
         </mxCell>
@@ -191,8 +181,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="zmejOBOPTGs8u2qSB3s7-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="eKdBXMKmCcuGmzLQZuIi-1" source="5KdYsm9sbdoqidNBDGNR-25" target="eKdBXMKmCcuGmzLQZuIi-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5KdYsm9sbdoqidNBDGNR-25" value="API Emissor Etiquetas" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/API_Proxy.svg;imageBackground=none;fillStyle=hatch;" parent="eKdBXMKmCcuGmzLQZuIi-1" vertex="1">
-          <mxGeometry x="346" y="50" width="68" height="68" as="geometry" />
+          <mxGeometry x="346" y="54" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="5KdYsm9sbdoqidNBDGNR-26" value="API GED" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/API_Proxy.svg;imageBackground=default;" parent="eKdBXMKmCcuGmzLQZuIi-1" vertex="1">
           <mxGeometry x="346" y="141" width="68" height="68" as="geometry" />
@@ -203,8 +196,11 @@
         <mxCell id="5KdYsm9sbdoqidNBDGNR-29" value="API Assetização" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/API_Proxy.svg;" parent="eKdBXMKmCcuGmzLQZuIi-1" vertex="1">
           <mxGeometry x="540" y="368" width="68" height="68" as="geometry" />
         </mxCell>
+        <mxCell id="zmejOBOPTGs8u2qSB3s7-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="eKdBXMKmCcuGmzLQZuIi-1" source="5KdYsm9sbdoqidNBDGNR-32" target="eKdBXMKmCcuGmzLQZuIi-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5KdYsm9sbdoqidNBDGNR-32" value="API Ativação Simplificada" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/API_Proxy.svg;" parent="eKdBXMKmCcuGmzLQZuIi-1" vertex="1">
-          <mxGeometry x="521" y="45" width="68" height="68" as="geometry" />
+          <mxGeometry x="521" y="41" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="5KdYsm9sbdoqidNBDGNR-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="eKdBXMKmCcuGmzLQZuIi-1" source="5KdYsm9sbdoqidNBDGNR-33" target="eKdBXMKmCcuGmzLQZuIi-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
