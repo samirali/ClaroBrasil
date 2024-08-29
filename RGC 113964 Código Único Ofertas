@@ -192,7 +192,7 @@
         <mxCell id="5KdYsm9sbdoqidNBDGNR-26" value="API GED" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/API_Proxy.svg;imageBackground=default;noLabel=0;labelPadding=0;movableLabel=1;spacingTop=-20;" parent="eKdBXMKmCcuGmzLQZuIi-1" vertex="1">
           <mxGeometry x="346" y="137" width="68" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="5KdYsm9sbdoqidNBDGNR-27" value="API Proposal&lt;div&gt;&amp;nbsp;(Solar)&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/API_Proxy.svg;spacingTop=-20;" parent="eKdBXMKmCcuGmzLQZuIi-1" vertex="1">
+        <mxCell id="5KdYsm9sbdoqidNBDGNR-27" value="API Proposal&lt;div&gt;&amp;nbsp;(Solar)&lt;/div&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/API_Proxy.svg;spacingTop=-20;noLabel=0;perimeter=rectanglePerimeter;container=0;collapsible=0;metaEdit=0;backgroundOutline=0;shadow=0;imageBackground=none;strokeWidth=0;perimeterSpacing=0;textShadow=0;imageBorder=none;" parent="eKdBXMKmCcuGmzLQZuIi-1" vertex="1">
           <mxGeometry x="240" y="368" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="5KdYsm9sbdoqidNBDGNR-29" value="API Assetização" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/API_Proxy.svg;spacingTop=-20;" parent="eKdBXMKmCcuGmzLQZuIi-1" vertex="1">
