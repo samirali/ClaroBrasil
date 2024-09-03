@@ -1527,14 +1527,6 @@
             <mxPoint x="-53" y="167" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mQh4mrVjMR3C3lv0jYH2-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;dashPattern=1 4;" edge="1" parent="1q-RPmU_ZzXHlKInPnsE-1" source="mQh4mrVjMR3C3lv0jYH2-22" target="1q-RPmU_ZzXHlKInPnsE-34">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="103" />
-              <mxPoint x="65" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mQh4mrVjMR3C3lv0jYH2-22" value="Alteração na data de agendamento (obrigatório hoje), permitindo ter uma estimativa de entrega e operador logístico.&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;color: rgb(51, 51, 51); font-size: 10px;&quot;&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=10;" vertex="1" parent="1q-RPmU_ZzXHlKInPnsE-1">
           <mxGeometry x="-225" y="-61" width="195" height="50" as="geometry" />
         </mxCell>
