@@ -1481,7 +1481,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1q-RPmU_ZzXHlKInPnsE-34" value="MS PROPOSALS/&lt;div&gt;CONFIRMATIONS&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1q-RPmU_ZzXHlKInPnsE-1">
+        <mxCell id="1q-RPmU_ZzXHlKInPnsE-34" value="MS PROPOSALS/&lt;div&gt;CONFIRMATIONS - SOLAR&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1q-RPmU_ZzXHlKInPnsE-1">
           <mxGeometry x="-9" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mQh4mrVjMR3C3lv0jYH2-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1q-RPmU_ZzXHlKInPnsE-1" source="mQh4mrVjMR3C3lv0jYH2-51" target="mQh4mrVjMR3C3lv0jYH2-41">
@@ -1570,7 +1570,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mQh4mrVjMR3C3lv0jYH2-56" value="NOVO MS CANCELAMENTO TOTAL" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1q-RPmU_ZzXHlKInPnsE-1">
+        <mxCell id="mQh4mrVjMR3C3lv0jYH2-56" value="NOVO MS CANCELAMENTO TOTAL - SOLAR" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1q-RPmU_ZzXHlKInPnsE-1">
           <mxGeometry x="-138" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mQh4mrVjMR3C3lv0jYH2-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1q-RPmU_ZzXHlKInPnsE-1" source="mQh4mrVjMR3C3lv0jYH2-45" target="1q-RPmU_ZzXHlKInPnsE-22">
@@ -1598,7 +1598,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mQh4mrVjMR3C3lv0jYH2-63" value="NOVO MS ATUALIZA STATUS ENTREGA REVERSA/ DEVOLUÇÃO SAP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1q-RPmU_ZzXHlKInPnsE-1">
+        <mxCell id="mQh4mrVjMR3C3lv0jYH2-63" value="NOVO MS ATUALIZA STATUS ORDEM DEVOLUÇÃO - SAP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1q-RPmU_ZzXHlKInPnsE-1">
           <mxGeometry x="305.5" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mQh4mrVjMR3C3lv0jYH2-65" value="API SOLAR NOTIFICAÇÃO STATUS CANCEL CONTRATO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1q-RPmU_ZzXHlKInPnsE-1">
@@ -1612,7 +1612,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mQh4mrVjMR3C3lv0jYH2-66" value="NOVO MS GERA SOLIC TROCA EQUIPAMENTO DEFEITUOSO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1q-RPmU_ZzXHlKInPnsE-1">
+        <mxCell id="mQh4mrVjMR3C3lv0jYH2-66" value="NOVO MS GERA SOLIC TROCA EQUI. DEFEITUOSO SOLAR" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1q-RPmU_ZzXHlKInPnsE-1">
           <mxGeometry x="-270" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mQh4mrVjMR3C3lv0jYH2-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1q-RPmU_ZzXHlKInPnsE-1" source="mQh4mrVjMR3C3lv0jYH2-47" target="1q-RPmU_ZzXHlKInPnsE-22">
@@ -1698,6 +1698,12 @@
         </mxCell>
         <mxCell id="mQh4mrVjMR3C3lv0jYH2-103" value="SAP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="mQh4mrVjMR3C3lv0jYH2-104">
           <mxGeometry y="40" width="50" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="mQh4mrVjMR3C3lv0jYH2-106" value="API ASSETIZAÇÃO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1q-RPmU_ZzXHlKInPnsE-1">
+          <mxGeometry x="-310" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mQh4mrVjMR3C3lv0jYH2-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1q-RPmU_ZzXHlKInPnsE-1" source="mQh4mrVjMR3C3lv0jYH2-106" target="1q-RPmU_ZzXHlKInPnsE-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
