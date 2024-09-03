@@ -1403,9 +1403,9 @@
         <mxCell id="1q-RPmU_ZzXHlKInPnsE-9" value="TMS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1q-RPmU_ZzXHlKInPnsE-1">
           <mxGeometry x="699" y="10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1q-RPmU_ZzXHlKInPnsE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1q-RPmU_ZzXHlKInPnsE-1" target="1q-RPmU_ZzXHlKInPnsE-30">
+        <mxCell id="1q-RPmU_ZzXHlKInPnsE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1q-RPmU_ZzXHlKInPnsE-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310" y="480" as="targetPoint" />
+            <mxPoint x="240.5" y="177" as="targetPoint" />
             <Array as="points">
               <mxPoint x="240" y="110" />
             </Array>
@@ -1499,11 +1499,6 @@
         <mxCell id="1q-RPmU_ZzXHlKInPnsE-29" value="SOLIC" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1q-RPmU_ZzXHlKInPnsE-1">
           <mxGeometry x="20" y="140" width="90" height="60" as="geometry">
             <mxRectangle x="253" y="200" width="80" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1q-RPmU_ZzXHlKInPnsE-30" value="CIDADE X CORREIO" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1q-RPmU_ZzXHlKInPnsE-1">
-          <mxGeometry x="198" y="177" width="85" height="60" as="geometry">
-            <mxRectangle x="205" y="215" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1q-RPmU_ZzXHlKInPnsE-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1q-RPmU_ZzXHlKInPnsE-1" source="1q-RPmU_ZzXHlKInPnsE-32" target="1q-RPmU_ZzXHlKInPnsE-15">
