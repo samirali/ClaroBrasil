@@ -1366,7 +1366,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="NETsales 8a base v11" id="2LA70v4pCauzhXr7EGeg">
-    <mxGraphModel dx="1877" dy="1699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="1793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="1q-RPmU_ZzXHlKInPnsE-0" />
         <mxCell id="1q-RPmU_ZzXHlKInPnsE-1" parent="1q-RPmU_ZzXHlKInPnsE-0" />
@@ -1469,8 +1469,8 @@
         <mxCell id="1q-RPmU_ZzXHlKInPnsE-22" value="TRIGGER" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1q-RPmU_ZzXHlKInPnsE-1">
           <mxGeometry x="-100" y="340" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1q-RPmU_ZzXHlKInPnsE-25" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;NETSales:&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1/ Identifica se endereço é para 8ª base,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;venda é prospect,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;produto Claro Box&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;single;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2/ Consulta tabela de cidade x correios;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3/&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Cria SOLIC correta para essa venda;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4/ Cria OL para emissão NF e separar equipam.;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;5/ Cria OS nova da venda pelo correio;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1q-RPmU_ZzXHlKInPnsE-1">
-          <mxGeometry x="520" y="300" width="270" height="120" as="geometry" />
+        <mxCell id="1q-RPmU_ZzXHlKInPnsE-25" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;ALTERAÇÃO MS PROPOSALS/CONFIRMATIONS:&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Para Oper Logístico Correios, virá uma data de entrega estimada.&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;NOVOS MS PARA RECEBER SOLICITAÇÕES E ATULIZAÇÕES SOLAR E SAP.&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;CRIAÇÃO DE NOVAS SOLIC E OS PARA CORREIOS&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;CRIAÇÃO DE PROCESSO NO BANCO NETSMS PARA CHAMAR APIS SOLAR E SAP, REGISTRAR ORDEMS DE VENDA E DEVOLUÇÃO, E RECEBER ATUALIZAÇÃO DE STATUS.&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;ATUALIZAÇÃO DO ATLAS DEVERÁ SER FEITA POR OSS (COMO?)&lt;/b&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1q-RPmU_ZzXHlKInPnsE-1">
+          <mxGeometry x="520" y="80" width="210" height="360" as="geometry" />
         </mxCell>
         <mxCell id="mQh4mrVjMR3C3lv0jYH2-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1q-RPmU_ZzXHlKInPnsE-1" source="1q-RPmU_ZzXHlKInPnsE-34" target="mQh4mrVjMR3C3lv0jYH2-44">
           <mxGeometry relative="1" as="geometry">
@@ -1483,12 +1483,6 @@
         </mxCell>
         <mxCell id="1q-RPmU_ZzXHlKInPnsE-34" value="MS PROPOSALS/&lt;div&gt;CONFIRMATIONS&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1q-RPmU_ZzXHlKInPnsE-1">
           <mxGeometry x="-9" y="10" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1q-RPmU_ZzXHlKInPnsE-37" value="BSS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1q-RPmU_ZzXHlKInPnsE-1">
-          <mxGeometry x="190" y="489" width="60" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="1q-RPmU_ZzXHlKInPnsE-38" value="OSS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1q-RPmU_ZzXHlKInPnsE-1">
-          <mxGeometry x="190" y="473" width="60" height="16" as="geometry" />
         </mxCell>
         <mxCell id="mQh4mrVjMR3C3lv0jYH2-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1q-RPmU_ZzXHlKInPnsE-1" source="mQh4mrVjMR3C3lv0jYH2-51" target="mQh4mrVjMR3C3lv0jYH2-41">
           <mxGeometry relative="1" as="geometry">
@@ -1505,11 +1499,10 @@
             <mxPoint x="-53" y="167" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mQh4mrVjMR3C3lv0jYH2-22" value="Alteração na data de agendamento (obrigatório hoje), permitindo ter uma estimativa de entrega e operador logístico.&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;color: rgb(51, 51, 51); font-size: 10px;&quot;&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=10;" vertex="1" parent="1q-RPmU_ZzXHlKInPnsE-1">
-          <mxGeometry x="-225" y="-61" width="195" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="mQh4mrVjMR3C3lv0jYH2-24" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;Criação de nova Solic e OS sem agendamento&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;fontSize=10;" vertex="1" parent="1q-RPmU_ZzXHlKInPnsE-1">
-          <mxGeometry x="-30" y="455" width="80" height="50" as="geometry" />
+        <mxCell id="mQh4mrVjMR3C3lv0jYH2-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;dashPattern=1 4;strokeColor=#3333FF;" edge="1" parent="1q-RPmU_ZzXHlKInPnsE-1" target="1q-RPmU_ZzXHlKInPnsE-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="480" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="mQh4mrVjMR3C3lv0jYH2-33" value="API SAP - GERAR ORDEM DE VENDA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1q-RPmU_ZzXHlKInPnsE-1">
           <mxGeometry x="57" y="-72" width="120" height="60" as="geometry" />
@@ -1679,11 +1672,46 @@
         </mxCell>
         <mxCell id="mQh4mrVjMR3C3lv0jYH2-96" value="Atualiza&amp;nbsp;&lt;div&gt;Status&amp;nbsp;&lt;/div&gt;&lt;div&gt;Cancelamento&amp;nbsp;&lt;/div&gt;&lt;div&gt;Contrato&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mQh4mrVjMR3C3lv0jYH2-95">
           <mxGeometry x="0.2809" y="2" relative="1" as="geometry">
-            <mxPoint x="-72" y="146" as="offset" />
+            <mxPoint x="22" y="22" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mQh4mrVjMR3C3lv0jYH2-97" value="API SOLAR NOTIFICAÇÃO STATUS SOLIC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1q-RPmU_ZzXHlKInPnsE-1">
           <mxGeometry x="610" y="-72" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mQh4mrVjMR3C3lv0jYH2-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1q-RPmU_ZzXHlKInPnsE-1" source="mQh4mrVjMR3C3lv0jYH2-51" target="mQh4mrVjMR3C3lv0jYH2-97">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="279" />
+              <mxPoint x="510" />
+              <mxPoint x="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mQh4mrVjMR3C3lv0jYH2-99" value="Atualiza Status&amp;nbsp;&lt;div&gt;Conclusão Solic&amp;nbsp;&lt;/div&gt;&lt;div&gt;Troca de&amp;nbsp;&lt;/div&gt;&lt;div&gt;Equipamento&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mQh4mrVjMR3C3lv0jYH2-98">
+          <mxGeometry x="0.5923" y="-2" relative="1" as="geometry">
+            <mxPoint x="86" y="18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mQh4mrVjMR3C3lv0jYH2-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=none;startFill=0;dashed=1;dashPattern=1 4;strokeColor=#3333FF;endArrow=none;endFill=0;" edge="1" parent="1q-RPmU_ZzXHlKInPnsE-1" target="mQh4mrVjMR3C3lv0jYH2-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-180" y="480" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-200" y="480" />
+              <mxPoint x="-200" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mQh4mrVjMR3C3lv0jYH2-104" value="" style="group" vertex="1" connectable="0" parent="1q-RPmU_ZzXHlKInPnsE-1">
+          <mxGeometry x="-230" y="-64" width="50" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="1q-RPmU_ZzXHlKInPnsE-37" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;BSS&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="mQh4mrVjMR3C3lv0jYH2-104">
+          <mxGeometry width="50" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="1q-RPmU_ZzXHlKInPnsE-38" value="SOLAR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="mQh4mrVjMR3C3lv0jYH2-104">
+          <mxGeometry y="20" width="50" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="mQh4mrVjMR3C3lv0jYH2-103" value="SAP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="mQh4mrVjMR3C3lv0jYH2-104">
+          <mxGeometry y="40" width="50" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
