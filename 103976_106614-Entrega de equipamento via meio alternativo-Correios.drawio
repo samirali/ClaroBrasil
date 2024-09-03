@@ -1646,7 +1646,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mQh4mrVjMR3C3lv0jYH2-66" value="NOVO MS TROCA EQUIPAMENTO DEFEITUOSO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1q-RPmU_ZzXHlKInPnsE-1">
+        <mxCell id="mQh4mrVjMR3C3lv0jYH2-66" value="NOVO MS GERA SOLIC TROCA EQUIPAMENTO DEFEITUOSO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1q-RPmU_ZzXHlKInPnsE-1">
           <mxGeometry x="-270" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mQh4mrVjMR3C3lv0jYH2-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1q-RPmU_ZzXHlKInPnsE-1" source="mQh4mrVjMR3C3lv0jYH2-47" target="1q-RPmU_ZzXHlKInPnsE-22">
@@ -1703,6 +1703,9 @@
           <mxGeometry x="0.2809" y="2" relative="1" as="geometry">
             <mxPoint x="-72" y="146" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mQh4mrVjMR3C3lv0jYH2-97" value="API SOLAR NOTIFICAÇÃO STATUS SOLIC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1q-RPmU_ZzXHlKInPnsE-1">
+          <mxGeometry x="610" y="-72" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
