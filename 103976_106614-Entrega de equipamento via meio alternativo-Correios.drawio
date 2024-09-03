@@ -1373,44 +1373,34 @@
         <mxCell id="1q-RPmU_ZzXHlKInPnsE-2" value="&lt;b&gt;NETSMS&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;verticalAlign=top;" vertex="1" parent="1q-RPmU_ZzXHlKInPnsE-1">
           <mxGeometry x="-180" y="99" width="594" height="351" as="geometry" />
         </mxCell>
-        <mxCell id="1q-RPmU_ZzXHlKInPnsE-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.675;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1q-RPmU_ZzXHlKInPnsE-1" source="1q-RPmU_ZzXHlKInPnsE-6" target="1q-RPmU_ZzXHlKInPnsE-32">
+        <mxCell id="1q-RPmU_ZzXHlKInPnsE-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1q-RPmU_ZzXHlKInPnsE-1" target="1q-RPmU_ZzXHlKInPnsE-36">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="610" y="90" />
-              <mxPoint x="668" y="90" />
-            </Array>
+            <mxPoint x="589" y="70" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="1q-RPmU_ZzXHlKInPnsE-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1q-RPmU_ZzXHlKInPnsE-1" source="1q-RPmU_ZzXHlKInPnsE-6" target="1q-RPmU_ZzXHlKInPnsE-36">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1q-RPmU_ZzXHlKInPnsE-5" value="Control M" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="1q-RPmU_ZzXHlKInPnsE-4">
           <mxGeometry x="-0.0087" y="-2" relative="1" as="geometry">
             <mxPoint x="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1q-RPmU_ZzXHlKInPnsE-6" value="SAP&amp;nbsp;&lt;div style=&quot;font-size: 10px;&quot;&gt;(&lt;span style=&quot;background-color: initial;&quot;&gt;PPM 109939 Emissão de NF comodato&amp;nbsp;&lt;/span&gt;&lt;div&gt;pra CPF)&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1q-RPmU_ZzXHlKInPnsE-1">
-          <mxGeometry x="529" y="10" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1q-RPmU_ZzXHlKInPnsE-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1q-RPmU_ZzXHlKInPnsE-1" source="1q-RPmU_ZzXHlKInPnsE-9" target="1q-RPmU_ZzXHlKInPnsE-35">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="1q-RPmU_ZzXHlKInPnsE-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1q-RPmU_ZzXHlKInPnsE-1" target="1q-RPmU_ZzXHlKInPnsE-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="759" y="70" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="1q-RPmU_ZzXHlKInPnsE-8" value="API" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="1q-RPmU_ZzXHlKInPnsE-7">
           <mxGeometry x="0.0783" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1q-RPmU_ZzXHlKInPnsE-9" value="TMS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1q-RPmU_ZzXHlKInPnsE-1">
-          <mxGeometry x="699" y="10" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="1q-RPmU_ZzXHlKInPnsE-15" value="OS" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1q-RPmU_ZzXHlKInPnsE-1">
           <mxGeometry x="340" y="308" width="51" height="44" as="geometry">
             <mxRectangle x="510" y="200" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1q-RPmU_ZzXHlKInPnsE-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1q-RPmU_ZzXHlKInPnsE-1" source="1q-RPmU_ZzXHlKInPnsE-6" target="1q-RPmU_ZzXHlKInPnsE-9">
+        <mxCell id="1q-RPmU_ZzXHlKInPnsE-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1q-RPmU_ZzXHlKInPnsE-1" target="1q-RPmU_ZzXHlKInPnsE-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="619" y="150" as="sourcePoint" />
+            <mxPoint x="649" y="40" as="sourcePoint" />
             <mxPoint x="669" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -1482,12 +1472,6 @@
         <mxCell id="1q-RPmU_ZzXHlKInPnsE-25" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;NETSales:&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1/ Identifica se endereço é para 8ª base,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;venda é prospect,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;produto Claro Box&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;single;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2/ Consulta tabela de cidade x correios;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3/&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Cria SOLIC correta para essa venda;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4/ Cria OL para emissão NF e separar equipam.;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;5/ Cria OS nova da venda pelo correio;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1q-RPmU_ZzXHlKInPnsE-1">
           <mxGeometry x="520" y="300" width="270" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1q-RPmU_ZzXHlKInPnsE-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1q-RPmU_ZzXHlKInPnsE-1" source="1q-RPmU_ZzXHlKInPnsE-32" target="1q-RPmU_ZzXHlKInPnsE-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1q-RPmU_ZzXHlKInPnsE-32" value="API BAIXA DE OS &lt;font style=&quot;font-size: 10px;&quot;&gt;(&lt;span style=&quot;background-color: initial;&quot;&gt;/residential/v1/&lt;/span&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;serviceorders/&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;accomplishmen&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ts)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1q-RPmU_ZzXHlKInPnsE-1">
-          <mxGeometry x="574" y="215" width="125" height="68" as="geometry" />
-        </mxCell>
         <mxCell id="mQh4mrVjMR3C3lv0jYH2-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1q-RPmU_ZzXHlKInPnsE-1" source="1q-RPmU_ZzXHlKInPnsE-34" target="mQh4mrVjMR3C3lv0jYH2-44">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -1499,12 +1483,6 @@
         </mxCell>
         <mxCell id="1q-RPmU_ZzXHlKInPnsE-34" value="MS PROPOSALS/&lt;div&gt;CONFIRMATIONS&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1q-RPmU_ZzXHlKInPnsE-1">
           <mxGeometry x="-9" y="10" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1q-RPmU_ZzXHlKInPnsE-35" value="Correios" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1q-RPmU_ZzXHlKInPnsE-1">
-          <mxGeometry x="699" y="123" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="1q-RPmU_ZzXHlKInPnsE-36" value="Atlas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1q-RPmU_ZzXHlKInPnsE-1">
-          <mxGeometry x="529" y="116" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1q-RPmU_ZzXHlKInPnsE-37" value="BSS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1q-RPmU_ZzXHlKInPnsE-1">
           <mxGeometry x="190" y="489" width="60" height="16" as="geometry" />
