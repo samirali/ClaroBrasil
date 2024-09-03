@@ -1505,7 +1505,7 @@
             <mxPoint x="175" y="200" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mQh4mrVjMR3C3lv0jYH2-40" value="Baixa OS&amp;nbsp;&lt;div&gt;Entrega Cliente&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mQh4mrVjMR3C3lv0jYH2-39">
+        <mxCell id="mQh4mrVjMR3C3lv0jYH2-40" value="Baixa OS&amp;nbsp;&lt;div&gt;Entrega Cliente/&amp;nbsp;&lt;/div&gt;&lt;div&gt;Devol Equip&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mQh4mrVjMR3C3lv0jYH2-39">
           <mxGeometry x="0.4199" y="-1" relative="1" as="geometry">
             <mxPoint x="2" y="-36" as="offset" />
           </mxGeometry>
@@ -1614,8 +1614,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mQh4mrVjMR3C3lv0jYH2-63" value="NOVO MS ATUALIZA STATUS DEVOLUÇÃO SAP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1q-RPmU_ZzXHlKInPnsE-1">
+        <mxCell id="mQh4mrVjMR3C3lv0jYH2-63" value="NOVO MS ATUALIZA STATUS ENTREGA REVERSA/ DEVOLUÇÃO SAP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1q-RPmU_ZzXHlKInPnsE-1">
           <mxGeometry x="305.5" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mQh4mrVjMR3C3lv0jYH2-65" value="API SOLAR - STATUS CONTRATO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1q-RPmU_ZzXHlKInPnsE-1">
+          <mxGeometry x="483" y="-72" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
