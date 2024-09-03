@@ -1472,7 +1472,7 @@
         <mxCell id="1q-RPmU_ZzXHlKInPnsE-25" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;ALTERAÇÃO MS PROPOSALS/CONFIRMATIONS:&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;background-color: initial; text-align: left;&quot;&gt;Para Oper Logístico Correios, virá uma data de entrega estimada.&lt;/div&gt;&lt;div style=&quot;background-color: initial; text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;background-color: initial; text-align: left;&quot;&gt;&lt;b&gt;NOVOS MS PARA RECEBER SOLICITAÇÕES E ATUALIZAÇÕES SOLAR E SAP.&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;background-color: initial; text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;background-color: initial; text-align: left;&quot;&gt;&lt;b&gt;CRIAÇÃO DE NOVAS SOLIC E OS PARA CORREIOS&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;background-color: initial; text-align: left;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;background-color: initial; text-align: left;&quot;&gt;&lt;b&gt;CRIAÇÃO DE PROCESSO NO BANCO NETSMS PARA CHAMAR APIS SOLAR E SAP, REGISTRAR ORDEMS DE VENDA E DEVOLUÇÃO, E RECEBER ATUALIZAÇÃO DE STATUS.&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;background-color: initial; text-align: left;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;background-color: rgb(255, 255, 51);&quot;&gt;ATUALIZAÇÃO DO ATLAS DEVERÁ SER FEITA POR OSS (COMO?)&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1q-RPmU_ZzXHlKInPnsE-1">
           <mxGeometry x="520" y="80" width="210" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="mQh4mrVjMR3C3lv0jYH2-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1q-RPmU_ZzXHlKInPnsE-1" source="1q-RPmU_ZzXHlKInPnsE-34" target="mQh4mrVjMR3C3lv0jYH2-44">
+        <mxCell id="mQh4mrVjMR3C3lv0jYH2-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;strokeColor=#FFFF33;" edge="1" parent="1q-RPmU_ZzXHlKInPnsE-1" source="1q-RPmU_ZzXHlKInPnsE-34" target="mQh4mrVjMR3C3lv0jYH2-44">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="20" y="70" />
@@ -1484,7 +1484,7 @@
         <mxCell id="1q-RPmU_ZzXHlKInPnsE-34" value="MS PROPOSALS/&lt;div&gt;CONFIRMATIONS - SOLAR&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1q-RPmU_ZzXHlKInPnsE-1">
           <mxGeometry x="-9" y="10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mQh4mrVjMR3C3lv0jYH2-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1q-RPmU_ZzXHlKInPnsE-1" source="mQh4mrVjMR3C3lv0jYH2-51" target="mQh4mrVjMR3C3lv0jYH2-41">
+        <mxCell id="mQh4mrVjMR3C3lv0jYH2-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF3333;" edge="1" parent="1q-RPmU_ZzXHlKInPnsE-1" source="mQh4mrVjMR3C3lv0jYH2-51" target="mQh4mrVjMR3C3lv0jYH2-41">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="210" y="177.5" as="sourcePoint" />
             <Array as="points">
@@ -1502,7 +1502,7 @@
         <mxCell id="mQh4mrVjMR3C3lv0jYH2-33" value="API SAP - GERAR ORDEM DE VENDA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1q-RPmU_ZzXHlKInPnsE-1">
           <mxGeometry x="57" y="-72" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mQh4mrVjMR3C3lv0jYH2-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1q-RPmU_ZzXHlKInPnsE-1" source="mQh4mrVjMR3C3lv0jYH2-36" target="mQh4mrVjMR3C3lv0jYH2-51">
+        <mxCell id="mQh4mrVjMR3C3lv0jYH2-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FFFF33;" edge="1" parent="1q-RPmU_ZzXHlKInPnsE-1" source="mQh4mrVjMR3C3lv0jYH2-36" target="mQh4mrVjMR3C3lv0jYH2-51">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="186" y="90" />
@@ -1547,7 +1547,7 @@
         <mxCell id="mQh4mrVjMR3C3lv0jYH2-52" value="Cód Rastreio" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="mQh4mrVjMR3C3lv0jYH2-49">
           <mxGeometry y="120" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mQh4mrVjMR3C3lv0jYH2-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1q-RPmU_ZzXHlKInPnsE-1" source="mQh4mrVjMR3C3lv0jYH2-79" target="mQh4mrVjMR3C3lv0jYH2-33">
+        <mxCell id="mQh4mrVjMR3C3lv0jYH2-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#3333FF;" edge="1" parent="1q-RPmU_ZzXHlKInPnsE-1" source="mQh4mrVjMR3C3lv0jYH2-79" target="mQh4mrVjMR3C3lv0jYH2-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="186" y="220" />
@@ -1562,7 +1562,7 @@
             <mxPoint y="15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mQh4mrVjMR3C3lv0jYH2-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1q-RPmU_ZzXHlKInPnsE-1" source="mQh4mrVjMR3C3lv0jYH2-56" target="mQh4mrVjMR3C3lv0jYH2-44">
+        <mxCell id="mQh4mrVjMR3C3lv0jYH2-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFF33;" edge="1" parent="1q-RPmU_ZzXHlKInPnsE-1" source="mQh4mrVjMR3C3lv0jYH2-56" target="mQh4mrVjMR3C3lv0jYH2-44">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-78" y="90" />
@@ -1589,7 +1589,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mQh4mrVjMR3C3lv0jYH2-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1q-RPmU_ZzXHlKInPnsE-1" source="mQh4mrVjMR3C3lv0jYH2-63" target="mQh4mrVjMR3C3lv0jYH2-51">
+        <mxCell id="mQh4mrVjMR3C3lv0jYH2-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFFF33;" edge="1" parent="1q-RPmU_ZzXHlKInPnsE-1" source="mQh4mrVjMR3C3lv0jYH2-63" target="mQh4mrVjMR3C3lv0jYH2-51">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="366" y="90" />
@@ -1604,7 +1604,7 @@
         <mxCell id="mQh4mrVjMR3C3lv0jYH2-65" value="API SOLAR NOTIFICAÇÃO STATUS CANCEL CONTRATO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1q-RPmU_ZzXHlKInPnsE-1">
           <mxGeometry x="483" y="-72" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mQh4mrVjMR3C3lv0jYH2-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1q-RPmU_ZzXHlKInPnsE-1" source="mQh4mrVjMR3C3lv0jYH2-66" target="mQh4mrVjMR3C3lv0jYH2-44">
+        <mxCell id="mQh4mrVjMR3C3lv0jYH2-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FFFF33;" edge="1" parent="1q-RPmU_ZzXHlKInPnsE-1" source="mQh4mrVjMR3C3lv0jYH2-66" target="mQh4mrVjMR3C3lv0jYH2-44">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-210" y="90" />
@@ -1648,7 +1648,7 @@
             <mxPoint x="25" y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mQh4mrVjMR3C3lv0jYH2-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1q-RPmU_ZzXHlKInPnsE-1" source="mQh4mrVjMR3C3lv0jYH2-50" target="mQh4mrVjMR3C3lv0jYH2-78">
+        <mxCell id="mQh4mrVjMR3C3lv0jYH2-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#3333FF;" edge="1" parent="1q-RPmU_ZzXHlKInPnsE-1" source="mQh4mrVjMR3C3lv0jYH2-50" target="mQh4mrVjMR3C3lv0jYH2-78">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mQh4mrVjMR3C3lv0jYH2-94" value="Cria&amp;nbsp;&lt;div&gt;Ordem&amp;nbsp;&lt;/div&gt;&lt;div&gt;Devolução&amp;nbsp;&lt;/div&gt;&lt;div&gt;SAP&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mQh4mrVjMR3C3lv0jYH2-93">
@@ -1656,7 +1656,7 @@
             <mxPoint x="-4" y="46" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mQh4mrVjMR3C3lv0jYH2-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1q-RPmU_ZzXHlKInPnsE-1" source="mQh4mrVjMR3C3lv0jYH2-51" target="mQh4mrVjMR3C3lv0jYH2-65">
+        <mxCell id="mQh4mrVjMR3C3lv0jYH2-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FF3333;" edge="1" parent="1q-RPmU_ZzXHlKInPnsE-1" source="mQh4mrVjMR3C3lv0jYH2-51" target="mQh4mrVjMR3C3lv0jYH2-65">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="440" y="279" />
@@ -1673,7 +1673,7 @@
         <mxCell id="mQh4mrVjMR3C3lv0jYH2-97" value="API SOLAR NOTIFICAÇÃO STATUS SOLIC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1q-RPmU_ZzXHlKInPnsE-1">
           <mxGeometry x="610" y="-72" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mQh4mrVjMR3C3lv0jYH2-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1q-RPmU_ZzXHlKInPnsE-1" source="mQh4mrVjMR3C3lv0jYH2-51" target="mQh4mrVjMR3C3lv0jYH2-97">
+        <mxCell id="mQh4mrVjMR3C3lv0jYH2-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#FF3333;" edge="1" parent="1q-RPmU_ZzXHlKInPnsE-1" source="mQh4mrVjMR3C3lv0jYH2-51" target="mQh4mrVjMR3C3lv0jYH2-97">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="510" y="279" />
@@ -1702,7 +1702,7 @@
         <mxCell id="mQh4mrVjMR3C3lv0jYH2-106" value="API ASSETIZAÇÃO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1q-RPmU_ZzXHlKInPnsE-1">
           <mxGeometry x="-310" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mQh4mrVjMR3C3lv0jYH2-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1q-RPmU_ZzXHlKInPnsE-1" source="mQh4mrVjMR3C3lv0jYH2-106" target="1q-RPmU_ZzXHlKInPnsE-2">
+        <mxCell id="mQh4mrVjMR3C3lv0jYH2-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;strokeColor=#FFFF33;" edge="1" parent="1q-RPmU_ZzXHlKInPnsE-1" source="mQh4mrVjMR3C3lv0jYH2-106" target="1q-RPmU_ZzXHlKInPnsE-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
