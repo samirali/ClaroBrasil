@@ -2226,17 +2226,6 @@
         <mxCell id="VXg2hQJRDbHJFCnXWiMc-35" value="Cód Rastreio" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="VXg2hQJRDbHJFCnXWiMc-31">
           <mxGeometry y="120" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VXg2hQJRDbHJFCnXWiMc-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFF33;" edge="1" parent="VXg2hQJRDbHJFCnXWiMc-1" source="VXg2hQJRDbHJFCnXWiMc-37" target="VXg2hQJRDbHJFCnXWiMc-25">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-78" y="90" />
-              <mxPoint x="-70" y="90" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VXg2hQJRDbHJFCnXWiMc-37" value="NOVO MS CANCELAMENTO TOTAL - SOLAR" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="VXg2hQJRDbHJFCnXWiMc-1">
-          <mxGeometry x="-138" y="10" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="VXg2hQJRDbHJFCnXWiMc-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="VXg2hQJRDbHJFCnXWiMc-1" source="VXg2hQJRDbHJFCnXWiMc-26" target="VXg2hQJRDbHJFCnXWiMc-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -2253,31 +2242,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VXg2hQJRDbHJFCnXWiMc-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFFF33;" edge="1" parent="VXg2hQJRDbHJFCnXWiMc-1" source="VXg2hQJRDbHJFCnXWiMc-41" target="VXg2hQJRDbHJFCnXWiMc-34">
+        <mxCell id="VXg2hQJRDbHJFCnXWiMc-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFFF33;" edge="1" parent="VXg2hQJRDbHJFCnXWiMc-1" target="VXg2hQJRDbHJFCnXWiMc-34">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="366" y="90" />
               <mxPoint x="70" y="90" />
               <mxPoint x="70" y="280" />
             </Array>
+            <mxPoint x="365.5" y="70" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="VXg2hQJRDbHJFCnXWiMc-41" value="NOVO MS ATUALIZA STATUS ORDEM DEVOLUÇÃO - SAP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="VXg2hQJRDbHJFCnXWiMc-1">
-          <mxGeometry x="305.5" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VXg2hQJRDbHJFCnXWiMc-42" value="API SOLAR NOTIFICAÇÃO STATUS CANCEL CONTRATO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="VXg2hQJRDbHJFCnXWiMc-1">
           <mxGeometry x="483" y="-92" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="VXg2hQJRDbHJFCnXWiMc-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FFFF33;" edge="1" parent="VXg2hQJRDbHJFCnXWiMc-1" source="VXg2hQJRDbHJFCnXWiMc-44" target="VXg2hQJRDbHJFCnXWiMc-25">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-210" y="90" />
-              <mxPoint x="-70" y="90" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VXg2hQJRDbHJFCnXWiMc-44" value="NOVO MS GERA SOLIC TROCA EQUI. DEFEITUOSO SOLAR" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="VXg2hQJRDbHJFCnXWiMc-1">
-          <mxGeometry x="-270" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VXg2hQJRDbHJFCnXWiMc-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="VXg2hQJRDbHJFCnXWiMc-1" source="VXg2hQJRDbHJFCnXWiMc-28" target="VXg2hQJRDbHJFCnXWiMc-17">
           <mxGeometry relative="1" as="geometry">
