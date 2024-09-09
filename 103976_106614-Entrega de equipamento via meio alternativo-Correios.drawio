@@ -2785,6 +2785,9 @@
         <mxCell id="tbAV9VpTmu5QnQhCE09_-58" value="&lt;b&gt;NOVO &lt;/b&gt;MS ATUALIZA STATUS ORDEM&amp;nbsp; DEVOLUÇÃO - SAP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00CC00;strokeColor=#d6b656;" vertex="1" parent="tbAV9VpTmu5QnQhCE09_-1">
           <mxGeometry x="425.5" y="248" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="gLxr7MpIjLSpk14hbHWR-0" value="API SOLAR NOTIFICAÇÃO STATUS SOLIC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="tbAV9VpTmu5QnQhCE09_-1">
+          <mxGeometry x="320" y="-79" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -3059,6 +3062,9 @@
         </mxCell>
         <mxCell id="NqS83U9vt_ENRr5wSber-3" value="&lt;b&gt;NOVO &lt;/b&gt;MS ATUALIZA STATUS ORDEM&amp;nbsp; DEVOLUÇÃO - SAP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00CC00;strokeColor=#d6b656;" vertex="1" parent="7lbhdCXn4TGSwfugSJZ0-1">
           <mxGeometry x="425.5" y="248" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lHaDgPOVHPKr7NPfn9ys-0" value="API SOLAR NOTIFICAÇÃO STATUS SOLIC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="7lbhdCXn4TGSwfugSJZ0-1">
+          <mxGeometry x="320" y="-79" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
