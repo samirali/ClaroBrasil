@@ -2295,7 +2295,7 @@
       <root>
         <mxCell id="7lbhdCXn4TGSwfugSJZ0-0" />
         <mxCell id="7lbhdCXn4TGSwfugSJZ0-1" parent="7lbhdCXn4TGSwfugSJZ0-0" />
-        <mxCell id="7lbhdCXn4TGSwfugSJZ0-2" value="&lt;b&gt;APIGEE&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#808080;opacity=30;" vertex="1" parent="7lbhdCXn4TGSwfugSJZ0-1">
+        <mxCell id="7lbhdCXn4TGSwfugSJZ0-2" value="&lt;b&gt;APIGEE&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#808080;opacity=30;spacing=-3;" vertex="1" parent="7lbhdCXn4TGSwfugSJZ0-1">
           <mxGeometry x="37" y="-100" width="718" height="100" as="geometry" />
         </mxCell>
         <mxCell id="7lbhdCXn4TGSwfugSJZ0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.145;exitY=0;exitDx=0;exitDy=4.35;exitPerimeter=0;strokeColor=#FFFF33;" edge="1" parent="7lbhdCXn4TGSwfugSJZ0-1" source="7lbhdCXn4TGSwfugSJZ0-4" target="7lbhdCXn4TGSwfugSJZ0-48">
@@ -2521,6 +2521,11 @@
               <mxPoint x="-150" y="30" />
               <mxPoint x="250" y="30" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fLxAMxxFg17DqBFvdgvs-0" value="Notifica&amp;nbsp;&lt;div&gt;Contrato&lt;/div&gt;&lt;div&gt;Cancelado&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;" vertex="1" connectable="0" parent="zzmdVI9CogbSsjMfPoAb-3">
+          <mxGeometry x="0.4951" y="-1" relative="1" as="geometry">
+            <mxPoint x="-21" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7lbhdCXn4TGSwfugSJZ0-48" value="&lt;b&gt;NOVO &lt;/b&gt;MS NOTIFICA SOLAR" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="7lbhdCXn4TGSwfugSJZ0-1">
