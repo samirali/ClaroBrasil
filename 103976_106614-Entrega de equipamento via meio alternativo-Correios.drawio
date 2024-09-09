@@ -2270,9 +2270,6 @@
         <mxCell id="ssvKcxNXUPXLfl9mVFdQ-0" value="JORNADA VENDA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;gradientColor=none;shadow=0;fontSize=15;" vertex="1" parent="VXg2hQJRDbHJFCnXWiMc-1">
           <mxGeometry x="-160" y="-64" width="192" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ssvKcxNXUPXLfl9mVFdQ-1" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;OSS&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00CC00;strokeColor=#d6b656;" vertex="1" parent="VXg2hQJRDbHJFCnXWiMc-1">
-          <mxGeometry x="-230" y="-4" width="50" height="16" as="geometry" />
-        </mxCell>
         <mxCell id="bdgliP5PczcD7n3anRIF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FFFF33;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="VXg2hQJRDbHJFCnXWiMc-1" source="bdgliP5PczcD7n3anRIF-7" target="VXg2hQJRDbHJFCnXWiMc-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -2281,19 +2278,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bdgliP5PczcD7n3anRIF-9" value="Notifica&amp;nbsp;&lt;div&gt;Contrato&amp;nbsp;&lt;/div&gt;&lt;div&gt;Criado&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="bdgliP5PczcD7n3anRIF-8">
-          <mxGeometry x="-0.3216" relative="1" as="geometry">
-            <mxPoint x="-55" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="bdgliP5PczcD7n3anRIF-7" value="&lt;b&gt;NOVO &lt;/b&gt;MS NOTIFICA SOLAR" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="VXg2hQJRDbHJFCnXWiMc-1">
           <mxGeometry x="-210" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j9kJfW9rFacUnvVFXc4n-0" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;OSS&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00CC00;strokeColor=#d6b656;" vertex="1" parent="VXg2hQJRDbHJFCnXWiMc-1">
+          <mxGeometry x="-230" y="-84" width="50" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="MqPPnuph_veGTO4B_aBC-0" value="Notifica&amp;nbsp;&lt;div&gt;Contrato&amp;nbsp;&lt;/div&gt;&lt;div&gt;Criado&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VXg2hQJRDbHJFCnXWiMc-1">
+          <mxGeometry x="-179.99999999999977" y="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="NETsales 8a base v13.02" id="uP02niGO27LD1SFgFpF1">
-    <mxGraphModel dx="1427" dy="1472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1877" dy="1699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="7lbhdCXn4TGSwfugSJZ0-0" />
         <mxCell id="7lbhdCXn4TGSwfugSJZ0-1" parent="7lbhdCXn4TGSwfugSJZ0-0" />
@@ -2501,7 +2499,7 @@
           <mxGeometry x="-160" y="-64" width="192" height="44" as="geometry" />
         </mxCell>
         <mxCell id="7lbhdCXn4TGSwfugSJZ0-45" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;OSS&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00CC00;strokeColor=#d6b656;" vertex="1" parent="7lbhdCXn4TGSwfugSJZ0-1">
-          <mxGeometry x="-230" y="-4" width="50" height="16" as="geometry" />
+          <mxGeometry x="-230" y="-84" width="50" height="16" as="geometry" />
         </mxCell>
         <mxCell id="7lbhdCXn4TGSwfugSJZ0-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FFFF33;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="7lbhdCXn4TGSwfugSJZ0-1" source="7lbhdCXn4TGSwfugSJZ0-48" target="7lbhdCXn4TGSwfugSJZ0-25">
           <mxGeometry relative="1" as="geometry">
@@ -2513,7 +2511,16 @@
         </mxCell>
         <mxCell id="7lbhdCXn4TGSwfugSJZ0-47" value="Notifica&amp;nbsp;&lt;div&gt;Contrato&amp;nbsp;&lt;/div&gt;&lt;div&gt;Criado&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7lbhdCXn4TGSwfugSJZ0-46">
           <mxGeometry x="-0.3216" relative="1" as="geometry">
-            <mxPoint x="-55" as="offset" />
+            <mxPoint x="-95" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zzmdVI9CogbSsjMfPoAb-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#FFFF33;" edge="1" parent="7lbhdCXn4TGSwfugSJZ0-1" source="7lbhdCXn4TGSwfugSJZ0-48" target="OOSRQrrot1F-PN6pc4nz-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250.00000000000023" y="10" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-150" y="30" />
+              <mxPoint x="250" y="30" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="7lbhdCXn4TGSwfugSJZ0-48" value="&lt;b&gt;NOVO &lt;/b&gt;MS NOTIFICA SOLAR" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="7lbhdCXn4TGSwfugSJZ0-1">
@@ -2529,6 +2536,9 @@
         </mxCell>
         <mxCell id="tqnN-Z9AW-g9o4QiIAHT-0" value="&lt;b&gt;NOVO &lt;/b&gt;MS CANCELAMENTO TOTAL - SOLAR" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="7lbhdCXn4TGSwfugSJZ0-1">
           <mxGeometry x="-210" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OOSRQrrot1F-PN6pc4nz-0" value="API SOLAR NOTIFICAÇÃO STATUS CANCEL CONTRATO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="7lbhdCXn4TGSwfugSJZ0-1">
+          <mxGeometry x="190" y="-79" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
