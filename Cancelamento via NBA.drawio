@@ -4,67 +4,67 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="AT1N3LeawH06ayg-ftKs-1" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+        <mxCell id="AT1N3LeawH06ayg-ftKs-1" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="300" y="260" width="260" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="AT1N3LeawH06ayg-ftKs-2" value="NOVO MS VALIDAÇÃO" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+        <mxCell id="AT1N3LeawH06ayg-ftKs-2" value="NOVO MS VALIDAÇÃO" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="275" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AT1N3LeawH06ayg-ftKs-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="AT1N3LeawH06ayg-ftKs-3" target="AT1N3LeawH06ayg-ftKs-1">
+        <mxCell id="AT1N3LeawH06ayg-ftKs-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" edge="1" parent="1" source="AT1N3LeawH06ayg-ftKs-3" target="AT1N3LeawH06ayg-ftKs-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AT1N3LeawH06ayg-ftKs-3" value="NOVO MS ABERTURA DE SOLIC" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+        <mxCell id="AT1N3LeawH06ayg-ftKs-3" value="NOVO MS ABERTURA DE SOLIC" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="487" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AT1N3LeawH06ayg-ftKs-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="AT1N3LeawH06ayg-ftKs-4" target="AT1N3LeawH06ayg-ftKs-2">
+        <mxCell id="AT1N3LeawH06ayg-ftKs-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" edge="1" parent="1" source="AT1N3LeawH06ayg-ftKs-4" target="AT1N3LeawH06ayg-ftKs-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AT1N3LeawH06ayg-ftKs-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AT1N3LeawH06ayg-ftKs-4" target="AT1N3LeawH06ayg-ftKs-3">
+        <mxCell id="AT1N3LeawH06ayg-ftKs-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AT1N3LeawH06ayg-ftKs-4" target="AT1N3LeawH06ayg-ftKs-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AT1N3LeawH06ayg-ftKs-4" value="NOVO MS CANCELAMENTO A LA CARTE" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+        <mxCell id="AT1N3LeawH06ayg-ftKs-4" value="NOVO MS CANCELAMENTO A LA CARTE" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="155" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AT1N3LeawH06ayg-ftKs-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="AT1N3LeawH06ayg-ftKs-5" target="AT1N3LeawH06ayg-ftKs-2">
+        <mxCell id="AT1N3LeawH06ayg-ftKs-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;" edge="1" parent="1" source="AT1N3LeawH06ayg-ftKs-5" target="AT1N3LeawH06ayg-ftKs-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AT1N3LeawH06ayg-ftKs-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AT1N3LeawH06ayg-ftKs-5" target="AT1N3LeawH06ayg-ftKs-3">
+        <mxCell id="AT1N3LeawH06ayg-ftKs-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AT1N3LeawH06ayg-ftKs-5" target="AT1N3LeawH06ayg-ftKs-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AT1N3LeawH06ayg-ftKs-5" value="NOVO MS CANCELAMENTO SVA" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+        <mxCell id="AT1N3LeawH06ayg-ftKs-5" value="NOVO MS CANCELAMENTO SVA" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="305" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AT1N3LeawH06ayg-ftKs-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AT1N3LeawH06ayg-ftKs-6" target="AT1N3LeawH06ayg-ftKs-2">
+        <mxCell id="AT1N3LeawH06ayg-ftKs-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AT1N3LeawH06ayg-ftKs-6" target="AT1N3LeawH06ayg-ftKs-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AT1N3LeawH06ayg-ftKs-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="AT1N3LeawH06ayg-ftKs-6" target="AT1N3LeawH06ayg-ftKs-3">
+        <mxCell id="AT1N3LeawH06ayg-ftKs-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;" edge="1" parent="1" source="AT1N3LeawH06ayg-ftKs-6" target="AT1N3LeawH06ayg-ftKs-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AT1N3LeawH06ayg-ftKs-6" value="NOVO MS DESCONEXÃO PAYTV, VIRTUA E EBT (Retirada de Ponto)" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+        <mxCell id="AT1N3LeawH06ayg-ftKs-6" value="NOVO MS DESCONEXÃO PAYTV, VIRTUA E EBT (Retirada de Ponto)" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="455" y="30" width="133" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AT1N3LeawH06ayg-ftKs-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AT1N3LeawH06ayg-ftKs-7" target="AT1N3LeawH06ayg-ftKs-2">
+        <mxCell id="AT1N3LeawH06ayg-ftKs-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AT1N3LeawH06ayg-ftKs-7" target="AT1N3LeawH06ayg-ftKs-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AT1N3LeawH06ayg-ftKs-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AT1N3LeawH06ayg-ftKs-7" target="AT1N3LeawH06ayg-ftKs-3">
+        <mxCell id="AT1N3LeawH06ayg-ftKs-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AT1N3LeawH06ayg-ftKs-7" target="AT1N3LeawH06ayg-ftKs-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AT1N3LeawH06ayg-ftKs-7" value="NOVO MS DESCONEXÃO TOTAL" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+        <mxCell id="AT1N3LeawH06ayg-ftKs-7" value="NOVO MS DESCONEXÃO TOTAL" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="618" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AT1N3LeawH06ayg-ftKs-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="AT1N3LeawH06ayg-ftKs-2" target="AT1N3LeawH06ayg-ftKs-1">
+        <mxCell id="AT1N3LeawH06ayg-ftKs-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;" edge="1" parent="1" source="AT1N3LeawH06ayg-ftKs-2" target="AT1N3LeawH06ayg-ftKs-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AT1N3LeawH06ayg-ftKs-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;dashed=1;dashPattern=1 4;" edge="1" parent="1" source="AT1N3LeawH06ayg-ftKs-19" target="AT1N3LeawH06ayg-ftKs-2">
+        <mxCell id="AT1N3LeawH06ayg-ftKs-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;dashed=1;dashPattern=1 4;" edge="1" parent="1" source="AT1N3LeawH06ayg-ftKs-19" target="AT1N3LeawH06ayg-ftKs-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AT1N3LeawH06ayg-ftKs-19" value="Consultas necessárias para validação do processo de cancelamento: estado do contrato, duplicidade de solicitação, produtos, etc." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="AT1N3LeawH06ayg-ftKs-19" value="Consultas necessárias para validação do processo de cancelamento: estado do contrato, duplicidade de solicitação, produtos, etc." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="80" y="230" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="AT1N3LeawH06ayg-ftKs-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;dashed=1;dashPattern=1 4;" edge="1" parent="1" source="AT1N3LeawH06ayg-ftKs-21" target="AT1N3LeawH06ayg-ftKs-3">
+        <mxCell id="AT1N3LeawH06ayg-ftKs-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;dashed=1;dashPattern=1 4;" edge="1" parent="1" source="AT1N3LeawH06ayg-ftKs-21" target="AT1N3LeawH06ayg-ftKs-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AT1N3LeawH06ayg-ftKs-21" value="Abre as respectivas Solics e gera as respectivas ocorrências" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="AT1N3LeawH06ayg-ftKs-21" value="Abre as respectivas Solics e gera as respectivas ocorrências" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=13;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="620" y="230" width="170" height="90" as="geometry" />
         </mxCell>
       </root>
