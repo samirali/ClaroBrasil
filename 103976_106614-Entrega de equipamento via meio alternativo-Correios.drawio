@@ -3037,6 +3037,19 @@
             <mxPoint x="-21" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="lHaDgPOVHPKr7NPfn9ys-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;strokeColor=#FFFF33;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="7lbhdCXn4TGSwfugSJZ0-1" source="7lbhdCXn4TGSwfugSJZ0-48" target="lHaDgPOVHPKr7NPfn9ys-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-120" y="40" />
+              <mxPoint x="380" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lHaDgPOVHPKr7NPfn9ys-2" value="Notifica&lt;div&gt;Troca&amp;nbsp;&lt;/div&gt;&lt;div&gt;Equipamento&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;" vertex="1" connectable="0" parent="lHaDgPOVHPKr7NPfn9ys-1">
+          <mxGeometry x="0.8552" y="-1" relative="1" as="geometry">
+            <mxPoint x="-53" y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7lbhdCXn4TGSwfugSJZ0-48" value="&lt;b&gt;NOVO &lt;/b&gt;MS NOTIFICA SOLAR" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="7lbhdCXn4TGSwfugSJZ0-1">
           <mxGeometry x="-210" y="50" width="120" height="60" as="geometry" />
         </mxCell>
@@ -3065,6 +3078,12 @@
         </mxCell>
         <mxCell id="lHaDgPOVHPKr7NPfn9ys-0" value="API SOLAR NOTIFICAÇÃO STATUS SOLIC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="7lbhdCXn4TGSwfugSJZ0-1">
           <mxGeometry x="320" y="-79" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CE-9lWre9VO1XkarrFnJ-0" value="&lt;b&gt;NOVO &lt;/b&gt;MS GERA SOLIC TROCA EQUI. DEFEITUOSO SOLAR" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="7lbhdCXn4TGSwfugSJZ0-1">
+          <mxGeometry x="-210" y="133" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CE-9lWre9VO1XkarrFnJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.084;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;strokeColor=#FFFF33;" edge="1" parent="7lbhdCXn4TGSwfugSJZ0-1" source="CE-9lWre9VO1XkarrFnJ-0" target="7lbhdCXn4TGSwfugSJZ0-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
