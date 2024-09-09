@@ -2387,31 +2387,6 @@
         <mxCell id="H_0al4JEWHTVnNF0Ltr--19" value="TRIGGER" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="H_0al4JEWHTVnNF0Ltr--1">
           <mxGeometry x="37" y="340" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="H_0al4JEWHTVnNF0Ltr--20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.021;entryY=0.089;entryDx=0;entryDy=0;strokeColor=#FFFF33;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="H_0al4JEWHTVnNF0Ltr--1" source="H_0al4JEWHTVnNF0Ltr--21" target="H_0al4JEWHTVnNF0Ltr--26">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-70" y="322" />
-              <mxPoint x="-70" y="163" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="H_0al4JEWHTVnNF0Ltr--21" value="MS PROPOSALS/&lt;div&gt;CONFIRMATIONS - SOLAR&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="H_0al4JEWHTVnNF0Ltr--1">
-          <mxGeometry x="-210" y="292" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="H_0al4JEWHTVnNF0Ltr--22" value="API SAP - GERAR ORDEM DE VENDA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="H_0al4JEWHTVnNF0Ltr--1">
-          <mxGeometry x="480" y="-79" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="H_0al4JEWHTVnNF0Ltr--23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#00CC00;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="H_0al4JEWHTVnNF0Ltr--1" source="H_0al4JEWHTVnNF0Ltr--24" target="H_0al4JEWHTVnNF0Ltr--10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="230" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="H_0al4JEWHTVnNF0Ltr--24" value="&lt;b&gt;NOVO &lt;/b&gt;MS ATUALIZA STATUS VENDA&amp;nbsp; - SAP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00CC00;strokeColor=#d6b656;" vertex="1" parent="H_0al4JEWHTVnNF0Ltr--1">
-          <mxGeometry x="425.5" y="173" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="H_0al4JEWHTVnNF0Ltr--25" value="API SOLAR NOTIFICAÇÃO CRIAÇÃO CONTRATO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="H_0al4JEWHTVnNF0Ltr--1">
-          <mxGeometry x="60" y="-79" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="H_0al4JEWHTVnNF0Ltr--26" value="SOLIC" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="H_0al4JEWHTVnNF0Ltr--1">
           <mxGeometry x="-1.5" y="150" width="137" height="150" as="geometry" />
         </mxCell>
@@ -2478,20 +2453,6 @@
         <mxCell id="H_0al4JEWHTVnNF0Ltr--40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;strokeColor=#FFFF33;" edge="1" parent="H_0al4JEWHTVnNF0Ltr--1" source="H_0al4JEWHTVnNF0Ltr--39" target="H_0al4JEWHTVnNF0Ltr--4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="H_0al4JEWHTVnNF0Ltr--41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#00CC00;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="H_0al4JEWHTVnNF0Ltr--1" source="H_0al4JEWHTVnNF0Ltr--45" target="H_0al4JEWHTVnNF0Ltr--22">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="486" y="10" />
-              <mxPoint x="540" y="10" />
-            </Array>
-            <mxPoint x="460" y="30" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="H_0al4JEWHTVnNF0Ltr--42" value="Gera&amp;nbsp;&lt;div&gt;Ordem&amp;nbsp;&lt;/div&gt;&lt;div&gt;Venda&amp;nbsp;&lt;/div&gt;&lt;div&gt;SAP&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H_0al4JEWHTVnNF0Ltr--41">
-          <mxGeometry x="-0.8051" y="-9" relative="1" as="geometry">
-            <mxPoint x="-9" y="-38" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="H_0al4JEWHTVnNF0Ltr--43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.75;exitY=0;exitDx=0;exitDy=0;strokeColor=#00CC00;" edge="1" parent="H_0al4JEWHTVnNF0Ltr--1" source="H_0al4JEWHTVnNF0Ltr--45" target="H_0al4JEWHTVnNF0Ltr--56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -2508,19 +2469,6 @@
         </mxCell>
         <mxCell id="H_0al4JEWHTVnNF0Ltr--47" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;OSS&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00CC00;strokeColor=#d6b656;" vertex="1" parent="H_0al4JEWHTVnNF0Ltr--1">
           <mxGeometry x="-230" y="-84" width="50" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="H_0al4JEWHTVnNF0Ltr--48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FFFF33;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="H_0al4JEWHTVnNF0Ltr--1" source="H_0al4JEWHTVnNF0Ltr--52" target="H_0al4JEWHTVnNF0Ltr--25">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-180" y="20" />
-              <mxPoint x="120" y="20" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="H_0al4JEWHTVnNF0Ltr--49" value="Notifica&amp;nbsp;&lt;div&gt;Contrato&amp;nbsp;&lt;/div&gt;&lt;div&gt;Criado&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H_0al4JEWHTVnNF0Ltr--48">
-          <mxGeometry x="-0.3216" relative="1" as="geometry">
-            <mxPoint x="-95" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="H_0al4JEWHTVnNF0Ltr--50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#FFFF33;" edge="1" parent="H_0al4JEWHTVnNF0Ltr--1" source="H_0al4JEWHTVnNF0Ltr--52" target="H_0al4JEWHTVnNF0Ltr--55">
           <mxGeometry relative="1" as="geometry">
