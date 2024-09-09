@@ -2406,7 +2406,7 @@
             <mxPoint x="410" y="230" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7lbhdCXn4TGSwfugSJZ0-24" value="&lt;b&gt;NOVO &lt;/b&gt;MS ATUALIZA STATUS VENDA&amp;nbsp; SAP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00CC00;strokeColor=#d6b656;" vertex="1" parent="7lbhdCXn4TGSwfugSJZ0-1">
+        <mxCell id="7lbhdCXn4TGSwfugSJZ0-24" value="&lt;b&gt;NOVO &lt;/b&gt;MS ATUALIZA STATUS VENDA&amp;nbsp; - SAP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00CC00;strokeColor=#d6b656;" vertex="1" parent="7lbhdCXn4TGSwfugSJZ0-1">
           <mxGeometry x="425.5" y="173" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7lbhdCXn4TGSwfugSJZ0-25" value="API SOLAR NOTIFICAÇÃO CRIAÇÃO CONTRATO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="7lbhdCXn4TGSwfugSJZ0-1">
@@ -2478,7 +2478,7 @@
         <mxCell id="7lbhdCXn4TGSwfugSJZ0-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;strokeColor=#FFFF33;" edge="1" parent="7lbhdCXn4TGSwfugSJZ0-1" source="7lbhdCXn4TGSwfugSJZ0-39" target="7lbhdCXn4TGSwfugSJZ0-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7lbhdCXn4TGSwfugSJZ0-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3333FF;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="7lbhdCXn4TGSwfugSJZ0-1" source="7lbhdCXn4TGSwfugSJZ0-43" target="7lbhdCXn4TGSwfugSJZ0-22">
+        <mxCell id="7lbhdCXn4TGSwfugSJZ0-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#00CC00;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="7lbhdCXn4TGSwfugSJZ0-1" source="7lbhdCXn4TGSwfugSJZ0-43" target="7lbhdCXn4TGSwfugSJZ0-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="486" y="10" />
@@ -2490,6 +2490,14 @@
         <mxCell id="7lbhdCXn4TGSwfugSJZ0-42" value="Gera&amp;nbsp;&lt;div&gt;Ordem&amp;nbsp;&lt;/div&gt;&lt;div&gt;Venda&amp;nbsp;&lt;/div&gt;&lt;div&gt;SAP&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7lbhdCXn4TGSwfugSJZ0-41">
           <mxGeometry x="-0.8051" y="-9" relative="1" as="geometry">
             <mxPoint x="-9" y="-38" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NqS83U9vt_ENRr5wSber-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.75;exitY=0;exitDx=0;exitDy=0;strokeColor=#00CC00;" edge="1" parent="7lbhdCXn4TGSwfugSJZ0-1" source="7lbhdCXn4TGSwfugSJZ0-43" target="NqS83U9vt_ENRr5wSber-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NqS83U9vt_ENRr5wSber-2" value="Gera&amp;nbsp;&lt;div&gt;Ordem&lt;/div&gt;&lt;div&gt;Devolução&lt;/div&gt;&lt;div&gt;SAP&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;" vertex="1" connectable="0" parent="NqS83U9vt_ENRr5wSber-1">
+          <mxGeometry x="-0.0998" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7lbhdCXn4TGSwfugSJZ0-43" value="&lt;b&gt;NOVO &lt;/b&gt;MS GERA ORDENS&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;SAP&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00CC00;strokeColor=#d6b656;" vertex="1" parent="7lbhdCXn4TGSwfugSJZ0-1">
@@ -2544,6 +2552,15 @@
         </mxCell>
         <mxCell id="OOSRQrrot1F-PN6pc4nz-0" value="API SOLAR NOTIFICAÇÃO STATUS CANCEL CONTRATO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="7lbhdCXn4TGSwfugSJZ0-1">
           <mxGeometry x="190" y="-79" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NqS83U9vt_ENRr5wSber-0" value="API SAP - GERAR ORDEM DE DEVOLUÇÃO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="7lbhdCXn4TGSwfugSJZ0-1">
+          <mxGeometry x="620" y="-80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NqS83U9vt_ENRr5wSber-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;strokeColor=#00CC00;" edge="1" parent="7lbhdCXn4TGSwfugSJZ0-1" source="NqS83U9vt_ENRr5wSber-3" target="7lbhdCXn4TGSwfugSJZ0-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NqS83U9vt_ENRr5wSber-3" value="&lt;b&gt;NOVO &lt;/b&gt;MS ATUALIZA STATUS ORDEM&amp;nbsp; DEVOLUÇÃO - SAP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#00CC00;strokeColor=#d6b656;" vertex="1" parent="7lbhdCXn4TGSwfugSJZ0-1">
+          <mxGeometry x="425.5" y="248" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
