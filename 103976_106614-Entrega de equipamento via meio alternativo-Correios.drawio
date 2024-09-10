@@ -2243,9 +2243,6 @@
         <mxCell id="j9kJfW9rFacUnvVFXc4n-0" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;OSS&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00CC00;strokeColor=#d6b656;" parent="VXg2hQJRDbHJFCnXWiMc-1" vertex="1">
           <mxGeometry x="-230" y="-84" width="50" height="16" as="geometry" />
         </mxCell>
-        <mxCell id="MqPPnuph_veGTO4B_aBC-0" value="Notifica&amp;nbsp;&lt;div&gt;Contrato&amp;nbsp;&lt;/div&gt;&lt;div&gt;Criado&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="VXg2hQJRDbHJFCnXWiMc-1" vertex="1" connectable="0">
-          <mxGeometry x="-179.99999999999977" y="20" as="geometry" />
-        </mxCell>
         <mxCell id="ApCvnY8Qpa5td4YWEvfO-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;strokeColor=#FFFF33;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="VXg2hQJRDbHJFCnXWiMc-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="261" y="308" as="sourcePoint" />
@@ -2326,6 +2323,9 @@
           <mxGeometry x="-0.1708" y="1" relative="1" as="geometry">
             <mxPoint x="-13" y="-1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ArEFTRut_88axW4e5K00-0" value="Notifica Contrato&amp;nbsp;&lt;div&gt;Conectado&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VXg2hQJRDbHJFCnXWiMc-1">
+          <mxGeometry x="-200" y="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
