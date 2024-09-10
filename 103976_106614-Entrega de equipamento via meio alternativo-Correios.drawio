@@ -2067,11 +2067,11 @@
       <root>
         <mxCell id="VXg2hQJRDbHJFCnXWiMc-0" />
         <mxCell id="VXg2hQJRDbHJFCnXWiMc-1" parent="VXg2hQJRDbHJFCnXWiMc-0" />
+        <mxCell id="5nq8fC-kEMILaIZxmrFj-0" value="&lt;b&gt;APIGEE&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#808080;opacity=30;spacing=-3;" vertex="1" parent="VXg2hQJRDbHJFCnXWiMc-1">
+          <mxGeometry x="37" y="-100" width="718" height="100" as="geometry" />
+        </mxCell>
         <mxCell id="ApCvnY8Qpa5td4YWEvfO-0" value="&lt;b&gt;NETSMS&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;verticalAlign=top;" vertex="1" parent="VXg2hQJRDbHJFCnXWiMc-1">
           <mxGeometry x="-40" y="99" width="540" height="341" as="geometry" />
-        </mxCell>
-        <mxCell id="RbAUb7TjWjkdnCFf81sj-1" value="&lt;b&gt;APIGEE&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#808080;opacity=30;" parent="VXg2hQJRDbHJFCnXWiMc-1" vertex="1">
-          <mxGeometry x="37" y="-100" width="718" height="100" as="geometry" />
         </mxCell>
         <mxCell id="VXg2hQJRDbHJFCnXWiMc-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="VXg2hQJRDbHJFCnXWiMc-1" edge="1">
           <mxGeometry relative="1" as="geometry">
