@@ -2460,11 +2460,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="H_0al4JEWHTVnNF0Ltr--51" value="Notifica&amp;nbsp;&lt;div&gt;Contrato&lt;/div&gt;&lt;div&gt;Cancelado&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;" parent="H_0al4JEWHTVnNF0Ltr--50" vertex="1" connectable="0">
-          <mxGeometry x="0.4951" y="-1" relative="1" as="geometry">
-            <mxPoint x="-21" y="-11" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="H_0al4JEWHTVnNF0Ltr--52" value="&lt;b&gt;NOVO &lt;/b&gt;MS NOTIFICA SOLAR" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="H_0al4JEWHTVnNF0Ltr--1" vertex="1">
           <mxGeometry x="-210" y="50" width="120" height="60" as="geometry" />
         </mxCell>
@@ -2544,6 +2539,18 @@
         </mxCell>
         <mxCell id="5xmiXWr-WI4yvlmAc3Fp-6" value="API SAP - GERAR ORDEM DE DEVOLUÇÃO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="H_0al4JEWHTVnNF0Ltr--1">
           <mxGeometry x="620" y="-80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e7NCHm5aUGIZxzxaJq8b-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;strokeColor=#FFFF33;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="H_0al4JEWHTVnNF0Ltr--1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="261" y="308" as="sourcePoint" />
+            <mxPoint x="-90" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="261" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tupzxGdeL-7LC7RVziUm-0" value="Notifica Contrato&lt;div&gt;Cancelado&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;" vertex="1" connectable="0" parent="H_0al4JEWHTVnNF0Ltr--1">
+          <mxGeometry x="188" y="17" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
