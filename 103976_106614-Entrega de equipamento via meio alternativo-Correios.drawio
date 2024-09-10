@@ -2327,6 +2327,17 @@
         <mxCell id="ArEFTRut_88axW4e5K00-0" value="Notifica Contrato&amp;nbsp;&lt;div&gt;Conectado&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VXg2hQJRDbHJFCnXWiMc-1">
           <mxGeometry x="-200" y="20" as="geometry" />
         </mxCell>
+        <mxCell id="9sDztvZpaqR5lBxDM_xX-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;strokeColor=#FFFF33;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="VXg2hQJRDbHJFCnXWiMc-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="389" y="189" as="sourcePoint" />
+            <mxPoint x="-90" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="389" y="160" />
+              <mxPoint x="260" y="160" />
+              <mxPoint x="260" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -2591,6 +2602,17 @@
         </mxCell>
         <mxCell id="tupzxGdeL-7LC7RVziUm-0" value="Notifica Contrato&lt;div&gt;Cancelado&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;" vertex="1" connectable="0" parent="H_0al4JEWHTVnNF0Ltr--1">
           <mxGeometry x="188" y="17" as="geometry" />
+        </mxCell>
+        <mxCell id="6WWIgxLaLcGO3h1v79yu-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;strokeColor=#FFFF33;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="H_0al4JEWHTVnNF0Ltr--1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="389" y="189" as="sourcePoint" />
+            <mxPoint x="-90" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="389" y="160" />
+              <mxPoint x="260" y="160" />
+              <mxPoint x="260" y="80" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
@@ -2876,6 +2898,17 @@
         </mxCell>
         <mxCell id="-58NwnPgtkkKoYqi_Bay-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;strokeColor=#FFFF33;" edge="1" parent="F2Y1le_plEOOG2Y3Ax7w-1" source="F2Y1le_plEOOG2Y3Ax7w-39" target="CeE7QLe5LtYCaM0LrA2J-0">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QeAc5F3Rg3pDvU5FVSG9-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;strokeColor=#FFFF33;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="F2Y1le_plEOOG2Y3Ax7w-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="389" y="189" as="sourcePoint" />
+            <mxPoint x="-90" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="389" y="160" />
+              <mxPoint x="260" y="160" />
+              <mxPoint x="260" y="80" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
@@ -3198,17 +3231,29 @@
             <mxPoint x="-13" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="cORXW-StJ8vzvKtjYwr9-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;strokeColor=#FFFF33;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="7lbhdCXn4TGSwfugSJZ0-1" source="KqD2hYCsrBhD4IiV5zLD-0" target="7lbhdCXn4TGSwfugSJZ0-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="389" y="160" />
+              <mxPoint x="260" y="160" />
+              <mxPoint x="260" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KqD2hYCsrBhD4IiV5zLD-0" value="Ordem Venda/Devolução SAP (Ciclo de vida)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#00CC00;strokeColor=#d6b656;" vertex="1" parent="7lbhdCXn4TGSwfugSJZ0-1">
-          <mxGeometry x="320" y="189" width="137" height="120" as="geometry" />
+          <mxGeometry x="320" y="189" width="137" height="150" as="geometry" />
         </mxCell>
         <mxCell id="KqD2hYCsrBhD4IiV5zLD-1" value="Nr Ordem" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="KqD2hYCsrBhD4IiV5zLD-0">
           <mxGeometry y="30" width="137" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KqD2hYCsrBhD4IiV5zLD-2" value="Status" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="KqD2hYCsrBhD4IiV5zLD-0">
+        <mxCell id="cORXW-StJ8vzvKtjYwr9-1" value="Status" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="KqD2hYCsrBhD4IiV5zLD-0">
           <mxGeometry y="60" width="137" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KqD2hYCsrBhD4IiV5zLD-3" value="Cód Operador Logístico" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="KqD2hYCsrBhD4IiV5zLD-0">
+        <mxCell id="KqD2hYCsrBhD4IiV5zLD-2" value="Status" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="KqD2hYCsrBhD4IiV5zLD-0">
           <mxGeometry y="90" width="137" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KqD2hYCsrBhD4IiV5zLD-3" value="Cód Operador Logístico" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="KqD2hYCsrBhD4IiV5zLD-0">
+          <mxGeometry y="120" width="137" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KqD2hYCsrBhD4IiV5zLD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;strokeColor=#00CC00;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="7lbhdCXn4TGSwfugSJZ0-1" source="KqD2hYCsrBhD4IiV5zLD-1" target="7lbhdCXn4TGSwfugSJZ0-43">
           <mxGeometry relative="1" as="geometry" />
