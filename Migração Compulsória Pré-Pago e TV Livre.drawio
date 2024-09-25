@@ -1,0 +1,62 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.16">
+  <diagram name="Página-1" id="rjPieZ_IxbNT4D98FoMU">
+    <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="srJE6BBBpUUcVX_teQgC-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="srJE6BBBpUUcVX_teQgC-1" target="srJE6BBBpUUcVX_teQgC-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="srJE6BBBpUUcVX_teQgC-24" value="Gerar log execução e&amp;nbsp;&lt;div&gt;enviar para usuário&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;" vertex="1" connectable="0" parent="srJE6BBBpUUcVX_teQgC-23">
+          <mxGeometry x="0.0317" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="srJE6BBBpUUcVX_teQgC-1" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;hachureGap=4;fontFamily=Helvetica;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="470" y="160" width="130" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="srJE6BBBpUUcVX_teQgC-3" value="Servidor Usuário" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="125" y="162" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="srJE6BBBpUUcVX_teQgC-4" value="Usuário" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="30" y="65" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="srJE6BBBpUUcVX_teQgC-5" value="Mailing" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="130" y="70" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="srJE6BBBpUUcVX_teQgC-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;html=1;" edge="1" parent="1" source="srJE6BBBpUUcVX_teQgC-4" target="srJE6BBBpUUcVX_teQgC-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="srJE6BBBpUUcVX_teQgC-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="srJE6BBBpUUcVX_teQgC-5" target="srJE6BBBpUUcVX_teQgC-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="srJE6BBBpUUcVX_teQgC-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="srJE6BBBpUUcVX_teQgC-13" target="srJE6BBBpUUcVX_teQgC-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="srJE6BBBpUUcVX_teQgC-13" value="JOB 1&lt;div&gt;Cancelamento Total Pré-Pago&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="475" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="srJE6BBBpUUcVX_teQgC-15" value="JOB 2&lt;div&gt;Migração Clato TV Livre &amp;gt; Pré-Pago&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="640" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="srJE6BBBpUUcVX_teQgC-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=15;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="srJE6BBBpUUcVX_teQgC-15" target="srJE6BBBpUUcVX_teQgC-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="srJE6BBBpUUcVX_teQgC-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=31.25;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="srJE6BBBpUUcVX_teQgC-3" target="srJE6BBBpUUcVX_teQgC-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="srJE6BBBpUUcVX_teQgC-20" value="&lt;span style=&quot;font-family: Helvetica; font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;Transferência e carga&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;font-family: Helvetica; font-size: 12px; background-color: rgb(251, 251, 251);&quot;&gt;em tabela NETSMS&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" connectable="0" parent="srJE6BBBpUUcVX_teQgC-17">
+          <mxGeometry x="-0.1186" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="srJE6BBBpUUcVX_teQgC-21" value="JOB 3&lt;div&gt;Reverter migração Claro TV Livre -solicitação usuário&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="640" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="srJE6BBBpUUcVX_teQgC-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="srJE6BBBpUUcVX_teQgC-21" target="srJE6BBBpUUcVX_teQgC-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
