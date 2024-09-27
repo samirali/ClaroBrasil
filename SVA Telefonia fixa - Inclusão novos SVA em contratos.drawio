@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12" pages="2">
   <diagram name="Página-1" id="aCCuVh1Njn9KdrE25EnY">
     <mxGraphModel dx="1050" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -56,6 +56,40 @@
           <mxGeometry x="0.0687" relative="1" as="geometry">
             <mxPoint x="-39" y="30" as="offset" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="V2" id="9f0ULez8LkP69Hx4vhgA">
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="VIGyvS0w0jHYs3qGoKyq-0" />
+        <mxCell id="VIGyvS0w0jHYs3qGoKyq-1" parent="VIGyvS0w0jHYs3qGoKyq-0" />
+        <mxCell id="VIGyvS0w0jHYs3qGoKyq-4" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;hachureGap=4;fontFamily=Helvetica;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="VIGyvS0w0jHYs3qGoKyq-1">
+          <mxGeometry x="314" y="260" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VIGyvS0w0jHYs3qGoKyq-5" value="Usuário" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="VIGyvS0w0jHYs3qGoKyq-1">
+          <mxGeometry x="60" y="50" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VIGyvS0w0jHYs3qGoKyq-6" value="Regra de De-Para SVAs" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;hachureGap=4;fontFamily=Helvetica;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="VIGyvS0w0jHYs3qGoKyq-1">
+          <mxGeometry x="200" y="62" width="80" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="VIGyvS0w0jHYs3qGoKyq-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.027;entryY=0.36;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="VIGyvS0w0jHYs3qGoKyq-1" source="VIGyvS0w0jHYs3qGoKyq-5" target="VIGyvS0w0jHYs3qGoKyq-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VIGyvS0w0jHYs3qGoKyq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="VIGyvS0w0jHYs3qGoKyq-1" source="VIGyvS0w0jHYs3qGoKyq-6" target="VIGyvS0w0jHYs3qGoKyq-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VIGyvS0w0jHYs3qGoKyq-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;entryX=0.855;entryY=0;entryDx=0;entryDy=4.35;entryPerimeter=0;" edge="1" parent="VIGyvS0w0jHYs3qGoKyq-1" source="VIGyvS0w0jHYs3qGoKyq-12" target="VIGyvS0w0jHYs3qGoKyq-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VIGyvS0w0jHYs3qGoKyq-11" value="Lê contratos, identifica nr terminai,&amp;nbsp;&lt;div&gt;aplica alteração de combo SVA,&amp;nbsp;&lt;/div&gt;&lt;div&gt;registra ocorrência, controla volume&amp;nbsp;&lt;/div&gt;&lt;div&gt;processado registros para retomada na&amp;nbsp;&lt;/div&gt;&lt;div&gt;próxima janela de execução&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;" vertex="1" connectable="0" parent="VIGyvS0w0jHYs3qGoKyq-10">
+          <mxGeometry x="-0.2612" y="1" relative="1" as="geometry">
+            <mxPoint x="-6" y="52" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VIGyvS0w0jHYs3qGoKyq-12" value="JOB Alteração contratos" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="VIGyvS0w0jHYs3qGoKyq-1">
+          <mxGeometry x="560" y="61" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
