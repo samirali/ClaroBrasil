@@ -90,7 +90,7 @@
         <mxCell id="az300X6IMPbnGBF0T9hE-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="oyftjMJiBgQj3tuVMBQ5-1" source="oyftjMJiBgQj3tuVMBQ5-11" target="az300X6IMPbnGBF0T9hE-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="oyftjMJiBgQj3tuVMBQ5-11" value="NOVO MS ORQUESTRADOR" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="oyftjMJiBgQj3tuVMBQ5-1">
+        <mxCell id="oyftjMJiBgQj3tuVMBQ5-11" value="NOVO MS ORQUESTRADOR DE CANCELAMENTOS" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Helvetica;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="oyftjMJiBgQj3tuVMBQ5-1">
           <mxGeometry x="370" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oyftjMJiBgQj3tuVMBQ5-22" value="Serviço de agendamento de VT" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="oyftjMJiBgQj3tuVMBQ5-1">
