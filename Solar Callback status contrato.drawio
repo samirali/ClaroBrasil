@@ -54,8 +54,22 @@
         <mxCell id="nsd4AqGxwl4m15xpDFLn-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.983;entryY=0.104;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nsd4AqGxwl4m15xpDFLn-9" target="nsd4AqGxwl4m15xpDFLn-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nsd4AqGxwl4m15xpDFLn-19" value="NOVO MS ATUALIZA STATUS CONTRATO SOLAR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="nsd4AqGxwl4m15xpDFLn-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nsd4AqGxwl4m15xpDFLn-19" target="nsd4AqGxwl4m15xpDFLn-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nsd4AqGxwl4m15xpDFLn-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nsd4AqGxwl4m15xpDFLn-19" target="nsd4AqGxwl4m15xpDFLn-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nsd4AqGxwl4m15xpDFLn-23" value="Chama API Solar e&amp;nbsp;&lt;div&gt;enviar dados atualizados&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nsd4AqGxwl4m15xpDFLn-22">
+          <mxGeometry x="0.04" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nsd4AqGxwl4m15xpDFLn-19" value="NOVO MS ATUALIZA STATUS CONTRATO SOLAR" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="230" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nsd4AqGxwl4m15xpDFLn-21" value="API CALLBACK SOLAR (APIGEE)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
