@@ -25,7 +25,7 @@
         <mxCell id="nsd4AqGxwl4m15xpDFLn-8" value="Status item de Contrato" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="nsd4AqGxwl4m15xpDFLn-6">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nsd4AqGxwl4m15xpDFLn-9" value="Trigger1&amp;nbsp;&lt;div style=&quot;font-size: 12px;&quot;&gt;Status.&lt;/div&gt;" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=0;align=center;verticalAlign=middle;fontSize=12;fontStyle=0;flipH=1;fillColor=#FFFFFF;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="nsd4AqGxwl4m15xpDFLn-9" value="Trigger1&amp;nbsp;&lt;div style=&quot;font-size: 12px;&quot;&gt;Status.&lt;/div&gt;" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=20;notch2=0;align=center;verticalAlign=middle;fontSize=12;fontStyle=0;flipH=1;fillColor=#fff2cc;whiteSpace=wrap;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="400" y="380" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nsd4AqGxwl4m15xpDFLn-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=40;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nsd4AqGxwl4m15xpDFLn-4" target="nsd4AqGxwl4m15xpDFLn-9">
@@ -35,7 +35,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <object label="Controle Callback" id="nsd4AqGxwl4m15xpDFLn-12">
-          <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxCell style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
             <mxGeometry x="220" y="280" width="140" height="150" as="geometry" />
           </mxCell>
         </object>
@@ -53,6 +53,9 @@
         </mxCell>
         <mxCell id="nsd4AqGxwl4m15xpDFLn-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.983;entryY=0.104;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nsd4AqGxwl4m15xpDFLn-9" target="nsd4AqGxwl4m15xpDFLn-12">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nsd4AqGxwl4m15xpDFLn-19" value="NOVO MS ATUALIZA STATUS CONTRATO SOLAR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
