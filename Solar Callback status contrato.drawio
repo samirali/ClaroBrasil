@@ -173,7 +173,29 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PUidyj8MutfbSEC4JVGp-10" value="Item de contrato (ponto/produto) para BL, TV e VOIP" style="text;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;shadow=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="SjhUDJKWuTfcTSTPYUzx-1">
-          <mxGeometry x="585" y="475" width="90" height="67" as="geometry" />
+          <mxGeometry x="585" y="450" width="90" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="PUidyj8MutfbSEC4JVGp-11" value="&lt;span style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; color: windowtext; text-align: left; background-color: rgb(255, 255, 255); line-height: 20.7px; font-family: WordVisiCarriageReturn_MSFontService, Calibri, sans-serif;&quot; class=&quot;LineBreakBlob BlobObject DragDrop  BCX0 SCXO77355556&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; color: windowtext; font-family: Calibri, sans-serif; line-height: 20.7px; font-variant-ligatures: none !important;&quot; lang=&quot;PT-BR&quot; class=&quot;TextRun  BCX0 SCXO97529665&quot; data-contrast=&quot;auto&quot;&gt;&lt;span style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; background-color: inherit;&quot; class=&quot;NormalTextRun  BCX0 SCXO97529665&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;SN_SERVICO_CONTRATO&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 11pt; margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; color: windowtext; line-height: 20.7px;&quot; class=&quot;LineBreakBlob BlobObject DragDrop  BCX0 SCXO97529665&quot;&gt;&lt;br style=&quot;margin: 0px; padding: 0px; user-select: text; -webkit-user-drag: none; -webkit-tap-highlight-color: transparent; white-space: pre !important;&quot; class=&quot;BCX0 SCXO97529665&quot;&gt;&lt;/span&gt;&lt;/span&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="SjhUDJKWuTfcTSTPYUzx-1">
+          <mxGeometry x="230" y="470" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="PUidyj8MutfbSEC4JVGp-12" value="ID item contrato" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="PUidyj8MutfbSEC4JVGp-11">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PUidyj8MutfbSEC4JVGp-13" value="Status Item Contrato" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="PUidyj8MutfbSEC4JVGp-11">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PUidyj8MutfbSEC4JVGp-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="SjhUDJKWuTfcTSTPYUzx-1" source="PUidyj8MutfbSEC4JVGp-14" target="PUidyj8MutfbSEC4JVGp-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="550" />
+              <mxPoint x="560" y="570" />
+              <mxPoint x="210" y="570" />
+              <mxPoint x="210" y="515" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PUidyj8MutfbSEC4JVGp-14" value="Item contrato SVA" style="text;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Helvetica;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;shadow=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="SjhUDJKWuTfcTSTPYUzx-1">
+          <mxGeometry x="585" y="530" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
