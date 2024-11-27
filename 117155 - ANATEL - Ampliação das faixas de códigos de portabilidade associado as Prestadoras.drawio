@@ -7,26 +7,46 @@
         <mxCell id="0h3wnooJiqVJj6Soy01k-1" value="&lt;pre style=&quot;cursor: auto; user-select: text; text-wrap-mode: wrap; color: rgb(66, 66, 66); background-color: rgb(255, 255, 255);&quot; class=&quot;vC7TJ allowTextSelection&quot;&gt;DispPortabilidadeEJBImpl.java&lt;br&gt;Consome:/vender/venda/portabilidade/consultaDadosTelefonia&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;align=left;" parent="1" vertex="1">
           <mxGeometry x="-780" y="10" width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="0h3wnooJiqVJj6Soy01k-2" value="&lt;pre style=&quot;cursor: auto; user-select: text; text-wrap-mode: wrap; color: rgb(66, 66, 66); background-color: rgb(255, 255, 255);&quot; class=&quot;vC7TJ allowTextSelection&quot;&gt;updateDispPortabilidade(DynamicBean bean)&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;align=left;" parent="1" vertex="1">
-          <mxGeometry x="-700" y="100" width="360" height="60" as="geometry" />
+        <mxCell id="0h3wnooJiqVJj6Soy01k-2" value="&lt;pre style=&quot;cursor: auto; user-select: text; text-wrap-mode: wrap; color: rgb(66, 66, 66); background-color: rgb(255, 255, 255);&quot; class=&quot;vC7TJ allowTextSelection&quot;&gt;updateDispPortabilidade(DynamicBean bean)&lt;/pre&gt;&lt;pre style=&quot;cursor: auto; user-select: text; background-color: rgb(255, 255, 255);&quot; class=&quot;vC7TJ allowTextSelection&quot;&gt;&lt;font color=&quot;#424242&quot;&gt;&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;if (((String) bean.get(&quot;isClick&quot;)).equals(&quot;S&quot;))&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;align=left;" parent="1" vertex="1">
+          <mxGeometry x="-755" y="80" width="295" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BFVhAXWcCU9h6VFLly8J-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="0h3wnooJiqVJj6Soy01k-3" target="BFVhAXWcCU9h6VFLly8J-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0h3wnooJiqVJj6Soy01k-3" value="&lt;pre style=&quot;cursor: auto; user-select: text; text-wrap-mode: wrap; color: rgb(66, 66, 66); background-color: rgb(255, 255, 255);&quot; class=&quot;vC7TJ allowTextSelection&quot;&gt;Carrega dados do container&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;align=left;" parent="1" vertex="1">
-          <mxGeometry x="-640" y="190" width="250" height="40" as="geometry" />
+          <mxGeometry x="-730" y="150" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BFVhAXWcCU9h6VFLly8J-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="0h3wnooJiqVJj6Soy01k-4" target="BFVhAXWcCU9h6VFLly8J-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0h3wnooJiqVJj6Soy01k-4" value="&lt;pre style=&quot;cursor: auto; user-select: text; text-wrap-mode: wrap; color: rgb(66, 66, 66); background-color: rgb(255, 255, 255);&quot; class=&quot;vC7TJ allowTextSelection&quot;&gt;Recupera dados do contrato no DB&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;align=left;" parent="1" vertex="1">
-          <mxGeometry x="-640" y="240" width="250" height="40" as="geometry" />
+          <mxGeometry x="-730" y="268" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0h3wnooJiqVJj6Soy01k-5" value="&lt;pre class=&quot;vC7TJ allowTextSelection&quot; style=&quot;cursor: auto; user-select: text; text-wrap-mode: wrap; color: rgb(66, 66, 66); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Executa Proc PROC_PRSMS_VALIDA_FONE_PORTADO&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="-640" y="290" width="250" height="40" as="geometry" />
+          <mxGeometry x="-725" y="372" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BFVhAXWcCU9h6VFLly8J-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="0h3wnooJiqVJj6Soy01k-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-300" y="442" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="0h3wnooJiqVJj6Soy01k-6" value="&lt;pre style=&quot;cursor: auto; user-select: text; text-wrap-mode: wrap; color: rgb(66, 66, 66); background-color: rgb(255, 255, 255);&quot; class=&quot;vC7TJ allowTextSelection&quot;&gt;Chama método validaAreaLocal&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;align=left;" parent="1" vertex="1">
-          <mxGeometry x="-640" y="340" width="250" height="40" as="geometry" />
+          <mxGeometry x="-725" y="422" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BFVhAXWcCU9h6VFLly8J-1" value="&lt;pre style=&quot;cursor: auto; user-select: text; text-wrap-mode: wrap; color: rgb(66, 66, 66); background-color: rgb(255, 255, 255);&quot; class=&quot;vC7TJ allowTextSelection&quot;&gt;Registra Log&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-640" y="390" width="250" height="40" as="geometry" />
+          <mxGeometry x="-725" y="472" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="BFVhAXWcCU9h6VFLly8J-2" value="&lt;pre style=&quot;cursor: auto; user-select: text; text-wrap-mode: wrap; color: rgb(66, 66, 66); background-color: rgb(255, 255, 255);&quot; class=&quot;vC7TJ allowTextSelection&quot;&gt;Atualiza e retorna container&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;align=left;" vertex="1" parent="1">
-          <mxGeometry x="-640" y="440" width="250" height="40" as="geometry" />
+          <mxGeometry x="-725" y="522" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BFVhAXWcCU9h6VFLly8J-5" value="&lt;pre style=&quot;cursor: auto; user-select: text; text-wrap-mode: wrap; color: rgb(66, 66, 66); background-color: rgb(255, 255, 255);&quot; class=&quot;vC7TJ allowTextSelection&quot;&gt;Chama serviço web &quot;ValidarAreaLocalSoapWebService&quot;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="422" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BFVhAXWcCU9h6VFLly8J-6" value="&lt;pre style=&quot;cursor: auto; user-select: text; text-wrap-mode: wrap; color: rgb(66, 66, 66); background-color: rgb(255, 255, 255);&quot; class=&quot;vC7TJ allowTextSelection&quot;&gt;String dddTelefoneVoip = (String) bean.get(&quot;dddTelefoneVoip&quot;);&lt;br&gt;            String numTelefoneVoip = (String) bean.get(&quot;numTelefoneVoip&quot;);&lt;br&gt;            Long spidSelecionado = (Long) bean.get(&quot;spidSelecionado&quot;);&lt;br&gt;            Boolean operadoraRespostaOk = (Boolean) bean.get(&quot;operadoraRespostaOk&quot;);&lt;br&gt;            Boolean consultaTitularidadeForaAr = (Boolean) bean.get(&quot;consultaTitularidadeNoAr&quot;);&lt;br&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-413" y="105" width="400" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="BFVhAXWcCU9h6VFLly8J-8" value="&lt;pre style=&quot;cursor: auto; user-select: text; background-color: rgb(255, 255, 255);&quot; class=&quot;vC7TJ allowTextSelection&quot;&gt;&lt;font color=&quot;#424242&quot;&gt;&lt;span style=&quot;text-wrap-mode: wrap;&quot;&gt;SnContratoBean contrato = (SnContratoBean) bean.get(&quot;contrato&quot;);&lt;br/&gt;contrato = (SnContratoBean) super.find(contrato);&lt;br/&gt;Long numContrato = contrato.getCompositeKey().getNumContrato();&lt;br/&gt;String cidContrato = contrato.getCompositeKey().getCidContrato();&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(66, 66, 66); text-wrap-mode: wrap;&quot;&gt;&lt;br/&gt;&lt;/span&gt;&lt;/pre&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-413" y="254" width="400" height="68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
