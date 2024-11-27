@@ -1,0 +1,28 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.9.2">
+  <diagram name="Página-1" id="NA0iOw3Dosm294sdDX1Z">
+    <mxGraphModel dx="1781" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0h3wnooJiqVJj6Soy01k-1" value="&lt;pre style=&quot;cursor: auto; user-select: text; text-wrap-mode: wrap; color: rgb(66, 66, 66); background-color: rgb(255, 255, 255);&quot; class=&quot;vC7TJ allowTextSelection&quot;&gt;DispPortabilidadeEJBImpl.java&lt;br&gt;Consome:/vender/venda/portabilidade/consultaDadosTelefonia&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-780" y="10" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0h3wnooJiqVJj6Soy01k-2" value="&lt;pre style=&quot;cursor: auto; user-select: text; text-wrap-mode: wrap; color: rgb(66, 66, 66); background-color: rgb(255, 255, 255);&quot; class=&quot;vC7TJ allowTextSelection&quot;&gt;updateDispPortabilidade(DynamicBean bean)&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-700" y="100" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0h3wnooJiqVJj6Soy01k-3" value="&lt;pre style=&quot;cursor: auto; user-select: text; text-wrap-mode: wrap; color: rgb(66, 66, 66); background-color: rgb(255, 255, 255);&quot; class=&quot;vC7TJ allowTextSelection&quot;&gt;Carrega dados do container&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="190" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0h3wnooJiqVJj6Soy01k-4" value="&lt;pre style=&quot;cursor: auto; user-select: text; text-wrap-mode: wrap; color: rgb(66, 66, 66); background-color: rgb(255, 255, 255);&quot; class=&quot;vC7TJ allowTextSelection&quot;&gt;Recupera dados do contrato no DB&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="240" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0h3wnooJiqVJj6Soy01k-5" value="&lt;pre class=&quot;vC7TJ allowTextSelection&quot; style=&quot;cursor: auto; user-select: text; text-wrap-mode: wrap; color: rgb(66, 66, 66); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Executa Proc PROC_PRSMS_VALIDA_FONE_PORTADO&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="290" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0h3wnooJiqVJj6Soy01k-6" value="&lt;pre style=&quot;cursor: auto; user-select: text; text-wrap-mode: wrap; color: rgb(66, 66, 66); background-color: rgb(255, 255, 255);&quot; class=&quot;vC7TJ allowTextSelection&quot;&gt;Chama método validaAreaLocal&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=11;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="340" width="250" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
