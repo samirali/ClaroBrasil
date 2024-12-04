@@ -4,6 +4,24 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TXyXYrq3tWQpbJNDIby2-1" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="310" y="250" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="TXyXYrq3tWQpbJNDIby2-7" value="Suspensão temporária" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TXyXYrq3tWQpbJNDIby2-8" value="Mudança endereço (mesma base)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TXyXYrq3tWQpbJNDIby2-9" value="Migração SVA (em lote)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TXyXYrq3tWQpbJNDIby2-10" value="Contratação ponto adicional que inverte PP." style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TXyXYrq3tWQpbJNDIby2-11" value="Outros processos (mesma causa raiz)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
