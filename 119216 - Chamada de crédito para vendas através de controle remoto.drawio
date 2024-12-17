@@ -34,22 +34,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="X6uK3PPM871VzGU8RNQX-1" value="MS ORC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="X6uK3PPM871VzGU8RNQX-1" value="Novo MS Orc" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="X6uK3PPM871VzGU8RNQX-5" value="MS customer-contracts" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="X6uK3PPM871VzGU8RNQX-5" value="Novo? MS customer-contracts" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X6uK3PPM871VzGU8RNQX-6" value="MS customer-orch-creditanalisys-svc" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="X6uK3PPM871VzGU8RNQX-8" value="(NF) Novo MS Contrata OTT (MS customer-netsms-customerorders-v1?)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="X6uK3PPM871VzGU8RNQX-8" value="(NF) MS Contrata OTT (MS customer-netsms-customerorders-v1?)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="X6uK3PPM871VzGU8RNQX-9" value="(NF) Novo MS Elegibilidade" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="X6uK3PPM871VzGU8RNQX-9" value="(NF) MS Elegibilidade" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="X6uK3PPM871VzGU8RNQX-10" value="(NF) Novo MS Encontrar Product ID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="X6uK3PPM871VzGU8RNQX-10" value="(NF) MS Encontrar Product ID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X6uK3PPM871VzGU8RNQX-11" value="Tabela atualizada com relação de SKU x Product ID&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Request&lt;/b&gt;: Contrato+SKU+CID&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Response&lt;/b&gt;: Product ID&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
