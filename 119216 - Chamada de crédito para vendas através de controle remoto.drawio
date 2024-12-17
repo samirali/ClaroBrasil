@@ -106,6 +106,18 @@
         <mxCell id="X6uK3PPM871VzGU8RNQX-22" value="APIGEE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=30;" vertex="1" parent="1">
           <mxGeometry x="600" y="250" width="220" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="X6uK3PPM871VzGU8RNQX-25" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="505" y="280" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="X6uK3PPM871VzGU8RNQX-27" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="354" y="280" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="X6uK3PPM871VzGU8RNQX-28" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="35" y="280" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="X6uK3PPM871VzGU8RNQX-29" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="645" y="280" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
