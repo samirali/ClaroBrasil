@@ -28,7 +28,7 @@
           <mxGeometry x="354" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X6uK3PPM871VzGU8RNQX-5" value="MS customer-contracts" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X6uK3PPM871VzGU8RNQX-6" value="MS customer-orch-creditanalisys-svc" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="460" width="120" height="60" as="geometry" />
@@ -36,13 +36,13 @@
         <mxCell id="X6uK3PPM871VzGU8RNQX-7" value="MS customer-netsms-customerorders-v1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="X6uK3PPM871VzGU8RNQX-8" value="Novo MS Contrata OTT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="X6uK3PPM871VzGU8RNQX-8" value="(NF) Novo MS Contrata OTT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="X6uK3PPM871VzGU8RNQX-9" value="Novo MS Elegibilidade" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="X6uK3PPM871VzGU8RNQX-9" value="(NF) Novo MS Elegibilidade" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="X6uK3PPM871VzGU8RNQX-10" value="Novo MS Encontrar Product ID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="X6uK3PPM871VzGU8RNQX-10" value="(NF) Novo MS Encontrar Product ID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X6uK3PPM871VzGU8RNQX-11" value="Tabela atualizada com relação de SKU x Product ID&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Request&lt;/b&gt;: Contrato+SKU+CID&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Response&lt;/b&gt;: Product ID&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
@@ -51,7 +51,7 @@
         <mxCell id="X6uK3PPM871VzGU8RNQX-12" value="Avalia restrições para contratação&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Request&lt;/b&gt;: CID+Contrato+OTT&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Response&lt;/b&gt;: Contrato OK/NOK&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="335" y="390" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="X6uK3PPM871VzGU8RNQX-13" value="&lt;b&gt;Dúvidas:&lt;/b&gt;&lt;div&gt;- Ao chamar o MS ORC o ID produto já é de conhecimento do STB? Caso negativo, qual informação que receberemos?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="X6uK3PPM871VzGU8RNQX-13" value="&lt;b&gt;Dúvidas:&lt;/b&gt;&lt;div&gt;- Ao chamar o MS ORC o ID produto já é de conhecimento do STB? Caso negativo, qual informação que receberemos?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Que informações o STB vai passar pra encontrar o contrato do cliente?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="50" width="190" height="90" as="geometry" />
         </mxCell>
       </root>
