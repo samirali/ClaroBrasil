@@ -28,13 +28,22 @@
           <mxGeometry x="354" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X6uK3PPM871VzGU8RNQX-5" value="MS customer-contracts" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="169" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X6uK3PPM871VzGU8RNQX-6" value="MS customer-orch-creditanalisys-svc" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="359" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X6uK3PPM871VzGU8RNQX-7" value="MS customer-netsms-customerorders-v1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="539" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X6uK3PPM871VzGU8RNQX-8" value="Novo MS Contrata OTT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X6uK3PPM871VzGU8RNQX-9" value="Novo MS Elegibilidade" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X6uK3PPM871VzGU8RNQX-10" value="Novo MS Encontrar Product ID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
