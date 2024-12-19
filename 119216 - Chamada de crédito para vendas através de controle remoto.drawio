@@ -170,7 +170,7 @@
         <mxCell id="GYJVv4B859Lm1ghMFqLV-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;strokeColor=#FFD966;" edge="1" parent="TsqrkqPf0RZO_JjdfV2q-1" source="TsqrkqPf0RZO_JjdfV2q-10" target="GYJVv4B859Lm1ghMFqLV-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TsqrkqPf0RZO_JjdfV2q-10" value="Novo MS Orc" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="TsqrkqPf0RZO_JjdfV2q-1">
+        <mxCell id="TsqrkqPf0RZO_JjdfV2q-10" value="Novo MS Orc" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="TsqrkqPf0RZO_JjdfV2q-1">
           <mxGeometry x="354" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TsqrkqPf0RZO_JjdfV2q-11" value="&lt;span data-teams=&quot;true&quot;&gt;residential-customerscontracts-v1&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="TsqrkqPf0RZO_JjdfV2q-1">
