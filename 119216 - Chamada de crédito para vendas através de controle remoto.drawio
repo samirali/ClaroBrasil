@@ -156,7 +156,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="414" y="250" />
-              <mxPoint x="710" y="250" />
+              <mxPoint x="530" y="250" />
+              <mxPoint x="530" y="540" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -177,16 +178,13 @@
           <mxGeometry x="40" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TsqrkqPf0RZO_JjdfV2q-12" value="MS customer-orch-creditanalisys-svc" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="TsqrkqPf0RZO_JjdfV2q-1">
-          <mxGeometry x="650" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="255" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TsqrkqPf0RZO_JjdfV2q-13" value="(NF) MS Contrata OTT (MS customer-netsms-customerorders-v1?)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="TsqrkqPf0RZO_JjdfV2q-1">
           <mxGeometry x="200" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TsqrkqPf0RZO_JjdfV2q-14" value="(NF) MS Elegibilidade" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="TsqrkqPf0RZO_JjdfV2q-1">
-          <mxGeometry x="354" y="290" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="TsqrkqPf0RZO_JjdfV2q-17" value="Avalia restrições para contratação&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Request&lt;/b&gt;: CID+Contrato+OTT&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Response&lt;/b&gt;: Contrato OK/NOK&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="TsqrkqPf0RZO_JjdfV2q-1">
-          <mxGeometry x="345" y="360" width="130" height="130" as="geometry" />
+          <mxGeometry x="680" y="235" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TsqrkqPf0RZO_JjdfV2q-19" value="&lt;div&gt;Consultar dados do contrato (que informações do contrato que retornar? - info para checagem de crédito)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Request&lt;/b&gt;: CID+Contrato+OTT?&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Response&lt;/b&gt;: Contrato OK/NOK?&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="TsqrkqPf0RZO_JjdfV2q-1">
           <mxGeometry x="35" y="360" width="130" height="180" as="geometry" />
@@ -196,15 +194,6 @@
         </mxCell>
         <mxCell id="TsqrkqPf0RZO_JjdfV2q-21" value="APIGEE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=30;" vertex="1" parent="TsqrkqPf0RZO_JjdfV2q-1">
           <mxGeometry x="300" y="120" width="220" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="TsqrkqPf0RZO_JjdfV2q-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFB570;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="TsqrkqPf0RZO_JjdfV2q-1" source="TsqrkqPf0RZO_JjdfV2q-10" target="TsqrkqPf0RZO_JjdfV2q-14">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="540" y="140" as="sourcePoint" />
-            <mxPoint x="540" y="248" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="414" y="280" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="TsqrkqPf0RZO_JjdfV2q-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFB570;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="TsqrkqPf0RZO_JjdfV2q-1" source="TsqrkqPf0RZO_JjdfV2q-10" target="GYJVv4B859Lm1ghMFqLV-5">
           <mxGeometry relative="1" as="geometry">
@@ -228,13 +217,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TsqrkqPf0RZO_JjdfV2q-25" value="Reuso de API que faz checagem de crédito&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Request&lt;/b&gt;: Contrato+SKU+CID&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Response&lt;/b&gt;: Product ID&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="TsqrkqPf0RZO_JjdfV2q-1">
-          <mxGeometry x="645" y="360" width="130" height="130" as="geometry" />
+          <mxGeometry x="250" y="610" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="TsqrkqPf0RZO_JjdfV2q-26" value="APIGEE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=30;textDirection=vertical-lr;" vertex="1" parent="TsqrkqPf0RZO_JjdfV2q-1">
           <mxGeometry x="645" y="40" width="20" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="TsqrkqPf0RZO_JjdfV2q-27" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="TsqrkqPf0RZO_JjdfV2q-1">
-          <mxGeometry x="505" y="280" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TsqrkqPf0RZO_JjdfV2q-28" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="TsqrkqPf0RZO_JjdfV2q-1">
           <mxGeometry x="670" y="52" width="20" height="20" as="geometry" />
@@ -243,16 +229,10 @@
           <mxGeometry x="35" y="280" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TsqrkqPf0RZO_JjdfV2q-30" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="TsqrkqPf0RZO_JjdfV2q-1">
-          <mxGeometry x="645" y="280" width="20" height="20" as="geometry" />
+          <mxGeometry x="250" y="530" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TsqrkqPf0RZO_JjdfV2q-31" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="TsqrkqPf0RZO_JjdfV2q-1">
           <mxGeometry x="190" y="280" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="GYJVv4B859Lm1ghMFqLV-1" value="APIGEE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=30;" vertex="1" parent="TsqrkqPf0RZO_JjdfV2q-1">
-          <mxGeometry x="606" y="260" width="220" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="GYJVv4B859Lm1ghMFqLV-4" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="TsqrkqPf0RZO_JjdfV2q-1">
-          <mxGeometry x="364" y="290" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GYJVv4B859Lm1ghMFqLV-5" value="MS Encontrar Product ID" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="TsqrkqPf0RZO_JjdfV2q-1">
           <mxGeometry x="680" y="145" width="120" height="60" as="geometry" />
@@ -262,6 +242,19 @@
         </mxCell>
         <mxCell id="GYJVv4B859Lm1ghMFqLV-7" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="TsqrkqPf0RZO_JjdfV2q-1">
           <mxGeometry x="670" y="142" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GYJVv4B859Lm1ghMFqLV-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFB570;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="TsqrkqPf0RZO_JjdfV2q-1" source="TsqrkqPf0RZO_JjdfV2q-10" target="TsqrkqPf0RZO_JjdfV2q-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="240" as="sourcePoint" />
+            <mxPoint x="740" y="220" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GYJVv4B859Lm1ghMFqLV-8" value="APIGEE" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=30;textDirection=vertical-lr;" vertex="1" parent="TsqrkqPf0RZO_JjdfV2q-1">
+          <mxGeometry x="645" y="220" width="20" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="GYJVv4B859Lm1ghMFqLV-4" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="TsqrkqPf0RZO_JjdfV2q-1">
+          <mxGeometry x="670" y="230" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
