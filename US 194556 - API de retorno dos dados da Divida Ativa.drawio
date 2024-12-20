@@ -7,7 +7,7 @@
         <mxCell id="K_rCwbfdzwNDt4s5ID4d-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JonUtI2A8_VO-_GTD89V-1" target="JonUtI2A8_VO-_GTD89V-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JonUtI2A8_VO-_GTD89V-1" value="API PROPOSALS/&lt;div&gt;CONFIRMATIONS&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="JonUtI2A8_VO-_GTD89V-1" value="API PROPOSALS/&lt;div&gt;CONFIRMATIONS&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="354" y="35" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K_rCwbfdzwNDt4s5ID4d-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JonUtI2A8_VO-_GTD89V-2" target="K_rCwbfdzwNDt4s5ID4d-2">
@@ -26,7 +26,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JonUtI2A8_VO-_GTD89V-2" value="HP possui dívida ativa na Claro?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="JonUtI2A8_VO-_GTD89V-2" value="HP possui dívida ativa na Claro?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="540" y="10" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="K_rCwbfdzwNDt4s5ID4d-2" value="AS-IS" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -35,7 +35,7 @@
         <mxCell id="K_rCwbfdzwNDt4s5ID4d-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="K_rCwbfdzwNDt4s5ID4d-6" target="JonUtI2A8_VO-_GTD89V-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="K_rCwbfdzwNDt4s5ID4d-6" value="Não cria proposta e&amp;nbsp;&lt;div&gt;devolve mensagem&amp;nbsp;&lt;/div&gt;&lt;div&gt;de dívida para Solar&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="K_rCwbfdzwNDt4s5ID4d-6" value="Não cria proposta e&amp;nbsp;&lt;div&gt;devolve mensagem&amp;nbsp;&lt;/div&gt;&lt;div&gt;de dívida para Solar&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="520" y="170" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="K_rCwbfdzwNDt4s5ID4d-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="K_rCwbfdzwNDt4s5ID4d-9" target="JonUtI2A8_VO-_GTD89V-1">
@@ -43,6 +43,30 @@
         </mxCell>
         <mxCell id="K_rCwbfdzwNDt4s5ID4d-9" value="SOLAR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="35" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K_rCwbfdzwNDt4s5ID4d-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="K_rCwbfdzwNDt4s5ID4d-13" target="K_rCwbfdzwNDt4s5ID4d-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K_rCwbfdzwNDt4s5ID4d-13" value="NOVA API CONSULTA DÍVIDA ATIVA POR HP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="50" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K_rCwbfdzwNDt4s5ID4d-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="K_rCwbfdzwNDt4s5ID4d-16" target="K_rCwbfdzwNDt4s5ID4d-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K_rCwbfdzwNDt4s5ID4d-16" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="329" y="260" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="K_rCwbfdzwNDt4s5ID4d-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="K_rCwbfdzwNDt4s5ID4d-2" target="K_rCwbfdzwNDt4s5ID4d-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="770" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K_rCwbfdzwNDt4s5ID4d-19" value="Cria Proposta" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="K_rCwbfdzwNDt4s5ID4d-17">
+          <mxGeometry x="0.0132" y="-1" relative="1" as="geometry">
+            <mxPoint x="31" y="-159" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
