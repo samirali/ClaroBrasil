@@ -130,7 +130,7 @@
         <mxCell id="TsqrkqPf0RZO_JjdfV2q-0" />
         <mxCell id="TsqrkqPf0RZO_JjdfV2q-1" parent="TsqrkqPf0RZO_JjdfV2q-0" />
         <mxCell id="4HADtcmN8OXayV3A06Ee-2" value="1- Orquestrador (Método POST)&#xa;request=&gt; caid, smartcard, canal, SKU &#xa;response =&gt; Status (OK, Erro);&#xa;&#xa;2- Atlas (Método GET)&#xa;request=&gt; caid &#xa;response =&gt; CID+Contrato &#xa;&#xa;3- SKU x ID Produto (Método GET)&#xa;request=&gt; SKU, CID, Contrato &#xa;response =&gt; ID Produto &#xa;&#xa;4- Elegibilidade venda (MétodoGET) &#xa;request=&gt; CID+Contrato+ID Produto &#xa;response =&gt; Contrato elegível ou não para contratação&#xa;&#xa;5- Dados Contrato (Método GET)&#xa;request= &gt; CID+Contrato &#xa;response =&gt; CPF/CNPJ, Nome Cliente, Dt Instalação &#xa;&#xa;6- Checagem de Crédito (Método GET)&#xa;request= &gt; CID+Contrato, canal, CPF/CNP, Nome Cliente, Dt Instalação, preço, nome produto &#xa;response =&gt; Status checagem de crédito&#xa;&#xa;7- Inclui produto no contrato (Método POST)&#xa;request= &gt; CID+Contrato, ID Produto &#xa;response =&gt; Status contratação " style="text;align=left;verticalAlign=top;rounded=0;fillColor=none;labelBackgroundColor=none;whiteSpace=wrap;labelBorderColor=default;" parent="TsqrkqPf0RZO_JjdfV2q-1" vertex="1">
-          <mxGeometry x="5" y="111" width="335" height="390" as="geometry" />
+          <mxGeometry x="10" width="335" height="410" as="geometry" />
         </mxCell>
         <mxCell id="GYJVv4B859Lm1ghMFqLV-0" value="(Netflix) MS Atlas Inventário" style="rounded=1;whiteSpace=wrap;html=1;" parent="TsqrkqPf0RZO_JjdfV2q-1" vertex="1">
           <mxGeometry x="680" y="55" width="120" height="60" as="geometry" />
@@ -138,13 +138,13 @@
         <mxCell id="TsqrkqPf0RZO_JjdfV2q-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FFB570;" parent="TsqrkqPf0RZO_JjdfV2q-1" source="TsqrkqPf0RZO_JjdfV2q-4" target="TsqrkqPf0RZO_JjdfV2q-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TsqrkqPf0RZO_JjdfV2q-3" value="Compra SVA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="TsqrkqPf0RZO_JjdfV2q-2" vertex="1" connectable="0">
+        <mxCell id="TsqrkqPf0RZO_JjdfV2q-3" value="Compra&amp;nbsp;&lt;div&gt;SVA&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="TsqrkqPf0RZO_JjdfV2q-2" vertex="1" connectable="0">
           <mxGeometry x="-0.0965" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TsqrkqPf0RZO_JjdfV2q-4" value="Compra Controle&amp;nbsp;&lt;div&gt;Remoto&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/electronics-line-style/64/Remote-128.png" parent="TsqrkqPf0RZO_JjdfV2q-1" vertex="1">
-          <mxGeometry x="40" y="30" width="48" height="48" as="geometry" />
+        <mxCell id="TsqrkqPf0RZO_JjdfV2q-4" value="Compra&amp;nbsp;&lt;div&gt;Controle&amp;nbsp;&lt;div&gt;Remoto&lt;/div&gt;&lt;/div&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/electronics-line-style/64/Remote-128.png" parent="TsqrkqPf0RZO_JjdfV2q-1" vertex="1">
+          <mxGeometry x="550" y="27" width="48" height="48" as="geometry" />
         </mxCell>
         <mxCell id="TsqrkqPf0RZO_JjdfV2q-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="TsqrkqPf0RZO_JjdfV2q-1" source="TsqrkqPf0RZO_JjdfV2q-7" target="TsqrkqPf0RZO_JjdfV2q-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
