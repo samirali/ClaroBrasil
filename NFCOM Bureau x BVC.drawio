@@ -4,13 +4,16 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="VzPvSjDH7yJE6mqDoxBZ-1" value="BVC&amp;nbsp;&lt;div&gt;(Doc CPF e CNPJ)&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
-          <mxGeometry x="260" y="20" width="180" height="120" as="geometry" />
+        <mxCell id="52ZuQLAlr7qtwWTt8vym-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VzPvSjDH7yJE6mqDoxBZ-1" target="52ZuQLAlr7qtwWTt8vym-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VzPvSjDH7yJE6mqDoxBZ-1" value="Processo Datacare&amp;nbsp;&lt;div&gt;Base BVC&amp;nbsp;&lt;div&gt;(Doc CPF e CNPJ)&lt;/div&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry y="140" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VzPvSjDH7yJE6mqDoxBZ-2" value="Parceiros Externos" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="20" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VzPvSjDH7yJE6mqDoxBZ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="VzPvSjDH7yJE6mqDoxBZ-2" target="VzPvSjDH7yJE6mqDoxBZ-1" edge="1">
+        <mxCell id="VzPvSjDH7yJE6mqDoxBZ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="VzPvSjDH7yJE6mqDoxBZ-2" target="VzPvSjDH7yJE6mqDoxBZ-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VzPvSjDH7yJE6mqDoxBZ-4" value="Carga Full&amp;nbsp;&lt;div&gt;e Incremental&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="VzPvSjDH7yJE6mqDoxBZ-3" vertex="1" connectable="0">
@@ -29,6 +32,43 @@
         </mxCell>
         <mxCell id="52ZuQLAlr7qtwWTt8vym-4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;FASE 4&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;Processo expansão para atributos não NFCOM&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#d6b656;fillColor=#fff2cc;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="627" y="370" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="52ZuQLAlr7qtwWTt8vym-5" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="540" y="10" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="52ZuQLAlr7qtwWTt8vym-6" value="MS Atualiza Dados cadastrais" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="52ZuQLAlr7qtwWTt8vym-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="52ZuQLAlr7qtwWTt8vym-7" target="52ZuQLAlr7qtwWTt8vym-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="52ZuQLAlr7qtwWTt8vym-10" value="Arquivos SFTP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="52ZuQLAlr7qtwWTt8vym-9">
+          <mxGeometry x="0.0818" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="52ZuQLAlr7qtwWTt8vym-7" value="HUB DE DADOS/&lt;div&gt;IDMC (Integração Massiva)&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry y="250" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="52ZuQLAlr7qtwWTt8vym-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=-15;entryPerimeter=0;" edge="1" parent="1" source="52ZuQLAlr7qtwWTt8vym-6" target="52ZuQLAlr7qtwWTt8vym-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="325" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="52ZuQLAlr7qtwWTt8vym-13" value="LOG" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="52ZuQLAlr7qtwWTt8vym-12">
+          <mxGeometry x="-0.4694" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="52ZuQLAlr7qtwWTt8vym-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="52ZuQLAlr7qtwWTt8vym-6" target="52ZuQLAlr7qtwWTt8vym-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="52ZuQLAlr7qtwWTt8vym-15" value="Atualiza dado" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="52ZuQLAlr7qtwWTt8vym-14">
+          <mxGeometry x="-0.1333" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
