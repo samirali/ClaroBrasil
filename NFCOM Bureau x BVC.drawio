@@ -134,6 +134,17 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="71a09y3Gvm9RoxQZocow-9" value="JOB" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=job" vertex="1" parent="tWlwlsfB1LVf72r3Ckl0-1">
+          <mxGeometry x="290" y="176" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="71a09y3Gvm9RoxQZocow-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="tWlwlsfB1LVf72r3Ckl0-1" source="71a09y3Gvm9RoxQZocow-9" target="tWlwlsfB1LVf72r3Ckl0-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71a09y3Gvm9RoxQZocow-11" value="Expurgo LOG" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="71a09y3Gvm9RoxQZocow-10">
+          <mxGeometry x="-0.1" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
