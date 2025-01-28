@@ -107,7 +107,7 @@
         <mxCell id="71a09y3Gvm9RoxQZocow-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="tWlwlsfB1LVf72r3Ckl0-1" source="tWlwlsfB1LVf72r3Ckl0-12" target="tWlwlsfB1LVf72r3Ckl0-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="71a09y3Gvm9RoxQZocow-5" value="Response: OK/NOK&amp;nbsp;&lt;div&gt;(quando não for atualizado por motivo&amp;nbsp;&lt;div&gt;de negócio, não responder)&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="71a09y3Gvm9RoxQZocow-4">
+        <mxCell id="71a09y3Gvm9RoxQZocow-5" value="Response: OK/NOK&amp;nbsp;&lt;div&gt;(só responde NOK quando&amp;nbsp;&lt;/div&gt;&lt;div&gt;houver erro técnico&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="71a09y3Gvm9RoxQZocow-4">
           <mxGeometry x="0.3206" relative="1" as="geometry">
             <mxPoint x="48" y="15" as="offset" />
           </mxGeometry>
