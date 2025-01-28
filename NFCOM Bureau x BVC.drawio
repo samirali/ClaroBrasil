@@ -78,7 +78,7 @@
       <root>
         <mxCell id="tWlwlsfB1LVf72r3Ckl0-0" />
         <mxCell id="tWlwlsfB1LVf72r3Ckl0-1" parent="tWlwlsfB1LVf72r3Ckl0-0" />
-        <mxCell id="71a09y3Gvm9RoxQZocow-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="tWlwlsfB1LVf72r3Ckl0-1" source="tWlwlsfB1LVf72r3Ckl0-4" target="tWlwlsfB1LVf72r3Ckl0-12">
+        <mxCell id="71a09y3Gvm9RoxQZocow-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="tWlwlsfB1LVf72r3Ckl0-1" source="tWlwlsfB1LVf72r3Ckl0-4" target="tWlwlsfB1LVf72r3Ckl0-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="71a09y3Gvm9RoxQZocow-3" value="Request: CPF /CNPJ" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="71a09y3Gvm9RoxQZocow-1">
@@ -104,7 +104,15 @@
         <mxCell id="tWlwlsfB1LVf72r3Ckl0-11" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="tWlwlsfB1LVf72r3Ckl0-1">
           <mxGeometry x="460" y="190" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tWlwlsfB1LVf72r3Ckl0-12" value="MS Atualiza Dados cadastrais (Worker Replication)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="tWlwlsfB1LVf72r3Ckl0-1">
+        <mxCell id="71a09y3Gvm9RoxQZocow-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="tWlwlsfB1LVf72r3Ckl0-1" source="tWlwlsfB1LVf72r3Ckl0-12" target="tWlwlsfB1LVf72r3Ckl0-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="71a09y3Gvm9RoxQZocow-5" value="Response: OK/NOK&amp;nbsp;&lt;div&gt;(quando não for atualizado por motivo&amp;nbsp;&lt;div&gt;de negócio, não responder)&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="71a09y3Gvm9RoxQZocow-4">
+          <mxGeometry x="0.3206" relative="1" as="geometry">
+            <mxPoint x="48" y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tWlwlsfB1LVf72r3Ckl0-12" value="MS Atualiza Dados cadastrais&amp;nbsp;&lt;div&gt;(Worker Replication)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="tWlwlsfB1LVf72r3Ckl0-1">
           <mxGeometry x="480" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="71a09y3Gvm9RoxQZocow-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="tWlwlsfB1LVf72r3Ckl0-1" source="tWlwlsfB1LVf72r3Ckl0-15" target="tWlwlsfB1LVf72r3Ckl0-4">
