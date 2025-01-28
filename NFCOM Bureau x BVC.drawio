@@ -129,13 +129,10 @@
         <mxCell id="tWlwlsfB1LVf72r3Ckl0-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="tWlwlsfB1LVf72r3Ckl0-1" source="tWlwlsfB1LVf72r3Ckl0-12" target="tWlwlsfB1LVf72r3Ckl0-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tWlwlsfB1LVf72r3Ckl0-19" value="Atualiza base" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tWlwlsfB1LVf72r3Ckl0-18">
+        <mxCell id="tWlwlsfB1LVf72r3Ckl0-19" value="Atualiza base e gera log de execução" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tWlwlsfB1LVf72r3Ckl0-18">
           <mxGeometry x="-0.1333" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="71a09y3Gvm9RoxQZocow-8" value="Log de atualização?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="tWlwlsfB1LVf72r3Ckl0-1">
-          <mxGeometry x="660" y="40" width="92" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
