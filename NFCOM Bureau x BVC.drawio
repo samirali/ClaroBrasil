@@ -134,6 +134,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="71a09y3Gvm9RoxQZocow-8" value="Log de atualização?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="tWlwlsfB1LVf72r3Ckl0-1">
+          <mxGeometry x="660" y="40" width="92" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
