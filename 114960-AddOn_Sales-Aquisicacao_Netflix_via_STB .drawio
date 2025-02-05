@@ -195,6 +195,18 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="wwhrSut1Y8ac9y-j0grS-48" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="775" y="180" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wwhrSut1Y8ac9y-j0grS-50" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="589" y="180" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wwhrSut1Y8ac9y-j0grS-51" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="410" y="180" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wwhrSut1Y8ac9y-j0grS-53" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="270" y="180" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
