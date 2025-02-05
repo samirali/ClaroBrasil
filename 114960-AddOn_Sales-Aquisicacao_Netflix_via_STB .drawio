@@ -28,7 +28,7 @@
           <mxGeometry x="420" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wwhrSut1Y8ac9y-j0grS-8" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Premissas&lt;/h1&gt;&lt;p&gt;AppConnect acessa APIGEE SaaS, então essas novas APIs de BSS devem estar no SaaS (?)&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="85" width="150" height="120" as="geometry" />
+          <mxGeometry x="10" y="85" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wwhrSut1Y8ac9y-j0grS-10" value="Novo MS Contrata OTT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="184" y="180" width="80" height="60" as="geometry" />
