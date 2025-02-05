@@ -58,20 +58,20 @@
           <mxGeometry x="190" y="120" width="580" height="20" as="geometry" />
         </mxCell>
         <mxCell id="wwhrSut1Y8ac9y-j0grS-21" value="&lt;b&gt;NETSMS&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="79" y="340" width="561" height="200" as="geometry" />
+          <mxGeometry x="79" y="340" width="561" height="160" as="geometry" />
         </mxCell>
         <mxCell id="wwhrSut1Y8ac9y-j0grS-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=40;exitPerimeter=0;" edge="1" parent="1" source="wwhrSut1Y8ac9y-j0grS-22" target="wwhrSut1Y8ac9y-j0grS-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wwhrSut1Y8ac9y-j0grS-30" value="Evento 19&amp;nbsp;&lt;div&gt;(Assíncrono)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wwhrSut1Y8ac9y-j0grS-29">
           <mxGeometry x="0.1591" relative="1" as="geometry">
-            <mxPoint y="-65" as="offset" />
+            <mxPoint y="-47" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wwhrSut1Y8ac9y-j0grS-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=130;exitDy=50;exitPerimeter=0;" edge="1" parent="1" source="wwhrSut1Y8ac9y-j0grS-22" target="wwhrSut1Y8ac9y-j0grS-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="244" y="490" />
+              <mxPoint x="244" y="447" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -81,7 +81,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wwhrSut1Y8ac9y-j0grS-22" value="Package Nova" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="99" y="440" width="130" height="70" as="geometry" />
+          <mxGeometry x="99" y="397" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wwhrSut1Y8ac9y-j0grS-23" value="Inclui Produto Contrato" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;" vertex="1" parent="wwhrSut1Y8ac9y-j0grS-22">
           <mxGeometry width="130" height="49" relative="1" as="geometry">
@@ -91,18 +91,18 @@
         <mxCell id="wwhrSut1Y8ac9y-j0grS-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=130;exitDy=50;exitPerimeter=0;" edge="1" parent="1" source="wwhrSut1Y8ac9y-j0grS-24" target="wwhrSut1Y8ac9y-j0grS-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="440" y="490" />
+              <mxPoint x="440" y="447" />
               <mxPoint x="440" y="210" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wwhrSut1Y8ac9y-j0grS-38" value="Contrato&amp;nbsp;&lt;div&gt;OK/NOK&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wwhrSut1Y8ac9y-j0grS-37">
           <mxGeometry x="0.2157" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-8" y="27" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wwhrSut1Y8ac9y-j0grS-24" value="Package Nova" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="300" y="440" width="130" height="70" as="geometry" />
+          <mxGeometry x="300" y="397" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wwhrSut1Y8ac9y-j0grS-25" value="RN validação contrato" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;" vertex="1" parent="wwhrSut1Y8ac9y-j0grS-24">
           <mxGeometry width="130" height="49" relative="1" as="geometry">
@@ -112,7 +112,7 @@
         <mxCell id="wwhrSut1Y8ac9y-j0grS-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=130;exitDy=50;exitPerimeter=0;" edge="1" parent="1" source="wwhrSut1Y8ac9y-j0grS-26" target="wwhrSut1Y8ac9y-j0grS-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="620" y="490" />
+              <mxPoint x="620" y="447" />
               <mxPoint x="620" y="210" />
             </Array>
           </mxGeometry>
@@ -123,7 +123,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wwhrSut1Y8ac9y-j0grS-26" value="Package Nova" style="shape=folder;fontStyle=1;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;container=1;collapsible=0;whiteSpace=wrap;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="479" y="440" width="130" height="70" as="geometry" />
+          <mxGeometry x="479" y="397" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wwhrSut1Y8ac9y-j0grS-27" value="SKU &amp;gt; ID Produto&amp;nbsp;&lt;div&gt;(Proc na base)&lt;/div&gt;" style="html=1;strokeColor=none;resizeWidth=1;resizeHeight=1;fillColor=none;part=1;connectable=0;allowArrows=0;deletable=0;whiteSpace=wrap;" vertex="1" parent="wwhrSut1Y8ac9y-j0grS-26">
           <mxGeometry width="130" height="49" relative="1" as="geometry">
@@ -142,7 +142,7 @@
         </mxCell>
         <mxCell id="wwhrSut1Y8ac9y-j0grS-32" value="Contrata&amp;nbsp;&lt;div&gt;Produto&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wwhrSut1Y8ac9y-j0grS-31">
           <mxGeometry x="-0.0111" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wwhrSut1Y8ac9y-j0grS-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=40;entryPerimeter=0;" edge="1" parent="1" source="wwhrSut1Y8ac9y-j0grS-11" target="wwhrSut1Y8ac9y-j0grS-24">
@@ -150,20 +150,20 @@
             <mxPoint x="360" y="440" as="targetPoint" />
             <Array as="points">
               <mxPoint x="290" y="210" />
-              <mxPoint x="290" y="480" />
+              <mxPoint x="290" y="437" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="wwhrSut1Y8ac9y-j0grS-36" value="STB Info&lt;div&gt;(CID+Contrato+OTT)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="wwhrSut1Y8ac9y-j0grS-35">
           <mxGeometry x="-0.0047" y="5" relative="1" as="geometry">
-            <mxPoint x="5" y="-24" as="offset" />
+            <mxPoint x="5" y="-46" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wwhrSut1Y8ac9y-j0grS-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=50;entryPerimeter=0;" edge="1" parent="1" source="wwhrSut1Y8ac9y-j0grS-12" target="wwhrSut1Y8ac9y-j0grS-26">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="470" y="210" />
-              <mxPoint x="470" y="490" />
+              <mxPoint x="470" y="447" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -181,7 +181,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wwhrSut1Y8ac9y-j0grS-43" value="&lt;b&gt;ATLAS&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="665" y="430" width="130" height="100" as="geometry" />
+          <mxGeometry x="665" y="369" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wwhrSut1Y8ac9y-j0grS-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.057;entryY=0.112;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wwhrSut1Y8ac9y-j0grS-13" target="wwhrSut1Y8ac9y-j0grS-43">
           <mxGeometry relative="1" as="geometry">
