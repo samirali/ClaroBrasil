@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11" pages="2">
   <diagram name="Bundle Flexível" id="kXkVYsWf9OJHEGPrg3_8">
     <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -119,6 +119,72 @@
         </mxCell>
         <mxCell id="vX29ukWN0PYe6CE-qSUL-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Premissas&lt;/h1&gt;&lt;p&gt;- Reuso de 2 Microsserviços propostos na solução de OTT NETFLIX&lt;/p&gt;&lt;p&gt;- Regra validação de troca de SVA/OTT deve ser aplicada no front, antes de chamar a API.(Catálogo vai ter informação de qual SVA/OTT pode ser trocado pelo Cliente).&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#d6b656;fillColor=#fff2cc;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="520" y="160" width="250" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="VxzHsnYchzPlDSUpDS2J" name="v2">
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4kUn2K6fRLzkgsQiHmRe-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4kUn2K6fRLzkgsQiHmRe-3" target="4kUn2K6fRLzkgsQiHmRe-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4kUn2K6fRLzkgsQiHmRe-2" value="payload nova API&amp;nbsp;&lt;div&gt;Venda Base Solar&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4kUn2K6fRLzkgsQiHmRe-1">
+          <mxGeometry x="-0.21" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4kUn2K6fRLzkgsQiHmRe-3" value="OM (SOLAR)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4kUn2K6fRLzkgsQiHmRe-5" value="MS VENDA BASE SOLAR" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="374" y="180" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4kUn2K6fRLzkgsQiHmRe-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4kUn2K6fRLzkgsQiHmRe-8" target="4kUn2K6fRLzkgsQiHmRe-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4kUn2K6fRLzkgsQiHmRe-8" value="APIGEE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="359" y="140" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4kUn2K6fRLzkgsQiHmRe-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.657;exitY=-0.008;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="4kUn2K6fRLzkgsQiHmRe-9" target="4kUn2K6fRLzkgsQiHmRe-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4kUn2K6fRLzkgsQiHmRe-33" value="Confirmação/Erro" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4kUn2K6fRLzkgsQiHmRe-32">
+          <mxGeometry x="-0.2318" y="2" relative="1" as="geometry">
+            <mxPoint x="-19" y="22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4kUn2K6fRLzkgsQiHmRe-9" value="&lt;b&gt;NETSMS&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="50" y="320" width="440" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="4kUn2K6fRLzkgsQiHmRe-27" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Premissas&lt;/h1&gt;&lt;p&gt;- Alteração somente em jornada Venda base Solar (Reuso de API Venda Base);&lt;/p&gt;&lt;p&gt;- OM terá regra de quais SVAs/OTTs podem ser substituídos;&lt;/p&gt;&lt;p&gt;- API deve persistir essa substituição numa matriz (nova tabela) do FEPP replicada na base NETSMS;&lt;/p&gt;&lt;p&gt;- Registrar alteração/substituição nas ocorrências do contrato;&lt;/p&gt;&lt;p&gt;- Avaliar necessidade de nova solic STW;&lt;/p&gt;&lt;p&gt;- Avaliar impactos em JOBs, consultas, proc, etc, que utilizam estrutura de produto SVA/OTT;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#d6b656;fillColor=#fff2cc;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="510" y="30" width="310" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="4kUn2K6fRLzkgsQiHmRe-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4kUn2K6fRLzkgsQiHmRe-28" target="4kUn2K6fRLzkgsQiHmRe-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4kUn2K6fRLzkgsQiHmRe-28" value="Ouvidoria, Claro Store, outros" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4kUn2K6fRLzkgsQiHmRe-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4kUn2K6fRLzkgsQiHmRe-5" target="4kUn2K6fRLzkgsQiHmRe-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4kUn2K6fRLzkgsQiHmRe-31" value="Substituição de SVA/OTT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4kUn2K6fRLzkgsQiHmRe-30">
+          <mxGeometry x="0.2431" y="-1" relative="1" as="geometry">
+            <mxPoint x="21" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4kUn2K6fRLzkgsQiHmRe-35" value="JOBS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="74" y="180" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4kUn2K6fRLzkgsQiHmRe-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.145;entryY=0;entryDx=0;entryDy=4.35;entryPerimeter=0;" edge="1" parent="1" source="4kUn2K6fRLzkgsQiHmRe-35" target="4kUn2K6fRLzkgsQiHmRe-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
