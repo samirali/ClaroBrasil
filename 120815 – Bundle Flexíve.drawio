@@ -194,8 +194,101 @@
       <root>
         <mxCell id="Aan4vw2K8Wj1uO4sk84N-0" />
         <mxCell id="Aan4vw2K8Wj1uO4sk84N-1" parent="Aan4vw2K8Wj1uO4sk84N-0" />
-        <mxCell id="Aan4vw2K8Wj1uO4sk84N-11" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Premissas&lt;/h1&gt;&lt;p&gt;- Alteração somente em jornada Venda base Solar (Reuso de API Venda Base);&lt;/p&gt;&lt;p&gt;- OM terá regra de quais SVAs/OTTs podem ser substituídos;&lt;/p&gt;&lt;p&gt;- API deve persistir essa substituição numa matriz (nova tabela) do FEPP replicada na base NETSMS;&lt;/p&gt;&lt;p&gt;- Registrar alteração/substituição nas ocorrências do contrato;&lt;/p&gt;&lt;p&gt;- Avaliar necessidade de nova solic STW;&lt;/p&gt;&lt;p&gt;- Avaliar impactos em JOBs, consultas, proc, etc, que utilizam estrutura de produto SVA/OTT;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#d6b656;fillColor=#fff2cc;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="Aan4vw2K8Wj1uO4sk84N-1">
-          <mxGeometry x="510" y="30" width="310" height="290" as="geometry" />
+        <mxCell id="9hEXAgjlc97LaG0PaVdf-0" value="COMBO SVA" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="Aan4vw2K8Wj1uO4sk84N-1">
+          <mxGeometry x="20" y="40" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="9hEXAgjlc97LaG0PaVdf-1" value="ID Perfil Cliente" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="9hEXAgjlc97LaG0PaVdf-0">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9hEXAgjlc97LaG0PaVdf-2" value="ID&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Prod Principal&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="9hEXAgjlc97LaG0PaVdf-0">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9hEXAgjlc97LaG0PaVdf-3" value="ID Prod SVA" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="9hEXAgjlc97LaG0PaVdf-0">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9hEXAgjlc97LaG0PaVdf-4" value="Flags Controle" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="9hEXAgjlc97LaG0PaVdf-0">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9hEXAgjlc97LaG0PaVdf-5" value="SN_PRODUTO" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="Aan4vw2K8Wj1uO4sk84N-1">
+          <mxGeometry x="180" y="40" width="140" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="9hEXAgjlc97LaG0PaVdf-6" value="ID Produto" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="9hEXAgjlc97LaG0PaVdf-5">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9hEXAgjlc97LaG0PaVdf-7" value="ID tipo produto" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="9hEXAgjlc97LaG0PaVdf-5">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9hEXAgjlc97LaG0PaVdf-8" value="ID Plano" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="9hEXAgjlc97LaG0PaVdf-5">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9hEXAgjlc97LaG0PaVdf-9" value="Info Contab" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="9hEXAgjlc97LaG0PaVdf-5">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9hEXAgjlc97LaG0PaVdf-10" value="Info Técnica" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="9hEXAgjlc97LaG0PaVdf-5">
+          <mxGeometry y="150" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9hEXAgjlc97LaG0PaVdf-11" value="Info Financeira" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="9hEXAgjlc97LaG0PaVdf-5">
+          <mxGeometry y="180" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9hEXAgjlc97LaG0PaVdf-12" value="SVA" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="Aan4vw2K8Wj1uO4sk84N-1">
+          <mxGeometry x="340" y="40" width="140" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="9hEXAgjlc97LaG0PaVdf-13" value="ID Prod SVA" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="9hEXAgjlc97LaG0PaVdf-12">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9hEXAgjlc97LaG0PaVdf-20" value="ID SKU Parceiro" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="9hEXAgjlc97LaG0PaVdf-12">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9hEXAgjlc97LaG0PaVdf-16" value="Info Contab" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="9hEXAgjlc97LaG0PaVdf-12">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9hEXAgjlc97LaG0PaVdf-17" value="Info Técnica" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="9hEXAgjlc97LaG0PaVdf-12">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9hEXAgjlc97LaG0PaVdf-18" value="Info Financeira" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="9hEXAgjlc97LaG0PaVdf-12">
+          <mxGeometry y="150" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9hEXAgjlc97LaG0PaVdf-21" value="PROPOSTA" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="Aan4vw2K8Wj1uO4sk84N-1">
+          <mxGeometry x="660" y="40" width="140" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="9hEXAgjlc97LaG0PaVdf-22" value="ID Proposta" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="9hEXAgjlc97LaG0PaVdf-21">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9hEXAgjlc97LaG0PaVdf-23" value="ID Ponto Principal" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="9hEXAgjlc97LaG0PaVdf-21">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9hEXAgjlc97LaG0PaVdf-24" value="ID Perfil Cliente" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="9hEXAgjlc97LaG0PaVdf-21">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9hEXAgjlc97LaG0PaVdf-28" value="ID Produto" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="9hEXAgjlc97LaG0PaVdf-21">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9hEXAgjlc97LaG0PaVdf-29" value="ID Prod SVA" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="9hEXAgjlc97LaG0PaVdf-21">
+          <mxGeometry y="150" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9hEXAgjlc97LaG0PaVdf-25" value="Info Técnica" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="9hEXAgjlc97LaG0PaVdf-21">
+          <mxGeometry y="180" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9hEXAgjlc97LaG0PaVdf-26" value="Info Financeira" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="9hEXAgjlc97LaG0PaVdf-21">
+          <mxGeometry y="210" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9hEXAgjlc97LaG0PaVdf-30" value="ALC (?)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="Aan4vw2K8Wj1uO4sk84N-1">
+          <mxGeometry x="500" y="40" width="140" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="9hEXAgjlc97LaG0PaVdf-31" value="ID Prod ALC" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="9hEXAgjlc97LaG0PaVdf-30">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9hEXAgjlc97LaG0PaVdf-32" value="ID SKU Parceiro" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="9hEXAgjlc97LaG0PaVdf-30">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9hEXAgjlc97LaG0PaVdf-33" value="Info Contab" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="9hEXAgjlc97LaG0PaVdf-30">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9hEXAgjlc97LaG0PaVdf-34" value="Info Técnica" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="9hEXAgjlc97LaG0PaVdf-30">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9hEXAgjlc97LaG0PaVdf-35" value="Info Financeira" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="9hEXAgjlc97LaG0PaVdf-30">
+          <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
