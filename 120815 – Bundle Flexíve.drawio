@@ -249,7 +249,7 @@
           <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9hEXAgjlc97LaG0PaVdf-21" value="PROPOSTA" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="Aan4vw2K8Wj1uO4sk84N-1">
-          <mxGeometry x="660" y="40" width="140" height="240" as="geometry" />
+          <mxGeometry x="660" y="40" width="140" height="270" as="geometry" />
         </mxCell>
         <mxCell id="9hEXAgjlc97LaG0PaVdf-22" value="ID Proposta" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="9hEXAgjlc97LaG0PaVdf-21">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -266,11 +266,14 @@
         <mxCell id="9hEXAgjlc97LaG0PaVdf-29" value="ID Prod SVA" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="9hEXAgjlc97LaG0PaVdf-21">
           <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9hEXAgjlc97LaG0PaVdf-25" value="Info Técnica" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="9hEXAgjlc97LaG0PaVdf-21">
+        <mxCell id="9hEXAgjlc97LaG0PaVdf-36" value="ID Prod ALC" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="9hEXAgjlc97LaG0PaVdf-21">
           <mxGeometry y="180" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9hEXAgjlc97LaG0PaVdf-26" value="Info Financeira" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="9hEXAgjlc97LaG0PaVdf-21">
+        <mxCell id="9hEXAgjlc97LaG0PaVdf-25" value="Info Técnica" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="9hEXAgjlc97LaG0PaVdf-21">
           <mxGeometry y="210" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9hEXAgjlc97LaG0PaVdf-26" value="Info Financeira" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="9hEXAgjlc97LaG0PaVdf-21">
+          <mxGeometry y="240" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9hEXAgjlc97LaG0PaVdf-30" value="ALC (?)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="Aan4vw2K8Wj1uO4sk84N-1">
           <mxGeometry x="500" y="40" width="140" height="180" as="geometry" />
