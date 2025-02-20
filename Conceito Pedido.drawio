@@ -124,6 +124,9 @@
         <mxCell id="o47skZGHR9bdBCTCLBsT-31" value="Assist. Técnica, Aplicativos, Conteúdo Digital, etc." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="660" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="o47skZGHR9bdBCTCLBsT-35" value="AGREGADO INFORMATIVO (?)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
