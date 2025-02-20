@@ -54,6 +54,9 @@
         <mxCell id="o47skZGHR9bdBCTCLBsT-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o47skZGHR9bdBCTCLBsT-10" target="o47skZGHR9bdBCTCLBsT-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="o47skZGHR9bdBCTCLBsT-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o47skZGHR9bdBCTCLBsT-10" target="o47skZGHR9bdBCTCLBsT-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="o47skZGHR9bdBCTCLBsT-10" value="Perfil Cliente" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="30" width="120" height="60" as="geometry" />
         </mxCell>
@@ -109,8 +112,17 @@
         <mxCell id="o47skZGHR9bdBCTCLBsT-26" value="Fone Fixo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o47skZGHR9bdBCTCLBsT-28" value="SVA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="o47skZGHR9bdBCTCLBsT-28" value="SVA (Combo)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o47skZGHR9bdBCTCLBsT-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o47skZGHR9bdBCTCLBsT-30" target="o47skZGHR9bdBCTCLBsT-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o47skZGHR9bdBCTCLBsT-30" value="SVA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o47skZGHR9bdBCTCLBsT-31" value="Assist. Técnica, Aplicativos, Conteúdo Digital, etc." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
