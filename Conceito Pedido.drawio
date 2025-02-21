@@ -200,7 +200,7 @@
         <mxCell id="wsA3tKKN7Zeyh8QrwU64-9" value="TV: TOP HD, ESSENCIAL HD, MIX HD, CLARO TV MAIS, etc" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="wsA3tKKN7Zeyh8QrwU64-1" vertex="1">
           <mxGeometry x="480" y="260" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="wsA3tKKN7Zeyh8QrwU64-11" value="Produto Agregado (ALC)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="wsA3tKKN7Zeyh8QrwU64-1" vertex="1">
+        <mxCell id="wsA3tKKN7Zeyh8QrwU64-11" value="Produto Agregado (ALC, PACOTE, REVISTA)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="wsA3tKKN7Zeyh8QrwU64-1" vertex="1">
           <mxGeometry x="480" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wsA3tKKN7Zeyh8QrwU64-13" value="BL (Pto Fake): Virtua 500M, etc" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="wsA3tKKN7Zeyh8QrwU64-1" vertex="1">
