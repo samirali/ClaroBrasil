@@ -42,7 +42,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QKfNGtp0LmmisDTKBN1B-32" value="&lt;div style=&quot;line-height: 10%;&quot;&gt;&lt;h1 style=&quot;margin-top: 0px; line-height: 10%;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; line-height: 10%;&quot;&gt;&lt;i&gt;ESCOPO BSS&lt;/i&gt;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px; line-height: 10%;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal; line-height: 10%;&quot;&gt;Incluir novo campo &quot;peso&quot; na tabela alimentada pelo FEPP&lt;/span&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;Altera proc que retornada dados de SKU (utilizada pelo STW)&amp;nbsp; pra retornar esse novo campo &quot;peso&quot;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;spacing=4;" vertex="1" parent="1">
-          <mxGeometry x="220" y="20" width="600" height="70" as="geometry" />
+          <mxGeometry x="220" y="20" width="600" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
