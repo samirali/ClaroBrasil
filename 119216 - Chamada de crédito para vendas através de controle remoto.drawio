@@ -470,6 +470,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="uRzGvOgfpyfS3UQaa6lo-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Ydc1a5-6M-4gUy_T-J7p-1" source="uRzGvOgfpyfS3UQaa6lo-1" target="uRzGvOgfpyfS3UQaa6lo-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="180" />
+              <mxPoint x="850" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uRzGvOgfpyfS3UQaa6lo-32" value="Cria/Atualiza SOLIC&lt;div&gt;Add Patch&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uRzGvOgfpyfS3UQaa6lo-31">
+          <mxGeometry x="0.855" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="uRzGvOgfpyfS3UQaa6lo-1" value="MS ORCH SalesCustomerOrders" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ydc1a5-6M-4gUy_T-J7p-1">
           <mxGeometry x="354" y="100" width="120" height="60" as="geometry" />
         </mxCell>
@@ -528,6 +541,22 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="720" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uRzGvOgfpyfS3UQaa6lo-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Ydc1a5-6M-4gUy_T-J7p-1" source="uRzGvOgfpyfS3UQaa6lo-27" target="uRzGvOgfpyfS3UQaa6lo-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uRzGvOgfpyfS3UQaa6lo-27" value="MS ORCH&lt;div&gt;Customer Order&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ydc1a5-6M-4gUy_T-J7p-1">
+          <mxGeometry x="790" y="248" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uRzGvOgfpyfS3UQaa6lo-28" value="MS Customer Order" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ydc1a5-6M-4gUy_T-J7p-1">
+          <mxGeometry x="790" y="368" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uRzGvOgfpyfS3UQaa6lo-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="Ydc1a5-6M-4gUy_T-J7p-1" source="uRzGvOgfpyfS3UQaa6lo-28" target="uRzGvOgfpyfS3UQaa6lo-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="850" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
