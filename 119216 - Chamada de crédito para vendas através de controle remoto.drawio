@@ -394,6 +394,9 @@
         <mxCell id="Ydc1a5-6M-4gUy_T-J7p-35" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Ydc1a5-6M-4gUy_T-J7p-1">
           <mxGeometry x="520" y="705" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="uRzGvOgfpyfS3UQaa6lo-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Ydc1a5-6M-4gUy_T-J7p-1" source="uRzGvOgfpyfS3UQaa6lo-0" target="uRzGvOgfpyfS3UQaa6lo-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uRzGvOgfpyfS3UQaa6lo-0" value="API SalesCustomerOrders" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ydc1a5-6M-4gUy_T-J7p-1">
           <mxGeometry x="768" y="63" width="120" height="60" as="geometry" />
         </mxCell>
