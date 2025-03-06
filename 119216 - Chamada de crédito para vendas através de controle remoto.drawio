@@ -465,6 +465,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="uRzGvOgfpyfS3UQaa6lo-26" value="Campanha,&amp;nbsp;&lt;div&gt;Media,&amp;nbsp;&lt;/div&gt;&lt;div&gt;Tipo de Venda&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uRzGvOgfpyfS3UQaa6lo-24">
+          <mxGeometry x="0.802" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="uRzGvOgfpyfS3UQaa6lo-1" value="MS ORCH SalesCustomerOrders" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ydc1a5-6M-4gUy_T-J7p-1">
           <mxGeometry x="354" y="100" width="120" height="60" as="geometry" />
         </mxCell>
