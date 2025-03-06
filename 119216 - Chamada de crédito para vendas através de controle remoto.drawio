@@ -397,8 +397,40 @@
         <mxCell id="uRzGvOgfpyfS3UQaa6lo-0" value="API SalesCustomerOrders" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ydc1a5-6M-4gUy_T-J7p-1">
           <mxGeometry x="354" y="10" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="uRzGvOgfpyfS3UQaa6lo-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="Ydc1a5-6M-4gUy_T-J7p-1" source="uRzGvOgfpyfS3UQaa6lo-1" target="uRzGvOgfpyfS3UQaa6lo-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="180" />
+              <mxPoint x="70" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uRzGvOgfpyfS3UQaa6lo-7" value="Gera&amp;nbsp;&lt;div&gt;Protocolo&amp;nbsp;&lt;/div&gt;&lt;div&gt;Atendimento&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uRzGvOgfpyfS3UQaa6lo-4">
+          <mxGeometry x="0.8111" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uRzGvOgfpyfS3UQaa6lo-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Ydc1a5-6M-4gUy_T-J7p-1" source="uRzGvOgfpyfS3UQaa6lo-1" target="uRzGvOgfpyfS3UQaa6lo-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="180" />
+              <mxPoint x="200" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uRzGvOgfpyfS3UQaa6lo-6" value="Consulta/Recupera&amp;nbsp;&lt;div&gt;dados cadastrais&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uRzGvOgfpyfS3UQaa6lo-5">
+          <mxGeometry x="0.7298" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="uRzGvOgfpyfS3UQaa6lo-1" value="MS ORCH SalesCustomerOrders" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ydc1a5-6M-4gUy_T-J7p-1">
           <mxGeometry x="354" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uRzGvOgfpyfS3UQaa6lo-2" value="MS Interaction Protocol" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ydc1a5-6M-4gUy_T-J7p-1">
+          <mxGeometry x="10" y="248" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uRzGvOgfpyfS3UQaa6lo-3" value="MS Customer Contracts" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ydc1a5-6M-4gUy_T-J7p-1">
+          <mxGeometry x="140" y="248" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
