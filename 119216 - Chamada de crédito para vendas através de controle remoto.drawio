@@ -583,6 +583,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="uRzGvOgfpyfS3UQaa6lo-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Ydc1a5-6M-4gUy_T-J7p-1" source="uRzGvOgfpyfS3UQaa6lo-37" target="uRzGvOgfpyfS3UQaa6lo-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uRzGvOgfpyfS3UQaa6lo-37" value="STB" style="shape=mxgraph.cisco.misc.set_top_box;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="Ydc1a5-6M-4gUy_T-J7p-1">
+          <mxGeometry x="220" y="25.970000000000002" width="74" height="27.26" as="geometry" />
+        </mxCell>
+        <mxCell id="uRzGvOgfpyfS3UQaa6lo-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Ydc1a5-6M-4gUy_T-J7p-1" source="uRzGvOgfpyfS3UQaa6lo-40" target="uRzGvOgfpyfS3UQaa6lo-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uRzGvOgfpyfS3UQaa6lo-40" value="URA" style="shape=mxgraph.signs.tech.telephone_4;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="Ydc1a5-6M-4gUy_T-J7p-1">
+          <mxGeometry x="243.5" y="80" width="31" height="43.23" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
