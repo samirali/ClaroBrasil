@@ -220,7 +220,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ld1QNHaRM3DAR4vy-NDJ-16" value="1- Gera Protocolo e&amp;nbsp;&lt;div&gt;registra meio de envio&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ld1QNHaRM3DAR4vy-NDJ-15">
+        <mxCell id="ld1QNHaRM3DAR4vy-NDJ-16" value="1- Gera Protocolo e&amp;nbsp;&lt;div&gt;registra meio de envio&amp;nbsp;&lt;div&gt;/&amp;nbsp;&lt;/div&gt;&lt;div&gt;Consulta protocolo&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ld1QNHaRM3DAR4vy-NDJ-15">
           <mxGeometry x="0.5951" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -255,7 +255,7 @@
         <mxCell id="ld1QNHaRM3DAR4vy-NDJ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="ld1QNHaRM3DAR4vy-NDJ-1" source="ld1QNHaRM3DAR4vy-NDJ-5" target="ld1QNHaRM3DAR4vy-NDJ-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ld1QNHaRM3DAR4vy-NDJ-21" value="2- Reclassifica protocolo" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ld1QNHaRM3DAR4vy-NDJ-20">
+        <mxCell id="ld1QNHaRM3DAR4vy-NDJ-21" value="2- Atualiza dados do&amp;nbsp;&lt;div&gt;protocolo (reclassifica)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ld1QNHaRM3DAR4vy-NDJ-20">
           <mxGeometry x="-0.1607" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
