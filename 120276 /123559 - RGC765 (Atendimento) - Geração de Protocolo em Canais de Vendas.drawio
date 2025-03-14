@@ -220,11 +220,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ld1QNHaRM3DAR4vy-NDJ-16" value="1- Gera Protocolo e&amp;nbsp;&lt;div&gt;registra meio de envio&amp;nbsp;&lt;div&gt;/&amp;nbsp;&lt;/div&gt;&lt;div&gt;Consulta protocolo&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ld1QNHaRM3DAR4vy-NDJ-15">
-          <mxGeometry x="0.5951" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ld1QNHaRM3DAR4vy-NDJ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="ld1QNHaRM3DAR4vy-NDJ-1" source="ld1QNHaRM3DAR4vy-NDJ-2" target="ld1QNHaRM3DAR4vy-NDJ-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -257,6 +252,32 @@
         </mxCell>
         <mxCell id="ld1QNHaRM3DAR4vy-NDJ-21" value="2- Atualiza dados do&amp;nbsp;&lt;div&gt;protocolo (reclassifica)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ld1QNHaRM3DAR4vy-NDJ-20">
           <mxGeometry x="-0.1607" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n2qKxBsYsU0t_ienQZyj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="ld1QNHaRM3DAR4vy-NDJ-1" source="n2qKxBsYsU0t_ienQZyj-0" target="ld1QNHaRM3DAR4vy-NDJ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n2qKxBsYsU0t_ienQZyj-0" value="CONEXÃO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="ld1QNHaRM3DAR4vy-NDJ-1">
+          <mxGeometry x="30" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n2qKxBsYsU0t_ienQZyj-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ld1QNHaRM3DAR4vy-NDJ-1" source="n2qKxBsYsU0t_ienQZyj-1" target="n2qKxBsYsU0t_ienQZyj-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n2qKxBsYsU0t_ienQZyj-1" value="Vendedor" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="ld1QNHaRM3DAR4vy-NDJ-1">
+          <mxGeometry x="75" y="10" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n2qKxBsYsU0t_ienQZyj-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="ld1QNHaRM3DAR4vy-NDJ-1" source="n2qKxBsYsU0t_ienQZyj-0" target="ld1QNHaRM3DAR4vy-NDJ-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="270" />
+              <mxPoint x="220" y="270" />
+              <mxPoint x="220" y="395" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n2qKxBsYsU0t_ienQZyj-5" value="1- Gera Protocolo e&amp;nbsp;&lt;div&gt;registra meio de envio&amp;nbsp;&lt;div&gt;/&amp;nbsp;&lt;/div&gt;&lt;div&gt;Consulta protocolo&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="n2qKxBsYsU0t_ienQZyj-4">
+          <mxGeometry x="0.3239" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
