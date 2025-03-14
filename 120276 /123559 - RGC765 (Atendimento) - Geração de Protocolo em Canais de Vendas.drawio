@@ -1,9 +1,56 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="Página-1" id="fVRlKcvGjd9SxatcmZ4P">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VaO2ZXbafpeeS3hKYFX6-1" value="NETSALES" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="159" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VaO2ZXbafpeeS3hKYFX6-2" value="NETSMS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="289" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VaO2ZXbafpeeS3hKYFX6-3" value="RET/REV" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="419" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VaO2ZXbafpeeS3hKYFX6-4" value="NETCOLETIVOS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="549" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VaO2ZXbafpeeS3hKYFX6-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VaO2ZXbafpeeS3hKYFX6-5" target="VaO2ZXbafpeeS3hKYFX6-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="110" />
+              <mxPoint x="219" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaO2ZXbafpeeS3hKYFX6-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VaO2ZXbafpeeS3hKYFX6-5" target="VaO2ZXbafpeeS3hKYFX6-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="110" />
+              <mxPoint x="349" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaO2ZXbafpeeS3hKYFX6-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VaO2ZXbafpeeS3hKYFX6-5" target="VaO2ZXbafpeeS3hKYFX6-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="110" />
+              <mxPoint x="479" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaO2ZXbafpeeS3hKYFX6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VaO2ZXbafpeeS3hKYFX6-5" target="VaO2ZXbafpeeS3hKYFX6-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="110" />
+              <mxPoint x="609" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaO2ZXbafpeeS3hKYFX6-5" value="Vendedor" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="399" y="10" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
