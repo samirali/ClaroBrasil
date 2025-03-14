@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0" pages="2">
   <diagram name="Página-1" id="fVRlKcvGjd9SxatcmZ4P">
     <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -124,6 +124,138 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VaO2ZXbafpeeS3hKYFX6-21" value="2- Reclassifica protocolo" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VaO2ZXbafpeeS3hKYFX6-20">
+          <mxGeometry x="-0.1607" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="V2" id="s8AOVTzakLNmvxGiaWUA">
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="ld1QNHaRM3DAR4vy-NDJ-0" />
+        <mxCell id="ld1QNHaRM3DAR4vy-NDJ-1" parent="ld1QNHaRM3DAR4vy-NDJ-0" />
+        <mxCell id="ld1QNHaRM3DAR4vy-NDJ-2" value="NETSALES" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="ld1QNHaRM3DAR4vy-NDJ-1">
+          <mxGeometry x="159" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ld1QNHaRM3DAR4vy-NDJ-3" value="NETSMS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="ld1QNHaRM3DAR4vy-NDJ-1">
+          <mxGeometry x="289" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ld1QNHaRM3DAR4vy-NDJ-4" value="RET/REV" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="ld1QNHaRM3DAR4vy-NDJ-1">
+          <mxGeometry x="419" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ld1QNHaRM3DAR4vy-NDJ-5" value="NETCOLETIVOS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="ld1QNHaRM3DAR4vy-NDJ-1">
+          <mxGeometry x="549" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ld1QNHaRM3DAR4vy-NDJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ld1QNHaRM3DAR4vy-NDJ-1" source="ld1QNHaRM3DAR4vy-NDJ-10" target="ld1QNHaRM3DAR4vy-NDJ-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="110" />
+              <mxPoint x="219" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ld1QNHaRM3DAR4vy-NDJ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ld1QNHaRM3DAR4vy-NDJ-1" source="ld1QNHaRM3DAR4vy-NDJ-10" target="ld1QNHaRM3DAR4vy-NDJ-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="110" />
+              <mxPoint x="349" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ld1QNHaRM3DAR4vy-NDJ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ld1QNHaRM3DAR4vy-NDJ-1" source="ld1QNHaRM3DAR4vy-NDJ-10" target="ld1QNHaRM3DAR4vy-NDJ-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="110" />
+              <mxPoint x="479" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ld1QNHaRM3DAR4vy-NDJ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ld1QNHaRM3DAR4vy-NDJ-1" source="ld1QNHaRM3DAR4vy-NDJ-10" target="ld1QNHaRM3DAR4vy-NDJ-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="110" />
+              <mxPoint x="609" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ld1QNHaRM3DAR4vy-NDJ-10" value="Vendedor" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="ld1QNHaRM3DAR4vy-NDJ-1">
+          <mxGeometry x="399" y="10" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ld1QNHaRM3DAR4vy-NDJ-11" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="ld1QNHaRM3DAR4vy-NDJ-1">
+          <mxGeometry x="289" y="340" width="250" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ld1QNHaRM3DAR4vy-NDJ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="ld1QNHaRM3DAR4vy-NDJ-1" source="ld1QNHaRM3DAR4vy-NDJ-2" target="ld1QNHaRM3DAR4vy-NDJ-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="219" y="395" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ld1QNHaRM3DAR4vy-NDJ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="ld1QNHaRM3DAR4vy-NDJ-1" source="ld1QNHaRM3DAR4vy-NDJ-3" target="ld1QNHaRM3DAR4vy-NDJ-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="349" y="270" />
+              <mxPoint x="220" y="270" />
+              <mxPoint x="220" y="395" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ld1QNHaRM3DAR4vy-NDJ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="ld1QNHaRM3DAR4vy-NDJ-1" source="ld1QNHaRM3DAR4vy-NDJ-4" target="ld1QNHaRM3DAR4vy-NDJ-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="479" y="270" />
+              <mxPoint x="220" y="270" />
+              <mxPoint x="220" y="395" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ld1QNHaRM3DAR4vy-NDJ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="ld1QNHaRM3DAR4vy-NDJ-1" source="ld1QNHaRM3DAR4vy-NDJ-5" target="ld1QNHaRM3DAR4vy-NDJ-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="609" y="270" />
+              <mxPoint x="220" y="270" />
+              <mxPoint x="220" y="395" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ld1QNHaRM3DAR4vy-NDJ-16" value="1- Gera Protocolo e&amp;nbsp;&lt;div&gt;registra meio de envio&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ld1QNHaRM3DAR4vy-NDJ-15">
+          <mxGeometry x="0.5951" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ld1QNHaRM3DAR4vy-NDJ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="ld1QNHaRM3DAR4vy-NDJ-1" source="ld1QNHaRM3DAR4vy-NDJ-2" target="ld1QNHaRM3DAR4vy-NDJ-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="249" y="290" />
+              <mxPoint x="640" y="290" />
+              <mxPoint x="640" y="395" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ld1QNHaRM3DAR4vy-NDJ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="ld1QNHaRM3DAR4vy-NDJ-1" source="ld1QNHaRM3DAR4vy-NDJ-3" target="ld1QNHaRM3DAR4vy-NDJ-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="379" y="290" />
+              <mxPoint x="640" y="290" />
+              <mxPoint x="640" y="395" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ld1QNHaRM3DAR4vy-NDJ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="ld1QNHaRM3DAR4vy-NDJ-1" source="ld1QNHaRM3DAR4vy-NDJ-4" target="ld1QNHaRM3DAR4vy-NDJ-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="509" y="290" />
+              <mxPoint x="640" y="290" />
+              <mxPoint x="640" y="395" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ld1QNHaRM3DAR4vy-NDJ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="ld1QNHaRM3DAR4vy-NDJ-1" source="ld1QNHaRM3DAR4vy-NDJ-5" target="ld1QNHaRM3DAR4vy-NDJ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ld1QNHaRM3DAR4vy-NDJ-21" value="2- Reclassifica protocolo" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ld1QNHaRM3DAR4vy-NDJ-20">
           <mxGeometry x="-0.1607" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
