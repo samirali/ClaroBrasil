@@ -340,8 +340,8 @@
         <mxCell id="MXUAxPpSIPb-zTRsZRQP-10" value="Vendedor" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="MXUAxPpSIPb-zTRsZRQP-1">
           <mxGeometry x="399" y="10" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MXUAxPpSIPb-zTRsZRQP-11" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="MXUAxPpSIPb-zTRsZRQP-1">
-          <mxGeometry x="289" y="340" width="250" height="110" as="geometry" />
+        <mxCell id="MXUAxPpSIPb-zTRsZRQP-11" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;verticalAlign=top;" vertex="1" parent="MXUAxPpSIPb-zTRsZRQP-1">
+          <mxGeometry x="289" y="340" width="250" height="180" as="geometry" />
         </mxCell>
         <mxCell id="MXUAxPpSIPb-zTRsZRQP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=35;entryPerimeter=0;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="MXUAxPpSIPb-zTRsZRQP-1" source="MXUAxPpSIPb-zTRsZRQP-2" target="MXUAxPpSIPb-zTRsZRQP-11">
           <mxGeometry relative="1" as="geometry">
@@ -382,7 +382,7 @@
             <Array as="points">
               <mxPoint x="249" y="290" />
               <mxPoint x="640" y="290" />
-              <mxPoint x="640" y="395" />
+              <mxPoint x="640" y="430" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -391,7 +391,7 @@
             <Array as="points">
               <mxPoint x="379" y="290" />
               <mxPoint x="640" y="290" />
-              <mxPoint x="640" y="395" />
+              <mxPoint x="640" y="430" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -400,7 +400,7 @@
             <Array as="points">
               <mxPoint x="509" y="290" />
               <mxPoint x="640" y="290" />
-              <mxPoint x="640" y="395" />
+              <mxPoint x="640" y="430" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -437,9 +437,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aPKGt6GfiffSEvv3iGPo-0" value="MS Gera protocolo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="MXUAxPpSIPb-zTRsZRQP-1">
-          <mxGeometry x="30" y="385" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="414" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aPKGt6GfiffSEvv3iGPo-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=75;entryPerimeter=0;" edge="1" parent="MXUAxPpSIPb-zTRsZRQP-1" source="aPKGt6GfiffSEvv3iGPo-0" target="MXUAxPpSIPb-zTRsZRQP-11">
+        <mxCell id="aPKGt6GfiffSEvv3iGPo-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.576;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="MXUAxPpSIPb-zTRsZRQP-1" source="aPKGt6GfiffSEvv3iGPo-0" target="MXUAxPpSIPb-zTRsZRQP-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8TPp5LPhl8BUj2sm0hXd-0" value="1- Registra meio de envio,&amp;nbsp;&lt;div&gt;Gera Protocolo e&amp;nbsp;&lt;/div&gt;&lt;div&gt;Envia ao Cliente&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MXUAxPpSIPb-zTRsZRQP-1">
@@ -448,13 +448,32 @@
         <mxCell id="8TPp5LPhl8BUj2sm0hXd-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#00CC00;" edge="1" parent="MXUAxPpSIPb-zTRsZRQP-1" source="MXUAxPpSIPb-zTRsZRQP-2" target="MXUAxPpSIPb-zTRsZRQP-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="180" y="395" />
+              <mxPoint x="180" y="430" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="8TPp5LPhl8BUj2sm0hXd-2" value="1.1 Consulta e&amp;nbsp;&lt;div&gt;carrega protocolo&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8TPp5LPhl8BUj2sm0hXd-1">
           <mxGeometry x="-0.5803" y="2" relative="1" as="geometry">
-            <mxPoint x="-32" y="6" as="offset" />
+            <mxPoint x="-32" y="99" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8TPp5LPhl8BUj2sm0hXd-3" value="Protocolo&amp;nbsp;&lt;div&gt;Início Jornada&lt;/div&gt;" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.process" vertex="1" parent="MXUAxPpSIPb-zTRsZRQP-1">
+          <mxGeometry x="322" y="397.85999999999996" width="54" height="64.29" as="geometry" />
+        </mxCell>
+        <mxCell id="8TPp5LPhl8BUj2sm0hXd-5" value="RTDM - Envia Protocolo&amp;nbsp;&lt;div&gt;Início Jornada&lt;/div&gt;" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.process" vertex="1" parent="MXUAxPpSIPb-zTRsZRQP-1">
+          <mxGeometry x="690" y="397.85999999999996" width="54" height="64.29" as="geometry" />
+        </mxCell>
+        <mxCell id="8TPp5LPhl8BUj2sm0hXd-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.074;entryY=0.736;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="MXUAxPpSIPb-zTRsZRQP-1" source="8TPp5LPhl8BUj2sm0hXd-3" target="8TPp5LPhl8BUj2sm0hXd-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="445" />
+              <mxPoint x="450" y="445" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8TPp5LPhl8BUj2sm0hXd-9" value="Envio imediato" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8TPp5LPhl8BUj2sm0hXd-8">
+          <mxGeometry x="0.283" y="-1" relative="1" as="geometry">
+            <mxPoint x="-140" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
