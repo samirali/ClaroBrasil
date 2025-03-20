@@ -308,6 +308,7 @@
         <mxCell id="MXUAxPpSIPb-zTRsZRQP-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="MXUAxPpSIPb-zTRsZRQP-1" source="MXUAxPpSIPb-zTRsZRQP-10" target="MXUAxPpSIPb-zTRsZRQP-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="414" y="60" />
               <mxPoint x="414" y="110" />
               <mxPoint x="219" y="110" />
             </Array>
@@ -316,6 +317,7 @@
         <mxCell id="MXUAxPpSIPb-zTRsZRQP-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="MXUAxPpSIPb-zTRsZRQP-1" source="MXUAxPpSIPb-zTRsZRQP-10" target="MXUAxPpSIPb-zTRsZRQP-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="414" y="60" />
               <mxPoint x="414" y="110" />
               <mxPoint x="349" y="110" />
             </Array>
@@ -324,21 +326,23 @@
         <mxCell id="MXUAxPpSIPb-zTRsZRQP-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="MXUAxPpSIPb-zTRsZRQP-1" source="MXUAxPpSIPb-zTRsZRQP-10" target="MXUAxPpSIPb-zTRsZRQP-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="414" y="60" />
               <mxPoint x="414" y="110" />
               <mxPoint x="479" y="110" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MXUAxPpSIPb-zTRsZRQP-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="MXUAxPpSIPb-zTRsZRQP-1" source="MXUAxPpSIPb-zTRsZRQP-10" target="MXUAxPpSIPb-zTRsZRQP-5">
+        <mxCell id="MXUAxPpSIPb-zTRsZRQP-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="MXUAxPpSIPb-zTRsZRQP-1" target="MXUAxPpSIPb-zTRsZRQP-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="414" y="110" />
               <mxPoint x="609" y="110" />
             </Array>
+            <mxPoint x="460" y="60" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MXUAxPpSIPb-zTRsZRQP-10" value="Vendedor" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="MXUAxPpSIPb-zTRsZRQP-1">
-          <mxGeometry x="399" y="10" width="30" height="60" as="geometry" />
+          <mxGeometry x="464" y="10" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MXUAxPpSIPb-zTRsZRQP-11" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;verticalAlign=top;" vertex="1" parent="MXUAxPpSIPb-zTRsZRQP-1">
           <mxGeometry x="289" y="340" width="250" height="180" as="geometry" />
@@ -475,6 +479,9 @@
           <mxGeometry x="0.283" y="-1" relative="1" as="geometry">
             <mxPoint x="-140" y="-2" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="8TPp5LPhl8BUj2sm0hXd-10" value="" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.proxy;" vertex="1" parent="MXUAxPpSIPb-zTRsZRQP-1">
+          <mxGeometry x="390" y="250" width="46" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
