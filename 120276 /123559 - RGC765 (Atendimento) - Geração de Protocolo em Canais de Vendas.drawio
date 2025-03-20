@@ -464,6 +464,14 @@
         <mxCell id="8TPp5LPhl8BUj2sm0hXd-3" value="Protocolo&amp;nbsp;&lt;div&gt;Início Jornada&lt;/div&gt;" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.process" vertex="1" parent="MXUAxPpSIPb-zTRsZRQP-1">
           <mxGeometry x="322" y="397.85999999999996" width="54" height="64.29" as="geometry" />
         </mxCell>
+        <mxCell id="8TPp5LPhl8BUj2sm0hXd-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="MXUAxPpSIPb-zTRsZRQP-1" source="8TPp5LPhl8BUj2sm0hXd-5" target="8TPp5LPhl8BUj2sm0hXd-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8TPp5LPhl8BUj2sm0hXd-15" value="Nr Protocolo" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8TPp5LPhl8BUj2sm0hXd-13">
+          <mxGeometry x="-0.0785" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="8TPp5LPhl8BUj2sm0hXd-5" value="RTDM - Envia Protocolo&amp;nbsp;&lt;div&gt;Início Jornada&lt;/div&gt;" style="sketch=0;html=1;aspect=fixed;strokeColor=none;shadow=0;fillColor=#3B8DF1;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;shape=mxgraph.gcp2.process" vertex="1" parent="MXUAxPpSIPb-zTRsZRQP-1">
           <mxGeometry x="690" y="397.85999999999996" width="54" height="64.29" as="geometry" />
         </mxCell>
@@ -482,6 +490,12 @@
         </mxCell>
         <mxCell id="8TPp5LPhl8BUj2sm0hXd-10" value="" style="shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.3d.proxy;" vertex="1" parent="MXUAxPpSIPb-zTRsZRQP-1">
           <mxGeometry x="390" y="250" width="46" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="8TPp5LPhl8BUj2sm0hXd-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="MXUAxPpSIPb-zTRsZRQP-1" source="8TPp5LPhl8BUj2sm0hXd-11" target="MXUAxPpSIPb-zTRsZRQP-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8TPp5LPhl8BUj2sm0hXd-11" value="Cliente" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="MXUAxPpSIPb-zTRsZRQP-1">
+          <mxGeometry x="702" y="10" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
