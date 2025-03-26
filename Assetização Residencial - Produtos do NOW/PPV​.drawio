@@ -136,7 +136,7 @@
         <mxCell id="gdiQOKONN5mSIWB9rQeF-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;endArrow=none;endFill=0;dashed=1;" edge="1" parent="gdiQOKONN5mSIWB9rQeF-1" source="gdiQOKONN5mSIWB9rQeF-20" target="gdiQOKONN5mSIWB9rQeF-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gdiQOKONN5mSIWB9rQeF-20" value="Novas informações de produtos NOW e ALC/PPV pra serem assetizadas" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="gdiQOKONN5mSIWB9rQeF-1">
+        <mxCell id="gdiQOKONN5mSIWB9rQeF-20" value="Novas informações de produtos NOW e ALC/PPV pra serem assetizados" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="gdiQOKONN5mSIWB9rQeF-1">
           <mxGeometry x="400" y="180" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="gdiQOKONN5mSIWB9rQeF-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;endArrow=none;endFill=0;dashed=1;exitX=0.145;exitY=0;exitDx=0;exitDy=4.35;exitPerimeter=0;" edge="1" parent="gdiQOKONN5mSIWB9rQeF-1" source="gdiQOKONN5mSIWB9rQeF-2" target="gdiQOKONN5mSIWB9rQeF-20">
@@ -147,6 +147,9 @@
               <mxPoint x="568" y="215" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Rl5dyvk-AOqCYLgRR0k8-0" value="&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;*Escopo Claro/Integração&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="gdiQOKONN5mSIWB9rQeF-1">
+          <mxGeometry x="290" y="370" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
