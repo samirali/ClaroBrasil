@@ -761,8 +761,8 @@
         <mxCell id="2CcB7Uv88VOfcbJkRUrm-44" value="URA" style="shape=mxgraph.signs.tech.telephone_4;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="2CcB7Uv88VOfcbJkRUrm-1">
           <mxGeometry x="541.5" y="133" width="31" height="43.23" as="geometry" />
         </mxCell>
-        <mxCell id="2CcB7Uv88VOfcbJkRUrm-45" value="PROCESSO ADESÃO ALC (STB) - VENDA BASE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#FF0000;fontStyle=1;fontSize=20;" vertex="1" parent="2CcB7Uv88VOfcbJkRUrm-1">
-          <mxGeometry x="370" y="20" width="910" height="30" as="geometry" />
+        <mxCell id="2CcB7Uv88VOfcbJkRUrm-45" value="PROCESSO ADESÃO ALC (STB/URA/NOVOS) - VENDA BASE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#FF0000;fontStyle=1;fontSize=20;" vertex="1" parent="2CcB7Uv88VOfcbJkRUrm-1">
+          <mxGeometry x="310" y="20" width="1180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2CcB7Uv88VOfcbJkRUrm-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="2CcB7Uv88VOfcbJkRUrm-1">
           <mxGeometry x="1032" y="69.50000000000003" width="16" height="17" as="geometry" />
@@ -834,6 +834,18 @@
               <mxPoint x="1213" y="493" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-x4cUGc2usqV4RhaRrjD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="2CcB7Uv88VOfcbJkRUrm-1" source="-x4cUGc2usqV4RhaRrjD-13" target="2CcB7Uv88VOfcbJkRUrm-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="423" y="210" />
+              <mxPoint x="730" y="210" />
+              <mxPoint x="730" y="93" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-x4cUGc2usqV4RhaRrjD-13" value="OM" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/winter-lollipop/128/Cart.png" vertex="1" parent="2CcB7Uv88VOfcbJkRUrm-1">
+          <mxGeometry x="400" y="69.5" width="47" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
