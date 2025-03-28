@@ -852,7 +852,7 @@
         <mxCell id="-x4cUGc2usqV4RhaRrjD-13" value="OM" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/winter-lollipop/128/Cart.png" parent="2CcB7Uv88VOfcbJkRUrm-1" vertex="1">
           <mxGeometry x="400" y="69.5" width="47" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="Funeq-Zudo0Ik6SI3rOr-0" value="- é UMA API&lt;div&gt;- É SOA!&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;strokeColor=#b85450;fillColor=#f8cecc;sketch=1;curveFitting=1;jiggle=2;gradientColor=#ea6b66;" vertex="1" parent="2CcB7Uv88VOfcbJkRUrm-1">
+        <mxCell id="Funeq-Zudo0Ik6SI3rOr-0" value="- É UMA API&lt;div&gt;- Bate no SOA!&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;strokeColor=#b85450;fillColor=#f8cecc;sketch=1;curveFitting=1;jiggle=2;gradientColor=#ea6b66;" vertex="1" parent="2CcB7Uv88VOfcbJkRUrm-1">
           <mxGeometry x="569" y="541" width="112" height="150" as="geometry" />
         </mxCell>
       </root>
