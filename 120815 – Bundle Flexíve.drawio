@@ -238,6 +238,9 @@
         <mxCell id="fxaZkKc_FLbqbJG7Qa_j-13" value="Ouvidoria, Claro Store, outros" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="fxaZkKc_FLbqbJG7Qa_j-1">
           <mxGeometry x="20" y="20" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="AZNtR-9y9gJ_iq3rFAVb-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="fxaZkKc_FLbqbJG7Qa_j-1" source="fxaZkKc_FLbqbJG7Qa_j-16" target="fxaZkKc_FLbqbJG7Qa_j-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fxaZkKc_FLbqbJG7Qa_j-16" value="JOBS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="fxaZkKc_FLbqbJG7Qa_j-1">
           <mxGeometry x="40" y="475" width="80" height="60" as="geometry" />
         </mxCell>
