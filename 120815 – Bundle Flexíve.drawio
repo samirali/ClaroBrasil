@@ -227,10 +227,10 @@
           <mxGeometry x="530" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fxaZkKc_FLbqbJG7Qa_j-10" value="&lt;b&gt;NETSMS (7 bases)&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;align=center;verticalAlign=top;" vertex="1" parent="fxaZkKc_FLbqbJG7Qa_j-1">
-          <mxGeometry x="20" y="420" width="440" height="110" as="geometry" />
+          <mxGeometry x="300" y="450" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="fxaZkKc_FLbqbJG7Qa_j-11" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Premissas&lt;/h1&gt;&lt;p&gt;- Alteração somente em jornada Venda base Solar (Reuso de API Venda Base);&lt;/p&gt;&lt;p&gt;- OM terá regra de quais SVAs/OTTs podem ser substituídos;&lt;/p&gt;&lt;p&gt;- API deve persistir essa substituição numa matriz (nova tabela) do FEPP replicada na base NETSMS;&lt;/p&gt;&lt;p&gt;- Registrar alteração/substituição nas ocorrências do contrato;&lt;/p&gt;&lt;p&gt;- Avaliar necessidade de nova solic STW;&lt;/p&gt;&lt;p&gt;- Avaliar impactos em JOBs, consultas, proc, etc, que utilizam estrutura de produto SVA/OTT;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#d6b656;fillColor=#fff2cc;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="fxaZkKc_FLbqbJG7Qa_j-1">
-          <mxGeometry x="505" y="560" width="310" height="290" as="geometry" />
+          <mxGeometry x="470" y="700" width="310" height="290" as="geometry" />
         </mxCell>
         <mxCell id="fxaZkKc_FLbqbJG7Qa_j-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="fxaZkKc_FLbqbJG7Qa_j-1" source="fxaZkKc_FLbqbJG7Qa_j-13" target="fxaZkKc_FLbqbJG7Qa_j-4">
           <mxGeometry relative="1" as="geometry" />
@@ -239,7 +239,7 @@
           <mxGeometry x="20" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fxaZkKc_FLbqbJG7Qa_j-16" value="JOBS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="fxaZkKc_FLbqbJG7Qa_j-1">
-          <mxGeometry x="730" y="430" width="80" height="60" as="geometry" />
+          <mxGeometry x="40" y="475" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AZNtR-9y9gJ_iq3rFAVb-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="fxaZkKc_FLbqbJG7Qa_j-1" source="AZNtR-9y9gJ_iq3rFAVb-1" target="fxaZkKc_FLbqbJG7Qa_j-5">
           <mxGeometry relative="1" as="geometry" />
@@ -305,14 +305,70 @@
         <mxCell id="AZNtR-9y9gJ_iq3rFAVb-21" value="MS MarketingSegments" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="fxaZkKc_FLbqbJG7Qa_j-1">
           <mxGeometry x="280" y="220" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="AZNtR-9y9gJ_iq3rFAVb-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="fxaZkKc_FLbqbJG7Qa_j-1" source="AZNtR-9y9gJ_iq3rFAVb-22" target="fxaZkKc_FLbqbJG7Qa_j-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="290" />
+              <mxPoint x="400" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="AZNtR-9y9gJ_iq3rFAVb-22" value="MS NetworkAccessPoint" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="fxaZkKc_FLbqbJG7Qa_j-1">
           <mxGeometry x="410" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AZNtR-9y9gJ_iq3rFAVb-23" value="MS MarketStatistics" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="fxaZkKc_FLbqbJG7Qa_j-1">
           <mxGeometry x="670" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AZNtR-9y9gJ_iq3rFAVb-31" value="MS Customer Order" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="fxaZkKc_FLbqbJG7Qa_j-1">
+        <mxCell id="AZNtR-9y9gJ_iq3rFAVb-31" value="&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;MS Cancelamento&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#FF3333;labelBorderColor=none;" vertex="1" parent="fxaZkKc_FLbqbJG7Qa_j-1">
           <mxGeometry x="540" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AZNtR-9y9gJ_iq3rFAVb-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="fxaZkKc_FLbqbJG7Qa_j-1" source="AZNtR-9y9gJ_iq3rFAVb-19" target="fxaZkKc_FLbqbJG7Qa_j-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="420" />
+              <mxPoint x="400" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AZNtR-9y9gJ_iq3rFAVb-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="fxaZkKc_FLbqbJG7Qa_j-1" source="AZNtR-9y9gJ_iq3rFAVb-17" target="fxaZkKc_FLbqbJG7Qa_j-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="420" />
+              <mxPoint x="400" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AZNtR-9y9gJ_iq3rFAVb-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="fxaZkKc_FLbqbJG7Qa_j-1" source="AZNtR-9y9gJ_iq3rFAVb-21" target="fxaZkKc_FLbqbJG7Qa_j-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="420" />
+              <mxPoint x="400" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AZNtR-9y9gJ_iq3rFAVb-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="fxaZkKc_FLbqbJG7Qa_j-1" source="AZNtR-9y9gJ_iq3rFAVb-11" target="fxaZkKc_FLbqbJG7Qa_j-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="420" />
+              <mxPoint x="400" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AZNtR-9y9gJ_iq3rFAVb-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="fxaZkKc_FLbqbJG7Qa_j-1" source="AZNtR-9y9gJ_iq3rFAVb-31" target="fxaZkKc_FLbqbJG7Qa_j-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="420" />
+              <mxPoint x="400" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AZNtR-9y9gJ_iq3rFAVb-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="fxaZkKc_FLbqbJG7Qa_j-1" source="AZNtR-9y9gJ_iq3rFAVb-12" target="fxaZkKc_FLbqbJG7Qa_j-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="420" />
+              <mxPoint x="400" y="420" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
