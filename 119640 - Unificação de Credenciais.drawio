@@ -221,7 +221,7 @@
           <mxGeometry x="660" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qqhevcDU5UKZTvzZg3yH-2" value="Atendimento SOLAR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="R7ll5AYwkGH01RxQnuRz-1">
-          <mxGeometry x="60" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="70" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
