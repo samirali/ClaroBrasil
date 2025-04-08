@@ -117,15 +117,23 @@
     </mxGraphModel>
   </diagram>
   <diagram name="V2" id="oi1Ss5_3kdu5qh8klLY4">
-    <mxGraphModel dx="948" dy="1732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="948" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="R7ll5AYwkGH01RxQnuRz-0" />
         <mxCell id="R7ll5AYwkGH01RxQnuRz-1" parent="R7ll5AYwkGH01RxQnuRz-0" />
         <mxCell id="R7ll5AYwkGH01RxQnuRz-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="R7ll5AYwkGH01RxQnuRz-1" source="R7ll5AYwkGH01RxQnuRz-5" target="R7ll5AYwkGH01RxQnuRz-8">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="484" y="34" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="R7ll5AYwkGH01RxQnuRz-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="R7ll5AYwkGH01RxQnuRz-1" source="R7ll5AYwkGH01RxQnuRz-5" target="R7ll5AYwkGH01RxQnuRz-21">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="353" y="34" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="R7ll5AYwkGH01RxQnuRz-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="R7ll5AYwkGH01RxQnuRz-1" source="R7ll5AYwkGH01RxQnuRz-5" target="R7ll5AYwkGH01RxQnuRz-27">
           <mxGeometry relative="1" as="geometry" />
@@ -134,13 +142,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R7ll5AYwkGH01RxQnuRz-5" value="Atendente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="R7ll5AYwkGH01RxQnuRz-1">
-          <mxGeometry x="399" y="-30" width="30" height="60" as="geometry" />
+          <mxGeometry x="399" y="4" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R7ll5AYwkGH01RxQnuRz-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="R7ll5AYwkGH01RxQnuRz-1" target="R7ll5AYwkGH01RxQnuRz-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="540" y="130" as="sourcePoint" />
+            <mxPoint x="484" y="164" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="540" y="100" />
+              <mxPoint x="484" y="134" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -150,19 +158,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="R7ll5AYwkGH01RxQnuRz-8" value="NETSALES" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="R7ll5AYwkGH01RxQnuRz-1">
-          <mxGeometry x="480" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="424" y="104" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R7ll5AYwkGH01RxQnuRz-9" value="Nova Tela Cadastro PJ x&amp;nbsp;&amp;nbsp;CPF" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="R7ll5AYwkGH01RxQnuRz-1">
-          <mxGeometry x="480" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="424" y="224" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R7ll5AYwkGH01RxQnuRz-10" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;verticalAlign=top;" vertex="1" parent="R7ll5AYwkGH01RxQnuRz-1">
-          <mxGeometry x="239" y="280" width="350" height="200" as="geometry" />
+          <mxGeometry x="239" y="314" width="350" height="200" as="geometry" />
         </mxCell>
         <mxCell id="qqhevcDU5UKZTvzZg3yH-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="R7ll5AYwkGH01RxQnuRz-1" source="R7ll5AYwkGH01RxQnuRz-11" target="R7ll5AYwkGH01RxQnuRz-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R7ll5AYwkGH01RxQnuRz-11" value="PF X PJ" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="R7ll5AYwkGH01RxQnuRz-1">
-          <mxGeometry x="344" y="340" width="140" height="120" as="geometry" />
+          <mxGeometry x="344" y="374" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="R7ll5AYwkGH01RxQnuRz-12" value="CPF" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="R7ll5AYwkGH01RxQnuRz-11">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -176,13 +184,13 @@
         <mxCell id="R7ll5AYwkGH01RxQnuRz-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.033;entryY=0.17;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="R7ll5AYwkGH01RxQnuRz-1" source="R7ll5AYwkGH01RxQnuRz-9" target="R7ll5AYwkGH01RxQnuRz-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="620" y="220" />
-              <mxPoint x="620" y="360" />
+              <mxPoint x="620" y="254" />
+              <mxPoint x="620" y="394" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="R7ll5AYwkGH01RxQnuRz-16" value="API PROPOSALS/&lt;div&gt;CONFIRMATIONS&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="R7ll5AYwkGH01RxQnuRz-1">
-          <mxGeometry x="292" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="292" y="224" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R7ll5AYwkGH01RxQnuRz-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="R7ll5AYwkGH01RxQnuRz-1" source="R7ll5AYwkGH01RxQnuRz-21" target="R7ll5AYwkGH01RxQnuRz-16">
           <mxGeometry relative="1" as="geometry" />
@@ -193,18 +201,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="R7ll5AYwkGH01RxQnuRz-21" value="Venda SOLAR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="R7ll5AYwkGH01RxQnuRz-1">
-          <mxGeometry x="293" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="293" y="104" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qqhevcDU5UKZTvzZg3yH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="R7ll5AYwkGH01RxQnuRz-1" source="R7ll5AYwkGH01RxQnuRz-22" target="qqhevcDU5UKZTvzZg3yH-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R7ll5AYwkGH01RxQnuRz-22" value="Assetização PF/PJ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="R7ll5AYwkGH01RxQnuRz-1">
-          <mxGeometry x="162" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="162" y="224" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R7ll5AYwkGH01RxQnuRz-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.003;entryY=0.143;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="R7ll5AYwkGH01RxQnuRz-1" source="R7ll5AYwkGH01RxQnuRz-16" target="R7ll5AYwkGH01RxQnuRz-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="299" y="357" />
+              <mxPoint x="299" y="391" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -217,20 +225,23 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="R7ll5AYwkGH01RxQnuRz-27" value="CONEXÃO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="R7ll5AYwkGH01RxQnuRz-1">
-          <mxGeometry x="660" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="604" y="104" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qqhevcDU5UKZTvzZg3yH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="R7ll5AYwkGH01RxQnuRz-1" source="qqhevcDU5UKZTvzZg3yH-2" target="qqhevcDU5UKZTvzZg3yH-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="90" y="100" />
+              <mxPoint x="90" y="134" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="qqhevcDU5UKZTvzZg3yH-2" value="Atendimento SOLAR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="R7ll5AYwkGH01RxQnuRz-1">
-          <mxGeometry x="162" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="162" y="104" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qqhevcDU5UKZTvzZg3yH-6" value="Atualização cadastral contrato PJ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="R7ll5AYwkGH01RxQnuRz-1">
-          <mxGeometry x="30" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="qqhevcDU5UKZTvzZg3yH-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="R7ll5AYwkGH01RxQnuRz-1" source="qqhevcDU5UKZTvzZg3yH-6" target="R7ll5AYwkGH01RxQnuRz-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qqhevcDU5UKZTvzZg3yH-6" value="[NOVO] Atualização cadastral contrato PJ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="R7ll5AYwkGH01RxQnuRz-1">
+          <mxGeometry x="30" y="224" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
