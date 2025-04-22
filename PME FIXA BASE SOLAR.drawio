@@ -29,8 +29,14 @@
         <mxCell id="b82cSLQuqwKor7Ha75Yp-2" value="Mais de uma BL no mesmo HP (OK NETSales), restrição na API Proposal hoje" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="510" y="120" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="b82cSLQuqwKor7Ha75Yp-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b82cSLQuqwKor7Ha75Yp-3" target="b82cSLQuqwKor7Ha75Yp-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="b82cSLQuqwKor7Ha75Yp-3" value="API Venda Base PF/PME FIXA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="354" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b82cSLQuqwKor7Ha75Yp-8" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="314" y="340" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
