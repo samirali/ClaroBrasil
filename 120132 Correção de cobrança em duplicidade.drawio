@@ -706,7 +706,7 @@
         <mxCell id="RtN2XASdA4rDA2FbxJxT-46" value="STB Controle&amp;nbsp;&lt;div&gt;Remoto&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="RtN2XASdA4rDA2FbxJxT-1">
           <mxGeometry x="-610" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RtN2XASdA4rDA2FbxJxT-47" value="API STW" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="RtN2XASdA4rDA2FbxJxT-1">
+        <mxCell id="RtN2XASdA4rDA2FbxJxT-47" value="API STW (confirmar nome)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="RtN2XASdA4rDA2FbxJxT-1">
           <mxGeometry x="-610" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RtN2XASdA4rDA2FbxJxT-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="RtN2XASdA4rDA2FbxJxT-1" source="RtN2XASdA4rDA2FbxJxT-52">
