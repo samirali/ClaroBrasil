@@ -621,7 +621,7 @@
         <mxCell id="RtN2XASdA4rDA2FbxJxT-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="RtN2XASdA4rDA2FbxJxT-1" source="RtN2XASdA4rDA2FbxJxT-31" target="RtN2XASdA4rDA2FbxJxT-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RtN2XASdA4rDA2FbxJxT-31" value="Solar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="RtN2XASdA4rDA2FbxJxT-1">
+        <mxCell id="RtN2XASdA4rDA2FbxJxT-31" value="NBA e Solar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="RtN2XASdA4rDA2FbxJxT-1">
           <mxGeometry x="-209" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RtN2XASdA4rDA2FbxJxT-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="RtN2XASdA4rDA2FbxJxT-1" source="RtN2XASdA4rDA2FbxJxT-33" target="RtN2XASdA4rDA2FbxJxT-38">
