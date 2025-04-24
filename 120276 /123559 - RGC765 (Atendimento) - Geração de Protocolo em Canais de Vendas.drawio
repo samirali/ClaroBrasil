@@ -527,8 +527,24 @@
         <mxCell id="emiPf2pKdy_gXRmR_ZQl-3" value="NETSMS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="emiPf2pKdy_gXRmR_ZQl-1">
           <mxGeometry x="289" y="140" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="HIG6H75FwXsuvzBSwMsr-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#00CC00;" edge="1" parent="emiPf2pKdy_gXRmR_ZQl-1" source="emiPf2pKdy_gXRmR_ZQl-4" target="emiPf2pKdy_gXRmR_ZQl-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="479" y="220" />
+              <mxPoint x="90" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="emiPf2pKdy_gXRmR_ZQl-4" value="RET/REV" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="emiPf2pKdy_gXRmR_ZQl-1">
           <mxGeometry x="419" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HIG6H75FwXsuvzBSwMsr-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#00CC00;" edge="1" parent="emiPf2pKdy_gXRmR_ZQl-1" source="emiPf2pKdy_gXRmR_ZQl-5" target="emiPf2pKdy_gXRmR_ZQl-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="609" y="220" />
+              <mxPoint x="90" y="220" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="emiPf2pKdy_gXRmR_ZQl-5" value="NETCOLETIVOS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="emiPf2pKdy_gXRmR_ZQl-1">
           <mxGeometry x="549" y="140" width="120" height="60" as="geometry" />
@@ -605,7 +621,7 @@
         <mxCell id="emiPf2pKdy_gXRmR_ZQl-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="emiPf2pKdy_gXRmR_ZQl-1" source="emiPf2pKdy_gXRmR_ZQl-5" target="emiPf2pKdy_gXRmR_ZQl-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="emiPf2pKdy_gXRmR_ZQl-20" value="Cria protocolo da venda e&amp;nbsp;&lt;div&gt;associa ao protocolo Pai&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="emiPf2pKdy_gXRmR_ZQl-19">
+        <mxCell id="emiPf2pKdy_gXRmR_ZQl-20" value="2/ Cria protocolo da venda e&amp;nbsp;&lt;div&gt;associa ao protocolo Pai&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="emiPf2pKdy_gXRmR_ZQl-19">
           <mxGeometry x="-0.1607" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -670,12 +686,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HIG6H75FwXsuvzBSwMsr-16" value="Get&amp;nbsp;&lt;div&gt;Valida&amp;nbsp;&lt;/div&gt;&lt;div&gt;Protocolo&amp;nbsp;&lt;/div&gt;&lt;div&gt;Pai IW&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HIG6H75FwXsuvzBSwMsr-15">
+        <mxCell id="HIG6H75FwXsuvzBSwMsr-16" value="1/ Get&amp;nbsp;&lt;div&gt;Valida&amp;nbsp;&lt;/div&gt;&lt;div&gt;Protocolo&amp;nbsp;&lt;/div&gt;&lt;div&gt;Pai IW&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HIG6H75FwXsuvzBSwMsr-15">
           <mxGeometry x="0.295" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HIG6H75FwXsuvzBSwMsr-17" value="Get&amp;nbsp;&lt;div&gt;Valida&amp;nbsp;&lt;/div&gt;&lt;div&gt;Protocolo&amp;nbsp;&lt;/div&gt;&lt;div&gt;Pai NETSMS&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="emiPf2pKdy_gXRmR_ZQl-1">
+        <mxCell id="HIG6H75FwXsuvzBSwMsr-17" value="1/ Get&amp;nbsp;&lt;div&gt;Valida&amp;nbsp;&lt;/div&gt;&lt;div&gt;Protocolo&amp;nbsp;&lt;/div&gt;&lt;div&gt;Pai NETSMS&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="emiPf2pKdy_gXRmR_ZQl-1">
           <mxGeometry x="190.00445012000085" y="349.9995258779194" as="geometry">
             <mxPoint x="-87" y="-25" as="offset" />
           </mxGeometry>
