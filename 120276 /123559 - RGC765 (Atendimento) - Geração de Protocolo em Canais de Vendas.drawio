@@ -513,11 +513,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HIG6H75FwXsuvzBSwMsr-5" value="Get&lt;div&gt;Valida&amp;nbsp;&lt;/div&gt;&lt;div&gt;Protocolo&lt;/div&gt;&lt;div&gt;Pai&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HIG6H75FwXsuvzBSwMsr-4">
-          <mxGeometry x="0.1032" y="-1" relative="1" as="geometry">
-            <mxPoint x="11" y="48" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="emiPf2pKdy_gXRmR_ZQl-2" value="NETSALES" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="emiPf2pKdy_gXRmR_ZQl-1">
           <mxGeometry x="159" y="140" width="120" height="60" as="geometry" />
         </mxCell>
@@ -644,7 +639,7 @@
             <mxPoint x="90" y="70" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="emiPf2pKdy_gXRmR_ZQl-26" value="domains-interactions-v1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="emiPf2pKdy_gXRmR_ZQl-1">
+        <mxCell id="emiPf2pKdy_gXRmR_ZQl-26" value="API Gera/Consulta Protocolo PAI-NETSMS&lt;div&gt;domains-interactions-v1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;" vertex="1" parent="emiPf2pKdy_gXRmR_ZQl-1">
           <mxGeometry x="30" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HIG6H75FwXsuvzBSwMsr-7" value="Protocolo" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="emiPf2pKdy_gXRmR_ZQl-1">
@@ -662,6 +657,27 @@
         <mxCell id="HIG6H75FwXsuvzBSwMsr-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.006;entryY=0.573;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="emiPf2pKdy_gXRmR_ZQl-1" source="emiPf2pKdy_gXRmR_ZQl-26" target="emiPf2pKdy_gXRmR_ZQl-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="240" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIG6H75FwXsuvzBSwMsr-14" value="API consulta protocolo PAI-IW" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="emiPf2pKdy_gXRmR_ZQl-1">
+          <mxGeometry x="148" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HIG6H75FwXsuvzBSwMsr-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0000FF;" edge="1" parent="emiPf2pKdy_gXRmR_ZQl-1" source="emiPf2pKdy_gXRmR_ZQl-2" target="HIG6H75FwXsuvzBSwMsr-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="208" y="240" />
+              <mxPoint x="208" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIG6H75FwXsuvzBSwMsr-16" value="Get&amp;nbsp;&lt;div&gt;Valida&amp;nbsp;&lt;/div&gt;&lt;div&gt;Protocolo&amp;nbsp;&lt;/div&gt;&lt;div&gt;Pai IW&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HIG6H75FwXsuvzBSwMsr-15">
+          <mxGeometry x="0.295" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HIG6H75FwXsuvzBSwMsr-17" value="Get&amp;nbsp;&lt;div&gt;Valida&amp;nbsp;&lt;/div&gt;&lt;div&gt;Protocolo&amp;nbsp;&lt;/div&gt;&lt;div&gt;Pai NETSMS&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="emiPf2pKdy_gXRmR_ZQl-1">
+          <mxGeometry x="190.00445012000085" y="349.9995258779194" as="geometry">
+            <mxPoint x="-87" y="-25" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
