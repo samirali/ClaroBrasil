@@ -1,9 +1,138 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Página-1" id="xvtIc7rq3p4kidkcStAe">
-    <mxGraphModel>
+    <mxGraphModel dx="1042" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="UNLt9OUAK_mBdiIdKl91-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UNLt9OUAK_mBdiIdKl91-1" target="UNLt9OUAK_mBdiIdKl91-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UNLt9OUAK_mBdiIdKl91-1" value="NETSales" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UNLt9OUAK_mBdiIdKl91-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UNLt9OUAK_mBdiIdKl91-2" target="UNLt9OUAK_mBdiIdKl91-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UNLt9OUAK_mBdiIdKl91-2" value="Vendedor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="20" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UNLt9OUAK_mBdiIdKl91-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UNLt9OUAK_mBdiIdKl91-4" target="UNLt9OUAK_mBdiIdKl91-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UNLt9OUAK_mBdiIdKl91-8" value="Envia dados&lt;div&gt;&amp;nbsp;contrato&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UNLt9OUAK_mBdiIdKl91-7">
+          <mxGeometry x="-0.2441" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UNLt9OUAK_mBdiIdKl91-4" value="Cria Contrato" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UNLt9OUAK_mBdiIdKl91-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UNLt9OUAK_mBdiIdKl91-6" target="UNLt9OUAK_mBdiIdKl91-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="200" />
+              <mxPoint x="414" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UNLt9OUAK_mBdiIdKl91-11" value="Gera Contrato e&amp;nbsp;&lt;div&gt;NETSales faz Download&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UNLt9OUAK_mBdiIdKl91-10">
+          <mxGeometry x="-0.3506" y="-2" relative="1" as="geometry">
+            <mxPoint x="-47" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UNLt9OUAK_mBdiIdKl91-6" value="DocGen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UNLt9OUAK_mBdiIdKl91-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UNLt9OUAK_mBdiIdKl91-9" target="UNLt9OUAK_mBdiIdKl91-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UNLt9OUAK_mBdiIdKl91-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UNLt9OUAK_mBdiIdKl91-9" target="UNLt9OUAK_mBdiIdKl91-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UNLt9OUAK_mBdiIdKl91-9" value="Download Contrato" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UNLt9OUAK_mBdiIdKl91-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="UNLt9OUAK_mBdiIdKl91-12" target="UNLt9OUAK_mBdiIdKl91-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="235" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UNLt9OUAK_mBdiIdKl91-20" value="2-Envia&amp;nbsp;&lt;div&gt;ao GED&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UNLt9OUAK_mBdiIdKl91-19">
+          <mxGeometry x="0.3481" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UNLt9OUAK_mBdiIdKl91-12" value="Contrato físico" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UNLt9OUAK_mBdiIdKl91-14" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="330" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UNLt9OUAK_mBdiIdKl91-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UNLt9OUAK_mBdiIdKl91-14" target="UNLt9OUAK_mBdiIdKl91-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="75" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UNLt9OUAK_mBdiIdKl91-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UNLt9OUAK_mBdiIdKl91-12" target="UNLt9OUAK_mBdiIdKl91-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="205" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UNLt9OUAK_mBdiIdKl91-17" value="1- Assina&amp;nbsp;&lt;div&gt;C&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ontrato&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UNLt9OUAK_mBdiIdKl91-16">
+          <mxGeometry x="0.104" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UNLt9OUAK_mBdiIdKl91-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="UNLt9OUAK_mBdiIdKl91-18" target="UNLt9OUAK_mBdiIdKl91-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UNLt9OUAK_mBdiIdKl91-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="UNLt9OUAK_mBdiIdKl91-18" target="UNLt9OUAK_mBdiIdKl91-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UNLt9OUAK_mBdiIdKl91-18" value="GED" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UNLt9OUAK_mBdiIdKl91-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UNLt9OUAK_mBdiIdKl91-21" target="UNLt9OUAK_mBdiIdKl91-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UNLt9OUAK_mBdiIdKl91-27" value="Upload&amp;nbsp;&lt;div&gt;Contrato&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UNLt9OUAK_mBdiIdKl91-26">
+          <mxGeometry x="0.2973" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UNLt9OUAK_mBdiIdKl91-21" value="Contrato digital" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UNLt9OUAK_mBdiIdKl91-22" value="Digitaliza,&amp;nbsp;&lt;div&gt;Inspeciona, Armazena&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UNLt9OUAK_mBdiIdKl91-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UNLt9OUAK_mBdiIdKl91-28" target="UNLt9OUAK_mBdiIdKl91-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UNLt9OUAK_mBdiIdKl91-28" value="Gera link aceite eletrônico" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UNLt9OUAK_mBdiIdKl91-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="UNLt9OUAK_mBdiIdKl91-30" target="UNLt9OUAK_mBdiIdKl91-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="510" />
+              <mxPoint x="320" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UNLt9OUAK_mBdiIdKl91-30" value="Notifica Aceite" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
