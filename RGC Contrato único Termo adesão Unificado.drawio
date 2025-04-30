@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14" pages="2">
   <diagram name="Página-1" id="xvtIc7rq3p4kidkcStAe">
     <mxGraphModel dx="1042" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -140,6 +140,203 @@
         </mxCell>
         <mxCell id="UNLt9OUAK_mBdiIdKl91-30" value="Notifica Aceite" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="v2" id="yK6ZtA410W28M0kdmjDE">
+    <mxGraphModel dx="1042" dy="1696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="H4AeElACrX77OLmWIMDW-0" />
+        <mxCell id="H4AeElACrX77OLmWIMDW-1" parent="H4AeElACrX77OLmWIMDW-0" />
+        <mxCell id="H4AeElACrX77OLmWIMDW-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="H4AeElACrX77OLmWIMDW-1" source="H4AeElACrX77OLmWIMDW-5" target="eA_NsGDNwTaj4M7q_q9v-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="354" y="-220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eA_NsGDNwTaj4M7q_q9v-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="H4AeElACrX77OLmWIMDW-1" source="H4AeElACrX77OLmWIMDW-5" target="eA_NsGDNwTaj4M7q_q9v-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H4AeElACrX77OLmWIMDW-5" value="Vendedor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="H4AeElACrX77OLmWIMDW-1">
+          <mxGeometry x="75" y="-250" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H4AeElACrX77OLmWIMDW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="H4AeElACrX77OLmWIMDW-1" source="H4AeElACrX77OLmWIMDW-8" target="H4AeElACrX77OLmWIMDW-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H4AeElACrX77OLmWIMDW-7" value="Envia dados&lt;div&gt;&amp;nbsp;contrato&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H4AeElACrX77OLmWIMDW-6">
+          <mxGeometry x="-0.2441" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H4AeElACrX77OLmWIMDW-8" value="Cria Contrato" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="H4AeElACrX77OLmWIMDW-1">
+          <mxGeometry x="90" y="-50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eA_NsGDNwTaj4M7q_q9v-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="H4AeElACrX77OLmWIMDW-1" source="H4AeElACrX77OLmWIMDW-11" target="eA_NsGDNwTaj4M7q_q9v-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H4AeElACrX77OLmWIMDW-11" value="DocGen" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="H4AeElACrX77OLmWIMDW-1">
+          <mxGeometry x="310" y="-50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H4AeElACrX77OLmWIMDW-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="H4AeElACrX77OLmWIMDW-1" source="H4AeElACrX77OLmWIMDW-14" target="H4AeElACrX77OLmWIMDW-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H4AeElACrX77OLmWIMDW-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="H4AeElACrX77OLmWIMDW-1" source="H4AeElACrX77OLmWIMDW-14" target="H4AeElACrX77OLmWIMDW-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H4AeElACrX77OLmWIMDW-14" value="Download Contrato" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="H4AeElACrX77OLmWIMDW-1">
+          <mxGeometry x="474" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H4AeElACrX77OLmWIMDW-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="H4AeElACrX77OLmWIMDW-1" source="H4AeElACrX77OLmWIMDW-17" target="H4AeElACrX77OLmWIMDW-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="225" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H4AeElACrX77OLmWIMDW-16" value="2-Envia&amp;nbsp;&lt;div&gt;ao GED&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H4AeElACrX77OLmWIMDW-15">
+          <mxGeometry x="0.3481" y="-2" relative="1" as="geometry">
+            <mxPoint x="-15" y="-82" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H4AeElACrX77OLmWIMDW-17" value="Contrato físico" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="H4AeElACrX77OLmWIMDW-1">
+          <mxGeometry x="210" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eA_NsGDNwTaj4M7q_q9v-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="H4AeElACrX77OLmWIMDW-1" source="H4AeElACrX77OLmWIMDW-19" target="H4AeElACrX77OLmWIMDW-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eA_NsGDNwTaj4M7q_q9v-13" value="Assina" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eA_NsGDNwTaj4M7q_q9v-12">
+          <mxGeometry x="-0.1941" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eA_NsGDNwTaj4M7q_q9v-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="H4AeElACrX77OLmWIMDW-1" source="H4AeElACrX77OLmWIMDW-19" target="H4AeElACrX77OLmWIMDW-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="20" y="70" />
+              <mxPoint x="20" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eA_NsGDNwTaj4M7q_q9v-33" value="Assina" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eA_NsGDNwTaj4M7q_q9v-32">
+          <mxGeometry x="-0.1402" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H4AeElACrX77OLmWIMDW-19" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="H4AeElACrX77OLmWIMDW-1">
+          <mxGeometry x="45" y="40" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H4AeElACrX77OLmWIMDW-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="H4AeElACrX77OLmWIMDW-1" source="H4AeElACrX77OLmWIMDW-19" target="H4AeElACrX77OLmWIMDW-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="-230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H4AeElACrX77OLmWIMDW-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="H4AeElACrX77OLmWIMDW-1" source="H4AeElACrX77OLmWIMDW-25" target="H4AeElACrX77OLmWIMDW-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="255" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eA_NsGDNwTaj4M7q_q9v-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="H4AeElACrX77OLmWIMDW-1" source="H4AeElACrX77OLmWIMDW-31" target="eA_NsGDNwTaj4M7q_q9v-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="330" y="320" />
+              <mxPoint x="330" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H4AeElACrX77OLmWIMDW-25" value="API GED" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="H4AeElACrX77OLmWIMDW-1">
+          <mxGeometry x="320" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H4AeElACrX77OLmWIMDW-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="H4AeElACrX77OLmWIMDW-1" source="H4AeElACrX77OLmWIMDW-28" target="H4AeElACrX77OLmWIMDW-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="534" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H4AeElACrX77OLmWIMDW-27" value="Upload&amp;nbsp;&lt;div&gt;Contrato&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H4AeElACrX77OLmWIMDW-26">
+          <mxGeometry x="0.2973" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H4AeElACrX77OLmWIMDW-28" value="Contrato digital" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="H4AeElACrX77OLmWIMDW-1">
+          <mxGeometry x="474" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H4AeElACrX77OLmWIMDW-31" value="API DocSign - Gera link aceite eletrônico" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="H4AeElACrX77OLmWIMDW-1">
+          <mxGeometry x="150" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eA_NsGDNwTaj4M7q_q9v-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="H4AeElACrX77OLmWIMDW-1" source="H4AeElACrX77OLmWIMDW-33" target="eA_NsGDNwTaj4M7q_q9v-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H4AeElACrX77OLmWIMDW-33" value="DocSign Notifica Aceite" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="H4AeElACrX77OLmWIMDW-1">
+          <mxGeometry x="150" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eA_NsGDNwTaj4M7q_q9v-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="H4AeElACrX77OLmWIMDW-1" source="eA_NsGDNwTaj4M7q_q9v-1" target="H4AeElACrX77OLmWIMDW-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eA_NsGDNwTaj4M7q_q9v-1" value="Venda Residencial NETSales" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="H4AeElACrX77OLmWIMDW-1">
+          <mxGeometry x="210" y="-150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eA_NsGDNwTaj4M7q_q9v-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="H4AeElACrX77OLmWIMDW-1" source="eA_NsGDNwTaj4M7q_q9v-6" target="H4AeElACrX77OLmWIMDW-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eA_NsGDNwTaj4M7q_q9v-6" value="Gera Contrato" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="H4AeElACrX77OLmWIMDW-1">
+          <mxGeometry x="474" y="-50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eA_NsGDNwTaj4M7q_q9v-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="H4AeElACrX77OLmWIMDW-1" source="eA_NsGDNwTaj4M7q_q9v-14" target="H4AeElACrX77OLmWIMDW-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="354" y="360" />
+              <mxPoint x="75" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eA_NsGDNwTaj4M7q_q9v-18" value="Envia link&amp;nbsp;&lt;div&gt;SMS/Email&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eA_NsGDNwTaj4M7q_q9v-17">
+          <mxGeometry x="-0.7248" y="-1" relative="1" as="geometry">
+            <mxPoint x="-38" y="-199" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eA_NsGDNwTaj4M7q_q9v-31" value="Envia link aceite" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eA_NsGDNwTaj4M7q_q9v-17">
+          <mxGeometry x="-0.3829" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eA_NsGDNwTaj4M7q_q9v-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="H4AeElACrX77OLmWIMDW-1" source="eA_NsGDNwTaj4M7q_q9v-23" target="eA_NsGDNwTaj4M7q_q9v-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eA_NsGDNwTaj4M7q_q9v-23" value="Download Documento Assinado Digitalmente" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="H4AeElACrX77OLmWIMDW-1">
+          <mxGeometry x="320" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eA_NsGDNwTaj4M7q_q9v-26" value="API ECM Armazena Documentos" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="H4AeElACrX77OLmWIMDW-1">
+          <mxGeometry x="474" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eA_NsGDNwTaj4M7q_q9v-14" value="API RTDM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="H4AeElACrX77OLmWIMDW-1">
+          <mxGeometry x="320" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eA_NsGDNwTaj4M7q_q9v-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="H4AeElACrX77OLmWIMDW-1" source="eA_NsGDNwTaj4M7q_q9v-37" target="eA_NsGDNwTaj4M7q_q9v-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eA_NsGDNwTaj4M7q_q9v-37" value="Inspeciona documentos" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="H4AeElACrX77OLmWIMDW-1">
+          <mxGeometry x="474" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eA_NsGDNwTaj4M7q_q9v-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="H4AeElACrX77OLmWIMDW-1" source="eA_NsGDNwTaj4M7q_q9v-44" target="eA_NsGDNwTaj4M7q_q9v-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eA_NsGDNwTaj4M7q_q9v-44" value="Venda Residencial Combo Multi NETSales" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="H4AeElACrX77OLmWIMDW-1">
+          <mxGeometry x="640" y="-150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eA_NsGDNwTaj4M7q_q9v-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="H4AeElACrX77OLmWIMDW-1" source="eA_NsGDNwTaj4M7q_q9v-46" target="eA_NsGDNwTaj4M7q_q9v-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eA_NsGDNwTaj4M7q_q9v-46" value="Cria Contrato" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="H4AeElACrX77OLmWIMDW-1">
+          <mxGeometry x="640" y="-50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eA_NsGDNwTaj4M7q_q9v-48" value="SVC Recupera dados do contrato residencial e faz todo processo de assinatura, inspeção documentos e armazenamento" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="H4AeElACrX77OLmWIMDW-1">
+          <mxGeometry x="640" y="180" width="120" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
