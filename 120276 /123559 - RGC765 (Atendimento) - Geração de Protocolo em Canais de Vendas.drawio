@@ -725,13 +725,17 @@
       <root>
         <mxCell id="l5jNpXc1-RMsSBmuJXkH-0" />
         <mxCell id="l5jNpXc1-RMsSBmuJXkH-1" parent="l5jNpXc1-RMsSBmuJXkH-0" />
-        <mxCell id="l5jNpXc1-RMsSBmuJXkH-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#00CC00;" edge="1" parent="l5jNpXc1-RMsSBmuJXkH-1" source="l5jNpXc1-RMsSBmuJXkH-3" target="l5jNpXc1-RMsSBmuJXkH-29">
+        <mxCell id="l5jNpXc1-RMsSBmuJXkH-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#00CC00;exitX=0.602;exitY=1.033;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="l5jNpXc1-RMsSBmuJXkH-1" source="l5jNpXc1-RMsSBmuJXkH-3" target="l5jNpXc1-RMsSBmuJXkH-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="260" y="220" />
+              <mxPoint x="300" y="202" />
+              <mxPoint x="300" y="220" />
               <mxPoint x="160" y="220" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HSxhpkdpgYyxEn0LT6lJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.182;exitY=1.02;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="l5jNpXc1-RMsSBmuJXkH-1" source="l5jNpXc1-RMsSBmuJXkH-3" target="HSxhpkdpgYyxEn0LT6lJ-0">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l5jNpXc1-RMsSBmuJXkH-3" value="NETSALES" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="l5jNpXc1-RMsSBmuJXkH-1">
           <mxGeometry x="229" y="140" width="120" height="60" as="geometry" />
@@ -894,7 +898,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="l5jNpXc1-RMsSBmuJXkH-29" value="API Gera/Consulta Protocolo PAI-NETSMS&lt;div&gt;domains-interactions-v1&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;" vertex="1" parent="l5jNpXc1-RMsSBmuJXkH-1">
-          <mxGeometry x="100" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="92" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l5jNpXc1-RMsSBmuJXkH-30" value="Protocolo" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="l5jNpXc1-RMsSBmuJXkH-1">
           <mxGeometry x="380" y="410" width="140" height="120" as="geometry" />
@@ -914,7 +918,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="l5jNpXc1-RMsSBmuJXkH-35" value="API consulta protocolo PAI-IW" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="l5jNpXc1-RMsSBmuJXkH-1">
-          <mxGeometry x="218" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="229" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l5jNpXc1-RMsSBmuJXkH-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#0000FF;" edge="1" parent="l5jNpXc1-RMsSBmuJXkH-1" source="l5jNpXc1-RMsSBmuJXkH-3" target="l5jNpXc1-RMsSBmuJXkH-35">
           <mxGeometry relative="1" as="geometry">
@@ -926,7 +930,7 @@
         </mxCell>
         <mxCell id="l5jNpXc1-RMsSBmuJXkH-37" value="1/ Get&amp;nbsp;&lt;div&gt;Valida&amp;nbsp;&lt;/div&gt;&lt;div&gt;Protocolo&amp;nbsp;&lt;/div&gt;&lt;div&gt;Pai IW&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l5jNpXc1-RMsSBmuJXkH-36">
           <mxGeometry x="0.295" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="27" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l5jNpXc1-RMsSBmuJXkH-38" value="1/ Get&amp;nbsp;&lt;div&gt;Valida&amp;nbsp;&lt;/div&gt;&lt;div&gt;Protocolo&amp;nbsp;&lt;/div&gt;&lt;div&gt;Pai NETSMS&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="l5jNpXc1-RMsSBmuJXkH-1">
@@ -935,7 +939,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="l5jNpXc1-RMsSBmuJXkH-39" value="API RTDM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="l5jNpXc1-RMsSBmuJXkH-1">
-          <mxGeometry x="30" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="24" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HSxhpkdpgYyxEn0LT6lJ-0" value="API Salesman&lt;div&gt;(verifica LP/AA)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;" vertex="1" parent="l5jNpXc1-RMsSBmuJXkH-1">
+          <mxGeometry x="152" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
