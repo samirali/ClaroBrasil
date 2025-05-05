@@ -953,6 +953,24 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="HSxhpkdpgYyxEn0LT6lJ-16" value="" style="group;align=left;" vertex="1" connectable="0" parent="l5jNpXc1-RMsSBmuJXkH-1">
+          <mxGeometry x="660" y="20" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HSxhpkdpgYyxEn0LT6lJ-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HSxhpkdpgYyxEn0LT6lJ-16">
+          <mxGeometry y="5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HSxhpkdpgYyxEn0LT6lJ-15" value="Reuso sem alteração" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HSxhpkdpgYyxEn0LT6lJ-16">
+          <mxGeometry x="30" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HSxhpkdpgYyxEn0LT6lJ-19" value="" style="group;align=left;" vertex="1" connectable="0" parent="l5jNpXc1-RMsSBmuJXkH-1">
+          <mxGeometry x="660" y="50" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HSxhpkdpgYyxEn0LT6lJ-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="HSxhpkdpgYyxEn0LT6lJ-19">
+          <mxGeometry y="5" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HSxhpkdpgYyxEn0LT6lJ-21" value="Alteração/Novo" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HSxhpkdpgYyxEn0LT6lJ-19">
+          <mxGeometry x="30" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
