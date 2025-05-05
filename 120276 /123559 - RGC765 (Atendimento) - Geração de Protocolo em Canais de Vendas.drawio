@@ -734,12 +734,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HSxhpkdpgYyxEn0LT6lJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.182;exitY=1.02;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#CC0066;" edge="1" parent="l5jNpXc1-RMsSBmuJXkH-1" source="l5jNpXc1-RMsSBmuJXkH-3" target="HSxhpkdpgYyxEn0LT6lJ-0">
+        <mxCell id="HSxhpkdpgYyxEn0LT6lJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.182;exitY=1.02;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#0000FF;" edge="1" parent="l5jNpXc1-RMsSBmuJXkH-1" source="l5jNpXc1-RMsSBmuJXkH-3" target="HSxhpkdpgYyxEn0LT6lJ-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HSxhpkdpgYyxEn0LT6lJ-2" value="1/ Identifica LP/AA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HSxhpkdpgYyxEn0LT6lJ-1">
           <mxGeometry x="0.5022" y="-2" relative="1" as="geometry">
-            <mxPoint y="4" as="offset" />
+            <mxPoint y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l5jNpXc1-RMsSBmuJXkH-3" value="NETSALES" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="l5jNpXc1-RMsSBmuJXkH-1">
@@ -948,7 +948,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HSxhpkdpgYyxEn0LT6lJ-0" value="API Salesman&lt;div&gt;(verifica LP/AA)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11;" vertex="1" parent="l5jNpXc1-RMsSBmuJXkH-1">
-          <mxGeometry x="190" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="190" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
