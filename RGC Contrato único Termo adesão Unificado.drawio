@@ -460,7 +460,7 @@
           <mxGeometry x="500" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R8229zql6PnDNXebmH82-57" value="Termo de Adesão&lt;div&gt;Contrato de Pemrnência&lt;/div&gt;&lt;div&gt;Documentos empresa/preposto&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="460" width="190" height="60" as="geometry" />
+          <mxGeometry x="500" y="480" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R8229zql6PnDNXebmH82-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R8229zql6PnDNXebmH82-59" target="R8229zql6PnDNXebmH82-61">
           <mxGeometry relative="1" as="geometry" />
@@ -470,6 +470,9 @@
         </mxCell>
         <mxCell id="R8229zql6PnDNXebmH82-61" value="Criação Contrato no NETCOLETIVOS e Venda Concluída" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="817" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R8229zql6PnDNXebmH82-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.315;entryY=-0.014;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="1" source="R8229zql6PnDNXebmH82-55" target="R8229zql6PnDNXebmH82-57">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
