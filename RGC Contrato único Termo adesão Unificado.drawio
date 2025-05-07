@@ -342,11 +342,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="y9D-MBM6YnNr9adbA4zJ" name="v3">
-    <mxGraphModel dx="946" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="R8229zql6PnDNXebmH82-1" value="&lt;u&gt;&lt;b&gt;Vendas Presenciais&lt;/b&gt;&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="R8229zql6PnDNXebmH82-1" value="&lt;u&gt;&lt;b&gt;Vendas Presenciais NETSales&lt;/b&gt;&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R8229zql6PnDNXebmH82-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R8229zql6PnDNXebmH82-2" target="R8229zql6PnDNXebmH82-5">
@@ -361,52 +361,34 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="R8229zql6PnDNXebmH82-2" value="Criação proposta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R8229zql6PnDNXebmH82-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R8229zql6PnDNXebmH82-3" target="R8229zql6PnDNXebmH82-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R8229zql6PnDNXebmH82-3" value="Venda Prospect" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="90" width="120" height="60" as="geometry" />
+        <mxCell id="R8229zql6PnDNXebmH82-3" value="Venda Prospect e Base" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R8229zql6PnDNXebmH82-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R8229zql6PnDNXebmH82-5" target="R8229zql6PnDNXebmH82-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R8229zql6PnDNXebmH82-5" value="API GED" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R8229zql6PnDNXebmH82-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R8229zql6PnDNXebmH82-7" target="R8229zql6PnDNXebmH82-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R8229zql6PnDNXebmH82-7" value="Criação Documento pra aceite eletrônico (Termo de Adesão?)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="500" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R8229zql6PnDNXebmH82-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R8229zql6PnDNXebmH82-9" target="R8229zql6PnDNXebmH82-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R8229zql6PnDNXebmH82-9" value="Confirmação de Aceite Eletrônico e Guarda no GED" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R8229zql6PnDNXebmH82-11" value="Venda Concluída" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="827" y="90" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="R8229zql6PnDNXebmH82-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R8229zql6PnDNXebmH82-13" target="R8229zql6PnDNXebmH82-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="R8229zql6PnDNXebmH82-13" value="Venda Base" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="310" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="R8229zql6PnDNXebmH82-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R8229zql6PnDNXebmH82-14" target="R8229zql6PnDNXebmH82-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="R8229zql6PnDNXebmH82-14" value="Criação proposta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="310" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="R8229zql6PnDNXebmH82-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R8229zql6PnDNXebmH82-16" target="R8229zql6PnDNXebmH82-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="R8229zql6PnDNXebmH82-16" value="Assinatura Contrato Físico (Adendo)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="817" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R8229zql6PnDNXebmH82-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="R8229zql6PnDNXebmH82-18" target="R8229zql6PnDNXebmH82-11">
           <mxGeometry relative="1" as="geometry" />
@@ -414,14 +396,41 @@
         <mxCell id="R8229zql6PnDNXebmH82-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R8229zql6PnDNXebmH82-18" target="R8229zql6PnDNXebmH82-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="R8229zql6PnDNXebmH82-18" value="Assinatura Contrato Físico" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="170" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="R8229zql6PnDNXebmH82-22" value="Venda Concluída" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="310" width="120" height="60" as="geometry" />
+        <mxCell id="R8229zql6PnDNXebmH82-18" value="Assinatura Contrato /Adendo Físico" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="R8229zql6PnDNXebmH82-25" value="Envio Documento Digitalizado ao GED" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="1000" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R8229zql6PnDNXebmH82-28" value="&lt;u&gt;&lt;b&gt;Vendas Televendas NETSales&lt;/b&gt;&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="200" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R8229zql6PnDNXebmH82-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R8229zql6PnDNXebmH82-32" target="R8229zql6PnDNXebmH82-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R8229zql6PnDNXebmH82-32" value="Criação proposta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R8229zql6PnDNXebmH82-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R8229zql6PnDNXebmH82-34" target="R8229zql6PnDNXebmH82-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R8229zql6PnDNXebmH82-34" value="Venda Prospect e Base" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R8229zql6PnDNXebmH82-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R8229zql6PnDNXebmH82-41" target="R8229zql6PnDNXebmH82-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R8229zql6PnDNXebmH82-41" value="Venda Concluída" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="817" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R8229zql6PnDNXebmH82-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="R8229zql6PnDNXebmH82-44" target="R8229zql6PnDNXebmH82-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="R8229zql6PnDNXebmH82-44" value="Assinatura Contrato Físico" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R8229zql6PnDNXebmH82-45" value="Envio Documento Digitalizado ao GED" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
