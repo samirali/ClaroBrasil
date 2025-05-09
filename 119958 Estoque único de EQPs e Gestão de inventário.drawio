@@ -4,11 +4,37 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="9W059uVGr_A8UaHw2HkI-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9W059uVGr_A8UaHw2HkI-1" target="9W059uVGr_A8UaHw2HkI-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9W059uVGr_A8UaHw2HkI-5" value="Informa S/N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9W059uVGr_A8UaHw2HkI-4">
+          <mxGeometry x="0.2635" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9W059uVGr_A8UaHw2HkI-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9W059uVGr_A8UaHw2HkI-1" target="9W059uVGr_A8UaHw2HkI-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9W059uVGr_A8UaHw2HkI-7" value="Vendedor/&lt;div&gt;Canal&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9W059uVGr_A8UaHw2HkI-6">
+          <mxGeometry x="0.4867" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9W059uVGr_A8UaHw2HkI-1" value="Início Jornada NETSales" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9W059uVGr_A8UaHw2HkI-2" value="API SAP Consulta Serial" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9W059uVGr_A8UaHw2HkI-3" value="API IW Consulta Endereço Loja" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9W059uVGr_A8UaHw2HkI-9" value="API IW Consulta Endereço Loja" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
