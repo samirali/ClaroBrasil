@@ -54,6 +54,26 @@
         <mxCell id="9W059uVGr_A8UaHw2HkI-12" value="Fim jornada (criação Solic/OS)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="350" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9W059uVGr_A8UaHw2HkI-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9W059uVGr_A8UaHw2HkI-14" target="9W059uVGr_A8UaHw2HkI-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9W059uVGr_A8UaHw2HkI-14" value="Contrato Conectado" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9W059uVGr_A8UaHw2HkI-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9W059uVGr_A8UaHw2HkI-16" target="9W059uVGr_A8UaHw2HkI-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9W059uVGr_A8UaHw2HkI-19" value="Baixada" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9W059uVGr_A8UaHw2HkI-18">
+          <mxGeometry x="-0.1289" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9W059uVGr_A8UaHw2HkI-16" value="Status OS" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9W059uVGr_A8UaHw2HkI-20" value="SAP Solicita NF (OV SAP)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
