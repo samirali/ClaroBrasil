@@ -24,6 +24,21 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="9W059uVGr_A8UaHw2HkI-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9W059uVGr_A8UaHw2HkI-1" target="9W059uVGr_A8UaHw2HkI-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9W059uVGr_A8UaHw2HkI-11" value="UF Loja /&lt;div&gt;UF Contrato&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9W059uVGr_A8UaHw2HkI-10">
+          <mxGeometry x="0.551" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9W059uVGr_A8UaHw2HkI-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9W059uVGr_A8UaHw2HkI-1" target="9W059uVGr_A8UaHw2HkI-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9W059uVGr_A8UaHw2HkI-1" value="Início Jornada NETSales" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="30" width="120" height="60" as="geometry" />
         </mxCell>
@@ -33,8 +48,11 @@
         <mxCell id="9W059uVGr_A8UaHw2HkI-3" value="API IW Consulta Endereço Loja" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9W059uVGr_A8UaHw2HkI-9" value="API IW Consulta Endereço Loja" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9W059uVGr_A8UaHw2HkI-9" value="API SAP Elegibilidade Fiscal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9W059uVGr_A8UaHw2HkI-12" value="Fim jornada (criação Solic/OS)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
