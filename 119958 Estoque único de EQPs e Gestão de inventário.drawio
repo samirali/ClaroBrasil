@@ -7,6 +7,9 @@
         <mxCell id="9W059uVGr_A8UaHw2HkI-1" value="Início Jornada NETSales" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="30" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9W059uVGr_A8UaHw2HkI-2" value="API SAP Consulta Serial" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
