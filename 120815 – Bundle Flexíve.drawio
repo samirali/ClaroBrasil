@@ -425,7 +425,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Tn2fzim8hyOtY1Cur62b-0" value="NOVO MS Matriz de Substituição" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="55Ri1quI2qp2pA3ybZK6-1">
-          <mxGeometry x="250" y="235" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="283" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Tn2fzim8hyOtY1Cur62b-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="55Ri1quI2qp2pA3ybZK6-1" source="Tn2fzim8hyOtY1Cur62b-1" target="Tn2fzim8hyOtY1Cur62b-4">
           <mxGeometry relative="1" as="geometry">
@@ -444,25 +444,25 @@
         <mxCell id="Tn2fzim8hyOtY1Cur62b-1" value="Cliente/Vendedor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="55Ri1quI2qp2pA3ybZK6-1">
           <mxGeometry x="40" y="30" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Tn2fzim8hyOtY1Cur62b-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="55Ri1quI2qp2pA3ybZK6-1" source="Tn2fzim8hyOtY1Cur62b-4" target="Tn2fzim8hyOtY1Cur62b-0">
+        <mxCell id="Tn2fzim8hyOtY1Cur62b-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="55Ri1quI2qp2pA3ybZK6-1" source="Tn2fzim8hyOtY1Cur62b-4" target="Tn2fzim8hyOtY1Cur62b-39">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="240" y="220" />
-              <mxPoint x="310" y="220" />
+              <mxPoint x="240" y="180" />
+              <mxPoint x="310" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Tn2fzim8hyOtY1Cur62b-13" value="Consulta possibilidade&amp;nbsp;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;substituição&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;de&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;SVA no Contrato&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Tn2fzim8hyOtY1Cur62b-8">
           <mxGeometry x="-0.8036" y="-1" relative="1" as="geometry">
-            <mxPoint x="71" y="52" as="offset" />
+            <mxPoint x="71" y="22" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Tn2fzim8hyOtY1Cur62b-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="55Ri1quI2qp2pA3ybZK6-1" source="Tn2fzim8hyOtY1Cur62b-4" target="Tn2fzim8hyOtY1Cur62b-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="150" y="90" />
-              <mxPoint x="150" y="330" />
-              <mxPoint x="470" y="330" />
+              <mxPoint x="150" y="360" />
+              <mxPoint x="470" y="360" />
               <mxPoint x="470" y="90" />
             </Array>
           </mxGeometry>
@@ -470,11 +470,11 @@
         <mxCell id="Tn2fzim8hyOtY1Cur62b-4" value="Claro Store" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="55Ri1quI2qp2pA3ybZK6-1">
           <mxGeometry x="180" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Tn2fzim8hyOtY1Cur62b-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="55Ri1quI2qp2pA3ybZK6-1" source="Tn2fzim8hyOtY1Cur62b-5" target="Tn2fzim8hyOtY1Cur62b-0">
+        <mxCell id="Tn2fzim8hyOtY1Cur62b-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="55Ri1quI2qp2pA3ybZK6-1" source="Tn2fzim8hyOtY1Cur62b-5" target="Tn2fzim8hyOtY1Cur62b-39">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="380" y="220" />
-              <mxPoint x="310" y="220" />
+              <mxPoint x="380" y="180" />
+              <mxPoint x="310" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -546,6 +546,12 @@
         </mxCell>
         <mxCell id="Tn2fzim8hyOtY1Cur62b-37" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- 1 novo MS exposto para consumo front da jornada;&lt;/span&gt;&lt;br&gt;&lt;div&gt;- Alteração no MS Venda Base:&lt;/div&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;- Receber no swagger um par de ID produtos SVA;&lt;/div&gt;&lt;div&gt;- Validar se é permitido na matriz de substituição;&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Orquestrar a substituição abrindo uma SOLIC pra cancelamento e outra SOLIC pra adesão;&lt;/div&gt;&lt;div&gt;- Gerar os respectivos eventos no NETSMS pro aprovisionamento;&lt;/div&gt;&lt;/blockquote&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;" vertex="1" parent="55Ri1quI2qp2pA3ybZK6-1">
           <mxGeometry x="15" y="400" width="545" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Tn2fzim8hyOtY1Cur62b-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="55Ri1quI2qp2pA3ybZK6-1" source="Tn2fzim8hyOtY1Cur62b-39" target="Tn2fzim8hyOtY1Cur62b-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tn2fzim8hyOtY1Cur62b-39" value="API Matriz substituição" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=default;" vertex="1" parent="55Ri1quI2qp2pA3ybZK6-1">
+          <mxGeometry x="250" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
