@@ -486,6 +486,9 @@
         <mxCell id="Tn2fzim8hyOtY1Cur62b-5" value="Ouvidoria Call Center" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="55Ri1quI2qp2pA3ybZK6-1">
           <mxGeometry x="320" y="60" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Tn2fzim8hyOtY1Cur62b-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="55Ri1quI2qp2pA3ybZK6-1" source="Tn2fzim8hyOtY1Cur62b-10" target="Tn2fzim8hyOtY1Cur62b-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Tn2fzim8hyOtY1Cur62b-10" value="MS Venda Base" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="55Ri1quI2qp2pA3ybZK6-1">
           <mxGeometry x="600" y="60" width="120" height="60" as="geometry" />
         </mxCell>
@@ -540,6 +543,9 @@
         </mxCell>
         <mxCell id="Tn2fzim8hyOtY1Cur62b-27" value="Gera eventos de aprovisionamento&lt;div&gt;AS IS&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="55Ri1quI2qp2pA3ybZK6-1">
           <mxGeometry x="600" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tn2fzim8hyOtY1Cur62b-37" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- 1 novo MS exposto para consumo front da jornada;&lt;/span&gt;&lt;br&gt;&lt;div&gt;- 1 Alteração no MS Venda Base para realizar substituição de SVA dentro do Bundle (swagger alterado pra receber par de ID produtos SVA e realizar a substituição);&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="55Ri1quI2qp2pA3ybZK6-1">
+          <mxGeometry x="20" y="350" width="450" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
