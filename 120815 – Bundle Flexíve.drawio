@@ -412,10 +412,16 @@
     </mxGraphModel>
   </diagram>
   <diagram name="v4" id="jdhc5VGUEVViBUf0QCX6">
-    <mxGraphModel dx="1185" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1281" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="55Ri1quI2qp2pA3ybZK6-0" />
         <mxCell id="55Ri1quI2qp2pA3ybZK6-1" parent="55Ri1quI2qp2pA3ybZK6-0" />
+        <mxCell id="Tn2fzim8hyOtY1Cur62b-0" value="MS Matriz de Substituição" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="55Ri1quI2qp2pA3ybZK6-1">
+          <mxGeometry x="70" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tn2fzim8hyOtY1Cur62b-1" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="55Ri1quI2qp2pA3ybZK6-1">
+          <mxGeometry x="40" y="30" width="30" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
