@@ -544,8 +544,8 @@
         <mxCell id="Tn2fzim8hyOtY1Cur62b-27" value="Gera eventos de aprovisionamento&lt;div&gt;AS IS&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="55Ri1quI2qp2pA3ybZK6-1">
           <mxGeometry x="600" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Tn2fzim8hyOtY1Cur62b-37" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- 1 novo MS exposto para consumo front da jornada;&lt;/span&gt;&lt;br&gt;&lt;div&gt;- 1 Alteração no MS Venda Base para realizar substituição de SVA dentro do Bundle (swagger alterado pra receber par de ID produtos SVA e realizar a substituição);&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="55Ri1quI2qp2pA3ybZK6-1">
-          <mxGeometry x="20" y="350" width="450" height="30" as="geometry" />
+        <mxCell id="Tn2fzim8hyOtY1Cur62b-37" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- 1 novo MS exposto para consumo front da jornada;&lt;/span&gt;&lt;br&gt;&lt;div&gt;- Alteração no MS Venda Base:&lt;/div&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div&gt;- Receber no swagger um par de ID produtos SVA;&lt;/div&gt;&lt;div&gt;- Validar se é permitido na matriz de substituição;&lt;/div&gt;&lt;div&gt;-&amp;nbsp;Orquestrar a substituição abrindo uma SOLIC pra cancelamento e outra SOLIC pra adesão;&lt;/div&gt;&lt;div&gt;- Gerar os respectivos eventos no NETSMS pro aprovisionamento;&lt;/div&gt;&lt;/blockquote&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;" vertex="1" parent="55Ri1quI2qp2pA3ybZK6-1">
+          <mxGeometry x="15" y="400" width="545" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
