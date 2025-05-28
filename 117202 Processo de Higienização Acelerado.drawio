@@ -62,6 +62,9 @@
         <mxCell id="-Sn7pAnPdggRUPFbjs_K-27" value="Ignora esse registro e aborta essa atualização" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="385" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-Sn7pAnPdggRUPFbjs_K-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Sn7pAnPdggRUPFbjs_K-30" target="-Sn7pAnPdggRUPFbjs_K-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-Sn7pAnPdggRUPFbjs_K-30" value="Registra LOG de processamento" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="525" width="120" height="60" as="geometry" />
         </mxCell>
@@ -83,6 +86,15 @@
         </mxCell>
         <mxCell id="-Sn7pAnPdggRUPFbjs_K-32" value="Cadastro de&amp;nbsp;&lt;div&gt;Cliente encontrado em alguma&amp;nbsp;&lt;/div&gt;&lt;div&gt;base?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="200" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-Sn7pAnPdggRUPFbjs_K-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Sn7pAnPdggRUPFbjs_K-42" target="-Sn7pAnPdggRUPFbjs_K-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Sn7pAnPdggRUPFbjs_K-42" value="Geração de arquivo de LOG" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="665" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Sn7pAnPdggRUPFbjs_K-44" value="Envio arquivo ao DWH" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="805" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
