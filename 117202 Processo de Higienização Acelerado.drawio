@@ -4,8 +4,85 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-Sn7pAnPdggRUPFbjs_K-1" value="JOB leitura de Arquivos Higienizados" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="180" width="120" height="60" as="geometry" />
+        <mxCell id="-Sn7pAnPdggRUPFbjs_K-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-Sn7pAnPdggRUPFbjs_K-1" target="-Sn7pAnPdggRUPFbjs_K-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Sn7pAnPdggRUPFbjs_K-1" value="JOB faz leitura de Arquivos Higienizados .csv" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Sn7pAnPdggRUPFbjs_K-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-Sn7pAnPdggRUPFbjs_K-3" target="-Sn7pAnPdggRUPFbjs_K-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Sn7pAnPdggRUPFbjs_K-3" value="File Server NETSMS (usar de 1 base)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Sn7pAnPdggRUPFbjs_K-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-Sn7pAnPdggRUPFbjs_K-4" target="-Sn7pAnPdggRUPFbjs_K-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Sn7pAnPdggRUPFbjs_K-4" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=11;" vertex="1" parent="1">
+          <mxGeometry x="175" y="21.25" width="30" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-Sn7pAnPdggRUPFbjs_K-6" value="Arquivos casastro .csv" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="70" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-Sn7pAnPdggRUPFbjs_K-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-Sn7pAnPdggRUPFbjs_K-7" target="-Sn7pAnPdggRUPFbjs_K-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Sn7pAnPdggRUPFbjs_K-7" value="Atualiza informações em todas as bases que o cliente tem cadastro" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="385" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Sn7pAnPdggRUPFbjs_K-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-Sn7pAnPdggRUPFbjs_K-22" target="-Sn7pAnPdggRUPFbjs_K-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Sn7pAnPdggRUPFbjs_K-22" value="Gera ocorrência de higienização em cada contrato&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Sn7pAnPdggRUPFbjs_K-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-Sn7pAnPdggRUPFbjs_K-25" target="-Sn7pAnPdggRUPFbjs_K-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Sn7pAnPdggRUPFbjs_K-29" value="Não" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-Sn7pAnPdggRUPFbjs_K-28">
+          <mxGeometry x="0.0933" y="-2" relative="1" as="geometry">
+            <mxPoint x="10" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Sn7pAnPdggRUPFbjs_K-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-Sn7pAnPdggRUPFbjs_K-25" target="-Sn7pAnPdggRUPFbjs_K-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Sn7pAnPdggRUPFbjs_K-39" value="Sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-Sn7pAnPdggRUPFbjs_K-38">
+          <mxGeometry x="-0.0646" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Sn7pAnPdggRUPFbjs_K-25" value="Dado&amp;nbsp;&lt;div&gt;higienizado mais recente que&amp;nbsp;&lt;/div&gt;&lt;div&gt;dado atual?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="355" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-Sn7pAnPdggRUPFbjs_K-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Sn7pAnPdggRUPFbjs_K-27" target="-Sn7pAnPdggRUPFbjs_K-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Sn7pAnPdggRUPFbjs_K-27" value="Ignora esse registro e aborta atualização" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="385" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Sn7pAnPdggRUPFbjs_K-30" value="Registra LOG de processamento" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-Sn7pAnPdggRUPFbjs_K-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-Sn7pAnPdggRUPFbjs_K-32" target="-Sn7pAnPdggRUPFbjs_K-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Sn7pAnPdggRUPFbjs_K-35" value="Não" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-Sn7pAnPdggRUPFbjs_K-34">
+          <mxGeometry x="-0.3617" y="-2" relative="1" as="geometry">
+            <mxPoint x="42" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Sn7pAnPdggRUPFbjs_K-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-Sn7pAnPdggRUPFbjs_K-32" target="-Sn7pAnPdggRUPFbjs_K-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-Sn7pAnPdggRUPFbjs_K-37" value="Sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-Sn7pAnPdggRUPFbjs_K-36">
+          <mxGeometry x="-0.52" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-Sn7pAnPdggRUPFbjs_K-32" value="Cadastro de&amp;nbsp;&lt;div&gt;Cliente encontrado em alguma&amp;nbsp;&lt;/div&gt;&lt;div&gt;base?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="200" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
