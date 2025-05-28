@@ -91,10 +91,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-Sn7pAnPdggRUPFbjs_K-42" value="Geração de arquivo de LOG" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="94" y="-425" width="120" height="60" as="geometry" />
+          <mxGeometry x="94" y="-480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-Sn7pAnPdggRUPFbjs_K-44" value="Envio arquivo ao DWH" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="94" y="-285" width="120" height="60" as="geometry" />
+          <mxGeometry x="94" y="-390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-Sn7pAnPdggRUPFbjs_K-46" value="SN_ASSINANTE" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="-1151.25" width="140" height="120" as="geometry" />
@@ -125,6 +125,9 @@
         </mxCell>
         <mxCell id="-Sn7pAnPdggRUPFbjs_K-57" value="2 blocos de informações:&amp;nbsp;&lt;div&gt;1/ Dados Pessoais e&amp;nbsp;&lt;/div&gt;&lt;div&gt;2/ Dados de Contrato&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Com timestamp de higienização&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.84;sketch=1;curveFitting=1;jiggle=2;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
           <mxGeometry x="10" y="-1160" width="184" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="-Sn7pAnPdggRUPFbjs_K-58" value="Configurar Control-M (?)" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;size=35;position=0.17;position2=0;base=20;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;align=left;" vertex="1" parent="1">
+          <mxGeometry x="234" y="-430" width="136" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
