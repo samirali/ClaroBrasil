@@ -34,7 +34,7 @@
         <mxCell id="-Sn7pAnPdggRUPFbjs_K-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-Sn7pAnPdggRUPFbjs_K-22" target="-Sn7pAnPdggRUPFbjs_K-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-Sn7pAnPdggRUPFbjs_K-22" value="Gera ocorrência de higienização em cada contrato&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="-Sn7pAnPdggRUPFbjs_K-22" value="Gera ocorrência de higienização em&amp;nbsp;&lt;div&gt;cada contrato&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-Sn7pAnPdggRUPFbjs_K-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-Sn7pAnPdggRUPFbjs_K-25" target="-Sn7pAnPdggRUPFbjs_K-27">
@@ -59,7 +59,7 @@
         <mxCell id="-Sn7pAnPdggRUPFbjs_K-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Sn7pAnPdggRUPFbjs_K-27" target="-Sn7pAnPdggRUPFbjs_K-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-Sn7pAnPdggRUPFbjs_K-27" value="Ignora esse registro e aborta atualização" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-Sn7pAnPdggRUPFbjs_K-27" value="Ignora esse registro e aborta essa atualização" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="385" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-Sn7pAnPdggRUPFbjs_K-30" value="Registra LOG de processamento" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
