@@ -163,6 +163,16 @@
         <mxCell id="Y1WF1VeMBglXvYNFT1s_-57" value="NOVO MS&lt;div&gt;Callback Móvel (Notificação de OS)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="670" y="465" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Y1WF1VeMBglXvYNFT1s_-60" value="MS consulta Contratos (considerar contratos BL Flex)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="30" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1WF1VeMBglXvYNFT1s_-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.145;entryY=1;entryDx=0;entryDy=-4.35;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Y1WF1VeMBglXvYNFT1s_-60" target="Y1WF1VeMBglXvYNFT1s_-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="293" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
