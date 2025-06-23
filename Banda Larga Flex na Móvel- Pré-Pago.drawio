@@ -1,9 +1,71 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.4">
   <diagram name="Página-1" id="dEcKvscp2UGSkrleQm4h">
-    <mxGraphModel>
+    <mxGraphModel dx="1042" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Y1WF1VeMBglXvYNFT1s_-1" value="FEEP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1WF1VeMBglXvYNFT1s_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y1WF1VeMBglXvYNFT1s_-2" target="Y1WF1VeMBglXvYNFT1s_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1WF1VeMBglXvYNFT1s_-2" value="Novo produto &quot;BL Flex&quot; de uso exclusivo na móvel. Com flag &quot;no-bill&quot;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="45" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1WF1VeMBglXvYNFT1s_-4" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="270" y="180" width="156" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1WF1VeMBglXvYNFT1s_-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.446;entryY=0.025;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Y1WF1VeMBglXvYNFT1s_-1" target="Y1WF1VeMBglXvYNFT1s_-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="120" />
+              <mxPoint x="340" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y1WF1VeMBglXvYNFT1s_-6" value="[NOVA/ALTERAÇÃO?]&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;API CRIAÇÃO DE CONTRATO&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="466" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1WF1VeMBglXvYNFT1s_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y1WF1VeMBglXvYNFT1s_-7" target="Y1WF1VeMBglXvYNFT1s_-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1WF1VeMBglXvYNFT1s_-7" value="Nova segmentação de cliente BL Flex" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="45" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1WF1VeMBglXvYNFT1s_-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y1WF1VeMBglXvYNFT1s_-9" target="Y1WF1VeMBglXvYNFT1s_-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1WF1VeMBglXvYNFT1s_-9" value="Sem multa ou carência de período (pré-pago)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="90" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1WF1VeMBglXvYNFT1s_-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y1WF1VeMBglXvYNFT1s_-10" target="Y1WF1VeMBglXvYNFT1s_-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1WF1VeMBglXvYNFT1s_-10" value="Sem faturamento" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="150" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1WF1VeMBglXvYNFT1s_-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y1WF1VeMBglXvYNFT1s_-11" target="Y1WF1VeMBglXvYNFT1s_-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1WF1VeMBglXvYNFT1s_-11" value="Somente criação de contrato no NETSMS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="200" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1WF1VeMBglXvYNFT1s_-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y1WF1VeMBglXvYNFT1s_-12" target="Y1WF1VeMBglXvYNFT1s_-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1WF1VeMBglXvYNFT1s_-12" value="Sem análise de viabilidade técnica" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="250" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1WF1VeMBglXvYNFT1s_-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y1WF1VeMBglXvYNFT1s_-13" target="Y1WF1VeMBglXvYNFT1s_-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1WF1VeMBglXvYNFT1s_-13" value="Sem checagem de crédito" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="300" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1WF1VeMBglXvYNFT1s_-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Y1WF1VeMBglXvYNFT1s_-6" target="Y1WF1VeMBglXvYNFT1s_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
