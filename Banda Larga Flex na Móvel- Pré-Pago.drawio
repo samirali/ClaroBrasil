@@ -74,15 +74,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Y1WF1VeMBglXvYNFT1s_-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Y1WF1VeMBglXvYNFT1s_-22" target="Y1WF1VeMBglXvYNFT1s_-29">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="490" y="380" />
-              <mxPoint x="490" y="330" />
-              <mxPoint x="30" y="330" />
-              <mxPoint x="30" y="220" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="Y1WF1VeMBglXvYNFT1s_-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Y1WF1VeMBglXvYNFT1s_-22" target="Y1WF1VeMBglXvYNFT1s_-29">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y1WF1VeMBglXvYNFT1s_-22" value="Jornada Móvel (Salesforce)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="466" y="380" width="120" height="60" as="geometry" />
@@ -112,10 +105,7 @@
           <mxGeometry x="650" y="390" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y1WF1VeMBglXvYNFT1s_-29" value="Visita Técnica BL Flex" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="205" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Y1WF1VeMBglXvYNFT1s_-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Y1WF1VeMBglXvYNFT1s_-29" target="Y1WF1VeMBglXvYNFT1s_-4">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="268" y="300" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Y1WF1VeMBglXvYNFT1s_-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y1WF1VeMBglXvYNFT1s_-32" target="Y1WF1VeMBglXvYNFT1s_-22">
           <mxGeometry relative="1" as="geometry" />
@@ -152,6 +142,9 @@
         </mxCell>
         <mxCell id="Y1WF1VeMBglXvYNFT1s_-47" value="Retomada de serviço BL Flex suspenso&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="680" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1WF1VeMBglXvYNFT1s_-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Y1WF1VeMBglXvYNFT1s_-29" target="Y1WF1VeMBglXvYNFT1s_-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
