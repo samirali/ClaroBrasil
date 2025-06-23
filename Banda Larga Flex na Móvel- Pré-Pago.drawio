@@ -69,7 +69,7 @@
         <mxCell id="Y1WF1VeMBglXvYNFT1s_-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y1WF1VeMBglXvYNFT1s_-22" target="Y1WF1VeMBglXvYNFT1s_-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Y1WF1VeMBglXvYNFT1s_-45" value="Alterações&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Y1WF1VeMBglXvYNFT1s_-44">
+        <mxCell id="Y1WF1VeMBglXvYNFT1s_-45" value="Alterações&amp;nbsp;&lt;div&gt;no contrato&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Y1WF1VeMBglXvYNFT1s_-44">
           <mxGeometry x="0.1434" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
