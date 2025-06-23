@@ -66,6 +66,74 @@
         <mxCell id="Y1WF1VeMBglXvYNFT1s_-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Y1WF1VeMBglXvYNFT1s_-6" target="Y1WF1VeMBglXvYNFT1s_-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Y1WF1VeMBglXvYNFT1s_-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y1WF1VeMBglXvYNFT1s_-22" target="Y1WF1VeMBglXvYNFT1s_-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1WF1VeMBglXvYNFT1s_-45" value="Alterações&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Y1WF1VeMBglXvYNFT1s_-44">
+          <mxGeometry x="0.1434" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y1WF1VeMBglXvYNFT1s_-22" value="Jornada Móvel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="466" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1WF1VeMBglXvYNFT1s_-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y1WF1VeMBglXvYNFT1s_-23" target="Y1WF1VeMBglXvYNFT1s_-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1WF1VeMBglXvYNFT1s_-23" value="Venda Combo Flex (Claro Flex Móvel e BL Flex Residencial)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="380" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1WF1VeMBglXvYNFT1s_-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y1WF1VeMBglXvYNFT1s_-24" target="Y1WF1VeMBglXvYNFT1s_-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1WF1VeMBglXvYNFT1s_-24" value="Mesma forma de pagamento (Pay-per-Use), cartão crédito recorrente." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="430" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1WF1VeMBglXvYNFT1s_-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y1WF1VeMBglXvYNFT1s_-25" target="Y1WF1VeMBglXvYNFT1s_-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1WF1VeMBglXvYNFT1s_-25" value="Cria Solic e OS de venda/alteração no contrato" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="340" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1WF1VeMBglXvYNFT1s_-28" value="Aprovisionamento BL Flex Residencial" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="205" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1WF1VeMBglXvYNFT1s_-29" value="Visita Técnica BL Flex" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="270" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1WF1VeMBglXvYNFT1s_-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Y1WF1VeMBglXvYNFT1s_-28" target="Y1WF1VeMBglXvYNFT1s_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1WF1VeMBglXvYNFT1s_-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Y1WF1VeMBglXvYNFT1s_-29" target="Y1WF1VeMBglXvYNFT1s_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1WF1VeMBglXvYNFT1s_-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y1WF1VeMBglXvYNFT1s_-32" target="Y1WF1VeMBglXvYNFT1s_-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1WF1VeMBglXvYNFT1s_-32" value="Billing do Combo realizado na móvel" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="480" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1WF1VeMBglXvYNFT1s_-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y1WF1VeMBglXvYNFT1s_-33" target="Y1WF1VeMBglXvYNFT1s_-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1WF1VeMBglXvYNFT1s_-33" value="Taxa de adesão à BL cobrada na Móvel" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="520" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1WF1VeMBglXvYNFT1s_-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y1WF1VeMBglXvYNFT1s_-34" target="Y1WF1VeMBglXvYNFT1s_-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1WF1VeMBglXvYNFT1s_-34" value="Caso cliente cancele produto móvel, produto BL continua ativo e com faturamento na móvel" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="570" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1WF1VeMBglXvYNFT1s_-36" value="CRM da BL Flex (visitas técnicas)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="520" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1WF1VeMBglXvYNFT1s_-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y1WF1VeMBglXvYNFT1s_-37" target="Y1WF1VeMBglXvYNFT1s_-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y1WF1VeMBglXvYNFT1s_-37" value="Caso cliente não renove BL, &lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;cancelamento será realizado em X dias.&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="630" width="160" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
