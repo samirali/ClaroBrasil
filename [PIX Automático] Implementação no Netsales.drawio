@@ -169,7 +169,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xfqibo_xOECVyTAig-UP-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="DJBBU9K6EYR6mXCmILdO-1" source="DJBBU9K6EYR6mXCmILdO-12" target="Xfqibo_xOECVyTAig-UP-6">
+        <mxCell id="Xfqibo_xOECVyTAig-UP-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="DJBBU9K6EYR6mXCmILdO-1" source="DJBBU9K6EYR6mXCmILdO-12" target="Xfqibo_xOECVyTAig-UP-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Xfqibo_xOECVyTAig-UP-8" value="Sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xfqibo_xOECVyTAig-UP-7">
@@ -283,31 +283,26 @@
         <mxCell id="Xfqibo_xOECVyTAig-UP-1" value="Vai Mudar&amp;nbsp;&lt;div&gt;pra PIX?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="DJBBU9K6EYR6mXCmILdO-1">
           <mxGeometry x="560" y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Xfqibo_xOECVyTAig-UP-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="DJBBU9K6EYR6mXCmILdO-1" source="Xfqibo_xOECVyTAig-UP-6" target="Xfqibo_xOECVyTAig-UP-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="454" y="240" />
-              <mxPoint x="600" y="240" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="Xfqibo_xOECVyTAig-UP-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="DJBBU9K6EYR6mXCmILdO-1" source="Xfqibo_xOECVyTAig-UP-6" target="Xfqibo_xOECVyTAig-UP-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Xfqibo_xOECVyTAig-UP-6" value="Chama API de Checkout do HUB de Pagamento" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="DJBBU9K6EYR6mXCmILdO-1">
-          <mxGeometry x="394" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="394" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xfqibo_xOECVyTAig-UP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="DJBBU9K6EYR6mXCmILdO-1" source="Xfqibo_xOECVyTAig-UP-9" target="Xfqibo_xOECVyTAig-UP-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Xfqibo_xOECVyTAig-UP-9" value="Recebe confirmação do HUB que solicitação foi recebida (protocolo)" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="DJBBU9K6EYR6mXCmILdO-1">
-          <mxGeometry x="540" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="394" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xfqibo_xOECVyTAig-UP-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="DJBBU9K6EYR6mXCmILdO-1" source="Xfqibo_xOECVyTAig-UP-11" target="Xfqibo_xOECVyTAig-UP-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Xfqibo_xOECVyTAig-UP-11" value="Registra ocorrência no NETSMS com informação sobre solicitação de PIX" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="DJBBU9K6EYR6mXCmILdO-1">
-          <mxGeometry x="354" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="208" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xfqibo_xOECVyTAig-UP-13" value="" style="group" vertex="1" connectable="0" parent="DJBBU9K6EYR6mXCmILdO-1">
-          <mxGeometry x="230" y="280" width="60" height="70" as="geometry" />
+          <mxGeometry x="84" y="370" width="60" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Xfqibo_xOECVyTAig-UP-14" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="Xfqibo_xOECVyTAig-UP-13">
           <mxGeometry x="10" width="40" height="40" as="geometry" />
@@ -315,16 +310,19 @@
         <mxCell id="Xfqibo_xOECVyTAig-UP-15" value="Encerra Atendimento /Processo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Xfqibo_xOECVyTAig-UP-13">
           <mxGeometry y="46" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Xfqibo_xOECVyTAig-UP-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="DJBBU9K6EYR6mXCmILdO-1" source="Xfqibo_xOECVyTAig-UP-18" target="Xfqibo_xOECVyTAig-UP-9">
+        <mxCell id="Xfqibo_xOECVyTAig-UP-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="DJBBU9K6EYR6mXCmILdO-1" source="Xfqibo_xOECVyTAig-UP-18" target="Xfqibo_xOECVyTAig-UP-9">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="749" y="240" />
-              <mxPoint x="600" y="240" />
-            </Array>
+            <mxPoint x="749" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xfqibo_xOECVyTAig-UP-18" value="Chama API de Checkout do HUB de Pagamento" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="DJBBU9K6EYR6mXCmILdO-1">
+        <mxCell id="Xfqibo_xOECVyTAig-UP-18" value="Chama API de Checkin do HUB de Pagamento" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="DJBBU9K6EYR6mXCmILdO-1">
           <mxGeometry x="689" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xfqibo_xOECVyTAig-UP-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="DJBBU9K6EYR6mXCmILdO-1" source="Xfqibo_xOECVyTAig-UP-24" target="Xfqibo_xOECVyTAig-UP-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xfqibo_xOECVyTAig-UP-24" value="Altera método na base NETSMS de PIX pra outro método" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="DJBBU9K6EYR6mXCmILdO-1">
+          <mxGeometry x="394" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
