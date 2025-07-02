@@ -368,7 +368,7 @@
         <mxCell id="A4WU6u7f8pELEbbjd9SM-33" value="Altera método na base NETSMS de PIX pra outro método" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="A4WU6u7f8pELEbbjd9SM-1">
           <mxGeometry x="413" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="A4WU6u7f8pELEbbjd9SM-34" value="CENÁRIO DE CONSUMO DE API PELA APLICAÇÃO NETSMS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=default;" vertex="1" parent="A4WU6u7f8pELEbbjd9SM-1">
+        <mxCell id="A4WU6u7f8pELEbbjd9SM-34" value="CENÁRIO SEM CONSUMO DE API PELA APLICAÇÃO NETSMS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=default;" vertex="1" parent="A4WU6u7f8pELEbbjd9SM-1">
           <mxGeometry x="170" y="10" width="487" height="30" as="geometry" />
         </mxCell>
       </root>
