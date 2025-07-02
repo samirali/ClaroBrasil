@@ -186,83 +186,8 @@
         <mxCell id="DJBBU9K6EYR6mXCmILdO-14" value="Processo AS-IS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DJBBU9K6EYR6mXCmILdO-1">
           <mxGeometry x="570" y="190" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DJBBU9K6EYR6mXCmILdO-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="DJBBU9K6EYR6mXCmILdO-1" source="DJBBU9K6EYR6mXCmILdO-16" target="DJBBU9K6EYR6mXCmILdO-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="DJBBU9K6EYR6mXCmILdO-16" value="Coleta informações bancárias referente ao PIX (mesmas informações do DCC)" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="DJBBU9K6EYR6mXCmILdO-1">
-          <mxGeometry x="449" y="550" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="DJBBU9K6EYR6mXCmILdO-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="DJBBU9K6EYR6mXCmILdO-1" source="DJBBU9K6EYR6mXCmILdO-18" target="DJBBU9K6EYR6mXCmILdO-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="DJBBU9K6EYR6mXCmILdO-18" value="Chama API (reuso) Bancos cadastrados BACEN" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="DJBBU9K6EYR6mXCmILdO-1">
-          <mxGeometry x="249" y="550" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="DJBBU9K6EYR6mXCmILdO-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="DJBBU9K6EYR6mXCmILdO-1" source="DJBBU9K6EYR6mXCmILdO-20" target="DJBBU9K6EYR6mXCmILdO-36">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="DJBBU9K6EYR6mXCmILdO-20" value="Com NR de Contrato, chama API HUB Pagamento pra solicitar PIX&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="DJBBU9K6EYR6mXCmILdO-1">
-          <mxGeometry x="49" y="650" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="DJBBU9K6EYR6mXCmILdO-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="DJBBU9K6EYR6mXCmILdO-1" source="DJBBU9K6EYR6mXCmILdO-22" target="DJBBU9K6EYR6mXCmILdO-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="DJBBU9K6EYR6mXCmILdO-22" value="Grava proposta/contrato com método de pagamento BOLETO." style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="DJBBU9K6EYR6mXCmILdO-1">
-          <mxGeometry x="49" y="550" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="DJBBU9K6EYR6mXCmILdO-23" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="DJBBU9K6EYR6mXCmILdO-1">
           <mxGeometry x="30" y="40" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="DJBBU9K6EYR6mXCmILdO-25" value="Nova opção de meio de pagamento cadastrada no NETSMS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="DJBBU9K6EYR6mXCmILdO-1">
-          <mxGeometry x="659" y="490" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="DJBBU9K6EYR6mXCmILdO-26" value="Registrar dados bancários do Cliente. São os mesmos do débito em conta." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="DJBBU9K6EYR6mXCmILdO-1">
-          <mxGeometry x="659" y="590" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="DJBBU9K6EYR6mXCmILdO-27" value="Validação de bancos autorizados pra PIX" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="DJBBU9K6EYR6mXCmILdO-1">
-          <mxGeometry x="659" y="670" width="150" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="DJBBU9K6EYR6mXCmILdO-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;strokeColor=#B3B3B3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="DJBBU9K6EYR6mXCmILdO-1" source="DJBBU9K6EYR6mXCmILdO-16" target="DJBBU9K6EYR6mXCmILdO-26">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="629" y="670" as="sourcePoint" />
-            <mxPoint x="749" y="760" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DJBBU9K6EYR6mXCmILdO-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;dashed=1;strokeColor=#B3B3B3;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="DJBBU9K6EYR6mXCmILdO-1" source="DJBBU9K6EYR6mXCmILdO-18" target="DJBBU9K6EYR6mXCmILdO-27">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="319" y="650" as="sourcePoint" />
-            <mxPoint x="439" y="740" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DJBBU9K6EYR6mXCmILdO-30" value="- Request com informações do cliente;&lt;div&gt;- HUB faz interface com o banco;&lt;/div&gt;&lt;div&gt;- Cliente recebe comunicado do banco e aprova o PIX recorrente;&lt;/div&gt;&lt;div&gt;- HUB recebe confirmação do Banco;&lt;/div&gt;&lt;div&gt;- HUB atualiza a base NETSMS com alteração de boleto para PIX Recorrente;&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fillColor=#eeeeee;strokeColor=#36393d;glass=0;shadow=0;" vertex="1" parent="DJBBU9K6EYR6mXCmILdO-1">
-          <mxGeometry x="359" y="670" width="210" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="DJBBU9K6EYR6mXCmILdO-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.047;exitY=0.647;exitDx=0;exitDy=0;dashed=1;strokeColor=#B3B3B3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="DJBBU9K6EYR6mXCmILdO-1" source="DJBBU9K6EYR6mXCmILdO-20" target="DJBBU9K6EYR6mXCmILdO-30">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="449" y="660" as="sourcePoint" />
-            <mxPoint x="829" y="735" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DJBBU9K6EYR6mXCmILdO-32" value="" style="group" vertex="1" connectable="0" parent="DJBBU9K6EYR6mXCmILdO-1">
-          <mxGeometry x="279" y="850" width="60" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="DJBBU9K6EYR6mXCmILdO-33" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="DJBBU9K6EYR6mXCmILdO-32">
-          <mxGeometry x="10" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="DJBBU9K6EYR6mXCmILdO-34" value="Encerra Atendimento /Processo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DJBBU9K6EYR6mXCmILdO-32">
-          <mxGeometry y="46" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="DJBBU9K6EYR6mXCmILdO-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="DJBBU9K6EYR6mXCmILdO-1" source="DJBBU9K6EYR6mXCmILdO-36" target="DJBBU9K6EYR6mXCmILdO-38">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="DJBBU9K6EYR6mXCmILdO-36" value="Recebe confirmação do HUB que solicitação foi recebida (protocolo)" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="DJBBU9K6EYR6mXCmILdO-1">
-          <mxGeometry x="49" y="750" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="DJBBU9K6EYR6mXCmILdO-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="DJBBU9K6EYR6mXCmILdO-1" source="DJBBU9K6EYR6mXCmILdO-38" target="DJBBU9K6EYR6mXCmILdO-33">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="DJBBU9K6EYR6mXCmILdO-38" value="Registra ocorrência no NETSMS com informação sobre solicitação de PIX" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="DJBBU9K6EYR6mXCmILdO-1">
-          <mxGeometry x="49" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xfqibo_xOECVyTAig-UP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="DJBBU9K6EYR6mXCmILdO-1" source="Xfqibo_xOECVyTAig-UP-1" target="DJBBU9K6EYR6mXCmILdO-13">
           <mxGeometry relative="1" as="geometry" />
@@ -286,7 +211,7 @@
         <mxCell id="Xfqibo_xOECVyTAig-UP-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="DJBBU9K6EYR6mXCmILdO-1" source="Xfqibo_xOECVyTAig-UP-6" target="Xfqibo_xOECVyTAig-UP-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xfqibo_xOECVyTAig-UP-6" value="Chama API de Checkout do HUB de Pagamento" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="DJBBU9K6EYR6mXCmILdO-1">
+        <mxCell id="Xfqibo_xOECVyTAig-UP-6" value="Chama API de &lt;b&gt;Checkout &lt;/b&gt;do HUB de Pagamento" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="DJBBU9K6EYR6mXCmILdO-1">
           <mxGeometry x="394" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xfqibo_xOECVyTAig-UP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="DJBBU9K6EYR6mXCmILdO-1" source="Xfqibo_xOECVyTAig-UP-9" target="Xfqibo_xOECVyTAig-UP-11">
@@ -315,8 +240,8 @@
             <mxPoint x="749" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xfqibo_xOECVyTAig-UP-18" value="Chama API de Checkin do HUB de Pagamento" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="DJBBU9K6EYR6mXCmILdO-1">
-          <mxGeometry x="689" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="Xfqibo_xOECVyTAig-UP-18" value="Chama API de &lt;b&gt;Checkin&lt;/b&gt; do HUB de Pagamento" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="DJBBU9K6EYR6mXCmILdO-1">
+          <mxGeometry x="650" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xfqibo_xOECVyTAig-UP-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="DJBBU9K6EYR6mXCmILdO-1" source="Xfqibo_xOECVyTAig-UP-24" target="Xfqibo_xOECVyTAig-UP-6">
           <mxGeometry relative="1" as="geometry" />
