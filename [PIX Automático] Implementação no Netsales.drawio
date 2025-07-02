@@ -289,11 +289,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="A4WU6u7f8pELEbbjd9SM-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="A4WU6u7f8pELEbbjd9SM-1" source="A4WU6u7f8pELEbbjd9SM-12" target="A4WU6u7f8pELEbbjd9SM-33">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="473" y="290" />
+              <mxPoint x="550" y="290" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="A4WU6u7f8pELEbbjd9SM-11" value="Sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="A4WU6u7f8pELEbbjd9SM-10">
           <mxGeometry x="-0.0743" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-80" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A4WU6u7f8pELEbbjd9SM-12" value="É PIX Atualmente?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="A4WU6u7f8pELEbbjd9SM-1">
