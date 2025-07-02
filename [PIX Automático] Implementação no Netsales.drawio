@@ -316,18 +316,23 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_QivcgFr1-X63qTtewcC-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="A4WU6u7f8pELEbbjd9SM-1" source="A4WU6u7f8pELEbbjd9SM-20" target="A4WU6u7f8pELEbbjd9SM-33">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="_QivcgFr1-X63qTtewcC-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="A4WU6u7f8pELEbbjd9SM-1" source="A4WU6u7f8pELEbbjd9SM-20" target="VaLCoL5UoCd-NXavRcFz-0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="619" y="180" />
+              <mxPoint x="620" y="180" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="_QivcgFr1-X63qTtewcC-4" value="Sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_QivcgFr1-X63qTtewcC-3">
           <mxGeometry x="-0.1329" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A4WU6u7f8pELEbbjd9SM-20" value="Vai Mudar&amp;nbsp;&lt;div&gt;pra PIX?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="A4WU6u7f8pELEbbjd9SM-1">
           <mxGeometry x="579" y="80" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="A4WU6u7f8pELEbbjd9SM-22" value="Chama API de &lt;b&gt;Checkout &lt;/b&gt;do HUB de Pagamento" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="A4WU6u7f8pELEbbjd9SM-1">
+        <mxCell id="A4WU6u7f8pELEbbjd9SM-22" value="API de &lt;b&gt;Checkout &lt;/b&gt;do HUB de Pagamento" style="whiteSpace=wrap;html=1;" vertex="1" parent="A4WU6u7f8pELEbbjd9SM-1">
           <mxGeometry x="141" y="305" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A4WU6u7f8pELEbbjd9SM-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="A4WU6u7f8pELEbbjd9SM-1" source="A4WU6u7f8pELEbbjd9SM-24" target="A4WU6u7f8pELEbbjd9SM-26">
@@ -351,14 +356,14 @@
         <mxCell id="A4WU6u7f8pELEbbjd9SM-29" value="Encerra Atendimento /Processo" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="A4WU6u7f8pELEbbjd9SM-27">
           <mxGeometry y="46" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="A4WU6u7f8pELEbbjd9SM-31" value="Chama API de &lt;b&gt;Checkin&lt;/b&gt; do HUB de Pagamento" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="A4WU6u7f8pELEbbjd9SM-1">
+        <mxCell id="A4WU6u7f8pELEbbjd9SM-31" value="API de &lt;b&gt;Checkin&lt;/b&gt; do HUB de Pagamento" style="whiteSpace=wrap;html=1;" vertex="1" parent="A4WU6u7f8pELEbbjd9SM-1">
           <mxGeometry x="294" y="305" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_QivcgFr1-X63qTtewcC-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="A4WU6u7f8pELEbbjd9SM-1" source="A4WU6u7f8pELEbbjd9SM-33" target="_QivcgFr1-X63qTtewcC-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A4WU6u7f8pELEbbjd9SM-33" value="Atualiza &lt;b&gt;nova tabela controle&lt;/b&gt; pra registro de mudança de PIX pra outro método" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="A4WU6u7f8pELEbbjd9SM-1">
-          <mxGeometry x="490" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A4WU6u7f8pELEbbjd9SM-34" value="CENÁRIO SEM CONSUMO DE API PELA APLICAÇÃO NETSMS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;strokeColor=default;" vertex="1" parent="A4WU6u7f8pELEbbjd9SM-1">
           <mxGeometry x="170" y="10" width="487" height="30" as="geometry" />
@@ -386,15 +391,36 @@
           <mxGeometry x="-91" y="295" width="210" height="130" as="geometry" />
         </mxCell>
         <mxCell id="_QivcgFr1-X63qTtewcC-5" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="A4WU6u7f8pELEbbjd9SM-1">
-          <mxGeometry x="475" y="295" width="150" height="80" as="geometry" />
+          <mxGeometry x="475" y="410" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_QivcgFr1-X63qTtewcC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="A4WU6u7f8pELEbbjd9SM-1" source="dptLYZuMqrq1BGWTkK1H-0" target="_QivcgFr1-X63qTtewcC-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="450" y="220" />
-              <mxPoint x="450" y="335" />
+              <mxPoint x="450" y="450" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VaLCoL5UoCd-NXavRcFz-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="A4WU6u7f8pELEbbjd9SM-1" source="VaLCoL5UoCd-NXavRcFz-0" target="VaLCoL5UoCd-NXavRcFz-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VaLCoL5UoCd-NXavRcFz-0" value="Consulta &lt;b&gt;Nova Tabela (NETSMS)&lt;/b&gt; Bancos Habilitados PIX" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="A4WU6u7f8pELEbbjd9SM-1">
+          <mxGeometry x="560" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VaLCoL5UoCd-NXavRcFz-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="A4WU6u7f8pELEbbjd9SM-1" source="VaLCoL5UoCd-NXavRcFz-1" target="A4WU6u7f8pELEbbjd9SM-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaLCoL5UoCd-NXavRcFz-4" value="Sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="VaLCoL5UoCd-NXavRcFz-3">
+          <mxGeometry x="0.054" y="1" relative="1" as="geometry">
+            <mxPoint x="-27" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaLCoL5UoCd-NXavRcFz-1" value="Pode Mudar pra PIX?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="A4WU6u7f8pELEbbjd9SM-1">
+          <mxGeometry x="710" y="200" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
