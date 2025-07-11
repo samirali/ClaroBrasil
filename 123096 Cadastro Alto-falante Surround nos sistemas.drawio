@@ -196,8 +196,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="60" y="50" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="80" y="50" />
-              <mxPoint x="80" y="150" />
+              <mxPoint x="100" y="50" />
+              <mxPoint x="100" y="50" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -208,7 +208,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="luN2ybg4KDdOnXXhsMmT-5" value="NETSALES" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="luN2ybg4KDdOnXXhsMmT-1">
-          <mxGeometry x="100" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="luN2ybg4KDdOnXXhsMmT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="luN2ybg4KDdOnXXhsMmT-1" source="luN2ybg4KDdOnXXhsMmT-7" target="luN2ybg4KDdOnXXhsMmT-9">
           <mxGeometry relative="1" as="geometry">
