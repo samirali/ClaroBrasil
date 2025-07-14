@@ -1024,7 +1024,7 @@
           <mxGeometry x="260" y="63" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2wvtM7Lglq_p7TNXkTcN-4" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="2wvtM7Lglq_p7TNXkTcN-1">
-          <mxGeometry x="212.5" y="530" width="215" height="80" as="geometry" />
+          <mxGeometry x="212.5" y="520" width="215" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2wvtM7Lglq_p7TNXkTcN-5" value="NETSMS (tabela FEPP)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="2wvtM7Lglq_p7TNXkTcN-1">
           <mxGeometry x="630" y="155" width="119" height="70" as="geometry" />
@@ -1090,16 +1090,13 @@
           <mxGeometry x="280" y="282" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2wvtM7Lglq_p7TNXkTcN-22" value="Fluxo abertura Solic Contratação ALC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=2" vertex="1" parent="2wvtM7Lglq_p7TNXkTcN-1">
-          <mxGeometry x="140" y="470" width="110" height="50" as="geometry" />
+          <mxGeometry x="140" y="425" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2wvtM7Lglq_p7TNXkTcN-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2wvtM7Lglq_p7TNXkTcN-1" source="2wvtM7Lglq_p7TNXkTcN-36" target="2wvtM7Lglq_p7TNXkTcN-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2wvtM7Lglq_p7TNXkTcN-36" value="&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Abre Solic e&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;contrata produto&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="2wvtM7Lglq_p7TNXkTcN-1">
           <mxGeometry x="260" y="420" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="2wvtM7Lglq_p7TNXkTcN-39" value="Consome proc Contratação alacarte" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=2" vertex="1" parent="2wvtM7Lglq_p7TNXkTcN-1">
-          <mxGeometry x="414" y="660" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cHrcFGBDMYbDmxjYwloW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2wvtM7Lglq_p7TNXkTcN-1" source="cHrcFGBDMYbDmxjYwloW-0" target="2wvtM7Lglq_p7TNXkTcN-5">
           <mxGeometry relative="1" as="geometry" />
