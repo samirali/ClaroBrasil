@@ -863,17 +863,14 @@
       <root>
         <mxCell id="_I0JQde9UBDe8SF4PbuB-0" />
         <mxCell id="_I0JQde9UBDe8SF4PbuB-1" parent="_I0JQde9UBDe8SF4PbuB-0" />
-        <mxCell id="_I0JQde9UBDe8SF4PbuB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="_I0JQde9UBDe8SF4PbuB-1" source="_I0JQde9UBDe8SF4PbuB-3" target="_I0JQde9UBDe8SF4PbuB-20">
+        <mxCell id="AXDOh_LNb9QVwvC5d8CK-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_I0JQde9UBDe8SF4PbuB-1" source="_I0JQde9UBDe8SF4PbuB-3" target="AXDOh_LNb9QVwvC5d8CK-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_I0JQde9UBDe8SF4PbuB-3" value="API STW" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="_I0JQde9UBDe8SF4PbuB-1">
+        <mxCell id="_I0JQde9UBDe8SF4PbuB-3" value="API CONTRATAÇÃO ALC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="_I0JQde9UBDe8SF4PbuB-1">
           <mxGeometry x="260" y="63" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_I0JQde9UBDe8SF4PbuB-20" value="MS ORCH SalesCustomerOrders" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="_I0JQde9UBDe8SF4PbuB-1">
-          <mxGeometry x="260" y="153" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="_I0JQde9UBDe8SF4PbuB-23" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="_I0JQde9UBDe8SF4PbuB-1">
-          <mxGeometry x="111.5" y="422" width="215" height="80" as="geometry" />
+          <mxGeometry x="212.5" y="400" width="215" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_I0JQde9UBDe8SF4PbuB-28" value="PCO" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="_I0JQde9UBDe8SF4PbuB-1">
           <mxGeometry x="20" y="362" width="119" height="60" as="geometry" />
@@ -906,7 +903,18 @@
           <mxGeometry x="552.5" y="110" width="257.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_I0JQde9UBDe8SF4PbuB-63" value="Novo Atlas" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="_I0JQde9UBDe8SF4PbuB-1">
-          <mxGeometry x="415" y="369" width="119" height="60" as="geometry" />
+          <mxGeometry x="440" y="170" width="119" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AXDOh_LNb9QVwvC5d8CK-0" value="CA_ID preenchido?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="_I0JQde9UBDe8SF4PbuB-1">
+          <mxGeometry x="280" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AXDOh_LNb9QVwvC5d8CK-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="_I0JQde9UBDe8SF4PbuB-1" source="AXDOh_LNb9QVwvC5d8CK-0" target="_I0JQde9UBDe8SF4PbuB-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AXDOh_LNb9QVwvC5d8CK-3" value="Não" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AXDOh_LNb9QVwvC5d8CK-2">
+          <mxGeometry x="-0.1778" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
