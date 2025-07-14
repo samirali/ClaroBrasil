@@ -872,9 +872,6 @@
         <mxCell id="_I0JQde9UBDe8SF4PbuB-23" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="_I0JQde9UBDe8SF4PbuB-1">
           <mxGeometry x="212.5" y="530" width="215" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_I0JQde9UBDe8SF4PbuB-28" value="PCO" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="_I0JQde9UBDe8SF4PbuB-1">
-          <mxGeometry x="40" y="250" width="119" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="_I0JQde9UBDe8SF4PbuB-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="_I0JQde9UBDe8SF4PbuB-1" source="_I0JQde9UBDe8SF4PbuB-45" target="_I0JQde9UBDe8SF4PbuB-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
