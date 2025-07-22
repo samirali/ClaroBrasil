@@ -224,7 +224,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3K5WDLt7FC1SQIRZlHOI-6" value="SoundBox&amp;nbsp;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;VSB/IP&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3K5WDLt7FC1SQIRZlHOI-5">
+        <mxCell id="3K5WDLt7FC1SQIRZlHOI-6" value="SoundBox&amp;nbsp;&lt;div&gt;(&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;VSB/IP)&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3K5WDLt7FC1SQIRZlHOI-5">
           <mxGeometry x="-0.5667" y="-2" relative="1" as="geometry">
             <mxPoint x="31" y="-2" as="offset" />
           </mxGeometry>
@@ -232,7 +232,7 @@
         <mxCell id="3K5WDLt7FC1SQIRZlHOI-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="luN2ybg4KDdOnXXhsMmT-1" source="3K5WDLt7FC1SQIRZlHOI-1" target="3K5WDLt7FC1SQIRZlHOI-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3K5WDLt7FC1SQIRZlHOI-9" value="SoundBox VSB/IP + WSS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3K5WDLt7FC1SQIRZlHOI-8">
+        <mxCell id="3K5WDLt7FC1SQIRZlHOI-9" value="SoundBox Plus&amp;nbsp;&lt;div&gt;(VSB/IP + WSS)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3K5WDLt7FC1SQIRZlHOI-8">
           <mxGeometry x="-0.5778" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -244,7 +244,7 @@
           <mxGeometry x="630" y="125" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3K5WDLt7FC1SQIRZlHOI-4" value="AS-IS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="luN2ybg4KDdOnXXhsMmT-1">
-          <mxGeometry x="540" y="240" width="60" height="30" as="geometry" />
+          <mxGeometry x="615" y="100" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3K5WDLt7FC1SQIRZlHOI-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="luN2ybg4KDdOnXXhsMmT-1" source="3K5WDLt7FC1SQIRZlHOI-7" target="3K5WDLt7FC1SQIRZlHOI-11">
           <mxGeometry relative="1" as="geometry" />
@@ -299,8 +299,27 @@
         <mxCell id="3K5WDLt7FC1SQIRZlHOI-24" value="Venda Base" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="luN2ybg4KDdOnXXhsMmT-1">
           <mxGeometry x="270" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3K5WDLt7FC1SQIRZlHOI-25" value="TV" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="luN2ybg4KDdOnXXhsMmT-1">
+        <mxCell id="3K5WDLt7FC1SQIRZlHOI-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="luN2ybg4KDdOnXXhsMmT-1" source="3K5WDLt7FC1SQIRZlHOI-25" target="3K5WDLt7FC1SQIRZlHOI-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3K5WDLt7FC1SQIRZlHOI-31" value="Sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3K5WDLt7FC1SQIRZlHOI-30">
+          <mxGeometry x="-0.1392" y="-2" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3K5WDLt7FC1SQIRZlHOI-25" value="Tem TV SoundBox?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="luN2ybg4KDdOnXXhsMmT-1">
           <mxGeometry x="421" y="290" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3K5WDLt7FC1SQIRZlHOI-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="luN2ybg4KDdOnXXhsMmT-1" source="3K5WDLt7FC1SQIRZlHOI-32" target="3K5WDLt7FC1SQIRZlHOI-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3K5WDLt7FC1SQIRZlHOI-32" value="Compatível com&amp;nbsp;&lt;div&gt;Surround&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="luN2ybg4KDdOnXXhsMmT-1">
+          <mxGeometry x="560" y="290" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3K5WDLt7FC1SQIRZlHOI-34" value="Mudança de Pacote (produto principal + SVA)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="luN2ybg4KDdOnXXhsMmT-1">
+          <mxGeometry x="700" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
