@@ -207,37 +207,14 @@
         <mxCell id="luN2ybg4KDdOnXXhsMmT-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="luN2ybg4KDdOnXXhsMmT-1" source="luN2ybg4KDdOnXXhsMmT-5" target="luN2ybg4KDdOnXXhsMmT-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="3K5WDLt7FC1SQIRZlHOI-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="luN2ybg4KDdOnXXhsMmT-1" source="luN2ybg4KDdOnXXhsMmT-5" target="3K5WDLt7FC1SQIRZlHOI-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="luN2ybg4KDdOnXXhsMmT-5" value="NETSALES" style="rounded=1;whiteSpace=wrap;html=1;" parent="luN2ybg4KDdOnXXhsMmT-1" vertex="1">
           <mxGeometry x="100" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="luN2ybg4KDdOnXXhsMmT-7" value="Venda Prospect" style="rounded=1;whiteSpace=wrap;html=1;" parent="luN2ybg4KDdOnXXhsMmT-1" vertex="1">
           <mxGeometry x="270" y="110" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="luN2ybg4KDdOnXXhsMmT-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="luN2ybg4KDdOnXXhsMmT-1" target="luN2ybg4KDdOnXXhsMmT-11" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="660" y="470" />
-            </Array>
-            <mxPoint x="660" y="390" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="luN2ybg4KDdOnXXhsMmT-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="luN2ybg4KDdOnXXhsMmT-1" source="luN2ybg4KDdOnXXhsMmT-11" target="luN2ybg4KDdOnXXhsMmT-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="luN2ybg4KDdOnXXhsMmT-11" value="Cria Proposta" style="rounded=1;whiteSpace=wrap;html=1;" parent="luN2ybg4KDdOnXXhsMmT-1" vertex="1">
-          <mxGeometry x="430" y="395" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="luN2ybg4KDdOnXXhsMmT-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="luN2ybg4KDdOnXXhsMmT-1" source="luN2ybg4KDdOnXXhsMmT-13" target="luN2ybg4KDdOnXXhsMmT-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="luN2ybg4KDdOnXXhsMmT-13" value="Abre Solics (Novas OS)" style="rounded=1;whiteSpace=wrap;html=1;" parent="luN2ybg4KDdOnXXhsMmT-1" vertex="1">
-          <mxGeometry x="270" y="440" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="luN2ybg4KDdOnXXhsMmT-14" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#000000;" parent="luN2ybg4KDdOnXXhsMmT-1" vertex="1">
-          <mxGeometry x="140" y="455" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="luN2ybg4KDdOnXXhsMmT-15" value="Cria/Atualiza Contrato" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="luN2ybg4KDdOnXXhsMmT-1" vertex="1">
-          <mxGeometry x="125" y="485" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3K5WDLt7FC1SQIRZlHOI-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="luN2ybg4KDdOnXXhsMmT-1" source="3K5WDLt7FC1SQIRZlHOI-1" target="3K5WDLt7FC1SQIRZlHOI-3">
           <mxGeometry relative="1" as="geometry" />
@@ -310,6 +287,15 @@
         </mxCell>
         <mxCell id="3K5WDLt7FC1SQIRZlHOI-21" value="FEPP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="luN2ybg4KDdOnXXhsMmT-1">
           <mxGeometry x="100" y="-60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3K5WDLt7FC1SQIRZlHOI-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="luN2ybg4KDdOnXXhsMmT-1" source="3K5WDLt7FC1SQIRZlHOI-24" target="3K5WDLt7FC1SQIRZlHOI-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3K5WDLt7FC1SQIRZlHOI-24" value="Venda Base" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="luN2ybg4KDdOnXXhsMmT-1">
+          <mxGeometry x="270" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3K5WDLt7FC1SQIRZlHOI-25" value="TV" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="luN2ybg4KDdOnXXhsMmT-1">
+          <mxGeometry x="421" y="290" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
