@@ -188,7 +188,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="v3" id="82qEkYYtdOLmZOhbnPRo">
-    <mxGraphModel dx="946" dy="1732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1261" dy="1920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="luN2ybg4KDdOnXXhsMmT-0" />
         <mxCell id="luN2ybg4KDdOnXXhsMmT-1" parent="luN2ybg4KDdOnXXhsMmT-0" />
@@ -279,7 +279,7 @@
         <mxCell id="3K5WDLt7FC1SQIRZlHOI-16" value="Abre OS Instalação VSB (AS-IS)" style="rounded=1;whiteSpace=wrap;html=1;" parent="luN2ybg4KDdOnXXhsMmT-1" vertex="1">
           <mxGeometry x="1140" y="10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3K5WDLt7FC1SQIRZlHOI-17" value="Abre OS Instalação ACESS (Nova)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="luN2ybg4KDdOnXXhsMmT-1" vertex="1">
+        <mxCell id="3K5WDLt7FC1SQIRZlHOI-17" value="Abre OS Instalação" style="rounded=1;whiteSpace=wrap;html=1;" parent="luN2ybg4KDdOnXXhsMmT-1" vertex="1">
           <mxGeometry x="1290" y="10" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3K5WDLt7FC1SQIRZlHOI-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="luN2ybg4KDdOnXXhsMmT-1" source="3K5WDLt7FC1SQIRZlHOI-21" target="3K5WDLt7FC1SQIRZlHOI-7" edge="1">
@@ -384,7 +384,7 @@
         <mxCell id="jagK8JZ-cD4knPiuqzfz-3" value="Abre Solic" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="luN2ybg4KDdOnXXhsMmT-1">
           <mxGeometry x="990" y="300" width="120" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="jagK8JZ-cD4knPiuqzfz-5" value="OS Mudança Pacote UPG Acessórios" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="luN2ybg4KDdOnXXhsMmT-1">
+        <mxCell id="jagK8JZ-cD4knPiuqzfz-5" value="OS Mudança Pacote UPG Acessórios" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="luN2ybg4KDdOnXXhsMmT-1">
           <mxGeometry x="1290" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jagK8JZ-cD4knPiuqzfz-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="luN2ybg4KDdOnXXhsMmT-1" source="jagK8JZ-cD4knPiuqzfz-7" target="jagK8JZ-cD4knPiuqzfz-1">
@@ -396,7 +396,7 @@
         <mxCell id="jagK8JZ-cD4knPiuqzfz-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="luN2ybg4KDdOnXXhsMmT-1" source="jagK8JZ-cD4knPiuqzfz-11" target="jagK8JZ-cD4knPiuqzfz-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jagK8JZ-cD4knPiuqzfz-11" value="OS Mudança Pacote RET Acessórios" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="luN2ybg4KDdOnXXhsMmT-1">
+        <mxCell id="jagK8JZ-cD4knPiuqzfz-11" value="OS Mudança Pacote RET Acessórios" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="luN2ybg4KDdOnXXhsMmT-1">
           <mxGeometry x="1140" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jagK8JZ-cD4knPiuqzfz-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="luN2ybg4KDdOnXXhsMmT-1" source="jagK8JZ-cD4knPiuqzfz-19" target="jagK8JZ-cD4knPiuqzfz-22">
@@ -435,7 +435,7 @@
         <mxCell id="jagK8JZ-cD4knPiuqzfz-22" value="Downgrade" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="luN2ybg4KDdOnXXhsMmT-1">
           <mxGeometry x="690" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jagK8JZ-cD4knPiuqzfz-26" value="OS Mudança Pacote DOW Acessórios" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="luN2ybg4KDdOnXXhsMmT-1">
+        <mxCell id="jagK8JZ-cD4knPiuqzfz-26" value="OS Mudança Pacote DOW Acessórios" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="luN2ybg4KDdOnXXhsMmT-1">
           <mxGeometry x="1140" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jagK8JZ-cD4knPiuqzfz-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="luN2ybg4KDdOnXXhsMmT-1" source="jagK8JZ-cD4knPiuqzfz-28" target="jagK8JZ-cD4knPiuqzfz-31">
@@ -470,7 +470,7 @@
         <mxCell id="jagK8JZ-cD4knPiuqzfz-40" value="Troca Equipamento" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="luN2ybg4KDdOnXXhsMmT-1">
           <mxGeometry x="300" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jagK8JZ-cD4knPiuqzfz-43" value="OS Mudança Pacote VT Acessórios" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="luN2ybg4KDdOnXXhsMmT-1">
+        <mxCell id="jagK8JZ-cD4knPiuqzfz-43" value="OS Mudança Pacote VT Acessórios" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="luN2ybg4KDdOnXXhsMmT-1">
           <mxGeometry x="1140" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
