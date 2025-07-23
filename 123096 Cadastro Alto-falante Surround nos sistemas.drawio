@@ -351,7 +351,7 @@
         <mxCell id="3K5WDLt7FC1SQIRZlHOI-32" value="Compatível com&amp;nbsp;&lt;div&gt;Surround&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="luN2ybg4KDdOnXXhsMmT-1" vertex="1">
           <mxGeometry x="560" y="290" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jagK8JZ-cD4knPiuqzfz-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="luN2ybg4KDdOnXXhsMmT-1" source="3K5WDLt7FC1SQIRZlHOI-34" target="jagK8JZ-cD4knPiuqzfz-1">
+        <mxCell id="jagK8JZ-cD4knPiuqzfz-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.129;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="luN2ybg4KDdOnXXhsMmT-1" source="3K5WDLt7FC1SQIRZlHOI-34" target="jagK8JZ-cD4knPiuqzfz-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3K5WDLt7FC1SQIRZlHOI-34" value="Adesão SVA Surround" style="rounded=1;whiteSpace=wrap;html=1;" parent="luN2ybg4KDdOnXXhsMmT-1" vertex="1">
@@ -361,16 +361,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jagK8JZ-cD4knPiuqzfz-1" value="Altera Proposta Assinante" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="luN2ybg4KDdOnXXhsMmT-1">
-          <mxGeometry x="840" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="840" y="300" width="120" height="240" as="geometry" />
         </mxCell>
         <mxCell id="jagK8JZ-cD4knPiuqzfz-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="luN2ybg4KDdOnXXhsMmT-1" source="jagK8JZ-cD4knPiuqzfz-3" target="jagK8JZ-cD4knPiuqzfz-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jagK8JZ-cD4knPiuqzfz-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="luN2ybg4KDdOnXXhsMmT-1" source="jagK8JZ-cD4knPiuqzfz-3" target="jagK8JZ-cD4knPiuqzfz-11">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="jagK8JZ-cD4knPiuqzfz-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="luN2ybg4KDdOnXXhsMmT-1" source="jagK8JZ-cD4knPiuqzfz-3" target="jagK8JZ-cD4knPiuqzfz-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1130" y="420" />
+              <mxPoint x="1130" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jagK8JZ-cD4knPiuqzfz-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="luN2ybg4KDdOnXXhsMmT-1" source="jagK8JZ-cD4knPiuqzfz-3" target="jagK8JZ-cD4knPiuqzfz-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1050" y="510" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="jagK8JZ-cD4knPiuqzfz-3" value="Abre Solic" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="luN2ybg4KDdOnXXhsMmT-1">
-          <mxGeometry x="990" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="990" y="300" width="120" height="240" as="geometry" />
         </mxCell>
         <mxCell id="jagK8JZ-cD4knPiuqzfz-5" value="OS Mudança Pacote UPG Acessórios" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="luN2ybg4KDdOnXXhsMmT-1">
           <mxGeometry x="1290" y="300" width="120" height="60" as="geometry" />
@@ -387,6 +399,18 @@
         <mxCell id="jagK8JZ-cD4knPiuqzfz-11" value="OS Mudança Pacote RET Acessórios" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="luN2ybg4KDdOnXXhsMmT-1">
           <mxGeometry x="1140" y="390" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="jagK8JZ-cD4knPiuqzfz-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="luN2ybg4KDdOnXXhsMmT-1" source="jagK8JZ-cD4knPiuqzfz-19" target="jagK8JZ-cD4knPiuqzfz-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jagK8JZ-cD4knPiuqzfz-24" value="Sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jagK8JZ-cD4knPiuqzfz-23">
+          <mxGeometry x="-0.8353" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="jagK8JZ-cD4knPiuqzfz-19" value="Tem TV SoundBox Plus?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="luN2ybg4KDdOnXXhsMmT-1">
           <mxGeometry x="280" y="290" width="80" height="80" as="geometry" />
         </mxCell>
@@ -397,6 +421,15 @@
           <mxGeometry x="-0.3443" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jagK8JZ-cD4knPiuqzfz-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.017;entryY=0.879;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="luN2ybg4KDdOnXXhsMmT-1" source="jagK8JZ-cD4knPiuqzfz-22" target="jagK8JZ-cD4knPiuqzfz-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jagK8JZ-cD4knPiuqzfz-22" value="Downgrade" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="luN2ybg4KDdOnXXhsMmT-1">
+          <mxGeometry x="690" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jagK8JZ-cD4knPiuqzfz-26" value="OS Mudança Pacote DOW Acessórios" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="luN2ybg4KDdOnXXhsMmT-1">
+          <mxGeometry x="1140" y="480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
