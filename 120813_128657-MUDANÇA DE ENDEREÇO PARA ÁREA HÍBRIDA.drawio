@@ -1,9 +1,62 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.6">
   <diagram name="Página-1" id="zqmcP0fRCzVm-A6s5VtJ">
-    <mxGraphModel>
+    <mxGraphModel dx="946" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5iCUy87sB2-tcCot6NtR-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5iCUy87sB2-tcCot6NtR-1" target="5iCUy87sB2-tcCot6NtR-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5iCUy87sB2-tcCot6NtR-5" value="Viabilidade técnica existe" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5iCUy87sB2-tcCot6NtR-3">
+          <mxGeometry x="-0.225" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5iCUy87sB2-tcCot6NtR-1" value="HFC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5iCUy87sB2-tcCot6NtR-2" value="Fibra" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5iCUy87sB2-tcCot6NtR-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5iCUy87sB2-tcCot6NtR-4" target="5iCUy87sB2-tcCot6NtR-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5iCUy87sB2-tcCot6NtR-4" value="Abre OS de retirada de equipamentos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5iCUy87sB2-tcCot6NtR-6" value="Automaticamente abre OS de instalação de todos os pontos e produtos" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5iCUy87sB2-tcCot6NtR-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5iCUy87sB2-tcCot6NtR-8" target="5iCUy87sB2-tcCot6NtR-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5iCUy87sB2-tcCot6NtR-8" value="Abre OS de retirada de equipamentos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5iCUy87sB2-tcCot6NtR-9" value="Abre OS de Instalação de novos produtos/pontos/&lt;div&gt;equipamentos&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5iCUy87sB2-tcCot6NtR-12" value="1 VT pra retirada de equipamento" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="145" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5iCUy87sB2-tcCot6NtR-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5iCUy87sB2-tcCot6NtR-14" target="5iCUy87sB2-tcCot6NtR-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5iCUy87sB2-tcCot6NtR-14" value="Abre OS Retirada de equipamento (cancelamento)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5iCUy87sB2-tcCot6NtR-15" value="Novo contrato - Abre OS de Instalação de pontos e equipamento" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5iCUy87sB2-tcCot6NtR-16" value="VT pra retirada de equipamento" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="215" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5iCUy87sB2-tcCot6NtR-17" value="VT pra instalação de equipamento" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="210" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5iCUy87sB2-tcCot6NtR-18" value="+" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="215" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
