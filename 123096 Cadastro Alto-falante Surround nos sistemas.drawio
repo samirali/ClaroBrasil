@@ -491,6 +491,42 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="jagK8JZ-cD4knPiuqzfz-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="luN2ybg4KDdOnXXhsMmT-1" source="jagK8JZ-cD4knPiuqzfz-52" target="jagK8JZ-cD4knPiuqzfz-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jagK8JZ-cD4knPiuqzfz-52" value="API Venda Prospect Solar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="luN2ybg4KDdOnXXhsMmT-1">
+          <mxGeometry x="300" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jagK8JZ-cD4knPiuqzfz-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="luN2ybg4KDdOnXXhsMmT-1" source="jagK8JZ-cD4knPiuqzfz-53" target="jagK8JZ-cD4knPiuqzfz-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jagK8JZ-cD4knPiuqzfz-53" value="Valida produtos na matriz convivência exclusiva de SVA" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="luN2ybg4KDdOnXXhsMmT-1">
+          <mxGeometry x="500" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jagK8JZ-cD4knPiuqzfz-55" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=1;fillColor=#000000;" vertex="1" parent="luN2ybg4KDdOnXXhsMmT-1">
+          <mxGeometry x="695" y="775" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jagK8JZ-cD4knPiuqzfz-56" value="AS-IS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="luN2ybg4KDdOnXXhsMmT-1">
+          <mxGeometry x="680" y="750" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jagK8JZ-cD4knPiuqzfz-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="luN2ybg4KDdOnXXhsMmT-1" source="jagK8JZ-cD4knPiuqzfz-59" target="jagK8JZ-cD4knPiuqzfz-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jagK8JZ-cD4knPiuqzfz-59" value="API Venda Digital" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="luN2ybg4KDdOnXXhsMmT-1">
+          <mxGeometry x="300" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jagK8JZ-cD4knPiuqzfz-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="luN2ybg4KDdOnXXhsMmT-1" source="jagK8JZ-cD4knPiuqzfz-60" target="jagK8JZ-cD4knPiuqzfz-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jagK8JZ-cD4knPiuqzfz-60" value="Valida produtos na matriz convivência exclusiva de SVA" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="luN2ybg4KDdOnXXhsMmT-1">
+          <mxGeometry x="500" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jagK8JZ-cD4knPiuqzfz-62" value="SOLAR" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="luN2ybg4KDdOnXXhsMmT-1">
+          <mxGeometry x="100" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jagK8JZ-cD4knPiuqzfz-63" value="DIGITAL /&amp;nbsp;&lt;div&gt;E-COMMERCE&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="luN2ybg4KDdOnXXhsMmT-1">
+          <mxGeometry x="100" y="870" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
