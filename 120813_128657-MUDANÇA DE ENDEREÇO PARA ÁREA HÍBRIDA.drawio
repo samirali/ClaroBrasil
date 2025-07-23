@@ -57,14 +57,8 @@
         <mxCell id="5iCUy87sB2-tcCot6NtR-15" value="Novo contrato - Abre OS de Instalação de pontos e equipamento" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5iCUy87sB2-tcCot6NtR-16" value="1 VT pra retirada de equipamento" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="215" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5iCUy87sB2-tcCot6NtR-17" value="1 VT pra instalação de equipamento" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="710" y="210" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="5iCUy87sB2-tcCot6NtR-18" value="+" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="215" width="60" height="30" as="geometry" />
+        <mxCell id="5iCUy87sB2-tcCot6NtR-16" value="1 VT pra retirada de equipamento e instalação nova" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="215" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5iCUy87sB2-tcCot6NtR-21" value="1 VT pra retirada de equipamento e instalação nova tecnologia/pontos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="345" width="130" height="30" as="geometry" />
