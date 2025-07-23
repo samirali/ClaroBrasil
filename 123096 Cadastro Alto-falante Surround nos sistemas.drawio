@@ -188,7 +188,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="v3" id="82qEkYYtdOLmZOhbnPRo">
-    <mxGraphModel dx="1261" dy="1920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1261" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="luN2ybg4KDdOnXXhsMmT-0" />
         <mxCell id="luN2ybg4KDdOnXXhsMmT-1" parent="luN2ybg4KDdOnXXhsMmT-0" />
@@ -212,6 +212,9 @@
         </mxCell>
         <mxCell id="luN2ybg4KDdOnXXhsMmT-5" value="NETSALES" style="rounded=1;whiteSpace=wrap;html=1;" parent="luN2ybg4KDdOnXXhsMmT-1" vertex="1">
           <mxGeometry x="100" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jagK8JZ-cD4knPiuqzfz-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="luN2ybg4KDdOnXXhsMmT-1" source="luN2ybg4KDdOnXXhsMmT-7" target="jagK8JZ-cD4knPiuqzfz-44">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="luN2ybg4KDdOnXXhsMmT-7" value="Venda Prospect" style="rounded=1;whiteSpace=wrap;html=1;" parent="luN2ybg4KDdOnXXhsMmT-1" vertex="1">
           <mxGeometry x="270" y="110" width="120" height="60" as="geometry" />
@@ -282,16 +285,8 @@
         <mxCell id="3K5WDLt7FC1SQIRZlHOI-17" value="Abre OS Instalação" style="rounded=1;whiteSpace=wrap;html=1;" parent="luN2ybg4KDdOnXXhsMmT-1" vertex="1">
           <mxGeometry x="1290" y="10" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3K5WDLt7FC1SQIRZlHOI-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="luN2ybg4KDdOnXXhsMmT-1" source="3K5WDLt7FC1SQIRZlHOI-21" target="3K5WDLt7FC1SQIRZlHOI-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="3K5WDLt7FC1SQIRZlHOI-23" value="Novo produto WSS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="3K5WDLt7FC1SQIRZlHOI-22" vertex="1" connectable="0">
-          <mxGeometry x="-0.2537" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="3K5WDLt7FC1SQIRZlHOI-21" value="FEPP" style="rounded=1;whiteSpace=wrap;html=1;" parent="luN2ybg4KDdOnXXhsMmT-1" vertex="1">
-          <mxGeometry x="100" y="-60" width="120" height="60" as="geometry" />
+          <mxGeometry x="615" y="205" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3K5WDLt7FC1SQIRZlHOI-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="luN2ybg4KDdOnXXhsMmT-1" source="3K5WDLt7FC1SQIRZlHOI-24" target="jagK8JZ-cD4knPiuqzfz-19" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -472,6 +467,24 @@
         </mxCell>
         <mxCell id="jagK8JZ-cD4knPiuqzfz-43" value="OS Mudança Pacote VT Acessórios" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="luN2ybg4KDdOnXXhsMmT-1">
           <mxGeometry x="1140" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jagK8JZ-cD4knPiuqzfz-44" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="luN2ybg4KDdOnXXhsMmT-1">
+          <mxGeometry x="260.5" y="200" width="139" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jagK8JZ-cD4knPiuqzfz-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="luN2ybg4KDdOnXXhsMmT-1" source="3K5WDLt7FC1SQIRZlHOI-24" target="jagK8JZ-cD4knPiuqzfz-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="235" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jagK8JZ-cD4knPiuqzfz-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="luN2ybg4KDdOnXXhsMmT-1" source="3K5WDLt7FC1SQIRZlHOI-21" target="jagK8JZ-cD4knPiuqzfz-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jagK8JZ-cD4knPiuqzfz-50" value="Matriz convivência&amp;nbsp;&lt;div&gt;exclusiva SVA&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jagK8JZ-cD4knPiuqzfz-47">
+          <mxGeometry x="0.0518" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
