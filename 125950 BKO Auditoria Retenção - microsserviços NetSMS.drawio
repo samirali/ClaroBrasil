@@ -7,8 +7,14 @@
         <mxCell id="z7zfRWcS-0DXAbNaJO-h-1" value="LEITOR&lt;div&gt;Automação&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="70" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="z7zfRWcS-0DXAbNaJO-h-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="z7zfRWcS-0DXAbNaJO-h-2" target="z7zfRWcS-0DXAbNaJO-h-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z7zfRWcS-0DXAbNaJO-h-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="z7zfRWcS-0DXAbNaJO-h-2" target="z7zfRWcS-0DXAbNaJO-h-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="z7zfRWcS-0DXAbNaJO-h-2" value="API NETSMS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z7zfRWcS-0DXAbNaJO-h-3" value="MS&amp;nbsp;&lt;span data-olk-copy-source=&quot;MessageBody&quot;&gt;residential-customerorders-v1 (&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;GET&lt;/font&gt; / POST)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="280" width="120" height="60" as="geometry" />
@@ -19,7 +25,7 @@
         <mxCell id="z7zfRWcS-0DXAbNaJO-h-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.457;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="z7zfRWcS-0DXAbNaJO-h-3" target="z7zfRWcS-0DXAbNaJO-h-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z7zfRWcS-0DXAbNaJO-h-6" value="Consulta SOLIC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="z7zfRWcS-0DXAbNaJO-h-5">
+        <mxCell id="z7zfRWcS-0DXAbNaJO-h-6" value="Consulta SOLIC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF0000;" vertex="1" connectable="0" parent="z7zfRWcS-0DXAbNaJO-h-5">
           <mxGeometry x="-0.4691" relative="1" as="geometry">
             <mxPoint y="13" as="offset" />
           </mxGeometry>
@@ -30,6 +36,17 @@
         <mxCell id="z7zfRWcS-0DXAbNaJO-h-8" value="Abre SOLIC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="z7zfRWcS-0DXAbNaJO-h-7">
           <mxGeometry x="0.2677" y="-1" relative="1" as="geometry">
             <mxPoint x="40" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z7zfRWcS-0DXAbNaJO-h-9" value="MS&amp;nbsp;&lt;span data-olk-copy-source=&quot;MessageBody&quot;&gt;residential-appointments-v1&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z7zfRWcS-0DXAbNaJO-h-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="z7zfRWcS-0DXAbNaJO-h-9" target="z7zfRWcS-0DXAbNaJO-h-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z7zfRWcS-0DXAbNaJO-h-11" value="Consulta Disponibilidade&amp;nbsp;&lt;div&gt;de Período e&amp;nbsp;&lt;/div&gt;&lt;div&gt;Realiza Agendamento&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="z7zfRWcS-0DXAbNaJO-h-10">
+          <mxGeometry x="-0.4648" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
