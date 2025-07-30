@@ -19,7 +19,7 @@
         <mxCell id="z7zfRWcS-0DXAbNaJO-h-4" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
           <mxGeometry x="510" y="240" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="z7zfRWcS-0DXAbNaJO-h-9" value="MS&amp;nbsp;&lt;span data-olk-copy-source=&quot;MessageBody&quot;&gt;residential-appointments-v1&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="z7zfRWcS-0DXAbNaJO-h-9" value="API MS&amp;nbsp;&lt;span data-olk-copy-source=&quot;MessageBody&quot;&gt;residential-appointments-v1&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MG-Hg0FTZDf2DhjWSsJx-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="z7zfRWcS-0DXAbNaJO-h-15" target="z7zfRWcS-0DXAbNaJO-h-9">
