@@ -4,26 +4,41 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BTpJ2KaH0xwGKomBFtuc-1" value="MS Assetização" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BTpJ2KaH0xwGKomBFtuc-1" value="MS Assetização" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="90" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BTpJ2KaH0xwGKomBFtuc-2" value="MS Proposal/Confirmation (Solar)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BTpJ2KaH0xwGKomBFtuc-2" value="MS Proposal/Confirmation (Solar)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="230" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BTpJ2KaH0xwGKomBFtuc-3" value="MS Venda Base (Solar)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BTpJ2KaH0xwGKomBFtuc-3" value="MS Venda Base (Solar)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="370" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BTpJ2KaH0xwGKomBFtuc-4" value="Novo MS Callback Solar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BTpJ2KaH0xwGKomBFtuc-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BTpJ2KaH0xwGKomBFtuc-4" target="BTpJ2KaH0xwGKomBFtuc-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BTpJ2KaH0xwGKomBFtuc-4" value="Novo MS Callback Solar" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="510" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BTpJ2KaH0xwGKomBFtuc-5" value="Novo MS Callback Móvel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BTpJ2KaH0xwGKomBFtuc-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BTpJ2KaH0xwGKomBFtuc-5" target="BTpJ2KaH0xwGKomBFtuc-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BTpJ2KaH0xwGKomBFtuc-5" value="Novo MS Callback Móvel" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="650" y="260" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BTpJ2KaH0xwGKomBFtuc-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BTpJ2KaH0xwGKomBFtuc-6" target="BTpJ2KaH0xwGKomBFtuc-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BTpJ2KaH0xwGKomBFtuc-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BTpJ2KaH0xwGKomBFtuc-6" target="BTpJ2KaH0xwGKomBFtuc-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BTpJ2KaH0xwGKomBFtuc-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BTpJ2KaH0xwGKomBFtuc-6" target="BTpJ2KaH0xwGKomBFtuc-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BTpJ2KaH0xwGKomBFtuc-6" value="APIGEE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BTpJ2KaH0xwGKomBFtuc-7" value="Solar Venda Residencial/Móvel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BTpJ2KaH0xwGKomBFtuc-8" value="API Callback Solar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="80" width="120" height="60" as="geometry" />
@@ -32,25 +47,58 @@
           <mxGeometry x="650" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BTpJ2KaH0xwGKomBFtuc-10" value="- Identificar produtos nobill&lt;div&gt;- Identificar contratos faturados no móvel&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="85" y="360" width="130" height="80" as="geometry" />
+          <mxGeometry x="85" y="400" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BTpJ2KaH0xwGKomBFtuc-11" value="- Venda produto com característica nobill&lt;div&gt;- Novo campo swagger&lt;/div&gt;&lt;div&gt;- Validação nova caract produto&lt;/div&gt;&lt;div&gt;- Novo atributo contrato (faturado na móvel)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="225" y="360" width="130" height="120" as="geometry" />
+          <mxGeometry x="225" y="400" width="130" height="120" as="geometry" />
         </mxCell>
         <mxCell id="BTpJ2KaH0xwGKomBFtuc-13" value="- Criar contrato faturado na móvel (nobill)&lt;div&gt;- Alterar contrato pra faturamento móvel (nobill in)&lt;/div&gt;&lt;div&gt;- Alterar contrato pra faturamento residencial (nobill out)&lt;/div&gt;&lt;div&gt;- Inclusão de produto em contrato faturado na móvel&lt;/div&gt;&lt;div&gt;- mudança de pacote em contrato nobill&lt;/div&gt;&lt;div&gt;- cancelamento parcial/total contrato &quot;nobill&quot;&lt;/div&gt;&lt;div&gt;- Suspensão/ restauração voluntária produto contrato &quot;nobill&quot;&lt;/div&gt;&lt;div&gt;- Troca titularidade contratos &quot;nobill&quot;&lt;/div&gt;&lt;div&gt;- Aquisição avulsa, recorrente de ofertas/pcts combo nobill&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="365" y="360" width="195" height="260" as="geometry" />
+          <mxGeometry x="365" y="400" width="195" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="BTpJ2KaH0xwGKomBFtuc-14" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="600" y="380" width="170" height="80" as="geometry" />
+        <mxCell id="BTpJ2KaH0xwGKomBFtuc-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BTpJ2KaH0xwGKomBFtuc-14" target="BTpJ2KaH0xwGKomBFtuc-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BTpJ2KaH0xwGKomBFtuc-15" value="NETSales" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BTpJ2KaH0xwGKomBFtuc-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BTpJ2KaH0xwGKomBFtuc-14" target="BTpJ2KaH0xwGKomBFtuc-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BTpJ2KaH0xwGKomBFtuc-14" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="600" y="370" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="BTpJ2KaH0xwGKomBFtuc-15" value="NETSales" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="570" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BTpJ2KaH0xwGKomBFtuc-16" value="NETSMS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BTpJ2KaH0xwGKomBFtuc-16" value="NETSMS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="707" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BTpJ2KaH0xwGKomBFtuc-17" value="- Novas tabelas e campos na base pra controle de produtos e contratos com características &quot;nobill&quot;&lt;div&gt;- Filtros em tela para não exibir contratos e produtos no legado&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="570" y="580" width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BTpJ2KaH0xwGKomBFtuc-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BTpJ2KaH0xwGKomBFtuc-3" target="BTpJ2KaH0xwGKomBFtuc-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="380" />
+              <mxPoint x="580" y="380" />
+              <mxPoint x="580" y="415" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BTpJ2KaH0xwGKomBFtuc-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BTpJ2KaH0xwGKomBFtuc-2" target="BTpJ2KaH0xwGKomBFtuc-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="290" y="380" />
+              <mxPoint x="580" y="380" />
+              <mxPoint x="580" y="415" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BTpJ2KaH0xwGKomBFtuc-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BTpJ2KaH0xwGKomBFtuc-1" target="BTpJ2KaH0xwGKomBFtuc-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="380" />
+              <mxPoint x="580" y="380" />
+              <mxPoint x="580" y="415" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
