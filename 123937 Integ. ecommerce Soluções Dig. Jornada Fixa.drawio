@@ -42,13 +42,13 @@
         <mxCell id="L2a7VKApg4zN13DAOk60-5" value="APIGEE" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="L2a7VKApg4zN13DAOk60-9" value="Assetização" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="240" width="120" height="60" as="geometry" />
+        <mxCell id="L2a7VKApg4zN13DAOk60-9" value="MS Assetização" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="L2a7VKApg4zN13DAOk60-11" value="Adesão SVA" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="L2a7VKApg4zN13DAOk60-11" value="MS Adesão SVA" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="L2a7VKApg4zN13DAOk60-14" value="Cancelamento SVA" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="L2a7VKApg4zN13DAOk60-14" value="MS Cancelamento SVA" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
