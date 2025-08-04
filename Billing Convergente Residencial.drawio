@@ -50,13 +50,13 @@
           <mxGeometry x="571" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BTpJ2KaH0xwGKomBFtuc-10" value="- Identificar produtos nobill&lt;div&gt;- Identificar contratos faturados no móvel&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="85" y="400" width="130" height="80" as="geometry" />
+          <mxGeometry x="22" y="400" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BTpJ2KaH0xwGKomBFtuc-11" value="- Venda produto com característica nobill&lt;div&gt;- Novo campo swagger&lt;/div&gt;&lt;div&gt;- Validação nova caract produto&lt;/div&gt;&lt;div&gt;- Novo atributo contrato (faturado na móvel)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="225" y="400" width="130" height="120" as="geometry" />
+          <mxGeometry x="162" y="400" width="130" height="120" as="geometry" />
         </mxCell>
         <mxCell id="BTpJ2KaH0xwGKomBFtuc-13" value="- Criar contrato faturado na móvel (nobill)&lt;div&gt;- Alterar contrato pra faturamento móvel (nobill in)&lt;/div&gt;&lt;div&gt;- Alterar contrato pra faturamento residencial (nobill out)&lt;/div&gt;&lt;div&gt;- Inclusão de produto em contrato faturado na móvel&lt;/div&gt;&lt;div&gt;- mudança de pacote em contrato nobill&lt;/div&gt;&lt;div&gt;- cancelamento parcial/total contrato &quot;nobill&quot;&lt;/div&gt;&lt;div&gt;- Suspensão/ restauração voluntária produto contrato &quot;nobill&quot;&lt;/div&gt;&lt;div&gt;- Troca titularidade contratos &quot;nobill&quot;&lt;/div&gt;&lt;div&gt;- Aquisição avulsa, recorrente de ofertas/pcts combo nobill&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="365" y="400" width="195" height="260" as="geometry" />
+          <mxGeometry x="302" y="400" width="195" height="260" as="geometry" />
         </mxCell>
         <mxCell id="BTpJ2KaH0xwGKomBFtuc-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="BTpJ2KaH0xwGKomBFtuc-14" target="BTpJ2KaH0xwGKomBFtuc-5">
           <mxGeometry relative="1" as="geometry">
