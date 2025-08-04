@@ -37,6 +37,9 @@
         <mxCell id="BTpJ2KaH0xwGKomBFtuc-6" value="APIGEE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="140" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="BTpJ2KaH0xwGKomBFtuc-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BTpJ2KaH0xwGKomBFtuc-7" target="BTpJ2KaH0xwGKomBFtuc-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BTpJ2KaH0xwGKomBFtuc-7" value="Solar Venda Residencial/Móvel" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="30" width="120" height="60" as="geometry" />
         </mxCell>
@@ -99,6 +102,12 @@
               <mxPoint x="580" y="415" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BTpJ2KaH0xwGKomBFtuc-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BTpJ2KaH0xwGKomBFtuc-15" target="BTpJ2KaH0xwGKomBFtuc-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BTpJ2KaH0xwGKomBFtuc-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BTpJ2KaH0xwGKomBFtuc-16" target="BTpJ2KaH0xwGKomBFtuc-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
