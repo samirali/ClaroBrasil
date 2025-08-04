@@ -74,7 +74,7 @@
         <mxCell id="L2a7VKApg4zN13DAOk60-14" value="MS Cancelamento SVA" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="264" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="L2a7VKApg4zN13DAOk60-18" value="&lt;b&gt;(AS-IS)&amp;nbsp;&lt;/b&gt;&lt;div&gt;Checagem de Crédito e Geração de Protocolo&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="L2a7VKApg4zN13DAOk60-18" value="&lt;b&gt;(AS-IS)&amp;nbsp;&lt;/b&gt;&lt;div&gt;Checagem Crédito, Geração Protocolo e Geração Ocorrência&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L2a7VKApg4zN13DAOk60-20" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
