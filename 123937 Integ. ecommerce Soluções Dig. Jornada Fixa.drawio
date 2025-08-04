@@ -105,8 +105,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="L2a7VKApg4zN13DAOk60-30" value="JOB&lt;div&gt;Geração de 2 arquivos por base para SGVAS&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="L2a7VKApg4zN13DAOk60-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L2a7VKApg4zN13DAOk60-30" target="L2a7VKApg4zN13DAOk60-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L2a7VKApg4zN13DAOk60-30" value="JOB&lt;div&gt;Geração de 2 arquivos por base para SGVAS&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="40" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L2a7VKApg4zN13DAOk60-32" value="SGVAS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
