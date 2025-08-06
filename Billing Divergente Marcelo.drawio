@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7" pages="8">
   <diagram name="COMPLETO" id="mXKqnKPXCJT9X1F6kq2N">
-    <mxGraphModel dx="2216" dy="1872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1774" dy="1648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="xfELZACQcITVjXONg1SJ-0" />
         <mxCell id="xfELZACQcITVjXONg1SJ-1" parent="xfELZACQcITVjXONg1SJ-0" />
@@ -55,7 +55,7 @@
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xfELZACQcITVjXONg1SJ-13" value="MOBILE" style="rounded=1;whiteSpace=wrap;html=1;" parent="xfELZACQcITVjXONg1SJ-1" vertex="1">
-          <mxGeometry x="190" y="525" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xfELZACQcITVjXONg1SJ-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.514;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="xfELZACQcITVjXONg1SJ-1" source="xfELZACQcITVjXONg1SJ-12" target="xfELZACQcITVjXONg1SJ-16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -109,9 +109,9 @@
           <mxGeometry x="130" y="290" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xfELZACQcITVjXONg1SJ-26" value="CONCILIAÇÃO FATURAMENTO NETSMS X ENG X MOBILE" style="rounded=1;whiteSpace=wrap;html=1;" parent="xfELZACQcITVjXONg1SJ-1" vertex="1">
-          <mxGeometry x="370" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="400" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xfELZACQcITVjXONg1SJ-27" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" parent="xfELZACQcITVjXONg1SJ-1" source="xfELZACQcITVjXONg1SJ-26" target="xfELZACQcITVjXONg1SJ-13" edge="1">
+        <mxCell id="xfELZACQcITVjXONg1SJ-27" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="xfELZACQcITVjXONg1SJ-1" source="xfELZACQcITVjXONg1SJ-26" target="iHlwcBSPsT472pVqr96H-19" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="70" y="410" as="sourcePoint" />
             <mxPoint x="120" y="360" as="targetPoint" />
@@ -196,7 +196,7 @@
           <mxGeometry x="827" y="110" width="176" height="60" as="geometry" />
         </mxCell>
         <mxCell id="167DItCjxoijRsQnCKUz-7" value="&amp;lt;MS&amp;gt;&lt;br&gt;CALLBACK MOBILE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="xfELZACQcITVjXONg1SJ-1">
-          <mxGeometry x="860" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="883" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="167DItCjxoijRsQnCKUz-11" value="Venda não Solar (STB,URA, etc)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="xfELZACQcITVjXONg1SJ-1">
           <mxGeometry x="1210" y="80" width="120" height="60" as="geometry" />
@@ -247,6 +247,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="740" y="370" as="sourcePoint" />
             <mxPoint x="560" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iHlwcBSPsT472pVqr96H-18" value="Quando venda/atendimento&amp;nbsp;&lt;div&gt;iniciado fora do Solar&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iHlwcBSPsT472pVqr96H-5">
+          <mxGeometry x="-0.0827" relative="1" as="geometry">
+            <mxPoint x="35" y="12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iHlwcBSPsT472pVqr96H-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="xfELZACQcITVjXONg1SJ-1" source="167DItCjxoijRsQnCKUz-7" target="xfELZACQcITVjXONg1SJ-13">
@@ -307,6 +312,15 @@
         </mxCell>
         <mxCell id="iHlwcBSPsT472pVqr96H-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.828;entryY=0.076;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="xfELZACQcITVjXONg1SJ-1" source="iHlwcBSPsT472pVqr96H-8" target="167DItCjxoijRsQnCKUz-11">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iHlwcBSPsT472pVqr96H-19" value="FATURAMENTO CONVERGENTE" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="xfELZACQcITVjXONg1SJ-1">
+          <mxGeometry x="240" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iHlwcBSPsT472pVqr96H-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="xfELZACQcITVjXONg1SJ-1" source="xfELZACQcITVjXONg1SJ-13" target="iHlwcBSPsT472pVqr96H-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="530" as="sourcePoint" />
+            <mxPoint x="410" y="480" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
