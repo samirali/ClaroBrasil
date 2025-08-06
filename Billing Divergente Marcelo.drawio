@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7" pages="8">
   <diagram name="COMPLETO" id="mXKqnKPXCJT9X1F6kq2N">
-    <mxGraphModel dx="1774" dy="1648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2216" dy="1872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="xfELZACQcITVjXONg1SJ-0" />
         <mxCell id="xfELZACQcITVjXONg1SJ-1" parent="xfELZACQcITVjXONg1SJ-0" />
@@ -14,7 +14,7 @@
           <mxGeometry x="170" y="130" width="120" height="250" as="geometry" />
         </mxCell>
         <mxCell id="xfELZACQcITVjXONg1SJ-5" value="NETSALES" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;verticalAlign=top;" parent="xfELZACQcITVjXONg1SJ-1" vertex="1">
-          <mxGeometry x="560" y="70" width="220" height="420" as="geometry" />
+          <mxGeometry x="560" y="70" width="220" height="360" as="geometry" />
         </mxCell>
         <mxCell id="xfELZACQcITVjXONg1SJ-6" value="&amp;lt;MS&amp;gt;&lt;br&gt;PROPOSAL/CONFIRMATION" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="xfELZACQcITVjXONg1SJ-1" vertex="1">
           <mxGeometry x="350" y="90" width="176" height="60" as="geometry" />
@@ -321,6 +321,12 @@
             <mxPoint x="360" y="530" as="sourcePoint" />
             <mxPoint x="410" y="480" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="iHlwcBSPsT472pVqr96H-23" value="JOBS&lt;div&gt;Inclusão de conceito nobill em vários JOBS&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="xfELZACQcITVjXONg1SJ-1">
+          <mxGeometry x="582" y="480" width="176" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iHlwcBSPsT472pVqr96H-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="xfELZACQcITVjXONg1SJ-1" source="iHlwcBSPsT472pVqr96H-23" target="xfELZACQcITVjXONg1SJ-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
