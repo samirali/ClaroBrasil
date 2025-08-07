@@ -8,10 +8,10 @@
           <mxGeometry x="-710" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lu89DYW8qhDD5Kn7B7-p-3" value="&lt;b&gt;JORNADA BILLIG CONVERGENTE&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Lu89DYW8qhDD5Kn7B7-p-1">
-          <mxGeometry x="-570" y="50" width="270" height="30" as="geometry" />
+          <mxGeometry x="-548" y="40" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lu89DYW8qhDD5Kn7B7-p-4" value="OM" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="Lu89DYW8qhDD5Kn7B7-p-1">
-          <mxGeometry x="-500" y="110" width="120" height="250" as="geometry" />
+          <mxGeometry x="-500" y="110" width="120" height="320" as="geometry" />
         </mxCell>
         <mxCell id="Lu89DYW8qhDD5Kn7B7-p-5" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;verticalAlign=top;" vertex="1" parent="Lu89DYW8qhDD5Kn7B7-p-1">
           <mxGeometry x="-30" y="110" width="220" height="360" as="geometry" />
@@ -40,9 +40,9 @@
             <mxPoint x="-500" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lu89DYW8qhDD5Kn7B7-p-10" value="Prospect" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lu89DYW8qhDD5Kn7B7-p-9">
+        <mxCell id="Lu89DYW8qhDD5Kn7B7-p-10" value="Prospect,&amp;nbsp;&lt;div&gt;troca titularidade (venda prospect)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lu89DYW8qhDD5Kn7B7-p-9">
           <mxGeometry x="-0.4156" y="2" relative="1" as="geometry">
-            <mxPoint x="6" y="-10" as="offset" />
+            <mxPoint x="46" y="-30" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Lu89DYW8qhDD5Kn7B7-p-11" value="CONTRATO" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="Lu89DYW8qhDD5Kn7B7-p-1">
@@ -88,16 +88,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Lu89DYW8qhDD5Kn7B7-p-21" value="OS finalizada/instalação concluida com sucesso" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Lu89DYW8qhDD5Kn7B7-p-1">
-          <mxGeometry x="-275" y="535" width="150" height="40" as="geometry" />
+          <mxGeometry x="-274" y="557" width="168" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Lu89DYW8qhDD5Kn7B7-p-22" value="&amp;lt;MS&amp;gt;&lt;br&gt;CALLBACK SOLAR" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Lu89DYW8qhDD5Kn7B7-p-1">
-          <mxGeometry x="-260" y="475" width="120" height="60" as="geometry" />
+          <mxGeometry x="-250" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lu89DYW8qhDD5Kn7B7-p-23" value="PROPOSTA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Lu89DYW8qhDD5Kn7B7-p-1">
           <mxGeometry x="-485" y="150" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Lu89DYW8qhDD5Kn7B7-p-24" value="CONTRATO MOBILE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Lu89DYW8qhDD5Kn7B7-p-1">
-          <mxGeometry x="-485" y="303" width="90" height="40" as="geometry" />
+          <mxGeometry x="-485" y="370" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Lu89DYW8qhDD5Kn7B7-p-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Lu89DYW8qhDD5Kn7B7-p-1" source="Lu89DYW8qhDD5Kn7B7-p-22" target="Lu89DYW8qhDD5Kn7B7-p-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -105,19 +105,16 @@
             <mxPoint x="-310" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lu89DYW8qhDD5Kn7B7-p-26" value="Inicia Faturamento" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Lu89DYW8qhDD5Kn7B7-p-1">
-          <mxGeometry x="-540" y="270" width="90" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Lu89DYW8qhDD5Kn7B7-p-27" value="CONCILIAÇÃO FATURAMENTO NETSMS X ENG X MOBILE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Lu89DYW8qhDD5Kn7B7-p-1">
-          <mxGeometry x="-200" y="605" width="120" height="60" as="geometry" />
+          <mxGeometry x="-150" y="730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Lu89DYW8qhDD5Kn7B7-p-28" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Lu89DYW8qhDD5Kn7B7-p-1" source="Lu89DYW8qhDD5Kn7B7-p-27" target="Lu89DYW8qhDD5Kn7B7-p-68">
+        <mxCell id="Lu89DYW8qhDD5Kn7B7-p-28" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Lu89DYW8qhDD5Kn7B7-p-1" source="Lu89DYW8qhDD5Kn7B7-p-27" target="Lu89DYW8qhDD5Kn7B7-p-68">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-520" y="450" as="sourcePoint" />
             <mxPoint x="-470" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lu89DYW8qhDD5Kn7B7-p-29" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=-15;entryPerimeter=0;exitX=1.006;exitY=0.378;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="Lu89DYW8qhDD5Kn7B7-p-1" source="Lu89DYW8qhDD5Kn7B7-p-27" target="Lu89DYW8qhDD5Kn7B7-p-5">
+        <mxCell id="Lu89DYW8qhDD5Kn7B7-p-29" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=-15;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="Lu89DYW8qhDD5Kn7B7-p-1" source="Lu89DYW8qhDD5Kn7B7-p-27" target="Lu89DYW8qhDD5Kn7B7-p-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-210" y="490" as="sourcePoint" />
             <mxPoint x="-40" y="430" as="targetPoint" />
@@ -126,7 +123,7 @@
         <mxCell id="Lu89DYW8qhDD5Kn7B7-p-30" value="SOLAR ATENDIMENTO&lt;div&gt;MÓVEL E RESIDENCIAL&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Lu89DYW8qhDD5Kn7B7-p-1">
           <mxGeometry x="-710" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Lu89DYW8qhDD5Kn7B7-p-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="Lu89DYW8qhDD5Kn7B7-p-1" source="Lu89DYW8qhDD5Kn7B7-p-2">
+        <mxCell id="Lu89DYW8qhDD5Kn7B7-p-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="Lu89DYW8qhDD5Kn7B7-p-1" source="Lu89DYW8qhDD5Kn7B7-p-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-590" y="142.5" as="sourcePoint" />
             <mxPoint x="-485" y="177.5" as="targetPoint" />
@@ -134,7 +131,7 @@
         </mxCell>
         <mxCell id="Lu89DYW8qhDD5Kn7B7-p-32" value="Base (mudança pcte,&amp;nbsp;&lt;div&gt;adesão,&amp;nbsp;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;cancelamento,&amp;nbsp;&lt;/span&gt;&lt;div&gt;suspensão)&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lu89DYW8qhDD5Kn7B7-p-31">
           <mxGeometry x="0.2265" y="1" relative="1" as="geometry">
-            <mxPoint x="-55" y="14" as="offset" />
+            <mxPoint x="-95" y="39" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Lu89DYW8qhDD5Kn7B7-p-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Lu89DYW8qhDD5Kn7B7-p-1" source="Lu89DYW8qhDD5Kn7B7-p-30" target="Lu89DYW8qhDD5Kn7B7-p-37">
@@ -143,9 +140,9 @@
             <mxPoint x="-410" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lu89DYW8qhDD5Kn7B7-p-34" value="Técnico: VT, Abertura OS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lu89DYW8qhDD5Kn7B7-p-33">
+        <mxCell id="Lu89DYW8qhDD5Kn7B7-p-34" value="Técnico: VT,&amp;nbsp;&lt;div&gt;Abertura OS&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lu89DYW8qhDD5Kn7B7-p-33">
           <mxGeometry x="-0.0872" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="2" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Lu89DYW8qhDD5Kn7B7-p-35" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="Lu89DYW8qhDD5Kn7B7-p-1" source="Lu89DYW8qhDD5Kn7B7-p-30" target="Lu89DYW8qhDD5Kn7B7-p-37">
@@ -154,13 +151,13 @@
             <mxPoint x="-490" y="255" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lu89DYW8qhDD5Kn7B7-p-36" value="Financeiro: 2a via,&amp;nbsp;&lt;div&gt;forma de pgto,&amp;nbsp;&lt;div&gt;endereço fatura,&amp;nbsp;&lt;/div&gt;&lt;div&gt;faturamento móvel,&amp;nbsp;&lt;/div&gt;&lt;div&gt;troca titularidade(?)&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lu89DYW8qhDD5Kn7B7-p-35">
+        <mxCell id="Lu89DYW8qhDD5Kn7B7-p-36" value="Financeiro: 2a via,&amp;nbsp;&lt;div&gt;forma de pgto,&amp;nbsp;&lt;div&gt;endereço fatura,&amp;nbsp;&lt;/div&gt;&lt;div&gt;faturamento móvel,&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lu89DYW8qhDD5Kn7B7-p-35">
           <mxGeometry x="-0.6552" y="-2" relative="1" as="geometry">
-            <mxPoint x="38" y="5" as="offset" />
+            <mxPoint x="2" y="36" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Lu89DYW8qhDD5Kn7B7-p-37" value="ASSINANTE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Lu89DYW8qhDD5Kn7B7-p-1">
-          <mxGeometry x="-485" y="210" width="90" height="40" as="geometry" />
+          <mxGeometry x="-485" y="260" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Lu89DYW8qhDD5Kn7B7-p-38" value="&amp;lt;MS&amp;gt;&lt;br&gt;ATENDIMENTO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Lu89DYW8qhDD5Kn7B7-p-1">
           <mxGeometry x="-275" y="345" width="176" height="60" as="geometry" />
@@ -177,8 +174,13 @@
             <mxPoint x="-270" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lu89DYW8qhDD5Kn7B7-p-41" value="Se FLAGNOBILL foi solicitada alteração, altera flag ao baixar OS e avisa OM para calcular PRORATA do cliente" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Lu89DYW8qhDD5Kn7B7-p-1">
-          <mxGeometry x="-270" y="405" width="160" height="67" as="geometry" />
+        <mxCell id="NMWwITnLbbkECrRNVcoz-18" value="Abertura&amp;nbsp;&lt;div&gt;OS VT&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lu89DYW8qhDD5Kn7B7-p-40">
+          <mxGeometry x="-0.0467" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lu89DYW8qhDD5Kn7B7-p-41" value="Após migração, se houver valor pendente de pro rata, última fatura será gerada no residencial para o cliente." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Lu89DYW8qhDD5Kn7B7-p-1">
+          <mxGeometry x="-170" y="790" width="160" height="67" as="geometry" />
         </mxCell>
         <mxCell id="Lu89DYW8qhDD5Kn7B7-p-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.024;entryY=0.76;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;entryPerimeter=0;" edge="1" parent="Lu89DYW8qhDD5Kn7B7-p-1" source="Lu89DYW8qhDD5Kn7B7-p-22" target="Lu89DYW8qhDD5Kn7B7-p-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -216,10 +218,20 @@
             <mxPoint x="490" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="NMWwITnLbbkECrRNVcoz-26" value="OS VT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lu89DYW8qhDD5Kn7B7-p-51">
+          <mxGeometry x="-0.1733" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Lu89DYW8qhDD5Kn7B7-p-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="Lu89DYW8qhDD5Kn7B7-p-1" source="Lu89DYW8qhDD5Kn7B7-p-47" target="Lu89DYW8qhDD5Kn7B7-p-49">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="655" y="230" as="sourcePoint" />
             <mxPoint x="580" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NMWwITnLbbkECrRNVcoz-24" value="Adesão" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lu89DYW8qhDD5Kn7B7-p-52">
+          <mxGeometry x="-0.2368" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Lu89DYW8qhDD5Kn7B7-p-53" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Lu89DYW8qhDD5Kn7B7-p-1" source="Lu89DYW8qhDD5Kn7B7-p-45" target="Lu89DYW8qhDD5Kn7B7-p-12">
@@ -249,7 +261,7 @@
             <mxPoint x="-30" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lu89DYW8qhDD5Kn7B7-p-58" value="Quando venda/atendimento&amp;nbsp;&lt;div&gt;iniciado fora do Solar&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lu89DYW8qhDD5Kn7B7-p-57">
+        <mxCell id="Lu89DYW8qhDD5Kn7B7-p-58" value="Quando venda/atendimento&amp;nbsp;&lt;div&gt;iniciado fora do Solar, JOBs&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lu89DYW8qhDD5Kn7B7-p-57">
           <mxGeometry x="-0.0827" relative="1" as="geometry">
             <mxPoint x="35" y="12" as="offset" />
           </mxGeometry>
@@ -260,7 +272,7 @@
             <mxPoint x="120" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lu89DYW8qhDD5Kn7B7-p-60" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Lu89DYW8qhDD5Kn7B7-p-1" source="Lu89DYW8qhDD5Kn7B7-p-55" target="Lu89DYW8qhDD5Kn7B7-p-13">
+        <mxCell id="Lu89DYW8qhDD5Kn7B7-p-60" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.021;entryY=0.8;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="Lu89DYW8qhDD5Kn7B7-p-1" source="Lu89DYW8qhDD5Kn7B7-p-55" target="Lu89DYW8qhDD5Kn7B7-p-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="347" y="330" as="sourcePoint" />
             <mxPoint x="250" y="375" as="targetPoint" />
@@ -314,9 +326,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lu89DYW8qhDD5Kn7B7-p-68" value="FATURAMENTO CONVERGENTE" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Lu89DYW8qhDD5Kn7B7-p-1">
-          <mxGeometry x="-350" y="595" width="120" height="60" as="geometry" />
+          <mxGeometry x="-340" y="730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Lu89DYW8qhDD5Kn7B7-p-69" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Lu89DYW8qhDD5Kn7B7-p-1" source="Lu89DYW8qhDD5Kn7B7-p-14" target="Lu89DYW8qhDD5Kn7B7-p-68">
+        <mxCell id="Lu89DYW8qhDD5Kn7B7-p-69" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Lu89DYW8qhDD5Kn7B7-p-1" source="Lu89DYW8qhDD5Kn7B7-p-14" target="Lu89DYW8qhDD5Kn7B7-p-68">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-230" y="570" as="sourcePoint" />
             <mxPoint x="-180" y="520" as="targetPoint" />
@@ -348,9 +360,9 @@
             <mxPoint x="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NMWwITnLbbkECrRNVcoz-7" value="Mudança de pcte,&lt;div&gt;&amp;nbsp;adesão&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lu89DYW8qhDD5Kn7B7-p-1">
-          <mxGeometry x="-320" y="170" as="geometry">
-            <mxPoint x="-10" y="-2" as="offset" />
+        <mxCell id="NMWwITnLbbkECrRNVcoz-7" value="Mudança de&amp;nbsp;&lt;div&gt;pcte,&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;adesão&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lu89DYW8qhDD5Kn7B7-p-1">
+          <mxGeometry x="-324" y="158" as="geometry">
+            <mxPoint x="-6" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NMWwITnLbbkECrRNVcoz-8" value="&amp;lt;MS&amp;gt;&lt;br&gt;CANCELAMENTO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Lu89DYW8qhDD5Kn7B7-p-1">
@@ -363,7 +375,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NMWwITnLbbkECrRNVcoz-11" value="Cancelamento" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Lu89DYW8qhDD5Kn7B7-p-1">
-          <mxGeometry x="-321" y="185" as="geometry">
+          <mxGeometry x="-321" y="174" as="geometry">
             <mxPoint x="-8" y="14" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -376,6 +388,11 @@
             <mxPoint x="-263" y="215" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="NMWwITnLbbkECrRNVcoz-17" value="Suspensão&amp;nbsp;&lt;div&gt;Temporária&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NMWwITnLbbkECrRNVcoz-13">
+          <mxGeometry x="0.0773" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="NMWwITnLbbkECrRNVcoz-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="Lu89DYW8qhDD5Kn7B7-p-1" source="NMWwITnLbbkECrRNVcoz-8" target="Lu89DYW8qhDD5Kn7B7-p-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-60" y="210" as="sourcePoint" />
@@ -386,6 +403,27 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-80" y="240" as="sourcePoint" />
             <mxPoint x="21" y="313" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NMWwITnLbbkECrRNVcoz-16" value="Se contrato fatura no Mobile e reques via Solar: valida baixa da OS, atualiza atributo contrato e depois chama API Callback Solar" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Lu89DYW8qhDD5Kn7B7-p-1">
+          <mxGeometry x="-275" y="420" width="160" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="NMWwITnLbbkECrRNVcoz-19" value="NETSales (Bloqueio para contratos faturados no Mobile)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Lu89DYW8qhDD5Kn7B7-p-1">
+          <mxGeometry x="237" y="320" width="176" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NMWwITnLbbkECrRNVcoz-20" value="NETSMS (Bloqueio para contratos faturados no Mobile)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Lu89DYW8qhDD5Kn7B7-p-1">
+          <mxGeometry x="238" y="400" width="176" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NMWwITnLbbkECrRNVcoz-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.993;entryY=0.233;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="Lu89DYW8qhDD5Kn7B7-p-1" source="NMWwITnLbbkECrRNVcoz-19" target="Lu89DYW8qhDD5Kn7B7-p-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="317" y="305" as="sourcePoint" />
+            <mxPoint x="220" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NMWwITnLbbkECrRNVcoz-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Lu89DYW8qhDD5Kn7B7-p-1" source="NMWwITnLbbkECrRNVcoz-20" target="Lu89DYW8qhDD5Kn7B7-p-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="338" y="488" as="sourcePoint" />
+            <mxPoint x="240" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
