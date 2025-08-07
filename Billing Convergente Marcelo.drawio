@@ -106,7 +106,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Lu89DYW8qhDD5Kn7B7-p-27" value="CONCILIAÇÃO FATURAMENTO NETSMS X ENG X MOBILE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Lu89DYW8qhDD5Kn7B7-p-1">
-          <mxGeometry x="-150" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="-140" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lu89DYW8qhDD5Kn7B7-p-28" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Lu89DYW8qhDD5Kn7B7-p-1" source="Lu89DYW8qhDD5Kn7B7-p-27" target="Lu89DYW8qhDD5Kn7B7-p-68">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -179,8 +179,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lu89DYW8qhDD5Kn7B7-p-41" value="Após migração, se houver valor pendente de pro rata, última fatura será gerada no residencial para o cliente." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Lu89DYW8qhDD5Kn7B7-p-1">
-          <mxGeometry x="-170" y="790" width="160" height="67" as="geometry" />
+        <mxCell id="Lu89DYW8qhDD5Kn7B7-p-41" value="Após migração, se houver valor pendente de pro rata, última fatura será gerada no residencial para o cliente (em paralelo ao faturamento no Mobile)." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Lu89DYW8qhDD5Kn7B7-p-1">
+          <mxGeometry x="-20" y="633" width="200" height="67" as="geometry" />
         </mxCell>
         <mxCell id="Lu89DYW8qhDD5Kn7B7-p-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.024;entryY=0.76;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=3;entryPerimeter=0;" edge="1" parent="Lu89DYW8qhDD5Kn7B7-p-1" source="Lu89DYW8qhDD5Kn7B7-p-22" target="Lu89DYW8qhDD5Kn7B7-p-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -326,7 +326,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Lu89DYW8qhDD5Kn7B7-p-68" value="FATURAMENTO CONVERGENTE" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Lu89DYW8qhDD5Kn7B7-p-1">
-          <mxGeometry x="-340" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="-330" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lu89DYW8qhDD5Kn7B7-p-69" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Lu89DYW8qhDD5Kn7B7-p-1" source="Lu89DYW8qhDD5Kn7B7-p-14" target="Lu89DYW8qhDD5Kn7B7-p-68">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
