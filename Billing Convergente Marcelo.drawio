@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7" pages="9">
   <diagram name="COMPLETO v2" id="IHQhvyUtYEcRs8zsTrsc">
-    <mxGraphModel dx="2012" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1773" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Lu89DYW8qhDD5Kn7B7-p-0" />
         <mxCell id="Lu89DYW8qhDD5Kn7B7-p-1" parent="Lu89DYW8qhDD5Kn7B7-p-0" />
@@ -405,7 +405,7 @@
             <mxPoint x="21" y="313" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NMWwITnLbbkECrRNVcoz-16" value="Se contrato fatura no Mobile e reques via Solar: valida baixa da OS, atualiza atributo contrato e depois chama API Callback Solar" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Lu89DYW8qhDD5Kn7B7-p-1">
+        <mxCell id="NMWwITnLbbkECrRNVcoz-16" value="Se contrato fatura no Mobile e OS derivada do Solar: valida baixa da OS, atualiza atributo contrato e depois chama API Callback Solar" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Lu89DYW8qhDD5Kn7B7-p-1">
           <mxGeometry x="-275" y="420" width="160" height="67" as="geometry" />
         </mxCell>
         <mxCell id="NMWwITnLbbkECrRNVcoz-19" value="NETSales (Bloqueio para contratos faturados no Mobile)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Lu89DYW8qhDD5Kn7B7-p-1">
@@ -425,6 +425,9 @@
             <mxPoint x="338" y="488" as="sourcePoint" />
             <mxPoint x="240" y="400" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="NMWwITnLbbkECrRNVcoz-27" value="Se contrato fatura no Mobile e OS &lt;b&gt;não derivada&lt;/b&gt;&amp;nbsp;do Solar: valida baixa da OS, depois chama API Callback Mobile" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Lu89DYW8qhDD5Kn7B7-p-1">
+          <mxGeometry x="380" y="500" width="160" height="67" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
