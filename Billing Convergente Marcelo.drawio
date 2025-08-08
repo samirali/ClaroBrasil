@@ -54,9 +54,6 @@
         <mxCell id="WMeuJgTBO1_McjWaMNvh-11" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;FLAG BILLING-M = TRUE&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="WMeuJgTBO1_McjWaMNvh-9" vertex="1">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WMeuJgTBO1_McjWaMNvh-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Lu89DYW8qhDD5Kn7B7-p-1" source="WMeuJgTBO1_McjWaMNvh-13" target="WMeuJgTBO1_McjWaMNvh-97" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="WMeuJgTBO1_McjWaMNvh-13" value="MOBILE" style="rounded=1;whiteSpace=wrap;html=1;" parent="Lu89DYW8qhDD5Kn7B7-p-1" vertex="1">
           <mxGeometry x="-560" y="575" width="120" height="60" as="geometry" />
         </mxCell>
@@ -411,9 +408,6 @@
         </mxCell>
         <mxCell id="WMeuJgTBO1_McjWaMNvh-91" value="Se contrato fatura no Mobile e OS &lt;b&gt;não derivada&lt;/b&gt;&amp;nbsp;do Solar: valida baixa da OS, depois chama API Callback Mobile" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Lu89DYW8qhDD5Kn7B7-p-1" vertex="1">
           <mxGeometry x="380" y="568" width="160" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="WMeuJgTBO1_McjWaMNvh-97" value="JOB NETSMS&amp;nbsp;&lt;div&gt;Recebe arquivos de Collection (suspensão, retorno, cancelamento)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="Lu89DYW8qhDD5Kn7B7-p-1" vertex="1">
-          <mxGeometry x="-570" y="670" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="37nCYrVKWNsHSkrD3MiR-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="Lu89DYW8qhDD5Kn7B7-p-1" source="37nCYrVKWNsHSkrD3MiR-1" target="WMeuJgTBO1_McjWaMNvh-13">
           <mxGeometry relative="1" as="geometry" />
