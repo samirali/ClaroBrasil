@@ -91,10 +91,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WMeuJgTBO1_McjWaMNvh-20" value="OS finalizada/instalação concluida com sucesso" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Lu89DYW8qhDD5Kn7B7-p-1" vertex="1">
-          <mxGeometry x="-313.5" y="567" width="168" height="40" as="geometry" />
+          <mxGeometry x="-313.5" y="490" width="168" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WMeuJgTBO1_McjWaMNvh-21" value="&amp;lt;MS&amp;gt;&lt;br&gt;CALLBACK SOLAR" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="Lu89DYW8qhDD5Kn7B7-p-1" vertex="1">
-          <mxGeometry x="-289.5" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="-289.5" y="433" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WMeuJgTBO1_McjWaMNvh-22" value="PROPOSTA" style="rounded=0;whiteSpace=wrap;html=1;" parent="Lu89DYW8qhDD5Kn7B7-p-1" vertex="1">
           <mxGeometry x="-525" y="160" width="90" height="40" as="geometry" />
@@ -349,7 +349,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WMeuJgTBO1_McjWaMNvh-78" value="&amp;lt;MS&amp;gt;&lt;br&gt;CANCELAMENTO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="Lu89DYW8qhDD5Kn7B7-p-1" vertex="1">
-          <mxGeometry x="-318" y="290" width="176" height="60" as="geometry" />
+          <mxGeometry x="-318" y="213" width="176" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WMeuJgTBO1_McjWaMNvh-79" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="Lu89DYW8qhDD5Kn7B7-p-1" source="WMeuJgTBO1_McjWaMNvh-22" target="WMeuJgTBO1_McjWaMNvh-78" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -363,7 +363,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WMeuJgTBO1_McjWaMNvh-81" value="&amp;lt;MS&amp;gt;&lt;br&gt;SUSPENSÃO/RETORNO&amp;nbsp; TEMPORÁRIA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="Lu89DYW8qhDD5Kn7B7-p-1" vertex="1">
-          <mxGeometry x="-318" y="360" width="176" height="60" as="geometry" />
+          <mxGeometry x="-318" y="283" width="176" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WMeuJgTBO1_McjWaMNvh-82" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.011;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;" parent="Lu89DYW8qhDD5Kn7B7-p-1" source="WMeuJgTBO1_McjWaMNvh-22" target="WMeuJgTBO1_McjWaMNvh-81" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -389,7 +389,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WMeuJgTBO1_McjWaMNvh-86" value="Se contrato fatura no Mobile e OS derivada do Solar: valida baixa da OS, atualiza atributo contrato e depois chama API Callback Solar" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Lu89DYW8qhDD5Kn7B7-p-1" vertex="1">
-          <mxGeometry x="-314.5" y="430" width="160" height="67" as="geometry" />
+          <mxGeometry x="-314.5" y="353" width="160" height="67" as="geometry" />
         </mxCell>
         <mxCell id="WMeuJgTBO1_McjWaMNvh-87" value="NETSales (Bloqueio para contratos faturados no Mobile)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="Lu89DYW8qhDD5Kn7B7-p-1" vertex="1">
           <mxGeometry x="197" y="270" width="176" height="60" as="geometry" />
@@ -426,15 +426,6 @@
         </mxCell>
         <mxCell id="37nCYrVKWNsHSkrD3MiR-6" value="Incluir detalhes do produto baixado na OS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Lu89DYW8qhDD5Kn7B7-p-1">
           <mxGeometry x="240" y="620" width="160" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="37nCYrVKWNsHSkrD3MiR-7" value="API VENDA BASE DXC NBA&lt;div&gt;BLOQUEIO DE CONTRATOS FATURADOS NA MÓVEL&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Lu89DYW8qhDD5Kn7B7-p-1">
-          <mxGeometry x="-321.5" y="215" width="176" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="37nCYrVKWNsHSkrD3MiR-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Lu89DYW8qhDD5Kn7B7-p-1" source="WMeuJgTBO1_McjWaMNvh-22" target="37nCYrVKWNsHSkrD3MiR-7">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-390" y="230" as="sourcePoint" />
-            <mxPoint x="-273" y="355" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="37nCYrVKWNsHSkrD3MiR-9" value="Portabilidade Fixa" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Lu89DYW8qhDD5Kn7B7-p-1">
           <mxGeometry x="520" y="60" width="120" height="60" as="geometry" />
