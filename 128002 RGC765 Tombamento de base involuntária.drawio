@@ -19,16 +19,16 @@
         <mxCell id="_UXns04564KCJIVJdwUz-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_UXns04564KCJIVJdwUz-4" target="_UXns04564KCJIVJdwUz-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_UXns04564KCJIVJdwUz-4" value="Mailing Control" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_UXns04564KCJIVJdwUz-4" value="Mailing Control" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;noLabel=0;miterlimit=4;" vertex="1" parent="1">
           <mxGeometry x="360" y="60" width="140" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="_UXns04564KCJIVJdwUz-5" value="contrato" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_UXns04564KCJIVJdwUz-4">
+        <mxCell id="_UXns04564KCJIVJdwUz-5" value="ID Mailing contrato" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_UXns04564KCJIVJdwUz-4">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_UXns04564KCJIVJdwUz-6" value="produto DE" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_UXns04564KCJIVJdwUz-4">
+        <mxCell id="_UXns04564KCJIVJdwUz-6" value="Contrato" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_UXns04564KCJIVJdwUz-4">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_UXns04564KCJIVJdwUz-7" value="produto PARA" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_UXns04564KCJIVJdwUz-4">
+        <mxCell id="_UXns04564KCJIVJdwUz-7" value="produto DE-PARA" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_UXns04564KCJIVJdwUz-4">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_UXns04564KCJIVJdwUz-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.009;entryY=0.17;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_UXns04564KCJIVJdwUz-2" target="_UXns04564KCJIVJdwUz-4">
