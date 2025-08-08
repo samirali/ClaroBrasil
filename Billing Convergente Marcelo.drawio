@@ -412,12 +412,6 @@
         <mxCell id="WMeuJgTBO1_McjWaMNvh-91" value="Se contrato fatura no Mobile e OS &lt;b&gt;não derivada&lt;/b&gt;&amp;nbsp;do Solar: valida baixa da OS, depois chama API Callback Mobile" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Lu89DYW8qhDD5Kn7B7-p-1" vertex="1">
           <mxGeometry x="340" y="510" width="160" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="WMeuJgTBO1_McjWaMNvh-94" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=262.5;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="Lu89DYW8qhDD5Kn7B7-p-1" target="WMeuJgTBO1_McjWaMNvh-3" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="450" as="sourcePoint" />
-            <mxPoint x="400" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="WMeuJgTBO1_McjWaMNvh-97" value="JOB NETSMS&amp;nbsp;&lt;div&gt;Recebe arquivos de Collection (suspensão, retorno, cancelamento)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="Lu89DYW8qhDD5Kn7B7-p-1" vertex="1">
           <mxGeometry x="-570" y="670" width="140" height="60" as="geometry" />
         </mxCell>
@@ -453,7 +447,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="37nCYrVKWNsHSkrD3MiR-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.687;entryY=0.027;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="Lu89DYW8qhDD5Kn7B7-p-1" source="WMeuJgTBO1_McjWaMNvh-44" target="37nCYrVKWNsHSkrD3MiR-1">
+        <mxCell id="37nCYrVKWNsHSkrD3MiR-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.687;entryY=0.027;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="Lu89DYW8qhDD5Kn7B7-p-1" source="WMeuJgTBO1_McjWaMNvh-44" target="37nCYrVKWNsHSkrD3MiR-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="257" y="180" as="sourcePoint" />
             <mxPoint x="160" y="261" as="targetPoint" />
