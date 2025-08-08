@@ -105,6 +105,21 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_UXns04564KCJIVJdwUz-32" value="JOB Extração de dados para análise de negócio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_UXns04564KCJIVJdwUz-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_UXns04564KCJIVJdwUz-17" target="_UXns04564KCJIVJdwUz-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_UXns04564KCJIVJdwUz-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_UXns04564KCJIVJdwUz-25" target="_UXns04564KCJIVJdwUz-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_UXns04564KCJIVJdwUz-35" value="Arquivos Prévia / Resultado" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="150" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_UXns04564KCJIVJdwUz-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_UXns04564KCJIVJdwUz-32" target="_UXns04564KCJIVJdwUz-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
