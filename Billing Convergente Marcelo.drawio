@@ -425,10 +425,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="37nCYrVKWNsHSkrD3MiR-1" value="&amp;lt;MS&amp;gt;&lt;br&gt;REGISTRO PRODUTOS ORIGEM URA/STB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Lu89DYW8qhDD5Kn7B7-p-1">
-          <mxGeometry x="100" y="750" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="37nCYrVKWNsHSkrD3MiR-5" value="Incluir detalhes do produto baixado na OS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Lu89DYW8qhDD5Kn7B7-p-1">
-          <mxGeometry x="220" y="743" width="160" height="67" as="geometry" />
+          <mxGeometry x="180" y="743" width="160" height="67" as="geometry" />
         </mxCell>
         <mxCell id="37nCYrVKWNsHSkrD3MiR-6" value="Incluir detalhes do produto baixado na OS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Lu89DYW8qhDD5Kn7B7-p-1">
           <mxGeometry x="240" y="620" width="160" height="67" as="geometry" />
@@ -440,6 +440,23 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-390" y="230" as="sourcePoint" />
             <mxPoint x="-273" y="355" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="37nCYrVKWNsHSkrD3MiR-9" value="Portabilidade Fixa" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Lu89DYW8qhDD5Kn7B7-p-1">
+          <mxGeometry x="520" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="37nCYrVKWNsHSkrD3MiR-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.773;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Lu89DYW8qhDD5Kn7B7-p-1" source="37nCYrVKWNsHSkrD3MiR-9" target="WMeuJgTBO1_McjWaMNvh-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="90" />
+              <mxPoint x="120" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="37nCYrVKWNsHSkrD3MiR-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.687;entryY=0.027;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="Lu89DYW8qhDD5Kn7B7-p-1" source="WMeuJgTBO1_McjWaMNvh-44" target="37nCYrVKWNsHSkrD3MiR-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="257" y="180" as="sourcePoint" />
+            <mxPoint x="160" y="261" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
