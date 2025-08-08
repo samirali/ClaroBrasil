@@ -453,6 +453,15 @@
             <mxPoint x="160" y="261" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="37nCYrVKWNsHSkrD3MiR-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Lu89DYW8qhDD5Kn7B7-p-1" source="37nCYrVKWNsHSkrD3MiR-12" target="37nCYrVKWNsHSkrD3MiR-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="37nCYrVKWNsHSkrD3MiR-12" value="OTT (?)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Lu89DYW8qhDD5Kn7B7-p-1">
+          <mxGeometry x="197" y="420" width="176" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="37nCYrVKWNsHSkrD3MiR-14" value="JOB EXTRAÇÃO PARA MOBILE" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Lu89DYW8qhDD5Kn7B7-p-1">
+          <mxGeometry x="481" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
