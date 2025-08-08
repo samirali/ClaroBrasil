@@ -84,17 +84,17 @@
             <mxPoint x="108" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WMeuJgTBO1_McjWaMNvh-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="Lu89DYW8qhDD5Kn7B7-p-1" source="WMeuJgTBO1_McjWaMNvh-17" target="WMeuJgTBO1_McjWaMNvh-21" edge="1">
+        <mxCell id="WMeuJgTBO1_McjWaMNvh-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="Lu89DYW8qhDD5Kn7B7-p-1" source="WMeuJgTBO1_McjWaMNvh-16" target="WMeuJgTBO1_McjWaMNvh-21" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-30" y="540" as="sourcePoint" />
             <mxPoint x="20" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WMeuJgTBO1_McjWaMNvh-20" value="OS finalizada/instalação concluida com sucesso" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Lu89DYW8qhDD5Kn7B7-p-1" vertex="1">
-          <mxGeometry x="-314" y="567" width="168" height="40" as="geometry" />
+          <mxGeometry x="-313.5" y="487" width="168" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WMeuJgTBO1_McjWaMNvh-21" value="&amp;lt;MS&amp;gt;&lt;br&gt;CALLBACK SOLAR" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="Lu89DYW8qhDD5Kn7B7-p-1" vertex="1">
-          <mxGeometry x="-290" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="-289.5" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WMeuJgTBO1_McjWaMNvh-22" value="PROPOSTA" style="rounded=0;whiteSpace=wrap;html=1;" parent="Lu89DYW8qhDD5Kn7B7-p-1" vertex="1">
           <mxGeometry x="-525" y="160" width="90" height="40" as="geometry" />
@@ -162,26 +162,6 @@
         <mxCell id="WMeuJgTBO1_McjWaMNvh-35" value="ASSINANTE" style="rounded=0;whiteSpace=wrap;html=1;" parent="Lu89DYW8qhDD5Kn7B7-p-1" vertex="1">
           <mxGeometry x="-525" y="270" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WMeuJgTBO1_McjWaMNvh-36" value="&amp;lt;MS&amp;gt;&lt;br&gt;ATENDIMENTO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="Lu89DYW8qhDD5Kn7B7-p-1" vertex="1">
-          <mxGeometry x="-315" y="355" width="176" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="WMeuJgTBO1_McjWaMNvh-37" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.01;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="Lu89DYW8qhDD5Kn7B7-p-1" source="WMeuJgTBO1_McjWaMNvh-36" target="WMeuJgTBO1_McjWaMNvh-11" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-360" y="350" as="sourcePoint" />
-            <mxPoint x="-310" y="300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WMeuJgTBO1_McjWaMNvh-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="Lu89DYW8qhDD5Kn7B7-p-1" source="WMeuJgTBO1_McjWaMNvh-35" target="WMeuJgTBO1_McjWaMNvh-36" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-360" y="350" as="sourcePoint" />
-            <mxPoint x="-310" y="300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WMeuJgTBO1_McjWaMNvh-39" value="Abertura&amp;nbsp;&lt;div&gt;OS VT&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="WMeuJgTBO1_McjWaMNvh-38" vertex="1" connectable="0">
-          <mxGeometry x="-0.0467" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="WMeuJgTBO1_McjWaMNvh-40" value="Após migração, se houver valor pendente de pro rata, última fatura será gerada no residencial para o cliente (em paralelo ao faturamento no Mobile)." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Lu89DYW8qhDD5Kn7B7-p-1" vertex="1">
           <mxGeometry x="-60" y="643" width="200" height="67" as="geometry" />
         </mxCell>
@@ -197,10 +177,10 @@
         <mxCell id="WMeuJgTBO1_McjWaMNvh-43" value="Atendimento Não Solar Minhas, URA, Whatsapp (troca nr telefone fixo, etc)" style="rounded=1;whiteSpace=wrap;html=1;" parent="Lu89DYW8qhDD5Kn7B7-p-1" vertex="1">
           <mxGeometry x="580" y="215" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WMeuJgTBO1_McjWaMNvh-44" value="&amp;lt;MS&amp;gt;&lt;br&gt;ADESÃO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="Lu89DYW8qhDD5Kn7B7-p-1" vertex="1">
+        <mxCell id="WMeuJgTBO1_McjWaMNvh-44" value="ADESÃO STW" style="rounded=1;whiteSpace=wrap;html=1;" parent="Lu89DYW8qhDD5Kn7B7-p-1" vertex="1">
           <mxGeometry x="197" y="124" width="176" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WMeuJgTBO1_McjWaMNvh-45" value="&amp;lt;MS&amp;gt;&lt;br&gt;CALLBACK MOBILE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="Lu89DYW8qhDD5Kn7B7-p-1" vertex="1">
+        <mxCell id="WMeuJgTBO1_McjWaMNvh-45" value="&amp;lt;MS&amp;gt;&lt;br&gt;APROVISIONAMENTO VT PAGA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="Lu89DYW8qhDD5Kn7B7-p-1" vertex="1">
           <mxGeometry x="253" y="575" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WMeuJgTBO1_McjWaMNvh-46" value="Venda não Solar (STB,URA, etc)" style="rounded=1;whiteSpace=wrap;html=1;" parent="Lu89DYW8qhDD5Kn7B7-p-1" vertex="1">
@@ -338,12 +318,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WMeuJgTBO1_McjWaMNvh-71" value="JOBS&lt;div&gt;Inclusão de conceito nobill em vários JOBS&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="Lu89DYW8qhDD5Kn7B7-p-1" vertex="1">
-          <mxGeometry x="-48" y="530" width="176" height="60" as="geometry" />
+          <mxGeometry x="-76" y="530" width="176" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WMeuJgTBO1_McjWaMNvh-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="Lu89DYW8qhDD5Kn7B7-p-1" source="WMeuJgTBO1_McjWaMNvh-71" target="WMeuJgTBO1_McjWaMNvh-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WMeuJgTBO1_McjWaMNvh-73" value="&amp;lt;MS&amp;gt;&lt;br&gt;PROPOSAL SUBSCRIBER" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="Lu89DYW8qhDD5Kn7B7-p-1" vertex="1">
+        <mxCell id="WMeuJgTBO1_McjWaMNvh-73" value="&amp;lt;MS&amp;gt;&lt;br&gt;VENDA BASE SOLAR" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="Lu89DYW8qhDD5Kn7B7-p-1" vertex="1">
           <mxGeometry x="-318" y="140" width="176" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WMeuJgTBO1_McjWaMNvh-74" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.007;entryY=0.767;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" parent="Lu89DYW8qhDD5Kn7B7-p-1" source="WMeuJgTBO1_McjWaMNvh-73" target="WMeuJgTBO1_McjWaMNvh-10" edge="1">
@@ -382,7 +362,7 @@
             <mxPoint x="-8" y="14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WMeuJgTBO1_McjWaMNvh-81" value="&amp;lt;MS&amp;gt;&lt;br&gt;SUSPENSÃO TEMPORÁRIA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="Lu89DYW8qhDD5Kn7B7-p-1" vertex="1">
+        <mxCell id="WMeuJgTBO1_McjWaMNvh-81" value="&amp;lt;MS&amp;gt;&lt;br&gt;SUSPENSÃO/RETORNO&amp;nbsp; TEMPORÁRIA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="Lu89DYW8qhDD5Kn7B7-p-1" vertex="1">
           <mxGeometry x="-318" y="280" width="176" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WMeuJgTBO1_McjWaMNvh-82" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.011;entryY=0.15;entryDx=0;entryDy=0;entryPerimeter=0;" parent="Lu89DYW8qhDD5Kn7B7-p-1" source="WMeuJgTBO1_McjWaMNvh-22" target="WMeuJgTBO1_McjWaMNvh-81" edge="1">
@@ -409,7 +389,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WMeuJgTBO1_McjWaMNvh-86" value="Se contrato fatura no Mobile e OS derivada do Solar: valida baixa da OS, atualiza atributo contrato e depois chama API Callback Solar" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Lu89DYW8qhDD5Kn7B7-p-1" vertex="1">
-          <mxGeometry x="-315" y="430" width="160" height="67" as="geometry" />
+          <mxGeometry x="-314.5" y="350" width="160" height="67" as="geometry" />
         </mxCell>
         <mxCell id="WMeuJgTBO1_McjWaMNvh-87" value="NETSales (Bloqueio para contratos faturados no Mobile)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="Lu89DYW8qhDD5Kn7B7-p-1" vertex="1">
           <mxGeometry x="197" y="270" width="176" height="60" as="geometry" />
@@ -457,6 +437,23 @@
         </mxCell>
         <mxCell id="WMeuJgTBO1_McjWaMNvh-97" value="JOB NETSMS&amp;nbsp;&lt;div&gt;Recebe arquivos de Collection (suspensão, retorno, cancelamento)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="Lu89DYW8qhDD5Kn7B7-p-1" vertex="1">
           <mxGeometry x="-570" y="670" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="37nCYrVKWNsHSkrD3MiR-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="Lu89DYW8qhDD5Kn7B7-p-1" source="37nCYrVKWNsHSkrD3MiR-1" target="WMeuJgTBO1_McjWaMNvh-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="37nCYrVKWNsHSkrD3MiR-1" value="&amp;lt;MS&amp;gt;&lt;br&gt;REGISTRO PRODUTOS ORIGEM URA/STB" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="Lu89DYW8qhDD5Kn7B7-p-1">
+          <mxGeometry x="100" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="37nCYrVKWNsHSkrD3MiR-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Lu89DYW8qhDD5Kn7B7-p-1" source="WMeuJgTBO1_McjWaMNvh-44" target="37nCYrVKWNsHSkrD3MiR-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="550" as="sourcePoint" />
+            <mxPoint x="383" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="37nCYrVKWNsHSkrD3MiR-3" value="Quando venda/atendimento&amp;nbsp;&lt;div&gt;iniciado fora do Solar, JOBs&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="37nCYrVKWNsHSkrD3MiR-2">
+          <mxGeometry x="-0.0827" relative="1" as="geometry">
+            <mxPoint x="35" y="12" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
