@@ -10,7 +10,7 @@
         <mxCell id="_UXns04564KCJIVJdwUz-1" value="Mailing&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="50" y="40" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_UXns04564KCJIVJdwUz-2" value="JOB Leitura de mailing e gravação em tabelas de controle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_UXns04564KCJIVJdwUz-2" value="JOB Leitura de mailing e gravação em tabelas de controle" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="160" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_UXns04564KCJIVJdwUz-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.009;exitY=0.15;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_UXns04564KCJIVJdwUz-4" target="_UXns04564KCJIVJdwUz-10">
@@ -19,7 +19,7 @@
         <mxCell id="_UXns04564KCJIVJdwUz-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_UXns04564KCJIVJdwUz-4" target="_UXns04564KCJIVJdwUz-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_UXns04564KCJIVJdwUz-4" value="Mailing Control" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;noLabel=0;miterlimit=4;" vertex="1" parent="1">
+        <mxCell id="_UXns04564KCJIVJdwUz-4" value="Mailing Control" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;noLabel=0;miterlimit=4;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="360" y="60" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="_UXns04564KCJIVJdwUz-5" value="ID Mailing contrato" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_UXns04564KCJIVJdwUz-4">
@@ -37,7 +37,7 @@
         <mxCell id="_UXns04564KCJIVJdwUz-9" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="580" y="170" width="140" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="_UXns04564KCJIVJdwUz-10" value="JOB Simula migração de ofertas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_UXns04564KCJIVJdwUz-10" value="JOB Simula migração de ofertas" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="590" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_UXns04564KCJIVJdwUz-12" value="Arquivo:&amp;nbsp;&lt;div&gt;Contrato&lt;/div&gt;&lt;div&gt;Assinante&lt;/div&gt;&lt;div&gt;Oferta De&lt;/div&gt;&lt;div&gt;Oferta Para&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -54,10 +54,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_UXns04564KCJIVJdwUz-15" value="Rel Prévia Processamento" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_UXns04564KCJIVJdwUz-15" value="Rel Prévia Processamento" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="770" y="60" width="140" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="_UXns04564KCJIVJdwUz-16" value="contrato" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_UXns04564KCJIVJdwUz-15">
+        <mxCell id="_UXns04564KCJIVJdwUz-16" value="contrato" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_UXns04564KCJIVJdwUz-15">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_UXns04564KCJIVJdwUz-17" value="Status processamento" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_UXns04564KCJIVJdwUz-15">
@@ -74,7 +74,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_UXns04564KCJIVJdwUz-20" value="JOB Executa migração de ofertas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_UXns04564KCJIVJdwUz-20" value="JOB Executa migração de ofertas" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="370" y="245" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_UXns04564KCJIVJdwUz-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=105;entryPerimeter=0;" edge="1" parent="1" source="_UXns04564KCJIVJdwUz-20" target="_UXns04564KCJIVJdwUz-9">
@@ -85,7 +85,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_UXns04564KCJIVJdwUz-23" value="Rel Resultado Processamento" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_UXns04564KCJIVJdwUz-23" value="Rel Resultado Processamento" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="770" y="230" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="_UXns04564KCJIVJdwUz-24" value="contrato" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="_UXns04564KCJIVJdwUz-23">
@@ -105,7 +105,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_UXns04564KCJIVJdwUz-32" value="JOB Extração de dados para análise de negócio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_UXns04564KCJIVJdwUz-32" value="JOB Extração de dados para análise de negócio" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="970" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_UXns04564KCJIVJdwUz-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_UXns04564KCJIVJdwUz-17" target="_UXns04564KCJIVJdwUz-32">
@@ -114,7 +114,10 @@
         <mxCell id="_UXns04564KCJIVJdwUz-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_UXns04564KCJIVJdwUz-25" target="_UXns04564KCJIVJdwUz-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_UXns04564KCJIVJdwUz-35" value="Arquivos Prévia / Resultado" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+        <mxCell id="_UXns04564KCJIVJdwUz-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_UXns04564KCJIVJdwUz-35" target="_UXns04564KCJIVJdwUz-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_UXns04564KCJIVJdwUz-35" value="Arquivos Prévia / Resultado" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1140" y="150" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="_UXns04564KCJIVJdwUz-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_UXns04564KCJIVJdwUz-32" target="_UXns04564KCJIVJdwUz-35">
@@ -122,6 +125,9 @@
         </mxCell>
         <mxCell id="_UXns04564KCJIVJdwUz-37" value="Passa por todos processos de migração de pacote com respectivas aberturas de OS, aprovisionamento, etc.&lt;div&gt;Troca de oferta deverá ser executada/agendada para a próxima execução do ciclo de faturamento do contrato, pra evitar pro-rata.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="305" width="190" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="_UXns04564KCJIVJdwUz-38" value="Configura envio Control-M" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
