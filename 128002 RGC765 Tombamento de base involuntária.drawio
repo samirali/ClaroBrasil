@@ -120,6 +120,9 @@
         <mxCell id="_UXns04564KCJIVJdwUz-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_UXns04564KCJIVJdwUz-32" target="_UXns04564KCJIVJdwUz-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="_UXns04564KCJIVJdwUz-37" value="Passa por todos processos de migração de pacote com respectivas aberturas de OS, aprovisionamento, etc.&lt;div&gt;Troca de oferta deverá ser executada/agendada para a próxima execução do ciclo de faturamento do contrato, pra evitar pro-rata.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="305" width="190" height="140" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
