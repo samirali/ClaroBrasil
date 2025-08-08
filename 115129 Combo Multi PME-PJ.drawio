@@ -195,7 +195,7 @@
           <mxGeometry x="1410" y="225" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kH3_FAEMpBlHl0FE8i5Q-44" value="&amp;lt;MS&amp;gt;&lt;br&gt;ADESÃO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1027" y="170" width="176" height="60" as="geometry" />
+          <mxGeometry x="1027" y="134" width="176" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kH3_FAEMpBlHl0FE8i5Q-45" value="&amp;lt;MS&amp;gt;&lt;br&gt;CALLBACK MOBILE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1083" y="585" width="120" height="60" as="geometry" />
@@ -247,7 +247,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kH3_FAEMpBlHl0FE8i5Q-56" value="&amp;lt;MS&amp;gt;&lt;br&gt;ATENDIMENTO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1027" y="250" width="176" height="60" as="geometry" />
+          <mxGeometry x="1027" y="210" width="176" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kH3_FAEMpBlHl0FE8i5Q-57" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kH3_FAEMpBlHl0FE8i5Q-49" target="kH3_FAEMpBlHl0FE8i5Q-56">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -409,10 +409,10 @@
           <mxGeometry x="515" y="440" width="160" height="67" as="geometry" />
         </mxCell>
         <mxCell id="kH3_FAEMpBlHl0FE8i5Q-87" value="NETSales (Bloqueio para contratos faturados no Mobile)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1027" y="340" width="176" height="60" as="geometry" />
+          <mxGeometry x="1027" y="280" width="176" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kH3_FAEMpBlHl0FE8i5Q-88" value="NETSMS (Bloqueio para contratos faturados no Mobile)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1028" y="420" width="176" height="60" as="geometry" />
+          <mxGeometry x="1027" y="360" width="176" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kH3_FAEMpBlHl0FE8i5Q-89" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.993;entryY=0.233;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="kH3_FAEMpBlHl0FE8i5Q-87" target="kH3_FAEMpBlHl0FE8i5Q-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -428,6 +428,29 @@
         </mxCell>
         <mxCell id="kH3_FAEMpBlHl0FE8i5Q-91" value="Se contrato fatura no Mobile e OS &lt;b&gt;não derivada&lt;/b&gt;&amp;nbsp;do Solar: valida baixa da OS, depois chama API Callback Mobile" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1170" y="520" width="160" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="kH3_FAEMpBlHl0FE8i5Q-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kH3_FAEMpBlHl0FE8i5Q-92" target="kH3_FAEMpBlHl0FE8i5Q-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kH3_FAEMpBlHl0FE8i5Q-92" value="NOVO JOB Gera arquivos de eventos de TV, avulsos para faturamento residencial na móvel" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="1027" y="430" width="176" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kH3_FAEMpBlHl0FE8i5Q-94" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=262.5;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kH3_FAEMpBlHl0FE8i5Q-92" target="kH3_FAEMpBlHl0FE8i5Q-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1180" y="410" as="sourcePoint" />
+            <mxPoint x="1230" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kH3_FAEMpBlHl0FE8i5Q-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kH3_FAEMpBlHl0FE8i5Q-95" target="kH3_FAEMpBlHl0FE8i5Q-69">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1360" y="740" />
+              <mxPoint x="520" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kH3_FAEMpBlHl0FE8i5Q-95" value="CONTROL-M" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
