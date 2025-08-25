@@ -205,7 +205,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="k7Fj7TQaixe13yYSkC7b-26" value="&lt;div&gt;- Primesys está com CNPJ inativo. Impedimento de realizar mudança de titularidade.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" vertex="1" parent="k7Fj7TQaixe13yYSkC7b-1">
-          <mxGeometry x="630" y="630" width="180" height="50" as="geometry" />
+          <mxGeometry x="610" y="600" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="k7Fj7TQaixe13yYSkC7b-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="k7Fj7TQaixe13yYSkC7b-1" source="k7Fj7TQaixe13yYSkC7b-28" target="k7Fj7TQaixe13yYSkC7b-16">
           <mxGeometry relative="1" as="geometry" />
@@ -227,7 +227,7 @@
         <mxCell id="k7Fj7TQaixe13yYSkC7b-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="k7Fj7TQaixe13yYSkC7b-1" source="k7Fj7TQaixe13yYSkC7b-35" target="k7Fj7TQaixe13yYSkC7b-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k7Fj7TQaixe13yYSkC7b-35" value="Cancela Contrato (custo desconexão)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="k7Fj7TQaixe13yYSkC7b-1">
+        <mxCell id="k7Fj7TQaixe13yYSkC7b-35" value="Cancela Contrato &lt;b&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;(custo desconexão)&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="k7Fj7TQaixe13yYSkC7b-1">
           <mxGeometry x="480" y="555" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k7Fj7TQaixe13yYSkC7b-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="k7Fj7TQaixe13yYSkC7b-1" source="k7Fj7TQaixe13yYSkC7b-37" target="k7Fj7TQaixe13yYSkC7b-12">
@@ -239,7 +239,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="k7Fj7TQaixe13yYSkC7b-37" value="Gera Novo Contrato com CNPJ a&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;tivo da Claro (custo conexão)&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="k7Fj7TQaixe13yYSkC7b-1">
+        <mxCell id="k7Fj7TQaixe13yYSkC7b-37" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Gera Novo Contrato com CNPJ a&lt;/font&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;tivo da Claro&lt;/font&gt;&lt;font style=&quot;color: light-dark(rgb(255, 51, 51), rgb(255, 255, 255));&quot;&gt; &lt;/font&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(255, 51, 51), rgb(255, 255, 255));&quot;&gt;(custo conexão)&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="k7Fj7TQaixe13yYSkC7b-1">
           <mxGeometry x="150" y="555" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="k7Fj7TQaixe13yYSkC7b-38" value="PROCESSO AS-IS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="k7Fj7TQaixe13yYSkC7b-1">
