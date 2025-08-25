@@ -74,11 +74,53 @@
         <mxCell id="G7d9W_WRkZ0tDgpjF5aS-19" value="CNPJ Ativo" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="685" y="230" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="G7d9W_WRkZ0tDgpjF5aS-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G7d9W_WRkZ0tDgpjF5aS-23" target="G7d9W_WRkZ0tDgpjF5aS-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="G7d9W_WRkZ0tDgpjF5aS-23" value="Aborta Mudança" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="665" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G7d9W_WRkZ0tDgpjF5aS-27" value="&lt;div&gt;- Primesys está com CNPJ inativo. Impedimento de realizar mudança de titularidade.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="640" y="430" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="G7d9W_WRkZ0tDgpjF5aS-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G7d9W_WRkZ0tDgpjF5aS-28" target="G7d9W_WRkZ0tDgpjF5aS-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G7d9W_WRkZ0tDgpjF5aS-28" value="Alteração de Titularidade pra CNPJ ativo da Claro" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G7d9W_WRkZ0tDgpjF5aS-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="G7d9W_WRkZ0tDgpjF5aS-31" target="G7d9W_WRkZ0tDgpjF5aS-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="330" />
+              <mxPoint x="370" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G7d9W_WRkZ0tDgpjF5aS-33" value="Não" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G7d9W_WRkZ0tDgpjF5aS-32">
+          <mxGeometry x="-0.06" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G7d9W_WRkZ0tDgpjF5aS-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G7d9W_WRkZ0tDgpjF5aS-31" target="G7d9W_WRkZ0tDgpjF5aS-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G7d9W_WRkZ0tDgpjF5aS-37" value="Sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G7d9W_WRkZ0tDgpjF5aS-36">
+          <mxGeometry x="-0.2229" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G7d9W_WRkZ0tDgpjF5aS-31" value="Produto&amp;nbsp;&lt;div&gt;Bsod&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="G7d9W_WRkZ0tDgpjF5aS-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="G7d9W_WRkZ0tDgpjF5aS-35" target="G7d9W_WRkZ0tDgpjF5aS-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G7d9W_WRkZ0tDgpjF5aS-35" value="Cancela Contrato" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G7d9W_WRkZ0tDgpjF5aS-38" value="Gera Novo Contrato com CNPJ a&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;tivo da Claro&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
