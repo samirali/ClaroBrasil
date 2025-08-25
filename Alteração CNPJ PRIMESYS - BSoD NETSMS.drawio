@@ -131,6 +131,9 @@
         <mxCell id="G7d9W_WRkZ0tDgpjF5aS-38" value="Gera Novo Contrato com CNPJ a&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;tivo da Claro (custo conexão)&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="540" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YnRn794bXqlYVnLgmS9M-1" value="PROCESSO AS-IS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="425" y="10" width="250" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -265,6 +268,9 @@
         </mxCell>
         <mxCell id="A3aCwEUhbGdrQ32dcFWP-37" value="Gera Novo Contrato com CNPJ a&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;tivo da Claro (custo conexão)&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="A3aCwEUhbGdrQ32dcFWP-1">
           <mxGeometry x="150" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IxOV84xdY5fl9QWdASwO-0" value="PROCESSO TO-BE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" vertex="1" parent="A3aCwEUhbGdrQ32dcFWP-1">
+          <mxGeometry x="440" y="10" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
