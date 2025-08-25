@@ -247,7 +247,7 @@
         <mxCell id="9VtAtsA4rNMMjcmzdgVB-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.598;entryY=1.025;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="-ufZKjMV2JP7Gstn3VgU-1" source="9VtAtsA4rNMMjcmzdgVB-0" target="-ufZKjMV2JP7Gstn3VgU-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AEFr6qQ_I9yNz6JFfCo5-0" value="Chamado Atualiza tabela contratos x novo CNPJ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="-ufZKjMV2JP7Gstn3VgU-1">
+        <mxCell id="AEFr6qQ_I9yNz6JFfCo5-0" value="Chamado Atualiza tabela NETSMS&amp;nbsp;com contratos x novo CNPJ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="-ufZKjMV2JP7Gstn3VgU-1">
           <mxGeometry x="320" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AEFr6qQ_I9yNz6JFfCo5-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.145;entryY=1;entryDx=0;entryDy=-4.35;entryPerimeter=0;" edge="1" parent="-ufZKjMV2JP7Gstn3VgU-1" source="AEFr6qQ_I9yNz6JFfCo5-0" target="-ufZKjMV2JP7Gstn3VgU-9">
