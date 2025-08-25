@@ -38,8 +38,8 @@
         <mxCell id="cbqMdGAvc21Q7KIpxvI8-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cbqMdGAvc21Q7KIpxvI8-7" target="cbqMdGAvc21Q7KIpxvI8-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="270" y="260" />
-              <mxPoint x="270" y="150" />
+              <mxPoint x="250" y="260" />
+              <mxPoint x="250" y="150" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -66,6 +66,9 @@
         </mxCell>
         <mxCell id="cbqMdGAvc21Q7KIpxvI8-19" value="Contrato Conectado" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cbqMdGAvc21Q7KIpxvI8-21" value="PROCESSO AS-IS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="219" y="10" width="390" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
