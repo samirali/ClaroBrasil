@@ -46,29 +46,29 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cbqMdGAvc21Q7KIpxvI8-7" value="BKO Resolve Pendência" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="230" width="120" height="60" as="geometry" />
+        <mxCell id="cbqMdGAvc21Q7KIpxvI8-7" value="BKO / Resolução de Pendência" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cbqMdGAvc21Q7KIpxvI8-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cbqMdGAvc21Q7KIpxvI8-11" target="cbqMdGAvc21Q7KIpxvI8-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cbqMdGAvc21Q7KIpxvI8-11" value="Envia link Aceite Eletrônico" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cbqMdGAvc21Q7KIpxvI8-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cbqMdGAvc21Q7KIpxvI8-14" target="cbqMdGAvc21Q7KIpxvI8-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cbqMdGAvc21Q7KIpxvI8-14" value="Cliente Realiza Aceite" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cbqMdGAvc21Q7KIpxvI8-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cbqMdGAvc21Q7KIpxvI8-17" target="cbqMdGAvc21Q7KIpxvI8-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cbqMdGAvc21Q7KIpxvI8-17" value="Agendamento Instalação" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cbqMdGAvc21Q7KIpxvI8-19" value="Contrato Conectado" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cbqMdGAvc21Q7KIpxvI8-21" value="PROCESSO AS-IS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="219" y="10" width="390" height="30" as="geometry" />
