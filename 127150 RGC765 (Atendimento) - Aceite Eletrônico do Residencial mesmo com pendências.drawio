@@ -33,7 +33,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cbqMdGAvc21Q7KIpxvI8-5" value="Existem pendência?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="110" width="80" height="80" as="geometry" />
+          <mxGeometry x="290" y="110" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cbqMdGAvc21Q7KIpxvI8-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cbqMdGAvc21Q7KIpxvI8-7" target="cbqMdGAvc21Q7KIpxvI8-5">
           <mxGeometry relative="1" as="geometry">
@@ -44,16 +44,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cbqMdGAvc21Q7KIpxvI8-7" value="BKO Resolve Pendência" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cbqMdGAvc21Q7KIpxvI8-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cbqMdGAvc21Q7KIpxvI8-11" target="cbqMdGAvc21Q7KIpxvI8-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cbqMdGAvc21Q7KIpxvI8-11" value="Envia link Aceite Eletrônico" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="414" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cbqMdGAvc21Q7KIpxvI8-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cbqMdGAvc21Q7KIpxvI8-14" target="cbqMdGAvc21Q7KIpxvI8-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cbqMdGAvc21Q7KIpxvI8-14" value="Cliente Realiza Aceite" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cbqMdGAvc21Q7KIpxvI8-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cbqMdGAvc21Q7KIpxvI8-17" target="cbqMdGAvc21Q7KIpxvI8-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cbqMdGAvc21Q7KIpxvI8-17" value="Agendamento Instalação" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cbqMdGAvc21Q7KIpxvI8-19" value="Contrato Conectado" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
