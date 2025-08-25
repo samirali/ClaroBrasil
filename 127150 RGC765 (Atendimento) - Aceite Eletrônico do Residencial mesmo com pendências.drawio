@@ -150,7 +150,7 @@
         <mxCell id="lpDQeLHYhMqFMCg2tTYA-20" value="Contrato Conectado" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="lpDQeLHYhMqFMCg2tTYA-1">
           <mxGeometry x="630" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lpDQeLHYhMqFMCg2tTYA-21" value="PROCESSO AS-IS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3;fontSize=14;" vertex="1" parent="lpDQeLHYhMqFMCg2tTYA-1">
+        <mxCell id="lpDQeLHYhMqFMCg2tTYA-21" value="PROCESSO TO-BE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3;fontSize=14;" vertex="1" parent="lpDQeLHYhMqFMCg2tTYA-1">
           <mxGeometry x="219" y="10" width="390" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lpDQeLHYhMqFMCg2tTYA-22" value="Cria proposta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="lpDQeLHYhMqFMCg2tTYA-1">
