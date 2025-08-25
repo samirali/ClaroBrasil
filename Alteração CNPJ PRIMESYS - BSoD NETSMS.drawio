@@ -22,6 +22,12 @@
         <mxCell id="G7d9W_WRkZ0tDgpjF5aS-6" value="- Contrato somente fictício&lt;div&gt;- Atualmente o CNPJ do consumidor é da Embratel/Claro&lt;/div&gt;&lt;div&gt;- Antigamente também era assim (Primesys, outros)&lt;/div&gt;&lt;div&gt;- Primesys está com CNPJ inativo. Impedimento de realizar mudança de titularidade.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="324" y="90" width="180" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="G7d9W_WRkZ0tDgpjF5aS-7" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="610" y="90" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="G7d9W_WRkZ0tDgpjF5aS-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="G7d9W_WRkZ0tDgpjF5aS-4" target="G7d9W_WRkZ0tDgpjF5aS-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
