@@ -96,7 +96,7 @@
         <mxCell id="kP07U-PF3lcjwxAGpQLG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="kP07U-PF3lcjwxAGpQLG-1" source="kP07U-PF3lcjwxAGpQLG-6" target="kP07U-PF3lcjwxAGpQLG-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kP07U-PF3lcjwxAGpQLG-6" value="NETSales Venda Prospect/Base" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kP07U-PF3lcjwxAGpQLG-1">
+        <mxCell id="kP07U-PF3lcjwxAGpQLG-6" value="NETSales Venda Prospect/Base" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="kP07U-PF3lcjwxAGpQLG-1">
           <mxGeometry x="110" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kP07U-PF3lcjwxAGpQLG-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="kP07U-PF3lcjwxAGpQLG-1" source="kP07U-PF3lcjwxAGpQLG-11" target="kP07U-PF3lcjwxAGpQLG-13">
@@ -107,7 +107,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kP07U-PF3lcjwxAGpQLG-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="kP07U-PF3lcjwxAGpQLG-1" source="kP07U-PF3lcjwxAGpQLG-11" target="kP07U-PF3lcjwxAGpQLG-15">
+        <mxCell id="kP07U-PF3lcjwxAGpQLG-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="kP07U-PF3lcjwxAGpQLG-1" source="kP07U-PF3lcjwxAGpQLG-11" target="kP07U-PF3lcjwxAGpQLG-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kP07U-PF3lcjwxAGpQLG-10" value="Não" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kP07U-PF3lcjwxAGpQLG-9">
@@ -133,13 +133,18 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kP07U-PF3lcjwxAGpQLG-15" value="Envia link Aceite Eletrônico" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kP07U-PF3lcjwxAGpQLG-1">
-          <mxGeometry x="450" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kP07U-PF3lcjwxAGpQLG-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="kP07U-PF3lcjwxAGpQLG-1" source="kP07U-PF3lcjwxAGpQLG-17" target="kP07U-PF3lcjwxAGpQLG-19">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="kP07U-PF3lcjwxAGpQLG-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="kP07U-PF3lcjwxAGpQLG-1" source="kP07U-PF3lcjwxAGpQLG-17" target="kP07U-PF3lcjwxAGpQLG-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="180" />
+              <mxPoint x="330" y="180" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="kP07U-PF3lcjwxAGpQLG-17" value="Cliente Realiza Aceite" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="kP07U-PF3lcjwxAGpQLG-1">
-          <mxGeometry x="630" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kP07U-PF3lcjwxAGpQLG-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="kP07U-PF3lcjwxAGpQLG-1" source="kP07U-PF3lcjwxAGpQLG-19" target="kP07U-PF3lcjwxAGpQLG-20">
           <mxGeometry relative="1" as="geometry" />
@@ -152,6 +157,9 @@
         </mxCell>
         <mxCell id="kP07U-PF3lcjwxAGpQLG-21" value="PROCESSO TO-BE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3;fontSize=14;" vertex="1" parent="kP07U-PF3lcjwxAGpQLG-1">
           <mxGeometry x="219" y="10" width="390" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eR5uVdmeR_vTZmYnHr8x-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="kP07U-PF3lcjwxAGpQLG-1" source="kP07U-PF3lcjwxAGpQLG-22" target="kP07U-PF3lcjwxAGpQLG-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kP07U-PF3lcjwxAGpQLG-22" value="Cria proposta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="kP07U-PF3lcjwxAGpQLG-1">
           <mxGeometry x="110" y="210" width="120" height="60" as="geometry" />
