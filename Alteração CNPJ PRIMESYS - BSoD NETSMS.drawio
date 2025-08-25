@@ -221,7 +221,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="k7Fj7TQaixe13yYSkC7b-33" value="Produto&amp;nbsp;&lt;div&gt;Bsod&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="k7Fj7TQaixe13yYSkC7b-1">
+        <mxCell id="k7Fj7TQaixe13yYSkC7b-33" value="Produto&amp;nbsp;&lt;div&gt;BSOD&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="k7Fj7TQaixe13yYSkC7b-1">
           <mxGeometry x="740" y="545" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="k7Fj7TQaixe13yYSkC7b-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="k7Fj7TQaixe13yYSkC7b-1" source="k7Fj7TQaixe13yYSkC7b-35" target="k7Fj7TQaixe13yYSkC7b-37">
@@ -282,6 +282,9 @@
         </mxCell>
         <mxCell id="3gBMF1O4Vmi6MCF1SRB2-17" value="Produto&amp;nbsp;&lt;div&gt;BLC&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="k7Fj7TQaixe13yYSkC7b-1">
           <mxGeometry x="670" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3gBMF1O4Vmi6MCF1SRB2-25" value="&lt;div&gt;- Quando produto é BLC é possível ao BKO mudar a titularidade pra um CNPJ ativo e seguir com a mudança de pacote;&lt;/div&gt;&lt;div&gt;- Quando produto é BSOD existe um bloqueio que impede a mudança de titularidade, obrigado a desconexão e criação de novo contrato. Isso gera 2 despesas (desconexão + conexão)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;fillColor=#fff2cc;strokeColor=#d6b656;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="k7Fj7TQaixe13yYSkC7b-1">
+          <mxGeometry x="20" y="660" width="560" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
