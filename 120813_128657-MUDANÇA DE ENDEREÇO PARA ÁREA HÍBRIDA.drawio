@@ -102,7 +102,7 @@
         <mxCell id="RC2ex0wDkDc3h67cPRJq-0" />
         <mxCell id="RC2ex0wDkDc3h67cPRJq-1" parent="RC2ex0wDkDc3h67cPRJq-0" />
         <mxCell id="pF7Im-60tTc9EzMldFG_-30" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;align=left;verticalAlign=top;fontStyle=1" vertex="1" parent="RC2ex0wDkDc3h67cPRJq-1">
-          <mxGeometry x="30" y="210" width="770" height="400" as="geometry" />
+          <mxGeometry x="330" y="210" width="470" height="400" as="geometry" />
         </mxCell>
         <mxCell id="RC2ex0wDkDc3h67cPRJq-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RC2ex0wDkDc3h67cPRJq-1" source="RC2ex0wDkDc3h67cPRJq-4" target="RC2ex0wDkDc3h67cPRJq-5">
           <mxGeometry relative="1" as="geometry" />
