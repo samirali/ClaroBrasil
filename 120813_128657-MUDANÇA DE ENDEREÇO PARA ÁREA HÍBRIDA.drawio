@@ -297,7 +297,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pF7Im-60tTc9EzMldFG_-35" value="[1] Contratos migrados pra Tecnologia híbrida (HFC/GPON)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="RC2ex0wDkDc3h67cPRJq-1">
+        <mxCell id="pF7Im-60tTc9EzMldFG_-35" value="[1] Contratos migrados pra Tecnologia híbrida (HFC/GPON)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="RC2ex0wDkDc3h67cPRJq-1">
           <mxGeometry x="520" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pF7Im-60tTc9EzMldFG_-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RC2ex0wDkDc3h67cPRJq-1" source="pF7Im-60tTc9EzMldFG_-39" target="pF7Im-60tTc9EzMldFG_-25">
@@ -312,7 +312,7 @@
         <mxCell id="pF7Im-60tTc9EzMldFG_-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="RC2ex0wDkDc3h67cPRJq-1" source="pF7Im-60tTc9EzMldFG_-42" target="pF7Im-60tTc9EzMldFG_-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pF7Im-60tTc9EzMldFG_-42" value="JOB migração pacotes HFC pra pacotes HFC/GPON" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="RC2ex0wDkDc3h67cPRJq-1">
+        <mxCell id="pF7Im-60tTc9EzMldFG_-42" value="JOB migração pacotes HFC pra pacotes HFC/GPON" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="RC2ex0wDkDc3h67cPRJq-1">
           <mxGeometry x="614" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
