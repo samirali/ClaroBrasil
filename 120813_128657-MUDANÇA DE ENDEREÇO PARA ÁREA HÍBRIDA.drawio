@@ -239,7 +239,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pF7Im-60tTc9EzMldFG_-13" value="Altera endereço" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="RC2ex0wDkDc3h67cPRJq-1">
-          <mxGeometry x="664" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="664" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pF7Im-60tTc9EzMldFG_-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="RC2ex0wDkDc3h67cPRJq-1" source="pF7Im-60tTc9EzMldFG_-18" target="pF7Im-60tTc9EzMldFG_-39">
           <mxGeometry relative="1" as="geometry" />
@@ -250,9 +250,9 @@
         <mxCell id="pF7Im-60tTc9EzMldFG_-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="RC2ex0wDkDc3h67cPRJq-1" source="pF7Im-60tTc9EzMldFG_-20" target="pF7Im-60tTc9EzMldFG_-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="810" y="70" />
-              <mxPoint x="810" y="200" />
-              <mxPoint x="724" y="200" />
+              <mxPoint x="760" y="70" />
+              <mxPoint x="760" y="270" />
+              <mxPoint x="724" y="270" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -285,19 +285,20 @@
           <mxGeometry x="354" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pF7Im-60tTc9EzMldFG_-31" value="Abre OS" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="RC2ex0wDkDc3h67cPRJq-1">
-          <mxGeometry x="664" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="664" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pF7Im-60tTc9EzMldFG_-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="RC2ex0wDkDc3h67cPRJq-1" source="pF7Im-60tTc9EzMldFG_-35" target="pF7Im-60tTc9EzMldFG_-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="580" y="270" />
-              <mxPoint x="510" y="270" />
+              <mxPoint x="580" y="350" />
+              <mxPoint x="580" y="410" />
+              <mxPoint x="510" y="410" />
               <mxPoint x="510" y="470" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pF7Im-60tTc9EzMldFG_-35" value="[1] Contratos migrados pra Tecnologia híbrida (HFC/GPON)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="RC2ex0wDkDc3h67cPRJq-1">
-          <mxGeometry x="520" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pF7Im-60tTc9EzMldFG_-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RC2ex0wDkDc3h67cPRJq-1" source="pF7Im-60tTc9EzMldFG_-39" target="pF7Im-60tTc9EzMldFG_-25">
           <mxGeometry relative="1" as="geometry" />
@@ -308,16 +309,11 @@
         <mxCell id="pF7Im-60tTc9EzMldFG_-41" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Impactos na Jornada&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;- Configuração de produtos SVA pra TV/BL&lt;/p&gt;&lt;p&gt;- Cálculo Pro-rata / Fatura&lt;/p&gt;&lt;p&gt;- Gerenciamento de equipamentos nos contratos (pacote com tecnologia híbrida)&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="RC2ex0wDkDc3h67cPRJq-1">
           <mxGeometry x="20" y="170" width="250" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="pF7Im-60tTc9EzMldFG_-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RC2ex0wDkDc3h67cPRJq-1" source="pF7Im-60tTc9EzMldFG_-42" target="pF7Im-60tTc9EzMldFG_-35">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="650" y="130" />
-              <mxPoint x="650" y="170" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="pF7Im-60tTc9EzMldFG_-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="RC2ex0wDkDc3h67cPRJq-1" source="pF7Im-60tTc9EzMldFG_-42" target="pF7Im-60tTc9EzMldFG_-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pF7Im-60tTc9EzMldFG_-42" value="JOB migração pacotes HFC pra pacotes HFC/GPON" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="RC2ex0wDkDc3h67cPRJq-1">
-          <mxGeometry x="664" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="614" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
