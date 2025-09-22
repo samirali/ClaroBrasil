@@ -332,18 +332,6 @@
         <mxCell id="ZlFQP4VRQxDXDMqBCads-2" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;align=left;verticalAlign=top;fontStyle=1" vertex="1" parent="ZlFQP4VRQxDXDMqBCads-1">
           <mxGeometry x="329" y="710" width="470" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="ZlFQP4VRQxDXDMqBCads-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZlFQP4VRQxDXDMqBCads-1" source="ZlFQP4VRQxDXDMqBCads-33" target="ZlFQP4VRQxDXDMqBCads-35">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ZlFQP4VRQxDXDMqBCads-33" value="Solar Atendimento" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZlFQP4VRQxDXDMqBCads-1">
-          <mxGeometry x="44" y="540" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZlFQP4VRQxDXDMqBCads-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ZlFQP4VRQxDXDMqBCads-1" source="ZlFQP4VRQxDXDMqBCads-35" target="ZlFQP4VRQxDXDMqBCads-43">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ZlFQP4VRQxDXDMqBCads-35" value="Valida dados cliente e identifica viabilidade novo endereço mesma Cidade" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="ZlFQP4VRQxDXDMqBCads-1">
-          <mxGeometry x="199" y="540" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="ZlFQP4VRQxDXDMqBCads-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZlFQP4VRQxDXDMqBCads-1" source="ZlFQP4VRQxDXDMqBCads-38" target="ZlFQP4VRQxDXDMqBCads-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -448,12 +436,6 @@
         </mxCell>
         <mxCell id="ZlFQP4VRQxDXDMqBCads-64" value="JOB migração pacotes HFC pra pacotes HFC/GPON" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="ZlFQP4VRQxDXDMqBCads-1">
           <mxGeometry x="613" y="640" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ZlFQP4VRQxDXDMqBCads-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="ZlFQP4VRQxDXDMqBCads-1" source="ZlFQP4VRQxDXDMqBCads-66" target="ZlFQP4VRQxDXDMqBCads-33">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ZlFQP4VRQxDXDMqBCads-66" value="Atendente Solar" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="ZlFQP4VRQxDXDMqBCads-1">
-          <mxGeometry x="89" y="650" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iGM6UbsfTQgeFAIfDZDH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ZlFQP4VRQxDXDMqBCads-1" source="iGM6UbsfTQgeFAIfDZDH-0" target="iGM6UbsfTQgeFAIfDZDH-1">
           <mxGeometry relative="1" as="geometry" />
