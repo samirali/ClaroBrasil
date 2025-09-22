@@ -525,7 +525,7 @@
         <mxCell id="iGM6UbsfTQgeFAIfDZDH-16" value="Mais de um pacote viável: Cliente escolhe pacote" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZlFQP4VRQxDXDMqBCads-1">
           <mxGeometry x="390" y="230" width="122" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iGM6UbsfTQgeFAIfDZDH-19" value="Atendente interage com Cliente pra escolha de pacote no endereço novo" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZlFQP4VRQxDXDMqBCads-1">
+        <mxCell id="iGM6UbsfTQgeFAIfDZDH-19" value="Atendente interage com Cliente, escolhe novo pacote, confirma pacote no endereço novo" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZlFQP4VRQxDXDMqBCads-1">
           <mxGeometry x="353" y="130" width="95" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iGM6UbsfTQgeFAIfDZDH-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="ZlFQP4VRQxDXDMqBCads-1" source="iGM6UbsfTQgeFAIfDZDH-20" target="iGM6UbsfTQgeFAIfDZDH-21">
@@ -550,7 +550,7 @@
         <mxCell id="iGM6UbsfTQgeFAIfDZDH-21" value="Confirma mudança de endereço com mudança de tecnologia" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="ZlFQP4VRQxDXDMqBCads-1">
           <mxGeometry x="560" y="230" width="121" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iGM6UbsfTQgeFAIfDZDH-28" value="Agenda mudança de endereço e instalação de novo pacote" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZlFQP4VRQxDXDMqBCads-1">
+        <mxCell id="iGM6UbsfTQgeFAIfDZDH-28" value="Atendente agenda mudança de endereço e instalação de novo pacote" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZlFQP4VRQxDXDMqBCads-1">
           <mxGeometry x="524" y="130" width="95" height="80" as="geometry" />
         </mxCell>
       </root>
