@@ -332,12 +332,6 @@
         <mxCell id="ZlFQP4VRQxDXDMqBCads-2" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;align=left;verticalAlign=top;fontStyle=1" vertex="1" parent="ZlFQP4VRQxDXDMqBCads-1">
           <mxGeometry x="329" y="710" width="470" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="ZlFQP4VRQxDXDMqBCads-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZlFQP4VRQxDXDMqBCads-1" source="ZlFQP4VRQxDXDMqBCads-38" target="ZlFQP4VRQxDXDMqBCads-47">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ZlFQP4VRQxDXDMqBCads-38" value="[2] NOVO MS ALTERA ENDEREÇO E TECNOLOGIA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="ZlFQP4VRQxDXDMqBCads-1">
-          <mxGeometry x="353" y="640" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="ZlFQP4VRQxDXDMqBCads-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="ZlFQP4VRQxDXDMqBCads-1" source="ZlFQP4VRQxDXDMqBCads-43" target="ZlFQP4VRQxDXDMqBCads-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -346,8 +340,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZlFQP4VRQxDXDMqBCads-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="ZlFQP4VRQxDXDMqBCads-1" source="ZlFQP4VRQxDXDMqBCads-43" target="ZlFQP4VRQxDXDMqBCads-38">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ZlFQP4VRQxDXDMqBCads-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ZlFQP4VRQxDXDMqBCads-1" source="ZlFQP4VRQxDXDMqBCads-43" target="ZlFQP4VRQxDXDMqBCads-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="413" y="640" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZlFQP4VRQxDXDMqBCads-42" value="Sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZlFQP4VRQxDXDMqBCads-41">
           <mxGeometry x="-0.24" y="3" relative="1" as="geometry">
