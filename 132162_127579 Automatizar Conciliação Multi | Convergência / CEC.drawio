@@ -5,28 +5,28 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="WQN7uaYgYGrwjcUxukzr-1" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="320" y="93" width="240" height="447" as="geometry" />
+          <mxGeometry x="320" y="120" width="240" height="420" as="geometry" />
         </mxCell>
         <mxCell id="WQN7uaYgYGrwjcUxukzr-2" value="CATÁLOGO - Nova Proc (retorna mesmo pacote sem CM)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WQN7uaYgYGrwjcUxukzr-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WQN7uaYgYGrwjcUxukzr-3" target="WQN7uaYgYGrwjcUxukzr-4">
+        <mxCell id="WQN7uaYgYGrwjcUxukzr-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WQN7uaYgYGrwjcUxukzr-3" target="WQN7uaYgYGrwjcUxukzr-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WQN7uaYgYGrwjcUxukzr-3" value="Mailing origem mobile" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
-          <mxGeometry x="60" y="33" width="60" height="100" as="geometry" />
+        <mxCell id="WQN7uaYgYGrwjcUxukzr-3" value="Mailing conciliação origem mobile" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+          <mxGeometry x="60" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="WQN7uaYgYGrwjcUxukzr-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WQN7uaYgYGrwjcUxukzr-4" target="WQN7uaYgYGrwjcUxukzr-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WQN7uaYgYGrwjcUxukzr-4" value="NOVO JOB Carga Combo Multi Conciliação Mobile" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="180" y="53" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WQN7uaYgYGrwjcUxukzr-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WQN7uaYgYGrwjcUxukzr-11" target="WQN7uaYgYGrwjcUxukzr-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WQN7uaYgYGrwjcUxukzr-11" value="Controle Ajuste CM" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="160" width="140" height="120" as="geometry" />
+          <mxGeometry x="350" y="180" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WQN7uaYgYGrwjcUxukzr-12" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="WQN7uaYgYGrwjcUxukzr-11">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -40,7 +40,7 @@
         <mxCell id="WQN7uaYgYGrwjcUxukzr-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="WQN7uaYgYGrwjcUxukzr-15" target="WQN7uaYgYGrwjcUxukzr-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="230" y="220" />
+              <mxPoint x="230" y="260" />
               <mxPoint x="230" y="328" />
             </Array>
           </mxGeometry>
@@ -48,7 +48,7 @@
         <mxCell id="WQN7uaYgYGrwjcUxukzr-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="WQN7uaYgYGrwjcUxukzr-15" target="WQN7uaYgYGrwjcUxukzr-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="230" y="220" />
+              <mxPoint x="230" y="260" />
               <mxPoint x="230" y="365" />
             </Array>
           </mxGeometry>
@@ -56,15 +56,15 @@
         <mxCell id="WQN7uaYgYGrwjcUxukzr-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="WQN7uaYgYGrwjcUxukzr-15" target="WQN7uaYgYGrwjcUxukzr-19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="230" y="220" />
+              <mxPoint x="230" y="260" />
               <mxPoint x="230" y="401" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WQN7uaYgYGrwjcUxukzr-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="WQN7uaYgYGrwjcUxukzr-15" target="WQN7uaYgYGrwjcUxukzr-20">
+        <mxCell id="WQN7uaYgYGrwjcUxukzr-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="WQN7uaYgYGrwjcUxukzr-15" target="WQN7uaYgYGrwjcUxukzr-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="230" y="220" />
+              <mxPoint x="230" y="260" />
               <mxPoint x="230" y="438" />
             </Array>
           </mxGeometry>
@@ -75,15 +75,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WQN7uaYgYGrwjcUxukzr-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WQN7uaYgYGrwjcUxukzr-15" target="WQN7uaYgYGrwjcUxukzr-11">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="260" />
+              <mxPoint x="230" y="220" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="WQN7uaYgYGrwjcUxukzr-33" value="2- Atualiza&amp;nbsp;&lt;div&gt;Status&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WQN7uaYgYGrwjcUxukzr-32">
           <mxGeometry x="0.4235" relative="1" as="geometry">
             <mxPoint x="-11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WQN7uaYgYGrwjcUxukzr-15" value="NOVO JOB Retira Marcação CM&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="60" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="WQN7uaYgYGrwjcUxukzr-15" value="NOVO JOB Executa conciliação CM (Deixa de ser CM residencial)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="30" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WQN7uaYgYGrwjcUxukzr-17" value="Cancela Agregado Informativo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="350" y="320" width="180" height="30" as="geometry" />
@@ -118,7 +123,7 @@
         <mxCell id="WQN7uaYgYGrwjcUxukzr-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WQN7uaYgYGrwjcUxukzr-38" target="WQN7uaYgYGrwjcUxukzr-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WQN7uaYgYGrwjcUxukzr-38" value="Mailing origem residencial" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="WQN7uaYgYGrwjcUxukzr-38" value="Mailing conciliação origem residencial" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="710" y="380" width="60" height="100" as="geometry" />
         </mxCell>
         <mxCell id="WQN7uaYgYGrwjcUxukzr-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WQN7uaYgYGrwjcUxukzr-37" target="WQN7uaYgYGrwjcUxukzr-38">
@@ -141,6 +146,12 @@
         </mxCell>
         <mxCell id="WQN7uaYgYGrwjcUxukzr-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WQN7uaYgYGrwjcUxukzr-42" target="WQN7uaYgYGrwjcUxukzr-46">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WQN7uaYgYGrwjcUxukzr-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WQN7uaYgYGrwjcUxukzr-50" target="WQN7uaYgYGrwjcUxukzr-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WQN7uaYgYGrwjcUxukzr-50" value="Mailing atualização contrato residencial" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+          <mxGeometry x="60" y="110" width="60" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
