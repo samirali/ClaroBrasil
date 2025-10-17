@@ -124,10 +124,10 @@
         <mxCell id="WQN7uaYgYGrwjcUxukzr-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#3333FF;" edge="1" parent="1" source="WQN7uaYgYGrwjcUxukzr-27" target="WQN7uaYgYGrwjcUxukzr-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WQN7uaYgYGrwjcUxukzr-27" value="Baixa de OS cancelamento total" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="WQN7uaYgYGrwjcUxukzr-27" value="Baixa de OS desconexão" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="60" y="431.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WQN7uaYgYGrwjcUxukzr-37" value="NOVO JOB (output) Carga Combo&amp;nbsp; Multi Conciliação Residencial" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="WQN7uaYgYGrwjcUxukzr-37" value="NOVO JOB (output) Carga Combo Multi Conciliação Residencial" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="680" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WQN7uaYgYGrwjcUxukzr-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WQN7uaYgYGrwjcUxukzr-38" target="WQN7uaYgYGrwjcUxukzr-40">
@@ -145,7 +145,7 @@
         <mxCell id="WQN7uaYgYGrwjcUxukzr-42" value="NOVO JOB Log de execução Conciliação" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="575" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WQN7uaYgYGrwjcUxukzr-45" value="- OS baixada pelo processo de cancelamento, ou;&amp;nbsp;&lt;div&gt;- OS de instalação não executada em até X dias;&lt;/div&gt;&lt;div&gt;* Se existe processo de cancelamento por falta de instalação, avaliar reuso&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" vertex="1" parent="1">
+        <mxCell id="WQN7uaYgYGrwjcUxukzr-45" value="- OS baixada pelo processo de desconexão, ou;&amp;nbsp;&lt;div&gt;- OS de instalação não executada em até X dias;&lt;/div&gt;&lt;div&gt;* Se existe processo de desconexão por falta de instalação, avaliar reuso&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" vertex="1" parent="1">
           <mxGeometry x="30" y="500" width="280" height="70" as="geometry" />
         </mxCell>
         <mxCell id="WQN7uaYgYGrwjcUxukzr-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WQN7uaYgYGrwjcUxukzr-46" target="WQN7uaYgYGrwjcUxukzr-40">
