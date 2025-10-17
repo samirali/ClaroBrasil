@@ -10,17 +10,20 @@
         <mxCell id="WQN7uaYgYGrwjcUxukzr-2" value="CATÁLOGO - Nova Proc (retorna mesmo pacote sem CM)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WQN7uaYgYGrwjcUxukzr-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WQN7uaYgYGrwjcUxukzr-3" target="WQN7uaYgYGrwjcUxukzr-4">
+        <mxCell id="WQN7uaYgYGrwjcUxukzr-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WQN7uaYgYGrwjcUxukzr-3" target="WQN7uaYgYGrwjcUxukzr-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WQN7uaYgYGrwjcUxukzr-3" value="Mailing from Mobile" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
           <mxGeometry x="60" y="33" width="60" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="WQN7uaYgYGrwjcUxukzr-4" value="NOVO JOB Ajusta Contrato Combo Multi" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="30" y="183" width="120" height="60" as="geometry" />
+        <mxCell id="WQN7uaYgYGrwjcUxukzr-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WQN7uaYgYGrwjcUxukzr-4" target="WQN7uaYgYGrwjcUxukzr-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WQN7uaYgYGrwjcUxukzr-4" value="NOVO JOB Carga Combo Multi Conciliação Mobile" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="200" y="53" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WQN7uaYgYGrwjcUxukzr-5" value="&lt;div&gt;- Cancelar o agregado informativo;&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Alterar segmento purple para segmento residencial;&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Mudar pacote que não seja combo multi, mantendo os mesmos produtos residenciais;&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Gerar ocorrência informativa no contrato;&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;strokeColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="250" width="350" height="90" as="geometry" />
+          <mxGeometry x="10" y="360" width="350" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WQN7uaYgYGrwjcUxukzr-9" value="NETSales" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="33" width="120" height="60" as="geometry" />
@@ -39,6 +42,9 @@
         </mxCell>
         <mxCell id="WQN7uaYgYGrwjcUxukzr-14" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="WQN7uaYgYGrwjcUxukzr-11">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WQN7uaYgYGrwjcUxukzr-15" value="NOVO JOB Ajusta Contrato Combo Multi" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="30" y="260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
