@@ -7,7 +7,7 @@
         <mxCell id="WQN7uaYgYGrwjcUxukzr-1" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="320" y="120" width="240" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="WQN7uaYgYGrwjcUxukzr-2" value="CATÁLOGO - Nova Proc (retorna mesmo pacote sem CM)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WQN7uaYgYGrwjcUxukzr-2" value="CATÁLOGO - Nova PKG com Proc que retorna mesmo pacote sem CM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WQN7uaYgYGrwjcUxukzr-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WQN7uaYgYGrwjcUxukzr-3" target="WQN7uaYgYGrwjcUxukzr-4">
