@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="WQN7uaYgYGrwjcUxukzr-1" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;verticalAlign=top;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="320" y="120" width="240" height="420" as="geometry" />
+          <mxGeometry x="320" y="120" width="240" height="470" as="geometry" />
         </mxCell>
         <mxCell id="WQN7uaYgYGrwjcUxukzr-2" value="CATÁLOGO - Nova Proc (retorna mesmo pacote sem CM)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WQN7uaYgYGrwjcUxukzr-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WQN7uaYgYGrwjcUxukzr-3" target="WQN7uaYgYGrwjcUxukzr-4">
           <mxGeometry relative="1" as="geometry">
@@ -73,7 +73,7 @@
         </mxCell>
         <mxCell id="WQN7uaYgYGrwjcUxukzr-36" value="1- Ajusta&amp;nbsp;&lt;div&gt;Contrato&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="WQN7uaYgYGrwjcUxukzr-26">
           <mxGeometry x="-0.5045" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-30" y="16" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WQN7uaYgYGrwjcUxukzr-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WQN7uaYgYGrwjcUxukzr-15" target="WQN7uaYgYGrwjcUxukzr-11">
@@ -89,7 +89,15 @@
             <mxPoint x="-11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WQN7uaYgYGrwjcUxukzr-15" value="NOVO JOB Executa conciliação CM (Deixa de ser CM residencial)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="WQN7uaYgYGrwjcUxukzr-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WQN7uaYgYGrwjcUxukzr-15" target="WQN7uaYgYGrwjcUxukzr-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="260" />
+              <mxPoint x="230" y="482" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WQN7uaYgYGrwjcUxukzr-15" value="NOVO JOB Executa conciliação CM" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="30" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WQN7uaYgYGrwjcUxukzr-17" value="Cancela Agregado Informativo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -154,6 +162,9 @@
         </mxCell>
         <mxCell id="WQN7uaYgYGrwjcUxukzr-50" value="Mailing atualização contrato residencial" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
           <mxGeometry x="90" y="120" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WQN7uaYgYGrwjcUxukzr-52" value="Atualiza flag cobolet., DCC, Vcto" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="350" y="467" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
