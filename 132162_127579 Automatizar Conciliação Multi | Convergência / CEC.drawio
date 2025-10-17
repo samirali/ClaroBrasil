@@ -23,7 +23,7 @@
           <mxGeometry x="200" y="53" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WQN7uaYgYGrwjcUxukzr-5" value="&lt;div&gt;- Cancelar o agregado informativo;&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Alterar segmento purple para segmento residencial;&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Mudar pacote que não seja combo multi, mantendo os mesmos produtos residenciais;&amp;nbsp;&lt;/div&gt;&lt;div&gt;- Gerar ocorrência informativa no contrato;&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;strokeColor=default;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="360" width="350" height="90" as="geometry" />
+          <mxGeometry x="40" y="250" width="280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="WQN7uaYgYGrwjcUxukzr-9" value="NETSales" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="33" width="120" height="60" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WQN7uaYgYGrwjcUxukzr-15" value="NOVO JOB Ajusta Contrato Combo Multi" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="30" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
