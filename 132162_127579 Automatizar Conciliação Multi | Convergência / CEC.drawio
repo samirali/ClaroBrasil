@@ -170,7 +170,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="v2" id="lExmkOu8LyniGmQsveWi">
-    <mxGraphModel dx="1042" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="kXI2hOJCb4PL-WVuujUm-0" />
         <mxCell id="kXI2hOJCb4PL-WVuujUm-1" parent="kXI2hOJCb4PL-WVuujUm-0" />
@@ -294,7 +294,7 @@
         <mxCell id="kXI2hOJCb4PL-WVuujUm-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#3333FF;" edge="1" parent="kXI2hOJCb4PL-WVuujUm-1" source="kXI2hOJCb4PL-WVuujUm-30" target="kXI2hOJCb4PL-WVuujUm-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kXI2hOJCb4PL-WVuujUm-30" value="Baixa de OS desconexão" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="kXI2hOJCb4PL-WVuujUm-1">
+        <mxCell id="kXI2hOJCb4PL-WVuujUm-30" value="NOVO JOB&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;Cancelamento Combo Multi&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="kXI2hOJCb4PL-WVuujUm-1">
           <mxGeometry x="60" y="431.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kXI2hOJCb4PL-WVuujUm-31" value="NOVO JOB (output) Carga Combo Multi Conciliação Residencial" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="kXI2hOJCb4PL-WVuujUm-1">
@@ -315,8 +315,8 @@
         <mxCell id="kXI2hOJCb4PL-WVuujUm-36" value="NOVO JOB Log de execução Conciliação" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="kXI2hOJCb4PL-WVuujUm-1">
           <mxGeometry x="575" y="190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kXI2hOJCb4PL-WVuujUm-37" value="- OS baixada pelo processo de desconexão, ou;&amp;nbsp;&lt;div&gt;- OS de instalação não executada em até X dias;&lt;/div&gt;&lt;div&gt;* Se existe processo de desconexão por falta de instalação, avaliar reuso&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" vertex="1" parent="kXI2hOJCb4PL-WVuujUm-1">
-          <mxGeometry x="30" y="500" width="280" height="70" as="geometry" />
+        <mxCell id="kXI2hOJCb4PL-WVuujUm-37" value="- Qualquer cenário onde o contrato não está conectado (desconexão, cancelamento da instalação, etc)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2" vertex="1" parent="kXI2hOJCb4PL-WVuujUm-1">
+          <mxGeometry x="30" y="490" width="280" height="70" as="geometry" />
         </mxCell>
         <mxCell id="kXI2hOJCb4PL-WVuujUm-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="kXI2hOJCb4PL-WVuujUm-1" source="kXI2hOJCb4PL-WVuujUm-39" target="kXI2hOJCb4PL-WVuujUm-35">
           <mxGeometry relative="1" as="geometry" />
