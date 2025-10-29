@@ -688,6 +688,17 @@
         <mxCell id="RF9bg0OAqCtczKxfEWtX-45" value="Mailing conciliação origem Fone Fixo" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="RF9bg0OAqCtczKxfEWtX-1">
           <mxGeometry x="460" y="10" width="60" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="nEuydOvmJ5byMzxJb13v-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="RF9bg0OAqCtczKxfEWtX-1" source="nEuydOvmJ5byMzxJb13v-0" target="RF9bg0OAqCtczKxfEWtX-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="100" />
+              <mxPoint x="540" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nEuydOvmJ5byMzxJb13v-0" value="NOVO JOB Expurgo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="RF9bg0OAqCtczKxfEWtX-1">
+          <mxGeometry x="627.5" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
