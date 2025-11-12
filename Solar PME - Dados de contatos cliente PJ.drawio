@@ -11,25 +11,29 @@
           <mxGeometry x="110" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kiS0A-0jP5fqPSZtIjmB-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kiS0A-0jP5fqPSZtIjmB-2" target="kiS0A-0jP5fqPSZtIjmB-5">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="270" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="kiS0A-0jP5fqPSZtIjmB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kiS0A-0jP5fqPSZtIjmB-2" target="kiS0A-0jP5fqPSZtIjmB-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kiS0A-0jP5fqPSZtIjmB-2" value="MS ProposalSubscriber" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kiS0A-0jP5fqPSZtIjmB-4" value="Novo MS Atualiza Preposto" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="414" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="414" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kiS0A-0jP5fqPSZtIjmB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.016;entryY=0.257;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kiS0A-0jP5fqPSZtIjmB-5" target="kiS0A-0jP5fqPSZtIjmB-8">
+        <mxCell id="kiS0A-0jP5fqPSZtIjmB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.752;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kiS0A-0jP5fqPSZtIjmB-5" target="kiS0A-0jP5fqPSZtIjmB-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kiS0A-0jP5fqPSZtIjmB-5" value="Atualiza Contrato" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="150" width="120" height="60" as="geometry" />
+          <mxGeometry x="414" y="243" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kiS0A-0jP5fqPSZtIjmB-8" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="650" y="120" width="190" height="230" as="geometry" />
+          <mxGeometry x="650" y="100" width="190" height="230" as="geometry" />
         </mxCell>
         <mxCell id="kiS0A-0jP5fqPSZtIjmB-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="kiS0A-0jP5fqPSZtIjmB-17" target="kiS0A-0jP5fqPSZtIjmB-15">
           <mxGeometry relative="1" as="geometry">
@@ -39,7 +43,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kiS0A-0jP5fqPSZtIjmB-10" value="Preposto Solar (novo)" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="675" y="180" width="140" height="120" as="geometry" />
+          <mxGeometry x="675" y="171.5" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="kiS0A-0jP5fqPSZtIjmB-11" value="ID Contrato" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="kiS0A-0jP5fqPSZtIjmB-10">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -49,14 +53,6 @@
         </mxCell>
         <mxCell id="kiS0A-0jP5fqPSZtIjmB-13" value="timestamp" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="kiS0A-0jP5fqPSZtIjmB-10">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="kiS0A-0jP5fqPSZtIjmB-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.007;entryY=0.175;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kiS0A-0jP5fqPSZtIjmB-4" target="kiS0A-0jP5fqPSZtIjmB-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="660" y="270" />
-              <mxPoint x="660" y="201" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="kiS0A-0jP5fqPSZtIjmB-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kiS0A-0jP5fqPSZtIjmB-15" target="kiS0A-0jP5fqPSZtIjmB-1">
           <mxGeometry relative="1" as="geometry" />
@@ -80,6 +76,9 @@
         </mxCell>
         <mxCell id="kiS0A-0jP5fqPSZtIjmB-20" value="Vendedor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="20" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kiS0A-0jP5fqPSZtIjmB-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kiS0A-0jP5fqPSZtIjmB-4" target="kiS0A-0jP5fqPSZtIjmB-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
