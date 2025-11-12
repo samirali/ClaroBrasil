@@ -4,8 +4,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="kiS0A-0jP5fqPSZtIjmB-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="kiS0A-0jP5fqPSZtIjmB-1" target="kiS0A-0jP5fqPSZtIjmB-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="kiS0A-0jP5fqPSZtIjmB-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.7;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="kiS0A-0jP5fqPSZtIjmB-1" target="kiS0A-0jP5fqPSZtIjmB-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="194" y="273" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="kiS0A-0jP5fqPSZtIjmB-1" value="Solar PME Pixa&lt;div&gt;Venda Base&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="20" width="120" height="60" as="geometry" />
@@ -18,7 +22,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kiS0A-0jP5fqPSZtIjmB-2" value="MS ProposalSubscriber" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="243" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kiS0A-0jP5fqPSZtIjmB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.752;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kiS0A-0jP5fqPSZtIjmB-5" target="kiS0A-0jP5fqPSZtIjmB-8">
           <mxGeometry relative="1" as="geometry" />
@@ -82,7 +86,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6_PZT52g1T-nXiuGxA3x-1" value="9 novos campos opcionais no swaggger" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=2;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="274" y="80" width="140" height="40" as="geometry" />
+          <mxGeometry x="220" y="203" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -92,16 +96,21 @@
       <root>
         <mxCell id="Q8c0OtttYWnNOhXt3YBq-0" />
         <mxCell id="Q8c0OtttYWnNOhXt3YBq-1" parent="Q8c0OtttYWnNOhXt3YBq-0" />
-        <mxCell id="Q8c0OtttYWnNOhXt3YBq-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Q8c0OtttYWnNOhXt3YBq-1" source="Q8c0OtttYWnNOhXt3YBq-3" target="Q8c0OtttYWnNOhXt3YBq-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Q8c0OtttYWnNOhXt3YBq-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="Q8c0OtttYWnNOhXt3YBq-1" source="Q8c0OtttYWnNOhXt3YBq-3" target="Q8c0OtttYWnNOhXt3YBq-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="273" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Q8c0OtttYWnNOhXt3YBq-3" value="Solar PME Pixa&lt;div&gt;Venda Base&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Q8c0OtttYWnNOhXt3YBq-1">
           <mxGeometry x="110" y="20" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q8c0OtttYWnNOhXt3YBq-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="Q8c0OtttYWnNOhXt3YBq-1" source="Q8c0OtttYWnNOhXt3YBq-3" target="Q8c0OtttYWnNOhXt3YBq-7">
+        <mxCell id="Q8c0OtttYWnNOhXt3YBq-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="Q8c0OtttYWnNOhXt3YBq-1" source="Q8c0OtttYWnNOhXt3YBq-3" target="Q8c0OtttYWnNOhXt3YBq-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="474" y="50" />
+              <mxPoint x="200" y="100" />
+              <mxPoint x="474" y="100" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -113,7 +122,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q8c0OtttYWnNOhXt3YBq-6" value="MS ProposalSubscriber" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Q8c0OtttYWnNOhXt3YBq-1">
-          <mxGeometry x="210" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="243" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q8c0OtttYWnNOhXt3YBq-7" value="Novo MS Cria/Atualiza Preposto" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Q8c0OtttYWnNOhXt3YBq-1">
           <mxGeometry x="414" y="120" width="120" height="60" as="geometry" />
@@ -149,11 +158,11 @@
         <mxCell id="Q8c0OtttYWnNOhXt3YBq-16" value="timestamp" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="Q8c0OtttYWnNOhXt3YBq-13">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q8c0OtttYWnNOhXt3YBq-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="Q8c0OtttYWnNOhXt3YBq-1" source="Q8c0OtttYWnNOhXt3YBq-18" target="Q8c0OtttYWnNOhXt3YBq-3">
+        <mxCell id="Q8c0OtttYWnNOhXt3YBq-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.183;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Q8c0OtttYWnNOhXt3YBq-1" source="Q8c0OtttYWnNOhXt3YBq-18" target="Q8c0OtttYWnNOhXt3YBq-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q8c0OtttYWnNOhXt3YBq-18" value="MS Customer Contracts (Assetização)" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Q8c0OtttYWnNOhXt3YBq-1">
-          <mxGeometry x="110" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="72" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Q8c0OtttYWnNOhXt3YBq-19" value="Datalake" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;verticalAlign=top;" vertex="1" parent="Q8c0OtttYWnNOhXt3YBq-1">
           <mxGeometry x="980" y="164.5" width="190" height="105" as="geometry" />
@@ -176,7 +185,24 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MJ4pAIBNZEDkn0dX-tq7-0" value="Mantém mesmo swagger" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=2;fontColor=#FF0000;" vertex="1" parent="Q8c0OtttYWnNOhXt3YBq-1">
-          <mxGeometry x="274" y="80" width="140" height="40" as="geometry" />
+          <mxGeometry x="205" y="211.5" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WpVj7geM4Li-P-LHJhXM-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Q8c0OtttYWnNOhXt3YBq-1" source="WpVj7geM4Li-P-LHJhXM-0" target="Q8c0OtttYWnNOhXt3YBq-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WpVj7geM4Li-P-LHJhXM-0" value="Solar PME Pixa&lt;div&gt;Venda Prospect&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="Q8c0OtttYWnNOhXt3YBq-1">
+          <mxGeometry x="414" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WpVj7geM4Li-P-LHJhXM-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Q8c0OtttYWnNOhXt3YBq-1" source="WpVj7geM4Li-P-LHJhXM-1" target="Q8c0OtttYWnNOhXt3YBq-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="615" y="100" />
+              <mxPoint x="474" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WpVj7geM4Li-P-LHJhXM-1" value="Solar PME Pixa&lt;div&gt;Atendimento&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="Q8c0OtttYWnNOhXt3YBq-1">
+          <mxGeometry x="555" y="20" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
