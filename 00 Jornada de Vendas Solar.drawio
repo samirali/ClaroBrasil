@@ -25,7 +25,7 @@
         <mxCell id="Xi6dRt_2j_iFSjO9cuN_-9" value="SOLAR OM" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;glass=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="554" y="190" width="390" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Xi6dRt_2j_iFSjO9cuN_-10" value="JORNADA DE VENDAS RESIDENCIAIS SOLAR" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;shadow=1;glass=0;" vertex="1" parent="1">
+        <mxCell id="Xi6dRt_2j_iFSjO9cuN_-10" value="JORNADA DE VENDAS RESIDENCIAIS SOLAR" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;shadow=1;glass=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="20" width="1190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xi6dRt_2j_iFSjO9cuN_-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Xi6dRt_2j_iFSjO9cuN_-11" target="Xi6dRt_2j_iFSjO9cuN_-14">
