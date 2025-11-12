@@ -17,19 +17,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fEv577-ss8eXZEpeHAxU-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kiS0A-0jP5fqPSZtIjmB-2" target="kiS0A-0jP5fqPSZtIjmB-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="kiS0A-0jP5fqPSZtIjmB-2" value="MS ProposalSubscriber" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kiS0A-0jP5fqPSZtIjmB-4" value="Novo MS Cria/Atualiza Preposto" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="414" y="120" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="kiS0A-0jP5fqPSZtIjmB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.752;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kiS0A-0jP5fqPSZtIjmB-5" target="kiS0A-0jP5fqPSZtIjmB-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="esbx44KCvW5fIuf7XEzK-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="kiS0A-0jP5fqPSZtIjmB-5" target="kiS0A-0jP5fqPSZtIjmB-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kiS0A-0jP5fqPSZtIjmB-5" value="Atualiza Contrato" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
@@ -80,8 +71,15 @@
         <mxCell id="kiS0A-0jP5fqPSZtIjmB-20" value="Vendedor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="20" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kiS0A-0jP5fqPSZtIjmB-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kiS0A-0jP5fqPSZtIjmB-4" target="kiS0A-0jP5fqPSZtIjmB-10">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="kiS0A-0jP5fqPSZtIjmB-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="kiS0A-0jP5fqPSZtIjmB-5" target="kiS0A-0jP5fqPSZtIjmB-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="534" y="150" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YF5yvOrdtgrXPXgCa--a-3" value="Cria/atualiza lista&amp;nbsp;&lt;div&gt;contatos (prepostos)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kiS0A-0jP5fqPSZtIjmB-23">
+          <mxGeometry x="0.0216" y="-2" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="6_PZT52g1T-nXiuGxA3x-1" value="9 novos campos opcionais no swaggger" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=2;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="274" y="80" width="140" height="40" as="geometry" />
