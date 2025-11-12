@@ -172,6 +172,21 @@
         <mxCell id="Xi6dRt_2j_iFSjO9cuN_-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.061;entryY=-0.043;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Xi6dRt_2j_iFSjO9cuN_-19" target="Xi6dRt_2j_iFSjO9cuN_-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Xi6dRt_2j_iFSjO9cuN_-74" value="MS Baixa OS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="740" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xi6dRt_2j_iFSjO9cuN_-78" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Xi6dRt_2j_iFSjO9cuN_-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1380" y="520" as="sourcePoint" />
+            <mxPoint x="1310" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xi6dRt_2j_iFSjO9cuN_-79" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Xi6dRt_2j_iFSjO9cuN_-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1450" y="730" as="sourcePoint" />
+            <mxPoint x="1430" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
