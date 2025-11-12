@@ -12,8 +12,10 @@
             <mxPoint x="6" y="-18" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xi6dRt_2j_iFSjO9cuN_-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.47;exitY=1.059;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Xi6dRt_2j_iFSjO9cuN_-65" target="Xi6dRt_2j_iFSjO9cuN_-12">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Xi6dRt_2j_iFSjO9cuN_-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.47;exitY=1.059;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Xi6dRt_2j_iFSjO9cuN_-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="731" y="445" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Xi6dRt_2j_iFSjO9cuN_-60" value="APIGEE&lt;div&gt;PATCH/networklogisticalports-v1&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xi6dRt_2j_iFSjO9cuN_-59">
           <mxGeometry x="-0.2518" y="-1" relative="1" as="geometry">
@@ -26,17 +28,14 @@
         <mxCell id="Xi6dRt_2j_iFSjO9cuN_-10" value="JORNADA DE VENDAS RESIDENCIAIS SOLAR" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;shadow=1;glass=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="20" width="1600" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Xi6dRt_2j_iFSjO9cuN_-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Xi6dRt_2j_iFSjO9cuN_-11" target="Xi6dRt_2j_iFSjO9cuN_-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Xi6dRt_2j_iFSjO9cuN_-11" value="MS Proposals" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="538" y="445" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Xi6dRt_2j_iFSjO9cuN_-12" value="Reserva Recurso Rede" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="671" y="445" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Xi6dRt_2j_iFSjO9cuN_-13" value="Callback Reserva Recurso Rede" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="827" y="445" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="Xi6dRt_2j_iFSjO9cuN_-14" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="563" y="565" width="100" height="80" as="geometry" />
+          <mxGeometry x="548" y="565" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Xi6dRt_2j_iFSjO9cuN_-16" value="MS TOA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1121" y="260" width="120" height="60" as="geometry" />
@@ -131,22 +130,27 @@
         <mxCell id="Xi6dRt_2j_iFSjO9cuN_-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.127;entryY=0.055;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Xi6dRt_2j_iFSjO9cuN_-43" target="Xi6dRt_2j_iFSjO9cuN_-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xi6dRt_2j_iFSjO9cuN_-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.854;entryY=0.996;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Xi6dRt_2j_iFSjO9cuN_-13" target="Xi6dRt_2j_iFSjO9cuN_-9">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Xi6dRt_2j_iFSjO9cuN_-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.454;entryY=0.978;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Xi6dRt_2j_iFSjO9cuN_-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="873" y="445" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Xi6dRt_2j_iFSjO9cuN_-62" value="APIGEE&lt;div&gt;POST/networkslogisticalportsnotifications&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xi6dRt_2j_iFSjO9cuN_-61">
           <mxGeometry x="-0.2451" y="1" relative="1" as="geometry">
             <mxPoint y="15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xi6dRt_2j_iFSjO9cuN_-63" value="MS Orquestrador Reserva" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="545" width="120" height="60" as="geometry" />
+        <mxCell id="Xi6dRt_2j_iFSjO9cuN_-63" value="MS Orquestrador Reserva PACTH/resource-orch-networktopology-svc" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="445" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xi6dRt_2j_iFSjO9cuN_-64" value="Cria&amp;nbsp;&lt;div&gt;Proposta&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="554" y="254" width="100" height="57" as="geometry" />
         </mxCell>
         <mxCell id="Xi6dRt_2j_iFSjO9cuN_-65" value="Reserva&amp;nbsp;&lt;div&gt;Recurso&amp;nbsp;&lt;/div&gt;&lt;div&gt;Rede&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="683" y="254" width="100" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="Xi6dRt_2j_iFSjO9cuN_-66" value="Callback&lt;div&gt;Reserva&amp;nbsp;&lt;/div&gt;&lt;div&gt;Recurso&lt;/div&gt;&lt;div&gt;Rede&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="254" width="100" height="57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
