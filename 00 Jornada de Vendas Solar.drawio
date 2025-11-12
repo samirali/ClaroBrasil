@@ -187,6 +187,31 @@
             <mxPoint x="1430" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Xi6dRt_2j_iFSjO9cuN_-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xi6dRt_2j_iFSjO9cuN_-80" target="Xi6dRt_2j_iFSjO9cuN_-81">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1870" y="830" />
+              <mxPoint x="1730" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xi6dRt_2j_iFSjO9cuN_-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xi6dRt_2j_iFSjO9cuN_-80" target="Xi6dRt_2j_iFSjO9cuN_-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1870" y="830" />
+              <mxPoint x="2007" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xi6dRt_2j_iFSjO9cuN_-80" value="MS STW" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="850" width="400" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xi6dRt_2j_iFSjO9cuN_-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xi6dRt_2j_iFSjO9cuN_-81" target="Xi6dRt_2j_iFSjO9cuN_-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xi6dRt_2j_iFSjO9cuN_-81" value="STW Pooling DB" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
