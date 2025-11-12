@@ -38,7 +38,7 @@
           <mxGeometry x="548" y="565" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Xi6dRt_2j_iFSjO9cuN_-16" value="MS TOA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1121" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="980" y="251" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xi6dRt_2j_iFSjO9cuN_-17" value="SOLAR OM" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;glass=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="1240" y="170" width="390" height="60" as="geometry" />
@@ -112,8 +112,11 @@
         <mxCell id="Xi6dRt_2j_iFSjO9cuN_-43" value="Proposta" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="554" y="93" width="100" height="57" as="geometry" />
         </mxCell>
+        <mxCell id="Xi6dRt_2j_iFSjO9cuN_-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xi6dRt_2j_iFSjO9cuN_-44" target="Xi6dRt_2j_iFSjO9cuN_-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Xi6dRt_2j_iFSjO9cuN_-44" value="Agenda" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1131" y="90" width="100" height="57" as="geometry" />
+          <mxGeometry x="990" y="93" width="100" height="57" as="geometry" />
         </mxCell>
         <mxCell id="Xi6dRt_2j_iFSjO9cuN_-45" value="Contrato" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1340" y="90" width="100" height="57" as="geometry" />
