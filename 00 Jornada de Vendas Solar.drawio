@@ -38,7 +38,7 @@
           <mxGeometry x="548" y="565" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Xi6dRt_2j_iFSjO9cuN_-16" value="MS TOA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="251" width="120" height="60" as="geometry" />
+          <mxGeometry x="980" y="445" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xi6dRt_2j_iFSjO9cuN_-17" value="SOLAR OM" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;glass=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="1120" y="190" width="100" height="60" as="geometry" />
