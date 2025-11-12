@@ -83,6 +83,9 @@
         <mxCell id="kiS0A-0jP5fqPSZtIjmB-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kiS0A-0jP5fqPSZtIjmB-4" target="kiS0A-0jP5fqPSZtIjmB-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="6_PZT52g1T-nXiuGxA3x-1" value="9 novos campos opcionais no swaggger" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=2;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="274" y="80" width="140" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -173,6 +176,9 @@
         </mxCell>
         <mxCell id="Q8c0OtttYWnNOhXt3YBq-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Q8c0OtttYWnNOhXt3YBq-1" source="Q8c0OtttYWnNOhXt3YBq-7" target="Q8c0OtttYWnNOhXt3YBq-13">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MJ4pAIBNZEDkn0dX-tq7-0" value="Mantém mesmo swagger" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=2;fontColor=#FF0000;" vertex="1" parent="Q8c0OtttYWnNOhXt3YBq-1">
+          <mxGeometry x="274" y="80" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
