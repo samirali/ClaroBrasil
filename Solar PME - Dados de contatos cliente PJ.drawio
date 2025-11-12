@@ -23,7 +23,7 @@
         <mxCell id="kiS0A-0jP5fqPSZtIjmB-2" value="MS ProposalSubscriber" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kiS0A-0jP5fqPSZtIjmB-4" value="Novo MS Atualiza Preposto" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="kiS0A-0jP5fqPSZtIjmB-4" value="Novo MS Cria/Atualiza Preposto" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="414" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kiS0A-0jP5fqPSZtIjmB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.752;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kiS0A-0jP5fqPSZtIjmB-5" target="kiS0A-0jP5fqPSZtIjmB-8">
