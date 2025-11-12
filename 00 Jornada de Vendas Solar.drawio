@@ -4,23 +4,31 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Xi6dRt_2j_iFSjO9cuN_-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.151;exitY=1.016;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Xi6dRt_2j_iFSjO9cuN_-9" target="Xi6dRt_2j_iFSjO9cuN_-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xi6dRt_2j_iFSjO9cuN_-57" value="APIGEE&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xi6dRt_2j_iFSjO9cuN_-56">
+          <mxGeometry x="-0.2828" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Xi6dRt_2j_iFSjO9cuN_-9" value="SOLAR OM" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;glass=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="170" width="390" height="60" as="geometry" />
+          <mxGeometry x="554" y="190" width="390" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xi6dRt_2j_iFSjO9cuN_-10" value="JORNADA DE VENDAS RESIDENCIAIS SOLAR" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;shadow=1;glass=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="20" width="1600" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xi6dRt_2j_iFSjO9cuN_-11" value="Criação de Proposta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="553" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xi6dRt_2j_iFSjO9cuN_-12" value="Reserva Recurso Rede" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="730" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xi6dRt_2j_iFSjO9cuN_-13" value="Callback Reserva Recurso Rede" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="970" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="860" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xi6dRt_2j_iFSjO9cuN_-14" value="NETSMS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="710" y="380" width="100" height="80" as="geometry" />
+          <mxGeometry x="600" y="450" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Xi6dRt_2j_iFSjO9cuN_-16" value="MS TOA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1121" y="260" width="120" height="60" as="geometry" />
@@ -58,9 +66,9 @@
         <mxCell id="Xi6dRt_2j_iFSjO9cuN_-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xi6dRt_2j_iFSjO9cuN_-36" target="Xi6dRt_2j_iFSjO9cuN_-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xi6dRt_2j_iFSjO9cuN_-48" value="APIGEE GET/resources/extendproperties" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xi6dRt_2j_iFSjO9cuN_-47">
+        <mxCell id="Xi6dRt_2j_iFSjO9cuN_-48" value="APIGEE&amp;nbsp;&lt;div&gt;GET/resources/extendproperties&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xi6dRt_2j_iFSjO9cuN_-47">
           <mxGeometry x="-0.1163" y="-1" relative="1" as="geometry">
-            <mxPoint x="21" y="-20" as="offset" />
+            <mxPoint x="3" y="-24" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Xi6dRt_2j_iFSjO9cuN_-36" value="Consulta Endereço" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -69,9 +77,9 @@
         <mxCell id="Xi6dRt_2j_iFSjO9cuN_-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xi6dRt_2j_iFSjO9cuN_-39" target="Xi6dRt_2j_iFSjO9cuN_-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xi6dRt_2j_iFSjO9cuN_-51" value="POST/resources/extendedproperties/associations" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xi6dRt_2j_iFSjO9cuN_-50">
+        <mxCell id="Xi6dRt_2j_iFSjO9cuN_-51" value="APIGEE&lt;div&gt;POST/resources/extendedproperties/associations&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xi6dRt_2j_iFSjO9cuN_-50">
           <mxGeometry x="0.1474" y="-1" relative="1" as="geometry">
-            <mxPoint y="-6" as="offset" />
+            <mxPoint y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Xi6dRt_2j_iFSjO9cuN_-39" value="Criação&amp;nbsp;&lt;div&gt;HP&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -80,9 +88,9 @@
         <mxCell id="Xi6dRt_2j_iFSjO9cuN_-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xi6dRt_2j_iFSjO9cuN_-40" target="Xi6dRt_2j_iFSjO9cuN_-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xi6dRt_2j_iFSjO9cuN_-54" value="GET/resources/extendedproperties/availabilities" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xi6dRt_2j_iFSjO9cuN_-53">
+        <mxCell id="Xi6dRt_2j_iFSjO9cuN_-54" value="APIGEE&lt;div&gt;GET/resources/extendedproperties/availabilities&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xi6dRt_2j_iFSjO9cuN_-53">
           <mxGeometry x="0.1712" y="2" relative="1" as="geometry">
-            <mxPoint y="13" as="offset" />
+            <mxPoint y="14" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Xi6dRt_2j_iFSjO9cuN_-40" value="Viabilidade Técnica" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -95,7 +103,7 @@
           <mxGeometry x="467" y="93" width="100" height="57" as="geometry" />
         </mxCell>
         <mxCell id="Xi6dRt_2j_iFSjO9cuN_-43" value="Proposta" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="93" width="100" height="57" as="geometry" />
+          <mxGeometry x="554" y="93" width="100" height="57" as="geometry" />
         </mxCell>
         <mxCell id="Xi6dRt_2j_iFSjO9cuN_-44" value="Agenda" style="shape=step;perimeter=stepPerimeter;fixedSize=1;points=[];whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1131" y="90" width="100" height="57" as="geometry" />
@@ -104,13 +112,16 @@
           <mxGeometry x="1340" y="90" width="100" height="57" as="geometry" />
         </mxCell>
         <mxCell id="Xi6dRt_2j_iFSjO9cuN_-46" value="MS geographicaddress-orch-addressinventory-svc" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="20" y="251" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xi6dRt_2j_iFSjO9cuN_-49" value="MS network-partner-service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="251" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xi6dRt_2j_iFSjO9cuN_-52" value="MS service-orch-availability-svc" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="283" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="283" y="251" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xi6dRt_2j_iFSjO9cuN_-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.127;entryY=0.055;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Xi6dRt_2j_iFSjO9cuN_-43" target="Xi6dRt_2j_iFSjO9cuN_-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
