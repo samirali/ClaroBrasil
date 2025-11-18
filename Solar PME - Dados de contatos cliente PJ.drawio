@@ -212,7 +212,7 @@
         <mxCell id="pgjLFKZ1CNhpJuAvqjAC-6" value="2 novas estruturas com informações de preopostos e sócios no&amp;nbsp; response" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=2;fontColor=#FF0000;" vertex="1" parent="3q6MnERcoqzOc7SI3fNX-1">
           <mxGeometry x="170" y="320" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="pgjLFKZ1CNhpJuAvqjAC-7" value="NETSMS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="3q6MnERcoqzOc7SI3fNX-1">
+        <mxCell id="pgjLFKZ1CNhpJuAvqjAC-7" value="NETSMS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="3q6MnERcoqzOc7SI3fNX-1">
           <mxGeometry x="380" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pgjLFKZ1CNhpJuAvqjAC-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.535;entryY=0.99;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="3q6MnERcoqzOc7SI3fNX-1" source="pgjLFKZ1CNhpJuAvqjAC-7" target="pgjLFKZ1CNhpJuAvqjAC-3">
