@@ -16,16 +16,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fTBr68tLZMRO0klmdUZz-1" value="Solar Venda Prospect / Base" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fTBr68tLZMRO0klmdUZz-2" value="Vendedor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="fTBr68tLZMRO0klmdUZz-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fTBr68tLZMRO0klmdUZz-2" target="fTBr68tLZMRO0klmdUZz-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fTBr68tLZMRO0klmdUZz-2" value="Usuário Solar" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="20" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fTBr68tLZMRO0klmdUZz-3" value="API Proposal/Confirmations" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fTBr68tLZMRO0klmdUZz-4" value="API ProposalSubscriber" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
