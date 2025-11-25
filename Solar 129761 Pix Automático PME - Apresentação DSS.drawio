@@ -89,6 +89,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="fTBr68tLZMRO0klmdUZz-22" value="API ProposalSubscriber" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="310" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
