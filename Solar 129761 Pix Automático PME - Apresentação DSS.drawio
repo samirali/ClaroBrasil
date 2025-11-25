@@ -4,6 +4,29 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fTBr68tLZMRO0klmdUZz-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fTBr68tLZMRO0klmdUZz-1" target="fTBr68tLZMRO0klmdUZz-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fTBr68tLZMRO0klmdUZz-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fTBr68tLZMRO0klmdUZz-1" target="fTBr68tLZMRO0klmdUZz-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fTBr68tLZMRO0klmdUZz-6" value="Novos campos:&amp;nbsp;&lt;div&gt;CNPJ pagador/comprador, agência, conta, banco, optin/out&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fTBr68tLZMRO0klmdUZz-5">
+          <mxGeometry x="-0.6857" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fTBr68tLZMRO0klmdUZz-1" value="Solar Venda Prospect / Base" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fTBr68tLZMRO0klmdUZz-2" value="Vendedor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="20" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fTBr68tLZMRO0klmdUZz-3" value="API Proposal/Confirmations" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fTBr68tLZMRO0klmdUZz-4" value="API ProposalSubscriber" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
