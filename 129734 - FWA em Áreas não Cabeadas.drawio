@@ -12,8 +12,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="kfbdrCBOHe8FdO7rnqw6-14" connectable="0" parent="kfbdrCBOHe8FdO7rnqw6-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Alteração swagger&amp;nbsp;&lt;div&gt;(novo agregado&amp;nbsp;&lt;/div&gt;&lt;div&gt;informativo)&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.3448" y="-2" as="geometry">
+            <mxPoint x="2" y="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kfbdrCBOHe8FdO7rnqw6-11" edge="1" parent="1" source="kfbdrCBOHe8FdO7rnqw6-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="kfbdrCBOHe8FdO7rnqw6-8">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kfbdrCBOHe8FdO7rnqw6-15" connectable="0" parent="kfbdrCBOHe8FdO7rnqw6-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(236, 236, 236);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20parent%3D%221%22%20style%3D%22text%3Bhtml%3D1%3BwhiteSpace%3Dwrap%3BstrokeColor%3Dnone%3BfillColor%3Dnone%3Balign%3Dleft%3BverticalAlign%3Dmiddle%3Brounded%3D0%3B%22%20value%3D%22Venda%20Prospect%26lt%3Bdiv%26gt%3BVenda%20Base%26lt%3B%2Fdiv%26gt%3B%26lt%3Bdiv%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3B%2Fdiv%26gt%3B%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2250%22%20width%3D%22100%22%20x%3D%22710%22%20y%3D%2225%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1451" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="kfbdrCBOHe8FdO7rnqw6-12" edge="1" parent="1" source="kfbdrCBOHe8FdO7rnqw6-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="kfbdrCBOHe8FdO7rnqw6-9">
           <mxGeometry relative="1" as="geometry">
@@ -21,6 +31,11 @@
               <mxPoint x="220" y="100" />
               <mxPoint x="364" y="100" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kfbdrCBOHe8FdO7rnqw6-18" connectable="0" parent="kfbdrCBOHe8FdO7rnqw6-12" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Inclusão da 8a base" vertex="1">
+          <mxGeometry relative="1" x="0.4533" y="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kfbdrCBOHe8FdO7rnqw6-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Jornada Solar" vertex="1">
@@ -39,16 +54,19 @@
           <mxGeometry height="60" width="120" x="827" y="20" as="geometry" />
         </mxCell>
         <mxCell id="kfbdrCBOHe8FdO7rnqw6-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Venda Prospect&lt;/div&gt;(Proposal/&lt;div&gt;Confirmations)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="20" y="160" as="geometry" />
+          <mxGeometry height="60" width="120" x="20" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="kfbdrCBOHe8FdO7rnqw6-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Venda Bse&lt;/div&gt;(ProposalSubscriber)" vertex="1">
-          <mxGeometry height="60" width="120" x="160" y="160" as="geometry" />
+        <mxCell id="kfbdrCBOHe8FdO7rnqw6-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Venda Base&lt;/div&gt;(ProposalSubscriber)" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="250" as="geometry" />
         </mxCell>
         <mxCell id="kfbdrCBOHe8FdO7rnqw6-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Cancelamento&lt;/div&gt;(&lt;span data-teams=&quot;true&quot;&gt;residential-nba-customerorders-v1&lt;/span&gt;)" vertex="1">
-          <mxGeometry height="60" width="120" x="304" y="160" as="geometry" />
+          <mxGeometry height="60" width="120" x="304" y="250" as="geometry" />
         </mxCell>
         <mxCell id="kfbdrCBOHe8FdO7rnqw6-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=2" value="- Viabilidade&lt;div&gt;- Checagem crédito&lt;/div&gt;&lt;div&gt;- Ativação Simplificada&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="180" x="280" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kfbdrCBOHe8FdO7rnqw6-17" connectable="0" parent="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Alteração swagger&amp;nbsp;&lt;div&gt;(novo agregado&amp;nbsp;&lt;/div&gt;&lt;div&gt;informativo)&lt;/div&gt;" vertex="1">
+          <mxGeometry x="220" y="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
