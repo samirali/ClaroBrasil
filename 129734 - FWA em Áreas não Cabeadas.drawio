@@ -4,23 +4,39 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kfbdrCBOHe8FdO7rnqw6-10" edge="1" parent="1" source="kfbdrCBOHe8FdO7rnqw6-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kfbdrCBOHe8FdO7rnqw6-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="100" />
+              <mxPoint x="80" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kfbdrCBOHe8FdO7rnqw6-11" edge="1" parent="1" source="kfbdrCBOHe8FdO7rnqw6-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="kfbdrCBOHe8FdO7rnqw6-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kfbdrCBOHe8FdO7rnqw6-12" edge="1" parent="1" source="kfbdrCBOHe8FdO7rnqw6-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="kfbdrCBOHe8FdO7rnqw6-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="100" />
+              <mxPoint x="364" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kfbdrCBOHe8FdO7rnqw6-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Jornada Solar" vertex="1">
-          <mxGeometry height="60" width="120" x="290" y="20" as="geometry" />
+          <mxGeometry height="60" width="120" x="160" y="15" as="geometry" />
         </mxCell>
         <mxCell id="kfbdrCBOHe8FdO7rnqw6-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Jornada Digital/e-Commerce" vertex="1">
           <mxGeometry height="60" width="120" x="580" y="20" as="geometry" />
         </mxCell>
         <mxCell id="kfbdrCBOHe8FdO7rnqw6-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Venda Prospect&lt;div&gt;Venda Base&lt;/div&gt;&lt;div&gt;Cancelamento 8a base&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="140" x="424" y="25" as="geometry" />
+          <mxGeometry height="50" width="140" x="961" y="20" as="geometry" />
         </mxCell>
         <mxCell id="kfbdrCBOHe8FdO7rnqw6-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Venda Prospect&lt;div&gt;Venda Base&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="100" x="710" y="25" as="geometry" />
         </mxCell>
         <mxCell id="kfbdrCBOHe8FdO7rnqw6-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Jornada NETSales" vertex="1">
-          <mxGeometry height="60" width="120" x="20" y="25" as="geometry" />
-        </mxCell>
-        <mxCell id="kfbdrCBOHe8FdO7rnqw6-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Venda Prospect&lt;div&gt;Venda Base&lt;/div&gt;&lt;div&gt;Cancelamento 8a base&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="140" x="150" y="25" as="geometry" />
+          <mxGeometry height="60" width="120" x="827" y="20" as="geometry" />
         </mxCell>
         <mxCell id="kfbdrCBOHe8FdO7rnqw6-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Venda Prospect&lt;/div&gt;(Proposal/&lt;div&gt;Confirmations)&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="20" y="160" as="geometry" />
@@ -28,7 +44,7 @@
         <mxCell id="kfbdrCBOHe8FdO7rnqw6-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Venda Bse&lt;/div&gt;(ProposalSubscriber)" vertex="1">
           <mxGeometry height="60" width="120" x="160" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="kfbdrCBOHe8FdO7rnqw6-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Cancelamento&lt;/div&gt;()" vertex="1">
+        <mxCell id="kfbdrCBOHe8FdO7rnqw6-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Cancelamento&lt;/div&gt;(&lt;span data-teams=&quot;true&quot;&gt;residential-nba-customerorders-v1&lt;/span&gt;)" vertex="1">
           <mxGeometry height="60" width="120" x="304" y="160" as="geometry" />
         </mxCell>
       </root>
