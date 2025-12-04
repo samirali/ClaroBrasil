@@ -60,6 +60,14 @@
         <mxCell id="kfbdrCBOHe8FdO7rnqw6-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Jornada Venda Digital/e-Commerce" vertex="1">
           <mxGeometry height="60" width="120" x="550" y="15" as="geometry" />
         </mxCell>
+        <mxCell id="kfbdrCBOHe8FdO7rnqw6-34" edge="1" parent="1" source="kfbdrCBOHe8FdO7rnqw6-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="kfbdrCBOHe8FdO7rnqw6-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="990" y="110" />
+              <mxPoint x="879" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="kfbdrCBOHe8FdO7rnqw6-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Jornada Venda NETSales - Prospect/Base" vertex="1">
           <mxGeometry height="60" width="120" x="930" y="15" as="geometry" />
         </mxCell>
@@ -94,16 +102,16 @@
           <mxGeometry height="50" width="180" x="670" y="20" as="geometry" />
         </mxCell>
         <mxCell id="kfbdrCBOHe8FdO7rnqw6-27" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Inclusão&amp;nbsp;&lt;div&gt;novo&lt;/div&gt;&lt;div&gt;Agregado&amp;nbsp;&lt;div&gt;Informativo&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="94" x="904" y="110" as="geometry" />
+          <mxGeometry height="80" width="94" x="902.5" y="180" as="geometry" />
         </mxCell>
         <mxCell id="kfbdrCBOHe8FdO7rnqw6-28" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Inicia&lt;div&gt;Venda&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="79" x="841" y="110" as="geometry" />
+          <mxGeometry height="80" width="79" x="839.5" y="180" as="geometry" />
         </mxCell>
         <mxCell id="kfbdrCBOHe8FdO7rnqw6-30" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Alteração&amp;nbsp;&lt;div&gt;Tela&amp;nbsp;&lt;/div&gt;&lt;div&gt;Resumo&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="90" x="983" y="110" as="geometry" />
+          <mxGeometry height="80" width="90" x="981.5" y="180" as="geometry" />
         </mxCell>
         <mxCell id="kfbdrCBOHe8FdO7rnqw6-31" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Finaliza&amp;nbsp;&lt;div&gt;Venda&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="85" x="1057" y="110" as="geometry" />
+          <mxGeometry height="80" width="85" x="1055.5" y="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
