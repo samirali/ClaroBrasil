@@ -113,6 +113,12 @@
         <mxCell id="kfbdrCBOHe8FdO7rnqw6-31" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Finaliza&amp;nbsp;&lt;div&gt;Venda&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="85" x="1055.5" y="180" as="geometry" />
         </mxCell>
+        <mxCell id="kfbdrCBOHe8FdO7rnqw6-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Robô NETSales (Ativação Simplificada)" vertex="1">
+          <mxGeometry height="60" width="120" x="1160" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="kfbdrCBOHe8FdO7rnqw6-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=2" value="&lt;div&gt;&lt;div style=&quot;text-align: right;&quot;&gt;- Novo Agregado Informativo&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: right;&quot;&gt;- Ignorar quando contrato for Solar&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="180" x="970" y="315" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
