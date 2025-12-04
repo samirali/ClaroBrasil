@@ -57,14 +57,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kfbdrCBOHe8FdO7rnqw6-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Jornada Digital/e-Commerce" vertex="1">
+        <mxCell id="kfbdrCBOHe8FdO7rnqw6-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Jornada Venda Digital/e-Commerce" vertex="1">
           <mxGeometry height="60" width="120" x="550" y="15" as="geometry" />
         </mxCell>
-        <mxCell id="kfbdrCBOHe8FdO7rnqw6-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Venda Prospect 8a base&lt;div&gt;Venda Base 8a base&lt;/div&gt;&lt;div&gt;Cancelamento 8a base&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="140" x="961" y="20" as="geometry" />
-        </mxCell>
-        <mxCell id="kfbdrCBOHe8FdO7rnqw6-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Jornada NETSales" vertex="1">
-          <mxGeometry height="60" width="120" x="827" y="15" as="geometry" />
+        <mxCell id="kfbdrCBOHe8FdO7rnqw6-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Jornada Venda NETSales - Prospect/Base" vertex="1">
+          <mxGeometry height="60" width="120" x="930" y="15" as="geometry" />
         </mxCell>
         <mxCell id="kfbdrCBOHe8FdO7rnqw6-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;div&gt;Venda Prospect&amp;nbsp;&lt;/div&gt;&lt;div&gt;8a base&lt;/div&gt;(Proposal/&lt;div&gt;Confirmations)&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="20" y="250" as="geometry" />
@@ -95,6 +92,18 @@
         </mxCell>
         <mxCell id="kfbdrCBOHe8FdO7rnqw6-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=2" value="- Viabilidade&lt;div&gt;- Checagem crédito&lt;/div&gt;&lt;div&gt;- Ativação Simplificada&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="180" x="670" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kfbdrCBOHe8FdO7rnqw6-27" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Inclusão&amp;nbsp;&lt;div&gt;novo&lt;/div&gt;&lt;div&gt;Agregado&amp;nbsp;&lt;div&gt;Informativo&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="94" x="904" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kfbdrCBOHe8FdO7rnqw6-28" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Inicia&lt;div&gt;Venda&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="79" x="841" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kfbdrCBOHe8FdO7rnqw6-30" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Alteração&amp;nbsp;&lt;div&gt;Tela&amp;nbsp;&lt;/div&gt;&lt;div&gt;Resumo&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="90" x="983" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kfbdrCBOHe8FdO7rnqw6-31" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Finaliza&amp;nbsp;&lt;div&gt;Venda&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="85" x="1057" y="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
