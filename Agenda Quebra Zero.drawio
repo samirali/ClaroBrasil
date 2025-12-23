@@ -25,6 +25,15 @@
         <mxCell id="nHOW7wXq0mKgTuXcdezU-7" value="Criação&amp;nbsp;&lt;div&gt;Contrato&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="100" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="nHOW7wXq0mKgTuXcdezU-9" value="- Criação de nova pendência &quot;Agendamento pelo Cliente&quot;&lt;div&gt;- Habilitada por parâmetro (cidade, canal, perfil, segmento, etc) com opção liga/desliga&lt;/div&gt;&lt;div&gt;- Quando habilitada ela substitui o agendamento feito pelo vendedor&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="230" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nHOW7wXq0mKgTuXcdezU-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="nHOW7wXq0mKgTuXcdezU-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="230" as="sourcePoint" />
+            <mxPoint x="320" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
