@@ -25,8 +25,8 @@
         <mxCell id="nHOW7wXq0mKgTuXcdezU-7" value="Criação&amp;nbsp;&lt;div&gt;Contrato&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="60" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="nHOW7wXq0mKgTuXcdezU-9" value="- Alterar Jornada Venda NETSales para nova pendência&lt;div&gt;- Criação de nova pendência &quot;Agendamento pelo Cliente&quot;&lt;div&gt;- Habilitada por parâmetro (cidade, canal, perfil, segmento, etc) com opção liga/desliga&lt;/div&gt;&lt;div&gt;- Quando habilitada ela substitui o agendamento feito pelo vendedor&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="290" width="240" height="120" as="geometry" />
+        <mxCell id="nHOW7wXq0mKgTuXcdezU-9" value="- Alterar Jornada Venda NETSales para nova pendência&lt;div&gt;- Criação de nova pendência &quot;Agendamento pelo Cliente&quot;&lt;div&gt;- Habilitada por parâmetro (cidade, canal, perfil, segmento, etc) com opção liga/desliga&lt;/div&gt;&lt;div&gt;- Quando habilitada ela substitui o agendamento feito pelo vendedor&lt;/div&gt;&lt;/div&gt;&lt;div&gt;- Proposta fica gravada na base até que novo MS encerre a pendência e crie/altere o contrato&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="290" width="280" height="170" as="geometry" />
         </mxCell>
         <mxCell id="nHOW7wXq0mKgTuXcdezU-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="nHOW7wXq0mKgTuXcdezU-9" target="nHOW7wXq0mKgTuXcdezU-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -124,7 +124,7 @@
         <mxCell id="nHOW7wXq0mKgTuXcdezU-24" value="Front Digital (Minha Claro APP, Site, outro)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1220" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nHOW7wXq0mKgTuXcdezU-28" value="Confirma agendamento no TOA" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="nHOW7wXq0mKgTuXcdezU-28" value="Confirma agendamento no TOA (segmento correto de cliente)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1430" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nHOW7wXq0mKgTuXcdezU-30" value="Novo MS Lista Propostas por CPF/CNPJ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
