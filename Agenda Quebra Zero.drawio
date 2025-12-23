@@ -46,8 +46,95 @@
         <mxCell id="nHOW7wXq0mKgTuXcdezU-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nHOW7wXq0mKgTuXcdezU-14" target="nHOW7wXq0mKgTuXcdezU-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="nHOW7wXq0mKgTuXcdezU-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nHOW7wXq0mKgTuXcdezU-14" target="nHOW7wXq0mKgTuXcdezU-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nHOW7wXq0mKgTuXcdezU-18" value="Atualiza&amp;nbsp;&lt;div&gt;proposta&amp;nbsp;&lt;div&gt;com nova&amp;nbsp;&lt;/div&gt;&lt;div&gt;pendência&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nHOW7wXq0mKgTuXcdezU-17">
+          <mxGeometry x="-0.1176" y="1" relative="1" as="geometry">
+            <mxPoint x="-29" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="nHOW7wXq0mKgTuXcdezU-14" value="Agendamento&lt;div&gt;pelo cliente&lt;br&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="460" y="150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nHOW7wXq0mKgTuXcdezU-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nHOW7wXq0mKgTuXcdezU-16" target="nHOW7wXq0mKgTuXcdezU-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nHOW7wXq0mKgTuXcdezU-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nHOW7wXq0mKgTuXcdezU-16" target="nHOW7wXq0mKgTuXcdezU-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nHOW7wXq0mKgTuXcdezU-16" value="NETSMS (8 bases)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="750" y="160" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nHOW7wXq0mKgTuXcdezU-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nHOW7wXq0mKgTuXcdezU-19" target="nHOW7wXq0mKgTuXcdezU-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nHOW7wXq0mKgTuXcdezU-36" value="Informação&amp;nbsp;&lt;div&gt;da Proposta&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nHOW7wXq0mKgTuXcdezU-21">
+          <mxGeometry x="-0.3684" y="-2" relative="1" as="geometry">
+            <mxPoint x="12" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nHOW7wXq0mKgTuXcdezU-19" value="Novo MS Notifica Cliente - Pendência de Agendamento" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="775" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nHOW7wXq0mKgTuXcdezU-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nHOW7wXq0mKgTuXcdezU-20" target="nHOW7wXq0mKgTuXcdezU-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nHOW7wXq0mKgTuXcdezU-20" value="RTDM (Envio Notificação Cliente)" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nHOW7wXq0mKgTuXcdezU-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nHOW7wXq0mKgTuXcdezU-23" target="nHOW7wXq0mKgTuXcdezU-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1280" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nHOW7wXq0mKgTuXcdezU-23" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1211" y="50" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nHOW7wXq0mKgTuXcdezU-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nHOW7wXq0mKgTuXcdezU-24" target="nHOW7wXq0mKgTuXcdezU-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nHOW7wXq0mKgTuXcdezU-31" value="1 - Confirma&amp;nbsp;&lt;div&gt;Agenda&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nHOW7wXq0mKgTuXcdezU-29">
+          <mxGeometry x="-0.0444" relative="1" as="geometry">
+            <mxPoint x="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nHOW7wXq0mKgTuXcdezU-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nHOW7wXq0mKgTuXcdezU-24" target="nHOW7wXq0mKgTuXcdezU-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nHOW7wXq0mKgTuXcdezU-35" value="2 - Captura&amp;nbsp;&lt;div&gt;detalhes&amp;nbsp;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;da&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;Proposta&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nHOW7wXq0mKgTuXcdezU-34">
+          <mxGeometry x="-0.2091" y="2" relative="1" as="geometry">
+            <mxPoint x="-9" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nHOW7wXq0mKgTuXcdezU-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nHOW7wXq0mKgTuXcdezU-24" target="nHOW7wXq0mKgTuXcdezU-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1280" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nHOW7wXq0mKgTuXcdezU-41" value="3 - Criação de&amp;nbsp;&lt;div&gt;contrato com&amp;nbsp;&lt;/div&gt;&lt;div&gt;agenda definida&lt;/div&gt;&lt;div&gt;&amp;nbsp;pelo cliente&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nHOW7wXq0mKgTuXcdezU-40">
+          <mxGeometry x="0.2846" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nHOW7wXq0mKgTuXcdezU-24" value="Front Digital (Minha Claro APP, Site, outro)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nHOW7wXq0mKgTuXcdezU-28" value="Confirma agendamento no TOA" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nHOW7wXq0mKgTuXcdezU-30" value="Novo MS Lista Propostas por CPF/CNPJ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="970" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nHOW7wXq0mKgTuXcdezU-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nHOW7wXq0mKgTuXcdezU-39" target="nHOW7wXq0mKgTuXcdezU-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nHOW7wXq0mKgTuXcdezU-39" value="Novo MS Confirma Contrato" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="970" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
