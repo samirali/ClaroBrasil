@@ -114,13 +114,13 @@
         <mxCell id="T8oepntc9QVv-gKtOxgm-15" edge="1" parent="3gIXLURRqDIL9uu9hUac-1" source="T8oepntc9QVv-gKtOxgm-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="T8oepntc9QVv-gKtOxgm-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="630" y="290" />
+              <mxPoint x="690" y="290" />
               <mxPoint x="505" y="290" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="T8oepntc9QVv-gKtOxgm-2" parent="3gIXLURRqDIL9uu9hUac-1" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" value="Carrega produtos elegíveis para venda" vertex="1">
-          <mxGeometry height="60" width="120" x="570" y="570" as="geometry" />
+          <mxGeometry height="60" width="120" x="630" y="570" as="geometry" />
         </mxCell>
         <mxCell id="T8oepntc9QVv-gKtOxgm-18" edge="1" parent="3gIXLURRqDIL9uu9hUac-1" source="T8oepntc9QVv-gKtOxgm-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="T8oepntc9QVv-gKtOxgm-2">
           <mxGeometry relative="1" as="geometry">
@@ -155,7 +155,13 @@
           <mxGeometry height="80" width="90" x="460" y="180" as="geometry" />
         </mxCell>
         <mxCell id="T8oepntc9QVv-gKtOxgm-17" parent="3gIXLURRqDIL9uu9hUac-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Utiliza atributo FEEP para listar produtos para segmento de cliente (PF, PJ, Ambos);&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="110" x="640" y="500" as="geometry" />
+          <mxGeometry height="70" width="110" x="550" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="T8oepntc9QVv-gKtOxgm-21" edge="1" parent="3gIXLURRqDIL9uu9hUac-1" source="T8oepntc9QVv-gKtOxgm-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="T8oepntc9QVv-gKtOxgm-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T8oepntc9QVv-gKtOxgm-20" parent="3gIXLURRqDIL9uu9hUac-1" style="rounded=1;whiteSpace=wrap;html=1;" value="FEEP" vertex="1">
+          <mxGeometry height="60" width="120" x="560" y="350" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
