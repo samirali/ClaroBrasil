@@ -53,7 +53,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="V2" id="qisSbg2SEPK6ziWsVdg3">
-    <mxGraphModel dx="1042" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="3gIXLURRqDIL9uu9hUac-0" />
         <mxCell id="3gIXLURRqDIL9uu9hUac-1" parent="3gIXLURRqDIL9uu9hUac-0" />
@@ -70,7 +70,7 @@
         <mxCell id="3gIXLURRqDIL9uu9hUac-4" parent="3gIXLURRqDIL9uu9hUac-1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Cadastro&lt;div&gt;Cliente&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="90" x="40" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="3gIXLURRqDIL9uu9hUac-5" parent="3gIXLURRqDIL9uu9hUac-1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Tipo&lt;div&gt;Cliente&lt;/div&gt;&lt;div&gt;CPF/CNPJ&lt;/div&gt;" vertex="1">
+        <mxCell id="3gIXLURRqDIL9uu9hUac-5" parent="3gIXLURRqDIL9uu9hUac-1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Alterar" vertex="1">
           <mxGeometry height="80" width="90" x="120" y="180" as="geometry" />
         </mxCell>
         <mxCell id="3gIXLURRqDIL9uu9hUac-6" parent="3gIXLURRqDIL9uu9hUac-1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="..." vertex="1">
