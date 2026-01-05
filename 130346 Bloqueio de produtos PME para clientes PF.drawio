@@ -76,10 +76,8 @@
         <mxCell id="3gIXLURRqDIL9uu9hUac-6" parent="3gIXLURRqDIL9uu9hUac-1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="..." vertex="1">
           <mxGeometry height="80" width="50" x="200" y="180" as="geometry" />
         </mxCell>
-        <mxCell id="3gIXLURRqDIL9uu9hUac-7" edge="1" parent="3gIXLURRqDIL9uu9hUac-1" source="3gIXLURRqDIL9uu9hUac-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="285" y="310" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="T8oepntc9QVv-gKtOxgm-1" edge="1" parent="3gIXLURRqDIL9uu9hUac-1" source="3gIXLURRqDIL9uu9hUac-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="T8oepntc9QVv-gKtOxgm-0">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3gIXLURRqDIL9uu9hUac-8" parent="3gIXLURRqDIL9uu9hUac-1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Seleciona&lt;div&gt;Produtos&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="90" x="240" y="180" as="geometry" />
@@ -88,7 +86,7 @@
           <mxGeometry height="80" width="120" x="320" y="180" as="geometry" />
         </mxCell>
         <mxCell id="3gIXLURRqDIL9uu9hUac-10" parent="3gIXLURRqDIL9uu9hUac-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="1/ Utiliza atributo FEEP para listar produtos para segmento de cliente (PF, PJ, Ambos);&lt;div&gt;2/ Utiliza nova tabela de blacklist para decidir se produtos devem ser exibidos para canal de vendas, perfil de vendedor e negócio, segmento de produto, segmento de mercado&lt;/div&gt;" vertex="1">
-          <mxGeometry height="70" width="270" x="270" y="320" as="geometry" />
+          <mxGeometry height="70" width="270" x="30" y="430" as="geometry" />
         </mxCell>
         <mxCell id="3gIXLURRqDIL9uu9hUac-11" parent="3gIXLURRqDIL9uu9hUac-1" style="rounded=0;whiteSpace=wrap;html=1;" value="NETSALES" vertex="1">
           <mxGeometry height="20" width="380" x="40" y="150" as="geometry" />
@@ -101,6 +99,15 @@
             <mxPoint x="160" y="260" as="sourcePoint" />
             <mxPoint x="160" y="310" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="T8oepntc9QVv-gKtOxgm-3" edge="1" parent="3gIXLURRqDIL9uu9hUac-1" source="T8oepntc9QVv-gKtOxgm-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="T8oepntc9QVv-gKtOxgm-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T8oepntc9QVv-gKtOxgm-0" parent="3gIXLURRqDIL9uu9hUac-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Cruza Segmento Cliente (PF x PME) com segmento do Produto" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="T8oepntc9QVv-gKtOxgm-2" parent="3gIXLURRqDIL9uu9hUac-1" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" value="Carrega tela de produtos somente com&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="530" y="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
