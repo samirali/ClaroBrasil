@@ -283,6 +283,27 @@
         <mxCell id="fgqGgwpwxbJCukhJEq7T-1" parent="DE1_gl1QVPyRzd2V5VQ6-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;* Criar parâmetro liga/desliga para pesquisa de produtos filtrados por tipo de cliente&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="240" x="290" y="100" as="geometry" />
         </mxCell>
+        <mxCell id="fgqGgwpwxbJCukhJEq7T-2" parent="DE1_gl1QVPyRzd2V5VQ6-1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="NETSMS 8 bases" vertex="1">
+          <mxGeometry height="80" width="260" x="310" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="fgqGgwpwxbJCukhJEq7T-4" edge="1" parent="DE1_gl1QVPyRzd2V5VQ6-1" source="fgqGgwpwxbJCukhJEq7T-2" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" target="DE1_gl1QVPyRzd2V5VQ6-19" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="610" as="sourcePoint" />
+            <mxPoint x="440" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fgqGgwpwxbJCukhJEq7T-7" edge="1" parent="DE1_gl1QVPyRzd2V5VQ6-1" source="fgqGgwpwxbJCukhJEq7T-2" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" target="DE1_gl1QVPyRzd2V5VQ6-15" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="610" as="sourcePoint" />
+            <mxPoint x="440" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fgqGgwpwxbJCukhJEq7T-9" edge="1" parent="DE1_gl1QVPyRzd2V5VQ6-1" source="fgqGgwpwxbJCukhJEq7T-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fgqGgwpwxbJCukhJEq7T-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fgqGgwpwxbJCukhJEq7T-8" parent="DE1_gl1QVPyRzd2V5VQ6-1" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" value="&lt;b&gt;Script execução única&lt;/b&gt; marcar clientes como tipo GE com base no tipo de produto contratado" vertex="1">
+          <mxGeometry height="80" width="130" x="100" y="640" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
