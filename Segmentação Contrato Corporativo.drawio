@@ -269,6 +269,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="YD_lkGBdTn_7qaQ9YL9U-39" edge="1" parent="VewVXw1como5nbdlzAeS-1" source="YD_lkGBdTn_7qaQ9YL9U-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="YD_lkGBdTn_7qaQ9YL9U-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YD_lkGBdTn_7qaQ9YL9U-38" parent="VewVXw1como5nbdlzAeS-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Script execução única que atualiza segmento com base em lista de produtos" vertex="1">
+          <mxGeometry height="60" width="120" x="630" y="535" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
