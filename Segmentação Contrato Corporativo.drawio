@@ -105,7 +105,7 @@
         <mxCell id="YD_lkGBdTn_7qaQ9YL9U-22" edge="1" parent="VewVXw1como5nbdlzAeS-1" source="YD_lkGBdTn_7qaQ9YL9U-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="YD_lkGBdTn_7qaQ9YL9U-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YD_lkGBdTn_7qaQ9YL9U-23" connectable="0" parent="YD_lkGBdTn_7qaQ9YL9U-22" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Envia segmento&amp;nbsp;&lt;div&gt;pra consultar&amp;nbsp;&lt;/div&gt;&lt;div&gt;agenda correta&lt;/div&gt;" vertex="1">
+        <mxCell id="YD_lkGBdTn_7qaQ9YL9U-23" connectable="0" parent="YD_lkGBdTn_7qaQ9YL9U-22" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF0000;" value="Envia segmento&amp;nbsp;&lt;div&gt;pra consultar&amp;nbsp;&lt;/div&gt;&lt;div&gt;agenda correta&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.2171" as="geometry">
             <mxPoint y="13" as="offset" />
           </mxGeometry>
