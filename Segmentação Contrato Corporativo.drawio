@@ -87,7 +87,7 @@
         <mxCell id="YD_lkGBdTn_7qaQ9YL9U-0" parent="VewVXw1como5nbdlzAeS-1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Cadastro&lt;div&gt;Cliente&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="90" x="20" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="YD_lkGBdTn_7qaQ9YL9U-19" edge="1" parent="VewVXw1como5nbdlzAeS-1" source="YD_lkGBdTn_7qaQ9YL9U-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="YD_lkGBdTn_7qaQ9YL9U-18">
+        <mxCell id="YD_lkGBdTn_7qaQ9YL9U-19" edge="1" parent="VewVXw1como5nbdlzAeS-1" source="YD_lkGBdTn_7qaQ9YL9U-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.315;entryY=-0.06;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" target="YD_lkGBdTn_7qaQ9YL9U-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YD_lkGBdTn_7qaQ9YL9U-1" parent="VewVXw1como5nbdlzAeS-1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Seleção&lt;div&gt;de&amp;nbsp;&lt;/div&gt;&lt;div&gt;Produtos&lt;/div&gt;" vertex="1">
@@ -151,7 +151,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YD_lkGBdTn_7qaQ9YL9U-18" parent="VewVXw1como5nbdlzAeS-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Geração de segmento do cliente com base nos produtos" vertex="1">
-          <mxGeometry height="60" width="120" x="85" y="300" as="geometry" />
+          <mxGeometry height="60" width="120" x="85" y="340" as="geometry" />
         </mxCell>
         <mxCell id="YD_lkGBdTn_7qaQ9YL9U-21" parent="VewVXw1como5nbdlzAeS-1" style="rounded=1;whiteSpace=wrap;html=1;" value="API Consulta Agenda TOA" vertex="1">
           <mxGeometry height="60" width="120" x="259" y="330" as="geometry" />
@@ -205,6 +205,17 @@
         </mxCell>
         <mxCell id="YD_lkGBdTn_7qaQ9YL9U-38" parent="VewVXw1como5nbdlzAeS-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Script execução única que atualiza segmento com base em lista de produtos" vertex="1">
           <mxGeometry height="60" width="120" x="630" y="535" as="geometry" />
+        </mxCell>
+        <mxCell id="YD_lkGBdTn_7qaQ9YL9U-41" edge="1" parent="VewVXw1como5nbdlzAeS-1" source="YD_lkGBdTn_7qaQ9YL9U-18" style="endArrow=classic;html=1;rounded=0;entryX=0.671;entryY=1.045;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fontColor=#FF0000;strokeColor=#FF0000;" target="YD_lkGBdTn_7qaQ9YL9U-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="360" as="sourcePoint" />
+            <mxPoint x="440" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YD_lkGBdTn_7qaQ9YL9U-42" connectable="0" parent="YD_lkGBdTn_7qaQ9YL9U-41" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF0000;" value="Exibe segmento&amp;nbsp;&lt;div&gt;Proposta&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.0663" y="2" as="geometry">
+            <mxPoint x="5" y="10" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
