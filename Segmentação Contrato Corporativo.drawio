@@ -193,7 +193,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YD_lkGBdTn_7qaQ9YL9U-5" parent="VewVXw1como5nbdlzAeS-1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" value="Cria&amp;nbsp;&lt;div&gt;Contrato&lt;/div&gt;" vertex="1">
+        <mxCell id="YD_lkGBdTn_7qaQ9YL9U-5" parent="VewVXw1como5nbdlzAeS-1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Cria&amp;nbsp;&lt;div&gt;Contrato&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="90" x="380" y="80" as="geometry" />
         </mxCell>
         <mxCell id="YD_lkGBdTn_7qaQ9YL9U-7" parent="VewVXw1como5nbdlzAeS-1" style="rounded=0;whiteSpace=wrap;html=1;" value="NETSALES VENDA PROSPECT" vertex="1">
@@ -222,7 +222,7 @@
             <mxPoint x="440" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YD_lkGBdTn_7qaQ9YL9U-17" connectable="0" parent="YD_lkGBdTn_7qaQ9YL9U-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Grava Segmento&lt;div&gt;Proposta&lt;/div&gt;" vertex="1">
+        <mxCell id="YD_lkGBdTn_7qaQ9YL9U-17" connectable="0" parent="YD_lkGBdTn_7qaQ9YL9U-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#FF0000;" value="Grava Segmento&lt;div&gt;Proposta&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.0739" y="2" as="geometry">
             <mxPoint x="-15" y="7" as="offset" />
           </mxGeometry>
