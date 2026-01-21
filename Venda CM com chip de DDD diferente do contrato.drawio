@@ -82,8 +82,8 @@
         <mxCell id="63i_rVREy8zfoeIwY8O9-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Gera novas OS para CHIP NACIONAL" vertex="1">
           <mxGeometry height="60" width="120" x="70" y="570" as="geometry" />
         </mxCell>
-        <mxCell id="63i_rVREy8zfoeIwY8O9-15" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;" value="NETSMS 8 bases" vertex="1">
-          <mxGeometry height="80" width="190" x="230" y="690" as="geometry" />
+        <mxCell id="63i_rVREy8zfoeIwY8O9-15" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;verticalAlign=top;" value="NETSMS 8 bases" vertex="1">
+          <mxGeometry height="170" width="420" x="115" y="690" as="geometry" />
         </mxCell>
         <mxCell id="63i_rVREy8zfoeIwY8O9-16" edge="1" parent="1" source="63i_rVREy8zfoeIwY8O9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="63i_rVREy8zfoeIwY8O9-15">
           <mxGeometry relative="1" as="geometry" />
@@ -100,6 +100,9 @@
               <mxPoint x="193" y="50" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="63i_rVREy8zfoeIwY8O9-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Criação de novas OS para CHIP NACIONAL" vertex="1">
+          <mxGeometry height="60" width="120" x="150" y="760" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
