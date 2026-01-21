@@ -88,6 +88,19 @@
         <mxCell id="63i_rVREy8zfoeIwY8O9-16" edge="1" parent="1" source="63i_rVREy8zfoeIwY8O9-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="63i_rVREy8zfoeIwY8O9-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="63i_rVREy8zfoeIwY8O9-18" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Vendedor" vertex="1">
+          <mxGeometry height="60" width="30" x="40" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="63i_rVREy8zfoeIwY8O9-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="JORNADA VENDA PROSPECT E BASE NETSALES" vertex="1">
+          <mxGeometry height="20" width="580" x="70" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="63i_rVREy8zfoeIwY8O9-20" edge="1" parent="1" source="63i_rVREy8zfoeIwY8O9-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.212;entryY=-0.12;entryDx=0;entryDy=0;entryPerimeter=0;" target="63i_rVREy8zfoeIwY8O9-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="193" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
