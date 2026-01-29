@@ -179,13 +179,13 @@
         <mxCell id="1vm8YKmj1XyBQrsRXRkn-18" edge="1" parent="1vm8YKmj1XyBQrsRXRkn-1" source="1vm8YKmj1XyBQrsRXRkn-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="1vm8YKmj1XyBQrsRXRkn-23" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1vm8YKmj1XyBQrsRXRkn-19" parent="1vm8YKmj1XyBQrsRXRkn-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Persiste que opção de Chip &lt;b&gt;NÃO &lt;/b&gt;seja &quot;%NACIONAL&quot;" vertex="1">
+        <mxCell id="1vm8YKmj1XyBQrsRXRkn-19" parent="1vm8YKmj1XyBQrsRXRkn-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Validação: CHIP deve ser &lt;b&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;diferente &lt;/font&gt;&lt;/b&gt;de&amp;nbsp;&lt;b&gt;&quot;%NACIONAL&quot;&lt;/b&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="750" y="310" as="geometry" />
         </mxCell>
         <mxCell id="1vm8YKmj1XyBQrsRXRkn-20" edge="1" parent="1vm8YKmj1XyBQrsRXRkn-1" source="1vm8YKmj1XyBQrsRXRkn-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="1vm8YKmj1XyBQrsRXRkn-24" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1vm8YKmj1XyBQrsRXRkn-21" parent="1vm8YKmj1XyBQrsRXRkn-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Persiste que opção de Chip seja &quot;%NACIONAL&quot;" vertex="1">
+        <mxCell id="1vm8YKmj1XyBQrsRXRkn-21" parent="1vm8YKmj1XyBQrsRXRkn-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Validação: CHIP deve ser&amp;nbsp;&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;igual&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;b&gt;&quot;%NACIONAL&quot;&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="750" y="500" as="geometry" />
         </mxCell>
         <mxCell id="1vm8YKmj1XyBQrsRXRkn-22" edge="1" parent="1vm8YKmj1XyBQrsRXRkn-1" source="1vm8YKmj1XyBQrsRXRkn-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="1vm8YKmj1XyBQrsRXRkn-25">
