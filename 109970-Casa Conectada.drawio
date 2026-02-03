@@ -19,6 +19,9 @@
         <mxCell id="PcHVCjj0aK_kYNVcMwA6-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="MS Adesão (Novo?)" vertex="1">
           <mxGeometry height="60" width="120" x="460" y="250" as="geometry" />
         </mxCell>
+        <mxCell id="PcHVCjj0aK_kYNVcMwA6-9" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="" vertex="1">
+          <mxGeometry height="80" width="280" x="300" y="400" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
