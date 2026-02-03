@@ -4,6 +4,25 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="E_8MntFId91r-qRQk1j2-6" edge="1" parent="1" source="E_8MntFId91r-qRQk1j2-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="E_8MntFId91r-qRQk1j2-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_8MntFId91r-qRQk1j2-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Ping (Claro)" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="E_8MntFId91r-qRQk1j2-5" edge="1" parent="1" source="E_8MntFId91r-qRQk1j2-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="E_8MntFId91r-qRQk1j2-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_8MntFId91r-qRQk1j2-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Vendedor Xbrain" vertex="1">
+          <mxGeometry height="60" width="30" x="70" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E_8MntFId91r-qRQk1j2-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="AD Xbrain" vertex="1">
+          <mxGeometry height="60" width="120" x="25" y="230" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
