@@ -1036,7 +1036,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="03-Fase 2" id="JD5R_Eqr6xfQqE1MAHHm">
-    <mxGraphModel dx="1547" dy="-506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1294" dy="-506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="FHQYU02jOSx6q0PiZId5-0" />
         <mxCell id="FHQYU02jOSx6q0PiZId5-1" parent="FHQYU02jOSx6q0PiZId5-0" />
@@ -1123,7 +1123,7 @@
         <mxCell id="FHQYU02jOSx6q0PiZId5-25" parent="FHQYU02jOSx6q0PiZId5-1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="AD CONEXÃO" vertex="1">
           <mxGeometry height="70" width="60" x="155" y="1500" as="geometry" />
         </mxCell>
-        <mxCell id="FHQYU02jOSx6q0PiZId5-26" edge="1" parent="FHQYU02jOSx6q0PiZId5-1" source="FHQYU02jOSx6q0PiZId5-57" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="FHQYU02jOSx6q0PiZId5-25" value="">
+        <mxCell id="FHQYU02jOSx6q0PiZId5-26" edge="1" parent="FHQYU02jOSx6q0PiZId5-1" source="FHQYU02jOSx6q0PiZId5-57" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF3333;" target="FHQYU02jOSx6q0PiZId5-25" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <Array as="points">
               <mxPoint x="185" y="1695" />
@@ -1294,13 +1294,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FHQYU02jOSx6q0PiZId5-64" edge="1" parent="FHQYU02jOSx6q0PiZId5-1" source="FHQYU02jOSx6q0PiZId5-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="FHQYU02jOSx6q0PiZId5-45">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FHQYU02jOSx6q0PiZId5-65" connectable="0" parent="FHQYU02jOSx6q0PiZId5-64" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" value="Perfil de Acesso" vertex="1">
-          <mxGeometry relative="1" x="-0.5339" y="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="Jo4L-i7WnEqINN2iVEuw-0" parent="FHQYU02jOSx6q0PiZId5-1" style="shape=mxgraph.mockup.markup.redX;fillColor=#ff0000;html=1;shadow=0;whiteSpace=wrap;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="60" width="70" x="225" y="1680" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
