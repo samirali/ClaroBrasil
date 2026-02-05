@@ -458,7 +458,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DOCrRsscrUUVbr_N1MPp-13" parent="tcRNNQxTm_AyjKCVfh9X-1" style="html=1;whiteSpace=wrap;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;sketch=0;shape=mxgraph.sitemap.document;fillColor=#bac8d3;strokeColor=#23445d;" value="Criação Usuário" vertex="1">
-          <mxGeometry height="70" width="70" x="1045" y="1805" as="geometry" />
+          <mxGeometry height="70" width="70" x="996" y="1805" as="geometry" />
         </mxCell>
         <mxCell id="DOCrRsscrUUVbr_N1MPp-16" edge="1" parent="tcRNNQxTm_AyjKCVfh9X-1" source="DOCrRsscrUUVbr_N1MPp-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="A-Ja2KVIvUfZwltD_5CM-34">
           <mxGeometry relative="1" as="geometry">
@@ -482,7 +482,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DOCrRsscrUUVbr_N1MPp-28" connectable="0" parent="DOCrRsscrUUVbr_N1MPp-27" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" value="Acesso OK/NOK&lt;div&gt;Perfil de acesso&lt;/div&gt;" vertex="1">
+        <mxCell id="DOCrRsscrUUVbr_N1MPp-28" connectable="0" parent="DOCrRsscrUUVbr_N1MPp-27" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;labelBackgroundColor=default;textShadow=1;" value="Acesso OK/NOK&lt;div&gt;Perfil de acesso&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.67" as="geometry">
             <mxPoint y="5" as="offset" />
           </mxGeometry>
