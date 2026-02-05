@@ -262,7 +262,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="V. Apresentação" id="wGZwTGHhqX2P-qHEWaBS">
-    <mxGraphModel dx="1652" dy="-467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1371" dy="-467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="tcRNNQxTm_AyjKCVfh9X-0" />
         <mxCell id="tcRNNQxTm_AyjKCVfh9X-1" parent="tcRNNQxTm_AyjKCVfh9X-0" />
@@ -526,13 +526,23 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="CEJkzjMRqO02WfLT3ymM-10" parent="tcRNNQxTm_AyjKCVfh9X-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Configuração Perfil Acesso CONEXÃO" vertex="1">
-          <mxGeometry height="60" width="120" x="473" y="1590" as="geometry" />
+          <mxGeometry height="60" width="120" x="490" y="1590" as="geometry" />
         </mxCell>
         <mxCell id="JuKj1xvyWfKYnih7oery-0" edge="1" parent="tcRNNQxTm_AyjKCVfh9X-1" source="CEJkzjMRqO02WfLT3ymM-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="A-Ja2KVIvUfZwltD_5CM-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="JuKj1xvyWfKYnih7oery-2" connectable="0" parent="JuKj1xvyWfKYnih7oery-0" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" value="Perfil de Acesso" vertex="1">
+          <mxGeometry relative="1" x="0.4345" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="JuKj1xvyWfKYnih7oery-1" edge="1" parent="tcRNNQxTm_AyjKCVfh9X-1" source="CEJkzjMRqO02WfLT3ymM-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="DOCrRsscrUUVbr_N1MPp-13">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JuKj1xvyWfKYnih7oery-3" connectable="0" parent="JuKj1xvyWfKYnih7oery-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" value="Perfil de Acesso" vertex="1">
+          <mxGeometry relative="1" x="-0.5339" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
