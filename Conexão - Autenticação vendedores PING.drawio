@@ -782,7 +782,7 @@
         <mxCell id="a083NrKk0K8JHTkUms0E-5" parent="a083NrKk0K8JHTkUms0E-4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
           <mxGeometry height="131" width="291.5" as="geometry" />
         </mxCell>
-        <mxCell id="a083NrKk0K8JHTkUms0E-6" parent="a083NrKk0K8JHTkUms0E-4" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="AD CONEXÃO" vertex="1">
+        <mxCell id="a083NrKk0K8JHTkUms0E-6" parent="a083NrKk0K8JHTkUms0E-4" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" value="AD CONEXÃO" vertex="1">
           <mxGeometry height="70" width="60" x="20.5" y="30.5" as="geometry" />
         </mxCell>
         <mxCell id="a083NrKk0K8JHTkUms0E-7" parent="a083NrKk0K8JHTkUms0E-4" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="AD NET" vertex="1">
@@ -1047,6 +1047,9 @@
           <mxGeometry relative="1" x="-0.5339" y="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="0Wkdqp8uQLQm5UtvJ1eX-0" parent="a083NrKk0K8JHTkUms0E-1" style="shape=mxgraph.mockup.markup.redX;fillColor=#ff0000;html=1;shadow=0;whiteSpace=wrap;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="60" width="70" x="150" y="1507" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
