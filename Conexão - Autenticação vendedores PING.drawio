@@ -262,14 +262,14 @@
     </mxGraphModel>
   </diagram>
   <diagram name="V. Apresentação" id="wGZwTGHhqX2P-qHEWaBS">
-    <mxGraphModel dx="1113" dy="-507" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1371" dy="-467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="tcRNNQxTm_AyjKCVfh9X-0" />
         <mxCell id="tcRNNQxTm_AyjKCVfh9X-1" parent="tcRNNQxTm_AyjKCVfh9X-0" />
-        <mxCell id="CEJkzjMRqO02WfLT3ymM-5" parent="tcRNNQxTm_AyjKCVfh9X-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" value="" vertex="1">
+        <mxCell id="CEJkzjMRqO02WfLT3ymM-5" parent="tcRNNQxTm_AyjKCVfh9X-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;fontSize=15;fontStyle=3;verticalAlign=top;" value="CLARO" vertex="1">
           <mxGeometry height="525.25" width="690" x="770" y="1224.75" as="geometry" />
         </mxCell>
-        <mxCell id="CEJkzjMRqO02WfLT3ymM-4" parent="tcRNNQxTm_AyjKCVfh9X-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="" vertex="1">
+        <mxCell id="CEJkzjMRqO02WfLT3ymM-4" parent="tcRNNQxTm_AyjKCVfh9X-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;verticalAlign=top;fontSize=16;fontStyle=3" value="XBRAIN" vertex="1">
           <mxGeometry height="525.25" width="690" x="60" y="1224.75" as="geometry" />
         </mxCell>
         <mxCell id="A-Ja2KVIvUfZwltD_5CM-35" connectable="0" parent="tcRNNQxTm_AyjKCVfh9X-1" style="group" value="" vertex="1">
@@ -532,13 +532,10 @@
     </mxGraphModel>
   </diagram>
   <diagram name="1-Atual" id="CT_d4uP3Im2be5gOzL8a">
-    <mxGraphModel dx="2006" dy="-316" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1664" dy="-316" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="o4T-TwAeuaFC9igUcLDr-0" />
         <mxCell id="o4T-TwAeuaFC9igUcLDr-1" parent="o4T-TwAeuaFC9igUcLDr-0" />
-        <mxCell id="o4T-TwAeuaFC9igUcLDr-3" parent="o4T-TwAeuaFC9igUcLDr-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" value="" vertex="1">
-          <mxGeometry height="525.25" width="690" x="60" y="1224.75" as="geometry" />
-        </mxCell>
         <mxCell id="o4T-TwAeuaFC9igUcLDr-2" parent="o4T-TwAeuaFC9igUcLDr-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;" value="" vertex="1">
           <mxGeometry height="525.25" width="690" x="770" y="1224.75" as="geometry" />
         </mxCell>
