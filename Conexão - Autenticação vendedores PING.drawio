@@ -1036,7 +1036,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="03-Fase 2" id="JD5R_Eqr6xfQqE1MAHHm">
-    <mxGraphModel dx="1294" dy="-506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1547" dy="-506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="FHQYU02jOSx6q0PiZId5-0" />
         <mxCell id="FHQYU02jOSx6q0PiZId5-1" parent="FHQYU02jOSx6q0PiZId5-0" />
@@ -1052,7 +1052,7 @@
         <mxCell id="FHQYU02jOSx6q0PiZId5-5" parent="FHQYU02jOSx6q0PiZId5-4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
           <mxGeometry height="131" width="291.5" as="geometry" />
         </mxCell>
-        <mxCell id="FHQYU02jOSx6q0PiZId5-6" parent="FHQYU02jOSx6q0PiZId5-4" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="AD CONEXÃO" vertex="1">
+        <mxCell id="FHQYU02jOSx6q0PiZId5-6" parent="FHQYU02jOSx6q0PiZId5-4" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" value="AD CONEXÃO" vertex="1">
           <mxGeometry height="70" width="60" x="20.5" y="30.5" as="geometry" />
         </mxCell>
         <mxCell id="FHQYU02jOSx6q0PiZId5-7" parent="FHQYU02jOSx6q0PiZId5-4" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="AD NET" vertex="1">
@@ -1135,22 +1135,6 @@
         <mxCell id="FHQYU02jOSx6q0PiZId5-27" connectable="0" parent="FHQYU02jOSx6q0PiZId5-26" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" value="Cadastro" vertex="1">
           <mxGeometry relative="1" x="-0.0349" y="-1" as="geometry">
             <mxPoint x="55" y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FHQYU02jOSx6q0PiZId5-28" edge="1" parent="FHQYU02jOSx6q0PiZId5-1" source="FHQYU02jOSx6q0PiZId5-22" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF3333;" target="FHQYU02jOSx6q0PiZId5-25" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Autentica vendedor&lt;/font&gt;">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="400" y="1440" />
-              <mxPoint x="110" y="1440" />
-              <mxPoint x="110" y="1535" />
-            </Array>
-            <mxPoint x="430" y="1510" as="sourcePoint" />
-            <mxPoint x="480" y="1460" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="FHQYU02jOSx6q0PiZId5-29" connectable="0" parent="FHQYU02jOSx6q0PiZId5-28" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1" vertex="1">
-          <mxGeometry relative="1" x="-0.9087" y="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FHQYU02jOSx6q0PiZId5-30" edge="1" parent="FHQYU02jOSx6q0PiZId5-1" source="FHQYU02jOSx6q0PiZId5-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="FHQYU02jOSx6q0PiZId5-34">
@@ -1317,9 +1301,6 @@
           <mxGeometry relative="1" x="-0.5339" y="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="DFvdrNuN0i963T971B5E-0" parent="FHQYU02jOSx6q0PiZId5-1" style="shape=mxgraph.mockup.markup.redX;fillColor=#ff0000;html=1;shadow=0;whiteSpace=wrap;strokeColor=none;" value="" vertex="1">
-          <mxGeometry height="60" width="70" x="200" y="1400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
