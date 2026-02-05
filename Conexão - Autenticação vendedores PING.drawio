@@ -548,24 +548,21 @@
     </mxGraphModel>
   </diagram>
   <diagram name="01-Atual" id="-Lr4EAAGZWuOnBukP78R">
-    <mxGraphModel dx="1165" dy="-572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1560" dy="-506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="CkaLO_6xdBcNSjxwqe-p-0" />
         <mxCell id="CkaLO_6xdBcNSjxwqe-p-1" parent="CkaLO_6xdBcNSjxwqe-p-0" />
-        <mxCell id="CkaLO_6xdBcNSjxwqe-p-2" parent="CkaLO_6xdBcNSjxwqe-p-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;fontSize=15;fontStyle=3;verticalAlign=top;" value="CLARO" vertex="1">
-          <mxGeometry height="525.25" width="690" x="770" y="1224.75" as="geometry" />
-        </mxCell>
         <mxCell id="CkaLO_6xdBcNSjxwqe-p-3" parent="CkaLO_6xdBcNSjxwqe-p-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;verticalAlign=top;fontSize=16;fontStyle=3" value="XBRAIN" vertex="1">
           <mxGeometry height="525.25" width="690" x="60" y="1224.75" as="geometry" />
+        </mxCell>
+        <mxCell id="CkaLO_6xdBcNSjxwqe-p-2" parent="CkaLO_6xdBcNSjxwqe-p-1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;gradientColor=#ea6b66;strokeColor=#b85450;fontSize=15;fontStyle=3;verticalAlign=top;" value="CLARO" vertex="1">
+          <mxGeometry height="525.25" width="690" x="770" y="1224.75" as="geometry" />
         </mxCell>
         <mxCell id="CkaLO_6xdBcNSjxwqe-p-4" connectable="0" parent="CkaLO_6xdBcNSjxwqe-p-1" style="group" value="" vertex="1">
           <mxGeometry height="131" width="310" x="1150" y="1480" as="geometry" />
         </mxCell>
         <mxCell id="CkaLO_6xdBcNSjxwqe-p-5" parent="CkaLO_6xdBcNSjxwqe-p-4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" value="" vertex="1">
           <mxGeometry height="131" width="291.5" as="geometry" />
-        </mxCell>
-        <mxCell id="CkaLO_6xdBcNSjxwqe-p-6" parent="CkaLO_6xdBcNSjxwqe-p-4" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="AD CONEXÃO" vertex="1">
-          <mxGeometry height="70" width="60" x="20.5" y="30.5" as="geometry" />
         </mxCell>
         <mxCell id="CkaLO_6xdBcNSjxwqe-p-7" parent="CkaLO_6xdBcNSjxwqe-p-4" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="AD NET" vertex="1">
           <mxGeometry height="70" width="60" x="87.5" y="30.5" as="geometry" />
@@ -608,14 +605,6 @@
         <mxCell id="CkaLO_6xdBcNSjxwqe-p-19" connectable="0" parent="CkaLO_6xdBcNSjxwqe-p-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="2" vertex="1">
           <mxGeometry relative="1" x="-0.8056" y="-1" as="geometry">
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CkaLO_6xdBcNSjxwqe-p-20" edge="1" parent="CkaLO_6xdBcNSjxwqe-p-1" source="CkaLO_6xdBcNSjxwqe-p-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="CkaLO_6xdBcNSjxwqe-p-52">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CkaLO_6xdBcNSjxwqe-p-21" connectable="0" parent="CkaLO_6xdBcNSjxwqe-p-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" value="Verifica se Vendedor tem acesso" vertex="1">
-          <mxGeometry relative="1" x="-0.7157" as="geometry">
-            <mxPoint x="30" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="CkaLO_6xdBcNSjxwqe-p-22" parent="CkaLO_6xdBcNSjxwqe-p-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Sistema Conexão" vertex="1">
@@ -686,9 +675,6 @@
         <mxCell id="CkaLO_6xdBcNSjxwqe-p-34" parent="CkaLO_6xdBcNSjxwqe-p-1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Phosphor_Regular_Vol_4-2948/robot-1474.svg;fontSize=14;" value="&lt;span&gt;1 vendedor&lt;/span&gt;" vertex="1">
           <mxGeometry height="56" width="56" x="610" y="1507" as="geometry" />
         </mxCell>
-        <mxCell id="CkaLO_6xdBcNSjxwqe-p-35" edge="1" parent="CkaLO_6xdBcNSjxwqe-p-1" source="CkaLO_6xdBcNSjxwqe-p-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CkaLO_6xdBcNSjxwqe-p-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="CkaLO_6xdBcNSjxwqe-p-36" parent="CkaLO_6xdBcNSjxwqe-p-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Sistema NETSales" vertex="1">
           <mxGeometry height="60" width="120" x="1090" y="1350" as="geometry" />
         </mxCell>
@@ -751,47 +737,6 @@
         <mxCell id="CkaLO_6xdBcNSjxwqe-p-48" parent="CkaLO_6xdBcNSjxwqe-p-1" style="rounded=1;whiteSpace=wrap;html=1;" value="BKO (Gestão de Acessos)" vertex="1">
           <mxGeometry height="60" width="120" x="1235.75" y="1670" as="geometry" />
         </mxCell>
-        <mxCell id="CkaLO_6xdBcNSjxwqe-p-49" edge="1" parent="CkaLO_6xdBcNSjxwqe-p-1" source="CkaLO_6xdBcNSjxwqe-p-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="CkaLO_6xdBcNSjxwqe-p-22">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1020" y="1315" />
-              <mxPoint x="1020" y="1315" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CkaLO_6xdBcNSjxwqe-p-50" connectable="0" parent="CkaLO_6xdBcNSjxwqe-p-49" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;labelBackgroundColor=default;textShadow=1;" value="Acesso OK/NOK&lt;div&gt;Perfil de acesso&lt;/div&gt;" vertex="1">
-          <mxGeometry relative="1" x="-0.67" as="geometry">
-            <mxPoint y="5" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CkaLO_6xdBcNSjxwqe-p-51" connectable="0" parent="CkaLO_6xdBcNSjxwqe-p-49" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" value="2" vertex="1">
-          <mxGeometry relative="1" x="-0.9236" as="geometry">
-            <mxPoint x="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CkaLO_6xdBcNSjxwqe-p-52" parent="CkaLO_6xdBcNSjxwqe-p-1" style="rounded=1;whiteSpace=wrap;html=1;" value="PING" vertex="1">
-          <mxGeometry height="60" width="120" x="1090" y="1270" as="geometry" />
-        </mxCell>
-        <mxCell id="CkaLO_6xdBcNSjxwqe-p-53" edge="1" parent="CkaLO_6xdBcNSjxwqe-p-1" source="CkaLO_6xdBcNSjxwqe-p-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.654;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;" target="CkaLO_6xdBcNSjxwqe-p-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1341" y="1300" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CkaLO_6xdBcNSjxwqe-p-54" connectable="0" parent="CkaLO_6xdBcNSjxwqe-p-53" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" value="1" vertex="1">
-          <mxGeometry relative="1" x="-0.4943" y="-2" as="geometry">
-            <mxPoint x="-58" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CkaLO_6xdBcNSjxwqe-p-55" connectable="0" parent="CkaLO_6xdBcNSjxwqe-p-53" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" value="Autentica&amp;nbsp;&lt;div&gt;vendedor&amp;nbsp;&lt;/div&gt;&lt;div&gt;Conexão&lt;/div&gt;" vertex="1">
-          <mxGeometry relative="1" x="0.3422" as="geometry">
-            <mxPoint y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CkaLO_6xdBcNSjxwqe-p-56" edge="1" parent="CkaLO_6xdBcNSjxwqe-p-1" source="CkaLO_6xdBcNSjxwqe-p-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="CkaLO_6xdBcNSjxwqe-p-45">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="CkaLO_6xdBcNSjxwqe-p-57" parent="CkaLO_6xdBcNSjxwqe-p-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Processo Cadastro Usuários CONEXÃO" vertex="1">
           <mxGeometry height="60" width="120" x="340" y="1665" as="geometry" />
         </mxCell>
@@ -806,11 +751,6 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CkaLO_6xdBcNSjxwqe-p-60" connectable="0" parent="CkaLO_6xdBcNSjxwqe-p-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" value="Cadastro" vertex="1">
-          <mxGeometry x="350" y="1730" as="geometry">
-            <mxPoint x="172" y="-40" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="CkaLO_6xdBcNSjxwqe-p-61" parent="CkaLO_6xdBcNSjxwqe-p-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Configuração Perfil Acesso CONEXÃO" vertex="1">
           <mxGeometry height="60" width="120" x="490" y="1590" as="geometry" />
         </mxCell>
@@ -819,14 +759,6 @@
         </mxCell>
         <mxCell id="CkaLO_6xdBcNSjxwqe-p-63" connectable="0" parent="CkaLO_6xdBcNSjxwqe-p-62" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" value="Perfil de Acesso" vertex="1">
           <mxGeometry relative="1" x="0.4345" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CkaLO_6xdBcNSjxwqe-p-64" edge="1" parent="CkaLO_6xdBcNSjxwqe-p-1" source="CkaLO_6xdBcNSjxwqe-p-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="CkaLO_6xdBcNSjxwqe-p-45">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CkaLO_6xdBcNSjxwqe-p-65" connectable="0" parent="CkaLO_6xdBcNSjxwqe-p-64" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" value="Perfil de Acesso" vertex="1">
-          <mxGeometry relative="1" x="-0.5339" y="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
