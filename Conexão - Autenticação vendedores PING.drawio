@@ -439,7 +439,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DOCrRsscrUUVbr_N1MPp-7" connectable="0" parent="DOCrRsscrUUVbr_N1MPp-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" value="Cria/&lt;div&gt;Altera/&lt;/div&gt;&lt;div&gt;Cancela Contrato&lt;/div&gt;" vertex="1">
+        <mxCell id="DOCrRsscrUUVbr_N1MPp-7" connectable="0" parent="DOCrRsscrUUVbr_N1MPp-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" value="Cria/&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Altera/&lt;/span&gt;&lt;div&gt;Cancela Contrato&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" x="-0.1836" y="1" as="geometry">
             <mxPoint x="-53" y="49" as="offset" />
           </mxGeometry>
