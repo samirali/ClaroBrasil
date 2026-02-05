@@ -766,7 +766,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="02-Fase 1" id="IPE6DG5vSiBe2beVyET1">
-    <mxGraphModel dx="1165" dy="-572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1560" dy="-506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="a083NrKk0K8JHTkUms0E-0" />
         <mxCell id="a083NrKk0K8JHTkUms0E-1" parent="a083NrKk0K8JHTkUms0E-0" />
@@ -904,9 +904,6 @@
         <mxCell id="a083NrKk0K8JHTkUms0E-34" parent="a083NrKk0K8JHTkUms0E-1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Phosphor_Regular_Vol_4-2948/robot-1474.svg;fontSize=14;" value="&lt;span&gt;1 vendedor&lt;/span&gt;" vertex="1">
           <mxGeometry height="56" width="56" x="610" y="1507" as="geometry" />
         </mxCell>
-        <mxCell id="a083NrKk0K8JHTkUms0E-35" edge="1" parent="a083NrKk0K8JHTkUms0E-1" source="a083NrKk0K8JHTkUms0E-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="a083NrKk0K8JHTkUms0E-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="a083NrKk0K8JHTkUms0E-36" parent="a083NrKk0K8JHTkUms0E-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Sistema NETSales" vertex="1">
           <mxGeometry height="60" width="120" x="1090" y="1350" as="geometry" />
         </mxCell>
@@ -1007,9 +1004,6 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a083NrKk0K8JHTkUms0E-56" edge="1" parent="a083NrKk0K8JHTkUms0E-1" source="a083NrKk0K8JHTkUms0E-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="a083NrKk0K8JHTkUms0E-45">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="a083NrKk0K8JHTkUms0E-57" parent="a083NrKk0K8JHTkUms0E-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Processo Cadastro Usuários CONEXÃO" vertex="1">
           <mxGeometry height="60" width="120" x="340" y="1665" as="geometry" />
         </mxCell>
@@ -1024,11 +1018,6 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a083NrKk0K8JHTkUms0E-60" connectable="0" parent="a083NrKk0K8JHTkUms0E-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" value="Cadastro" vertex="1">
-          <mxGeometry x="350" y="1730" as="geometry">
-            <mxPoint x="172" y="-40" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="a083NrKk0K8JHTkUms0E-61" parent="a083NrKk0K8JHTkUms0E-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Configuração Perfil Acesso CONEXÃO" vertex="1">
           <mxGeometry height="60" width="120" x="490" y="1590" as="geometry" />
         </mxCell>
@@ -1037,14 +1026,6 @@
         </mxCell>
         <mxCell id="a083NrKk0K8JHTkUms0E-63" connectable="0" parent="a083NrKk0K8JHTkUms0E-62" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" value="Perfil de Acesso" vertex="1">
           <mxGeometry relative="1" x="0.4345" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="a083NrKk0K8JHTkUms0E-64" edge="1" parent="a083NrKk0K8JHTkUms0E-1" source="a083NrKk0K8JHTkUms0E-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="a083NrKk0K8JHTkUms0E-45">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="a083NrKk0K8JHTkUms0E-65" connectable="0" parent="a083NrKk0K8JHTkUms0E-64" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" value="Perfil de Acesso" vertex="1">
-          <mxGeometry relative="1" x="-0.5339" y="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
