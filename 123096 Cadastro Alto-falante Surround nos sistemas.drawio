@@ -561,17 +561,31 @@
         <mxCell id="3dgCZiXpVcl4UWPMbzVR-2" edge="1" parent="bkHJGGhscHbWF49l23e3-1" source="3dgCZiXpVcl4UWPMbzVR-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3dgCZiXpVcl4UWPMbzVR-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="3dgCZiXpVcl4UWPMbzVR-5" connectable="0" parent="3dgCZiXpVcl4UWPMbzVR-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Venda Kit&amp;nbsp;&lt;div&gt;Surround Box&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="0.087" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="3dgCZiXpVcl4UWPMbzVR-0" parent="bkHJGGhscHbWF49l23e3-1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Vendedor" vertex="1">
           <mxGeometry height="60" width="30" x="60" y="40" as="geometry" />
         </mxCell>
         <mxCell id="3dgCZiXpVcl4UWPMbzVR-1" parent="bkHJGGhscHbWF49l23e3-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Sistema de Vendas" vertex="1">
-          <mxGeometry height="60" width="120" x="170" y="40" as="geometry" />
+          <mxGeometry height="60" width="120" x="310" y="40" as="geometry" />
         </mxCell>
         <mxCell id="3dgCZiXpVcl4UWPMbzVR-3" parent="bkHJGGhscHbWF49l23e3-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Abertura de OS Instalação" vertex="1">
-          <mxGeometry height="60" width="120" x="330" y="40" as="geometry" />
+          <mxGeometry height="60" width="120" x="470" y="40" as="geometry" />
         </mxCell>
         <mxCell id="3dgCZiXpVcl4UWPMbzVR-4" parent="bkHJGGhscHbWF49l23e3-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Abertura de OS Mudança Pacote" vertex="1">
-          <mxGeometry height="60" width="120" x="330" y="120" as="geometry" />
+          <mxGeometry height="60" width="120" x="470" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3dgCZiXpVcl4UWPMbzVR-6" parent="bkHJGGhscHbWF49l23e3-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Config. movimentação (técnico)" vertex="1">
+          <mxGeometry height="60" width="120" x="650" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="3dgCZiXpVcl4UWPMbzVR-8" edge="1" parent="bkHJGGhscHbWF49l23e3-1" source="3dgCZiXpVcl4UWPMbzVR-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3dgCZiXpVcl4UWPMbzVR-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3dgCZiXpVcl4UWPMbzVR-7" parent="bkHJGGhscHbWF49l23e3-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Criação movimentação Produto novo e cadastro na OS" vertex="1">
+          <mxGeometry height="60" width="120" x="650" y="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
