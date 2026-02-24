@@ -554,10 +554,25 @@
     </mxGraphModel>
   </diagram>
   <diagram name="v4" id="JgsS8PCK_Zm6uJXSvf3V">
-    <mxGraphModel dx="2155" dy="1024" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1030" dy="490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="bkHJGGhscHbWF49l23e3-0" />
         <mxCell id="bkHJGGhscHbWF49l23e3-1" parent="bkHJGGhscHbWF49l23e3-0" />
+        <mxCell id="3dgCZiXpVcl4UWPMbzVR-2" edge="1" parent="bkHJGGhscHbWF49l23e3-1" source="3dgCZiXpVcl4UWPMbzVR-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="3dgCZiXpVcl4UWPMbzVR-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3dgCZiXpVcl4UWPMbzVR-0" parent="bkHJGGhscHbWF49l23e3-1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Vendedor" vertex="1">
+          <mxGeometry height="60" width="30" x="60" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3dgCZiXpVcl4UWPMbzVR-1" parent="bkHJGGhscHbWF49l23e3-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Sistema de Vendas" vertex="1">
+          <mxGeometry height="60" width="120" x="170" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3dgCZiXpVcl4UWPMbzVR-3" parent="bkHJGGhscHbWF49l23e3-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Abertura de OS Instalação" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3dgCZiXpVcl4UWPMbzVR-4" parent="bkHJGGhscHbWF49l23e3-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Abertura de OS Mudança Pacote" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
