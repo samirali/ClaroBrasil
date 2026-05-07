@@ -128,7 +128,7 @@
             <mxPoint x="260" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LPHJGLlrjj5TZKDy9_el-3" parent="LPHJGLlrjj5TZKDy9_el-1" style="rounded=1;whiteSpace=wrap;html=1;" value="Venda Prospect" vertex="1">
+        <mxCell id="LPHJGLlrjj5TZKDy9_el-3" parent="LPHJGLlrjj5TZKDy9_el-1" style="rounded=1;whiteSpace=wrap;html=1;" value="NETSales Venda Prospect" vertex="1">
           <mxGeometry height="60" width="120" x="60" y="220" as="geometry" />
         </mxCell>
         <mxCell id="LPHJGLlrjj5TZKDy9_el-4" edge="1" parent="LPHJGLlrjj5TZKDy9_el-1" source="LPHJGLlrjj5TZKDy9_el-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="LPHJGLlrjj5TZKDy9_el-13" value="">
